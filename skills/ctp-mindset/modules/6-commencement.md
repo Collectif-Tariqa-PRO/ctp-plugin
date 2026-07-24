@@ -87,7 +87,12 @@ bout de Mon projet**, et elle se joue elle aussi sur des actes. Attention :
 - **cinq à dix appels exploratoires** avec ta cible, sur deux semaines maximum —
   des discussions où tu ne cherches pas à vendre, mais à comprendre : son besoin,
   ses blocages, ses mots, ce qui a déjà été tenté et pourquoi ça n'a pas marché.
-  On ne s'enferme pas là-dedans, on avance ;
+  On ne s'enferme pas là-dedans, on avance. **Enregistre-les tous, systématiquement**
+  (demande la permission au début — « ça t'ennuie si j'enregistre, c'est pour ne rien
+  perdre de ce que tu me dis ? », ça passe très bien). Le plus simple : **Fathom**,
+  gratuit, qui transcrit tout seul. Ces enregistrements sont de l'or : au pilier Vente,
+  on y reprendra les **mots exacts** de ta cible et ses douleurs pour ton offre et ton
+  contenu. Ne te fie pas à ta mémoire — garde la donnée ;
 - un **pitch prêt** — construit, mais pas encore pour vendre ;
 - un premier contenu commencé ;
 - validé en call.
