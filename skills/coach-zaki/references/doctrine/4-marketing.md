@@ -315,3 +315,32 @@ n'a pas de source solide, l'idée se tient sans.
 je mette une date limite » · « les autres font des lancements, moi non »
 
 <!-- source : corpus externe réapproprié + doctrine CTP — NE JAMAIS CITER AU MEMBRE. Proportions non sourcées : ne jamais chiffrer. -->
+
+---
+
+### Les vues montrent la traction, pas la qualité
+
+**Principe.** Regarder ses vues n'a rien de honteux : elles disent qu'un contenu a circulé, et c'est
+une information. Mais elles ne disent pas s'il a touché **les bonnes personnes**, ni s'il a fait
+avancer qui que ce soit. Les signaux qui le disent sont ailleurs, et ils se mesurent tout aussi
+bien : **les clics sur ton lien · les enregistrements · les partages · les commentaires**, et la
+part de gens touchés qui ne te suivaient pas encore. Quelqu'un qui enregistre compte revenir.
+Quelqu'un qui partage met sa propre réputation derrière toi.
+
+**Pourquoi.** Le membre bascule dans un extrême ou dans l'autre. Soit il pilote au compteur de vues
+et produit ce qui plaît au plus grand nombre — donc à personne en particulier. Soit, à force
+d'entendre que les vues ne valent rien, il cesse de regarder ses chiffres et pilote à l'aveugle.
+Les deux se corrigent avec la même phrase : **les vues ouvrent la question, elles ne la ferment pas.**
+
+**En voix CTP.** « Belle vue, très bien. Et derrière, il s'est passé quoi ? Combien ont cliqué,
+combien l'ont enregistré, combien l'ont envoyé à quelqu'un ? C'est là qu'on voit si t'as parlé aux
+bonnes personnes. »
+
+**Garde-fou.** Une à deux mesures par étage, pas davantage. Comprendre sa donnée, ce n'est pas
+devenir analyste, c'est devenir stratège. Et on ne conclut jamais sur trois publications : il faut
+plusieurs semaines pour lire une tendance.
+
+**Signaux.** « ça a fait beaucoup de vues » · « mes vues baissent » · « je regarde plus mes
+statistiques » · « je sais pas si ça marche »
+
+<!-- source : cours Zaki §métriques + correction Zaki 2026-08-20 — NE JAMAIS CITER AU MEMBRE -->
