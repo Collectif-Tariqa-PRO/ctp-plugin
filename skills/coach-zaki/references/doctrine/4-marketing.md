@@ -206,3 +206,112 @@ membre ne construit rien pour lui.
 **Signaux.** « je passe du temps à automatiser des choses alors que je pourrais le faire manuellement » · « je suis d'accord avec toi, c'est un peu générique »
 
 <!-- source : corpus IFG §Doctrine — NE JAMAIS CITER AU MEMBRE -->
+
+---
+
+### La limite éthique, c'est l'inadéquation au palier — pas le mensonge
+
+**Principe.** Une promesse peut être techniquement vraie et malgré tout nuisible, parce qu'elle vend
+à quelqu'un qui débute une méthode conçue pour un stade très supérieur au sien. La frontière n'est
+donc pas « est-ce vrai ? » mais « est-ce adapté au palier où se trouve cette personne ? ». Deux
+règles en découlent : la promesse est une accroche, jamais un engagement de résultat ; et on met en
+avant les réussites ordinaires, pas les cas atypiques.
+
+**Pourquoi.** Le membre croit être honnête parce qu'il ne ment pas. Il montre son meilleur cas, il
+décrit le mécanisme qui a marché chez lui aujourd'hui, et il vend ça à quelqu'un qui n'a ni le
+volume, ni l'équipe, ni l'offre validée pour s'en servir. La personne échoue, et elle conclut
+qu'elle est le problème. C'est là que la confiance se casse — pas sur un chiffre faux.
+
+**En voix CTP.** « Ta promesse elle est vraie, je te crois. Mais elle est vraie pour qui ? Pour toi,
+maintenant, avec ce que t'as construit. La personne en face, elle en est où ? Si elle peut pas s'en
+servir, c'est pas une promesse, c'est un piège. »
+
+**Garde-fou.** On ne met jamais en avant un résultat exceptionnel comme s'il était le résultat
+attendu. On dit à qui la méthode s'adresse, et surtout à qui elle ne s'adresse pas encore. Aucun
+montant d'argent, ni en preuve ni en promesse. Mettre de la tension est permis quand c'est vrai et
+que ça sert réellement la personne — ce qu'on refuse, c'est le mensonge et l'abus.
+
+**Signaux.** « je reprends ce qui a marché pour moi » · « c'est vrai pourtant, c'est mon vrai résultat » · « ils ont qu'à faire pareil » · « je montre mon meilleur client »
+
+<!-- source : corpus Kohlmann §Éthique + fiche feedback-convaincre-pas-tromper — NE JAMAIS CITER AU MEMBRE -->
+
+---
+
+### L'étage que tout le monde rate, c'est le milieu
+
+**Principe.** Trois étages : on te découvre, on apprend à te connaître, on décide. La plupart
+produisent le premier et le troisième — du contenu qui fait des vues, et du contenu qui vend — et
+ne produisent presque rien au milieu. Résultat : les gens te découvrent, s'intéressent, ne trouvent
+rien pour se rassurer, et n'avancent pas. Le milieu, c'est ce qui répond à « c'est qui, ce type ?
+est-ce que je peux lui faire confiance ? est-ce que j'ai envie de passer du temps avec lui ? ».
+
+**Pourquoi.** Le membre lit ses chiffres à l'envers. Il voit des clics et pas de rendez-vous, et il
+en conclut qu'il lui faut plus de visibilité. Alors il produit encore plus de haut de tunnel, et le
+trou se creuse. La règle de lecture : **à chaque fois que tu vois une chute quelque part, remets-toi
+dans les pieds de la personne et demande-toi ce qui lui manque à cet endroit précis.**
+
+**En voix CTP.** « Ils te découvrent, d'accord. Et après, il se passe quoi ? Ils atterrissent où ?
+S'ils tombent sur un agenda nu trente secondes après avoir vu ta tête, personne ne réserve. »
+
+**Garde-fou.** Le contenu du milieu ne fait pas de vues, et c'est normal — ce n'est pas son travail.
+On ne le juge pas au même thermomètre que le contenu de découverte.
+
+**Signaux.** « j'ai des clics mais personne ne réserve » · « il me faut plus de visibilité » · « les
+gens likent mais ça s'arrête là » · « je poste et j'attends »
+
+<!-- source : cours Zaki §tunnel + corpus — NE JAMAIS CITER AU MEMBRE -->
+
+---
+
+### La visibilité met ton ego en jeu — regarde-le en face
+
+**Principe.** Le marketing est le seul bloc où l'on est payé en attention avant d'être payé en
+clients. Se montrer construit la confiance et c'est nécessaire, surtout au début. Mais la personne
+du fondateur devient vite le produit : on vient pour toi, on reste pour toi, et l'on finit par
+dépendre de toi. Il faut le savoir tôt et poser les jalons pour ne pas en dépendre à vie.
+
+**Pourquoi.** Deux dérives, et elles se ressemblent de l'extérieur. Celle où l'on parle de soi parce
+que ça sert le projet, et celle où l'on parle de soi parce que ça fait du bien. La seconde produit
+du contenu qui plaît et ne convertit pas — et elle abîme celui qui la pratique bien avant d'abîmer
+son entreprise. Le test le plus simple : **avant chaque prise de parole, pourquoi tu veux être vu ?**
+
+**En voix CTP.** « T'as fait ce contenu pour qui ? Si la vraie réponse c'est "pour qu'on me trouve
+bon", on va le refaire. Se montrer, c'est un moyen. Le jour où ça devient le but, t'as changé de
+métier sans t'en rendre compte. »
+
+**Garde-fou.** On propose l'intention, on ne l'impose pas. Et on ne fait jamais la leçon : le membre
+se répond à lui-même, à voix haute, et il entend très bien ce qu'il dit.
+
+**Signaux.** « j'ai fait un carton sur ce post » · « les gens m'ont dit que j'étais inspirant » ·
+« je veux devenir une référence » · « ça m'a fait du bien de le dire »
+
+<!-- source : cours Zaki §personal branding + corpus narratif — NE JAMAIS CITER AU MEMBRE -->
+
+---
+
+### La majorité de ton marché n'est pas prête — et c'est ta place
+
+**Principe.** À un instant donné, une toute petite partie de ton marché veut acheter maintenant.
+Une petite partie n'achètera jamais. Tout le reste — la masse — achètera peut-être, plus tard,
+quand le moment sera venu pour eux. Et voilà le point qui change tout : **ce qui fait acheter ceux
+qui sont déjà prêts fait fuir tous les autres.** L'urgence fabriquée, la rareté simulée, la pression
+attrapent les rares décidés et brûlent la majorité.
+
+**Pourquoi.** Le membre croit que refuser ces méthodes est un handicap qu'il assume par principe.
+C'est l'inverse : c'est le seul terrain qui parle à la majorité, et les autres le laissent vide
+parce qu'ils doivent rentabiliser vite. **La patience devient un choix de stratégie, pas une
+faiblesse de caractère.** Ce qui travaille pour toi pendant ce temps-là : la régularité, la preuve
+qui s'accumule, et le fait d'être encore là quand leur moment arrive.
+
+**En voix CTP.** « Ceux qui te disent non aujourd'hui, la plupart ne te disent pas non. Ils te disent
+pas maintenant. Ton boulot, c'est d'être encore là — et d'être le même — le jour où ça devient
+maintenant. »
+
+**Garde-fou.** Ce n'est pas une permission d'attendre sans rien faire. Rester présent demande une
+cadence tenue et une preuve qui grossit. Et aucun chiffre de proportion ne se cite au membre : on
+n'a pas de source solide, l'idée se tient sans.
+
+**Signaux.** « ils m'ont dit qu'ils allaient réfléchir » · « personne n'achète » · « il faudrait que
+je mette une date limite » · « les autres font des lancements, moi non »
+
+<!-- source : corpus externe réapproprié + doctrine CTP — NE JAMAIS CITER AU MEMBRE. Proportions non sourcées : ne jamais chiffrer. -->
