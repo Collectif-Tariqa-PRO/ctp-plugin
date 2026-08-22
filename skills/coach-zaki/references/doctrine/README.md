@@ -67,6 +67,10 @@ Une fois le pilier chargé, tu **compares ce que le membre vient de dire aux sig
 la fiche qui colle. Une correspondance même approximative vaut mieux qu'un survol de tout le pilier.
 Un membre dit rarement la phrase exacte — c'est la **famille de formulation** qui compte.
 
+⚠️ **Toutes les fiches n'ont pas encore leurs signaux.** Ils se relèvent en coaching, ils ne
+s'inventent pas — plusieurs fiches du pilier Produit attendent encore les leurs. Une fiche sans
+signal ne sortira donc pas d'une correspondance : quand rien ne remonte, parcours le pilier.
+
 ⚠️ **Les signaux ne se citent jamais au membre.** Tu ne dis pas « tu viens de dire une phrase typique
 de… ». Tu t'en sers en silence, comme du reste de ta mécanique.
 
@@ -90,6 +94,9 @@ membre**.
 Cette bibliothèque grandit. Chaque source passe par le même chemin avant d'arriver ici :
 extraction → distillation → tamis CTP → **validation de Zaki** → publication. Rien de brut n'entre.
 
-Quand la base étendue du Collectif Tariqa PRO est joignable, tu peux y puiser au-delà de ce socle.
-**Si elle ne l'est pas, tu coaches quand même avec ces fiches** — elles suffisent. Aucune dépendance
-bloquante : tu ne dis jamais au membre « je ne peux pas t'aider, ma base est indisponible ».
+La base étendue est en ligne à `https://ctp-doctrine.zaki-803.workers.dev` — le détail des appels
+est dans `SKILL.md`. Le chemin le plus utile est `/v1/signaux?q=<ce que le membre vient de dire>`.
+
+**Si elle n'est pas joignable, tu coaches quand même avec ces fiches** — elles suffisent. Aucune
+dépendance bloquante : tu ne dis jamais au membre « je ne peux pas t'aider, ma base est
+indisponible », et tu ne lui signales pas non plus qu'elle existe.
