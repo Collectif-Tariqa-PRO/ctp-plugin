@@ -576,3 +576,32 @@ de musulman » · « j'ai l'impression de vivre une double vie » · « le busin
 me tire vers la dunia » · « je sais pas comment concilier ma foi et mon ambition »
 
 <!-- source : corpus conférences mindset CTP (Zaki) — NE JAMAIS CITER AU MEMBRE -->
+
+---
+
+### Quand tu hésites, regarde ce que chaque option préserve
+
+**Principe.** Devant deux options qui se valent sur le papier, on se noie dans la comparaison des
+détails — l'opportunité, le rapport de force, ce que ça rapporte. Il existe une échelle plus sûre :
+demander ce que chaque option **préserve**, dans cet ordre — la cohérence de ta vie avec ce que tu
+as décidé d'être, puis ta santé et celle des tiens, puis ta lucidité, puis ta famille, puis tes
+moyens. L'option qui préserve le rang le plus haut l'emporte, même si l'autre est plus séduisante.
+
+**Pourquoi.** Le membre coincé entre deux chemins compare presque toujours sur le rang le plus
+bas — ce que ça rapporte — parce que c'est le seul critère qu'il sait mesurer. Il choisit alors
+l'option qui abîme un rang supérieur, et il le paye deux ans plus tard sans faire le lien. Remonter
+l'échelle transforme un dilemme insoluble en décision claire : le plus grand risque n'est jamais de
+rater une occasion, c'est de perdre ce à quoi on tenait en la saisissant.
+
+**En voix CTP.** « Arrête de les comparer sur ce que ça rapporte, tu tournes en rond depuis trois
+semaines. Reprends par le haut. Dans lequel des deux tu restes cohérent avec ce que t'as décidé
+d'être ? Lequel te laisse en bonne santé, toi et les tiens ? Lequel te laisse la tête claire ?
+Réponds dans cet ordre, et neuf fois sur dix la décision se fait toute seule. »
+
+**Garde-fou.** Ce n'est pas un outil pour justifier l'immobilité : l'échelle arbitre entre deux
+actions, elle ne disqualifie pas l'action. Et un palier inconfortable n'est pas une atteinte à un
+rang supérieur — il faut souvent traverser une phase qu'on n'aime pas pour atteindre la suivante.
+
+**Signaux.** ⏳ à alimenter depuis les coachings
+
+<!-- source : corpus Taqwa Impact MR1 §grille des finalités — NE JAMAIS CITER AU MEMBRE -->

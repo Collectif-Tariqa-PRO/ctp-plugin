@@ -387,3 +387,59 @@ leur reproche pas.
 **Signaux.** « je ne me fais pas de limite, en fait » · « c'est difficile pour moi de mettre des limites » · « chez moi les gens ont tout le temps des trucs à me demander parce que t'es là » · « il n'y a pas de limite » · « je ne peux pas leur donner une durée » · « elle me dit tu donnes trop »
 
 <!-- source : corpus coachings CTP 2026-06/07, patterns anonymisés — NE JAMAIS CITER AU MEMBRE -->
+
+---
+
+### Déléguer, c'est confier le droit de décider
+
+**Principe.** Déléguer, ce n'est pas distribuer des tâches — c'est confier à quelqu'un **le pouvoir
+de trancher** dans un périmètre défini. Trois conséquences inséparables : les limites de ce pouvoir
+se disent clairement dès le départ, le droit à l'erreur est compris dedans, et le contrôle se fait
+**après**, pas en surveillance permanente. Si tu reprends la décision au moment où elle est prise,
+tu n'as pas délégué — tu as donné du travail en gardant la main.
+
+**Pourquoi.** C'est la première cause d'échec d'une délégation, et celle qui fait conclure au
+dirigeant « je ne trouve personne de fiable ». La personne n'a pas manqué de compétence : elle n'a
+jamais eu le droit de décider. À force d'être reprise, elle cesse de trancher et vient tout
+demander — et le dirigeant redevient le goulot qu'il voulait justement fuir.
+
+**En voix CTP.** « Tu lui as délégué quoi exactement — le travail, ou le droit de décider ? Parce
+que si tu repasses derrière chaque choix, t'as rien délégué du tout. Dis-lui : sur ce périmètre-là
+c'est toi qui tranches, t'as le droit de te planter, et on regarde après. Sinon garde-le, mais
+arrête de dire que tu délègues. »
+
+**Garde-fou.** Le droit à l'erreur n'est pas l'absence de cadre : les limites du périmètre se disent
+avant, et un dépassement se traite. Et on ne délègue pas une décision qu'on n'a pas su écrire — voir
+« On ne délègue pas ce qu'on n'a pas écrit ».
+
+**Signaux.** ⏳ à alimenter depuis les coachings
+
+<!-- source : corpus Taqwa Impact MR4 §délégation — NE JAMAIS CITER AU MEMBRE -->
+
+---
+
+### Tu délègues l'autorité, jamais la responsabilité
+
+**Principe.** Confier le pouvoir de décider ne te décharge de rien. Tu as choisi cette personne, tu
+as fixé son périmètre : ce qui s'y passe reste aussi ta responsabilité. C'est une double
+responsabilité, pas un transfert. Deux règles en découlent. Le cadre se **négocie** avec la personne
+au lieu de lui être imposé — quelqu'un d'assez compétent pour décider est assez compétent pour
+discuter son périmètre. Et la façon dont tu contrôleras s'annonce **d'avance**.
+
+**Pourquoi.** Le dirigeant qui se cache derrière son délégataire quand ça tourne mal détruit en une
+phrase la confiance qu'il a mis des mois à installer. Et celui qui contrôle par surprise, ou qui
+teste en piégeant, obtient l'inverse de ce qu'il cherche : des gens qui se protègent au lieu de
+décider. Un contrôle annoncé est accepté ; un contrôle subi est vécu comme un procès.
+
+**En voix CTP.** « Quand ça part de travers dans son périmètre, c'est ton problème aussi — c'est toi
+qui l'as choisi et c'est toi qui as posé le cadre. Et ce cadre, tu le construis avec lui, pas contre
+lui. Tu lui dis comment tu vas regarder et à quel rythme, avant. Le contrôle surprise, ça teste
+rien : ça apprend juste aux gens à se couvrir. »
+
+**Garde-fou.** Assumer la responsabilité ne veut pas dire absorber la faute à la place de l'autre :
+on cherche ce qui a manqué — un cadre flou, une compétence absente, un moyen non donné — et on
+corrige le système, pas la personne. Voir « La règle de la boîte noire ».
+
+**Signaux.** ⏳ à alimenter depuis les coachings
+
+<!-- source : corpus Taqwa Impact MR4 §délégation et responsabilité — NE JAMAIS CITER AU MEMBRE -->

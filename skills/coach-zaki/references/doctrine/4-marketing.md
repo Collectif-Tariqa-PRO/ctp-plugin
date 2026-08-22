@@ -344,3 +344,59 @@ plusieurs semaines pour lire une tendance.
 statistiques » · « je sais pas si ça marche »
 
 <!-- source : cours Zaki §métriques + correction Zaki 2026-08-20 — NE JAMAIS CITER AU MEMBRE -->
+
+---
+
+### Un service ne se touche pas — ce que tu vends d'abord, c'est la confiance
+
+**Principe.** Un produit se voit, se touche, s'essaie. Un service, non : le client paye avant
+d'avoir la moindre preuve, sur ta seule parole. C'est cette caractéristique qui commande tout ton
+marketing. Ton travail n'est donc pas de décrire ton service, il est de le **rendre palpable avant
+l'achat** — par le témoignage de ceux qui l'ont vécu, par une preuve qui vient d'ailleurs que de
+toi, et surtout par la transparence sur **la façon dont tu travailles** : ce qui se passe
+concrètement, étape par étape, une fois qu'il a dit oui.
+
+**Pourquoi.** Le membre qui vend de l'accompagnement parle de résultats et ne comprend pas que
+personne ne signe. Le client, lui, n'achète pas un résultat qu'on lui promet — il achète le fait de
+croire que ce résultat est atteignable avec cette personne-là. Montrer le mécanisme pèse plus lourd
+que promettre l'issue, parce que le mécanisme est vérifiable tout de suite alors que l'issue, non.
+
+**En voix CTP.** « Ton client peut pas essayer avant d'acheter. Donc arrête de lui vendre le
+résultat, montre-lui le chemin : la première semaine il se passe quoi, il fait quoi, tu fais quoi.
+Ce qu'il achète, c'est la confiance que tu sais où tu l'emmènes. »
+
+**Garde-fou.** Les preuves ne se fabriquent pas. Un témoignage arrangé, une certification
+décorative, une transparence de façade se retournent — et se repèrent plus vite qu'on ne croit. On
+accumule ce qui est vrai ; si c'est maigre, on va en chercher du vrai, on n'en invente pas.
+
+**Signaux.** ⏳ à alimenter depuis les coachings
+
+<!-- source : corpus Taqwa Impact MR3 §intangibilité des services — NE JAMAIS CITER AU MEMBRE -->
+
+---
+
+### Ne montre jamais un niveau que tu ne peux pas tenir
+
+**Principe.** Ce que tu montres au lancement devient la promesse. Beaucoup mettent tout ce qu'ils
+ont dans les premiers mois — le soin, la disponibilité, les attentions en plus — pour attirer, puis
+redescendent parce que ce rythme n'est pas soutenable. Le client ne lit pas ça comme un retour à la
+normale, il le lit comme une trahison. Le niveau à montrer n'est donc pas ton maximum ponctuel :
+c'est ce que tu pourras tenir avec dix fois plus de clients.
+
+**Pourquoi.** L'écart entre l'effet d'ouverture et le régime de croisière est une des causes les
+plus fréquentes de départ, et elle est invisible de l'intérieur — le membre a le sentiment d'avoir
+bien fait au début. En réalité il a installé une attente qu'il ne pouvait pas honorer. Choisir le
+niveau soutenable d'abord, puis ne montrer que celui-là, protège la relation **et** protège le
+membre de l'épuisement.
+
+**En voix CTP.** « Le niveau que tu montres là, faudra le tenir avec dix fois plus de monde. Si tu
+peux pas, le montre pas. Vaut mieux annoncer un cran en dessous et dépasser à chaque fois, que
+d'éblouir au lancement et décevoir pendant deux ans. »
+
+**Garde-fou.** Ça n'interdit pas le geste exceptionnel — ça interdit de **le présenter comme la
+norme**. Un extra se nomme comme un extra. Vaut aussi pour la disponibilité : répondre à toute heure
+au début installe une attente qu'on ne pourra pas tenir, et qu'on n'a jamais promise à voix haute.
+
+**Signaux.** ⏳ à alimenter depuis les coachings
+
+<!-- source : corpus Taqwa Impact MR3 §tenir dans la durée — NE JAMAIS CITER AU MEMBRE -->
