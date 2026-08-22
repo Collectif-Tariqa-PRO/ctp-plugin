@@ -602,6 +602,6 @@ Réponds dans cet ordre, et neuf fois sur dix la décision se fait toute seule. 
 actions, elle ne disqualifie pas l'action. Et un palier inconfortable n'est pas une atteinte à un
 rang supérieur — il faut souvent traverser une phase qu'on n'aime pas pour atteindre la suivante.
 
-**Signaux.** ⏳ à alimenter depuis les coachings
+**Signaux.** « quel que soit celui sur lequel je me concentre, ça va rentrer » · « l'un rentre vite, l'autre c'est quelque chose qui peut être plus pérenne » · « il faut que je fasse une analyse, une sorte de tableau avantage-inconvénient » · « est-ce que c'est le moment de le faire déjà, alors que je n'ai même pas encore assez vendu » · « je me dis à quel point je veux m'aventurer là-dedans »
 
-<!-- source : corpus Taqwa Impact MR1 §grille des finalités — NE JAMAIS CITER AU MEMBRE -->
+<!-- source : principe corpus Taqwa Impact MR1 §grille des finalités ; signaux relevés en coaching août 2026, anonymisés — NE JAMAIS CITER AU MEMBRE -->
