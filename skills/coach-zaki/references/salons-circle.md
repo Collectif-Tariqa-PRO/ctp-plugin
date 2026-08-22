@@ -36,6 +36,7 @@ Pousser systématiquement (quand pertinent) : c'est dans la dynamique collective
 - **Annonces CTP** (basic) — https://collectif-tariqa-pro.circle.so/c/annonces-ctp
 - **BOOTCAMP IA** (basic) — https://collectif-tariqa-pro.circle.so/c/bootcamp-ia
 - **CHALLENGE DU MOIS !** (basic) — https://collectif-tariqa-pro.circle.so/c/challenge-1-post-par-jour
+- **COACHING COLLECTIF SUMMARY** (basic) — https://collectif-tariqa-pro.circle.so/c/coaching-collectif-summary
 - **Commence par Ici - BismiAllah** (basic) — https://collectif-tariqa-pro.circle.so/c/commence-par-ici-bismiallah
 - **Discussions** (chat) — https://collectif-tariqa-pro.circle.so/c/discussions
 - **Ecommerce CHAT** (basic) — https://collectif-tariqa-pro.circle.so/c/ecommerce-talks
@@ -45,6 +46,7 @@ Pousser systématiquement (quand pertinent) : c'est dans la dynamique collective
 - **Rappel** (basic) — https://collectif-tariqa-pro.circle.so/c/rappel
 - **Réserver mon Coaching** (basic) — https://collectif-tariqa-pro.circle.so/c/reserver-mon-coaching
 - **Ressources** (basic) — https://collectif-tariqa-pro.circle.so/c/ressources
+- **SIRAT - LE FAMEUX PARCOURS CLAUDE AI** (basic) — https://collectif-tariqa-pro.circle.so/c/sirat-le-fameux-parcours
 - **Sister Act** (basic) — https://collectif-tariqa-pro.circle.so/c/sister-act
 - **WIN DU JOUR !!!!!!!!!!!!!!!! MACHAALLAH** (basic) — https://collectif-tariqa-pro.circle.so/c/win-du-jour-machaallah
 
