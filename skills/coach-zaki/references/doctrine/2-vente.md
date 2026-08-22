@@ -92,6 +92,9 @@ mauvais. Et ceux qui restent, ils te croiront sur le reste. »
 
 **Garde-fou.** Ce n'est pas une technique pour paraître honnête, c'est de l'honnêteté. Si le membre
 l'utilise comme un effet, ça se retourne. Et ça ne dispense jamais de tenir ce qu'on a vendu.
+Un point à ne pas laisser passer : **ce n'est pas le vendeur qui décide qu'un défaut est mineur.**
+Si la limite change la valeur de la chose pour le marché, elle se déclare — le taire est une faute
+en soi, indépendamment de ce que le client fera en la découvrant.
 
 **Signaux.** « je suis capable de leur miroiter une promesse, il suffit que j'aille dans leur sens et que j'encaisse » · « il y a un sujet au niveau du cadrage, je ne suis pas satisfait, c'est pas bien cadré » · « des conditions générales de vente claires ? — non »
 
@@ -192,3 +195,60 @@ aveugle.
 **Signaux.** « je ne prospecte pas, je sais que tu vas me tirer les oreilles » · « oh mais ça me saoule, ça » · « ah non, je ne le fais pas et il faut que je le fasse » · « le fait d'aller démarcher, c'est pas encore… » · « j'ai envoyé mon CV, et j'attends de voir » · « je vais essayer de contacter des gens éventuellement »
 
 <!-- source : corpus coachings CTP 2026-06/07, patterns anonymisés — NE JAMAIS CITER AU MEMBRE -->
+
+---
+
+### Négocier fort est permis, inventer un concurrent ne l'est pas
+
+**Principe.** La négociation est la forme normale du commerce : se renseigner, défendre son prix,
+tenir, mettre le client devant sa décision — c'est du métier, pas de la manipulation. Ce qui
+bascule, c'est la fabrication du faux : inventer une offre concurrente qu'on n'a jamais reçue,
+gonfler une demande qui n'existe pas, faire monter la pression avec un acheteur fantôme. La
+frontière n'est pas l'intensité, c'est la véracité de ce qu'on avance.
+
+**Pourquoi.** Le membre qui a peur de « manipuler » finit par ne plus rien défendre du tout et se
+brade. Lui donner la ligne exacte lui rend sa force : tout ce qui est vrai est jouable, et il en
+reste énormément. À l'inverse, celui qui a pris l'habitude du petit mensonge tactique ne voit plus
+qu'il a franchi la ligne, parce que ça marche à court terme — et c'est précisément ce qui rend la
+dérive invisible.
+
+**En voix CTP.** « T'as le droit de négocier dur. De tenir ton prix, de dire non, de le mettre
+devant sa décision. Ce que t'as pas le droit de faire, c'est d'inventer. Pas de concurrent
+imaginaire, pas de fausse file d'attente. Si c'est vrai, sers-t'en à fond. Si tu dois le fabriquer,
+c'est que ton argument existe pas — et c'est ça le vrai problème. »
+
+**Garde-fou.** Vaut dans les deux sens, à l'achat comme à la vente : négocier un fournisseur avec un
+faux prix concurrent tombe sous la même règle. Et on ne construit jamais son argument en médisant
+d'un concurrent réel.
+
+**Signaux.** ⏳ à alimenter depuis les coachings
+
+<!-- source : corpus Taqwa Impact MR2 §négociation — NE JAMAIS CITER AU MEMBRE -->
+
+---
+
+### Afficher son coût et sa marge, quand la négociation ne sert plus
+
+**Principe.** Il existe une autre façon de fixer un prix que le rapport de force : annoncer
+ouvertement ce que la chose t'a coûté et la marge que tu prends. Le prix devient alors un contrat de
+confiance. Trois variantes : au coût plus marge affichée, au prix coûtant, ou en dessous quand on
+veut libérer un stock. Condition non négociable : tu ne peux afficher ce prix que si la chose est
+déjà à toi.
+
+**Pourquoi.** Le membre qui n'assume pas son prix négocie par défaut et se fait grignoter à chaque
+appel. La transparence sur la marge fait deux choses : elle retire au client l'idée qu'il se fait
+avoir, et elle oblige le membre à savoir ce que son travail lui coûte vraiment — beaucoup ne le
+savent pas. Sur un marché où tout le monde cache ses prix, l'afficher devient un différenciateur.
+
+**En voix CTP.** « Deux options, et tu choisis. Soit tu négocies — et alors tu négocies pour de
+vrai, tu tiens. Soit tu affiches : voilà ce que ça me coûte, voilà ma marge, voilà le prix. Beaucoup
+de clients préfèrent la deuxième, et toi t'arrêtes de te battre à chaque appel. Mais si tu affiches,
+faut que tu connaisses ton coût réel. »
+
+**Garde-fou.** Afficher sa marge n'oblige jamais à la réduire — la transparence n'est pas une
+invitation au marchandage. Et ça ne se transforme pas en argument affectif du type « regarde comme
+je gagne peu » : on montre une structure de coût, on ne quémande pas.
+
+**Signaux.** ⏳ à alimenter depuis les coachings
+
+<!-- source : corpus Taqwa Impact MR2 §ventes de confiance — NE JAMAIS CITER AU MEMBRE -->

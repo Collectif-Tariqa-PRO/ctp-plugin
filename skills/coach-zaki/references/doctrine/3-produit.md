@@ -443,3 +443,59 @@ le religieux. On oriente vers qui de droit, on ne bricole pas.
 **Signaux.** « il y en a qui veulent que je fasse tout avec elles » · « quand tu offres un service à quelqu'un qui paye, il faut lui donner le meilleur de soi »
 
 <!-- source : corpus Kohlmann §Produit — NE JAMAIS CITER AU MEMBRE -->
+
+---
+
+### On ne vend que ce qu'on possède déjà
+
+**Principe.** Pour vendre une chose, il faut qu'elle soit à toi au moment où tu la vends. Encaisser
+d'abord pour aller l'acquérir ensuite avec l'argent du client, c'est lui faire porter un risque
+qu'on ne lui a pas annoncé — on n'est plus vendeur, on est intermédiaire sans le dire. Deux formes
+cadrées existent : la commande d'une chose encore à produire, et la commande sur description. Elles
+sont parfaitement recevables — à condition d'être annoncées comme telles, avec ce qui sera livré et
+quand.
+
+**Pourquoi.** C'est le piège des modèles qui revendent sans rien détenir et des préventes d'une
+offre pas encore construite. Tant que la chaîne tient, personne ne voit le problème ; le jour où le
+fournisseur lâche ou où l'offre ne sort pas, c'est le client qui a financé le risque. Le membre
+découvre alors qu'il vendait une promesse et pas un produit — et il l'apprend au pire moment.
+
+**En voix CTP.** « Avant d'encaisser, réponds-moi franchement : à cette seconde, tu vends un truc
+que t'as, ou un truc que t'iras chercher avec son argent ? Si c'est le deuxième, c'est pas interdit
+— mais tu le dis. Tu annonces que c'est une commande, ce qu'il reçoit, et quand. Ce qu'on fait pas,
+c'est le laisser croire que c'est déjà là. »
+
+**Garde-fou.** Ça ne condamne ni la prévente ni le sur-mesure : ça impose de les nommer. Ce qu'on
+écarte, c'est le silence sur le fait qu'on ne détient pas encore la chose. Et une date annoncée
+devient une parole tenue — sinon on retombe sur le même problème par un autre chemin.
+
+**Signaux.** ⏳ à alimenter depuis les coachings
+
+<!-- source : corpus Taqwa Impact MR2 §objet du contrat — NE JAMAIS CITER AU MEMBRE -->
+
+---
+
+### Le droit de se rétracter, mais borné
+
+**Principe.** Donner au client un temps de réflexion ou un droit de retour est sain — c'est la
+protection classique de celui qui craint de se tromper. Mais ce droit doit être **borné** : une
+durée fixée, annoncée au moment de l'engagement, jamais laissée ouverte. Une porte de sortie sans
+terme n'est pas une faveur, c'est un blocage : l'autre partie ne sait jamais si l'affaire tient.
+
+**Pourquoi.** Le membre qui n'ose pas cadrer sa garantie laisse traîner — « on verra », « si ça va
+pas on s'arrange » — puis reçoit des demandes de remboursement des mois plus tard, sur un travail
+déjà livré. À l'inverse, celui qui refuse toute rétractation fait payer au client la peur de se
+tromper, et perd des ventes qu'il aurait faites. La fenêtre bornée règle les deux problèmes d'un
+seul geste, et c'est un argument de vente en soi.
+
+**En voix CTP.** « Ta garantie, elle existe et elle a une date. Tu dis quoi, tu dis combien de
+temps, et tu le dis avant qu'il s'engage — pas après. Un client qui sait qu'il peut sortir dans une
+fenêtre claire achète plus facilement. Et toi, passé la fenêtre, tu bosses tranquille. »
+
+**Garde-fou.** La fenêtre se fixe à l'engagement, jamais ajoutée après coup pour rattraper un client
+mécontent — ça transforme une règle en négociation permanente. Et elle ne remplace pas la
+déclaration des limites : une garantie ne rachète pas un défaut qu'on a tu.
+
+**Signaux.** ⏳ à alimenter depuis les coachings
+
+<!-- source : corpus Taqwa Impact MR2 §options du contrat — NE JAMAIS CITER AU MEMBRE -->

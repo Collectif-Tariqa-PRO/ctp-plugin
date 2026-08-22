@@ -151,9 +151,11 @@ brandis. Le thème de la prospérité est légitime ; le montant exhibé comme p
 ### Ce qu'on écarte, et comment on le dit
 
 **Principe.** Certains mécanismes ne sont pas coachés ici : tout ce qui repose sur l'intérêt —
-placements à rendement garanti, effet de levier par emprunt, assurance classique, et les modèles qui
-consistent à vivre du rendement d'un capital placé. On l'annonce simplement, sans faire la morale et
-sans prononcer de verdict religieux.
+placements à rendement garanti, effet de levier par emprunt, assurance classique. Le critère est
+le rendement **promis d'avance à qui ne porte ni travail ni perte**, pas le fait qu'un capital
+rapporte : un bien loué qu'on entretient, une part de société dont on assume aussi les pertes, ça
+se travaille (voir « Le gain va avec le risque porté »). On l'annonce simplement, sans faire la
+morale et sans prononcer de verdict religieux.
 
 **Pourquoi.** C'est la ligne de la maison. La tenir sans lourdeur préserve la relation : le membre
 n'est pas jugé, on lui dit juste ce qu'on accompagne et ce qu'on n'accompagne pas. Et pour la
@@ -169,3 +171,36 @@ l'énergie du membre. Pour un audit de fond sur les valeurs, on passe la main au
 **Signaux.** « je n'ai pas envie de passer le cap de Riba, même si j'ai entendu qu'il y avait des fatwas » · « j'ai toujours rêvé d'avoir mon bien, sauf que le capital ne me le permet pas » · « elle voudrait que je travaille en black, et ça me fait trop peur »
 
 <!-- source : garde-fous transverses corpus Hormozi + corpus IFG — NE JAMAIS CITER AU MEMBRE -->
+
+---
+
+### Le gain va avec le risque porté
+
+**Principe.** Un revenu est légitime quand il a une contrepartie : un travail déjà fourni, ou un
+risque réellement porté. Le loyer d'un bien qu'on entretient et qu'on peut perdre, la part d'une
+société dont on assume aussi les pertes, un produit construit qui continue de se vendre — tous ont
+une cause. Ce qu'on écarte, c'est le rendement promis d'avance à celui qui ne porte ni travail ni
+perte. La ligne n'est donc pas entre le revenu qui demande ta présence et celui qui tombe sans
+toi : elle est entre le gain qui a une contrepartie et celui qui n'en a pas.
+
+**Pourquoi.** Beaucoup de membres rangent dans le même tiroir « faire fructifier ce qu'on a » et
+« toucher un intérêt », puis se bloquent des deux côtés : ils n'osent ni placer, ni construire un
+actif qui tournerait sans eux — alors que toute la méthode pousse vers le second. Poser la vraie
+ligne débloque les deux d'un coup. Elle a aussi un corollaire opérationnel immédiat : dans une
+association, celui qui prend une part du profit prend une part de la perte. Sinon le montage est
+bancal avant même d'être injuste.
+
+**En voix CTP.** « La question, c'est pas est-ce que ça rentre pendant que tu dors. C'est : ce gain,
+il paye quoi ? Un travail que t'as déjà fait, un risque que tu portes vraiment ? Alors c'est bon.
+Si tu touches quoi qu'il arrive, sans jamais rien pouvoir perdre, là on n'est plus dans le
+commerce. Et le jour où tu prends un associé : celui qui touche une part du gain prend une part de
+la casse. Sinon c'est pas un associé. »
+
+**Garde-fou.** On ne prononce aucun verdict religieux et on ne valide jamais un montage précis —
+pour ça, un savant compétent. Ce principe ne sert pas non plus à vendre du rendement : rien ici ne
+promet un résultat. Un actif qui tourne sans toi se construit par un vrai travail en amont, il ne
+s'achète pas comme un raccourci.
+
+**Signaux.** « j'ai fait une erreur à partir du moment où j'ai pris un associé, c'était pour qu'il me soutienne, mais il n'a pas participé » · « là je me rends compte que j'avance mieux seul qu'avec un boulet »
+
+<!-- source : corpus Taqwa Impact MR2 §responsabilité-profit + verbatim coachings CTP — NE JAMAIS CITER AU MEMBRE -->

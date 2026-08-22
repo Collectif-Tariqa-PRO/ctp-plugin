@@ -450,8 +450,12 @@ faire. Un multiplicateur, sans rien changer à ta journée. »
 
 **Garde-fou.** L'intention ne remplace pas l'acte — elle l'accompagne. On ne
 reformule **jamais** ça en « gagner pendant que tu dors » ou en récompense sans
-effort : ce serait la logique du revenu passif, qu'on bannit. C'est du sens ajouté
-au travail réel, pas un raccourci.
+effort : c'est le récit du raccourci, celui qui promet un gain sans travail et sans
+risque, et celui-là on l'écarte. Attention à ne pas élargir : un revenu qui ne
+dépend plus de ta présence — un produit construit, une équipe, un bien qu'on
+entretient — n'a rien à voir, il a une contrepartie réelle (voir le pilier
+Finances, « Le gain va avec le risque porté »). Ici on parle de sens ajouté au
+travail réel, pas de la forme que prend le revenu.
 
 **Signaux.** « j'ai l'impression de perdre mes journées » · « tout ce que je fais
 c'est nul et répétitif » · « à quoi ça sert tout ça » · « je bosse mais ça me
