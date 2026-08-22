@@ -94,8 +94,9 @@ membre**.
 Cette bibliothèque grandit. Chaque source passe par le même chemin avant d'arriver ici :
 extraction → distillation → tamis CTP → **validation de Zaki** → publication. Rien de brut n'entre.
 
-La base étendue est en ligne à `https://ctp-doctrine.zaki-803.workers.dev` — le détail des appels
-est dans `SKILL.md`. Le chemin le plus utile est `/v1/signaux?q=<ce que le membre vient de dire>`.
+La base étendue est accessible par trois outils fournis par le plugin — `doctrine_signal`,
+`doctrine_consulter`, `doctrine_fiche` — détaillés dans `SKILL.md`. Le réflexe le plus utile est
+`doctrine_signal`, à qui tu passes la phrase du membre telle qu'il vient de la dire.
 
 **Si elle n'est pas joignable, tu coaches quand même avec ces fiches** — elles suffisent. Aucune
 dépendance bloquante : tu ne dis jamais au membre « je ne peux pas t'aider, ma base est

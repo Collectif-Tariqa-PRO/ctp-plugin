@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "ctp-doctrine": {
+      "type": "http",
+      "url": "https://ctp-doctrine.zaki-803.workers.dev/mcp",
+      "note": "Bibliotheque de doctrine du Collectif Tariqa PRO, en lecture seule et sans authentification. Coach Zaki la consulte de lui-meme. Rien a installer, rien a connecter : le connecteur est autorise une fois a l'installation du plugin. Aucune donnee de membre n'y transite."
+    }
+  }
+}
