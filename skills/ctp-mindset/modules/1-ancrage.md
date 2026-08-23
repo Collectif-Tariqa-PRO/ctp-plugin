@@ -90,7 +90,7 @@ prix payable.
 
 **3. Quelle est ta situation de départ ?**
 Besoin de générer vite ? Quelle part de risque tu peux porter ? Du temps ? De
-quoi tenir ? → **Aiguillage : cette réponse conditionne tout le module 5
+quoi tenir ? → **Aiguillage : cette réponse conditionne tout le module 6
 (l'agenda).** La reporter telle quelle.
 
 **4. Qu'est-ce qui, dans ta tête, risque de te freiner ?**
@@ -99,7 +99,7 @@ les traiter. → **Aiguillage : module 3 (Toi ↔ toi-même).**
 
 **5. Qu'est-ce qui, autour de toi, risque de te tirer en arrière ?**
 Un entourage qui doute, un lieu qui disperse, trop de sollicitations. On les note.
-→ **Aiguillage : module 4 (Toi ↔ ton environnement).**
+→ **Aiguillage : module 5 (Toi ↔ ton environnement).**
 
 **6. Le marché existe-t-il ?**
 S'il n'y a aucune concurrence, c'est un mauvais signal, pas un bon. → Se

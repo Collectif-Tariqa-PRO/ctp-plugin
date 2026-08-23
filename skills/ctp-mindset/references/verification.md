@@ -34,7 +34,22 @@ Le parcours se contrôle lui-même. Coach Zaki coche avec le membre, à voix hau
 - [ ] Une situation récente a été rejouée en posture responsable.
 - [ ] 3 briques posées.
 
-## Module 4 — Toi ↔ ton environnement
+## Module 4 — Toi ↔ les tiens
+> **Validation non bloquante.** Les deux premières lignes suffisent. Le reste ne se coche
+> que s'il est applicable — on ne bloque jamais un membre sur ce qui dépend d'autrui.
+- [ ] Les tiens sont nommés (ou : « personne », et c'est noté sans être corrigé).
+- [ ] L'appui est situé : quelqu'un porte / des questions / c'est tendu / sans objet.
+- [ ] *Si applicable :* un besoin **concret** est formulé (pas « du soutien moral »).
+- [ ] *Si applicable :* une chose protégée est nommée, tenable, prête à devenir un bloc
+      d'agenda au module 6.
+- [ ] *Si le membre est sans charge familiale :* la question du mariage à court terme a
+      été posée.
+- [ ] ⚪ Conversation — **seulement** si le membre a quelque chose à dire et veut le dire.
+- [ ] ✅ **Contrôle de posture :** rien de la réserve n'a été introduit par Coach Zaki.
+      Aucune relation qualifiée, aucun conseil conjugal ou familial donné. Si le sujet
+      dépassait le cadre, une personne à qui en parler a été nommée.
+
+## Module 5 — Toi ↔ ton environnement
 - [ ] Le cercle est audité, le membre sait qui il consulte désormais.
 - [ ] Le lieu de travail est décidé.
 - [ ] Les points d'entrée sont listés et réduits à 3 ou 4.
@@ -43,7 +58,7 @@ Le parcours se contrôle lui-même. Coach Zaki coche avec le membre, à voix hau
 - [ ] Le membre sait que son comportement est un levier, et il ose facturer son métier.
 - [ ] 3 briques posées.
 
-## Module 5 — Le rituel & l'agenda
+## Module 6 — Le rituel & l'agenda
 - [ ] La situation de vie réelle est écrite.
 - [ ] La ligne contrainte / budget récupérable est tracée et **acceptée**.
 - [ ] Les blocs sont **dans l'agenda**, pas dans une note.
@@ -52,12 +67,12 @@ Le parcours se contrôle lui-même. Coach Zaki coche avec le membre, à voix hau
 - [ ] Le membre sait dire ce qu'il coupe.
 - [ ] 3 briques posées.
 
-## Module 6 — Le commencement
+## Module 7 — Le commencement
 - [ ] Projet nommé, en une phrase.
 - [ ] Engagement daté et écrit.
 - [ ] Premier acte public posé, publiquement.
 - [ ] Blocs d'agenda tenus **deux semaines**.
-- [ ] Les six livrables existent.
+- [ ] Les sept livrables existent.
 - [ ] Validé en call.
 
 ---

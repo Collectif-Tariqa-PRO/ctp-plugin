@@ -1,7 +1,7 @@
 # Diagnostic → Remède — la pharmacopée du pilier Mindset
 
 Pour chaque blocage (la douleur), un remède tiré de la foi : le **concept**, le
-**verset**, le **hadith**, l'**invocation**. Rangé par les trois relations —
+**verset**, le **hadith**, l'**invocation**. Rangé par les relations —
 à Dieu, à soi, aux autres.
 
 C'est ce que l'export (`ctp-export`) compile en document pour le membre :
@@ -124,7 +124,7 @@ exact ci-dessous). Le recueil « Hadiths sur l'entrepreneuriat » (34 diapos) re
 
 ---
 
-## Niveau 3 — Relation aux autres
+## Niveau 3 — Relation aux tiens et aux autres
 
 ### Le mauvais comportement, le conflit
 - **Douleur / signaux** : « dans mon secteur tout le monde est dur » · clients /

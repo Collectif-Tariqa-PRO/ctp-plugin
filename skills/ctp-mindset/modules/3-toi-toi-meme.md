@@ -124,7 +124,8 @@ l'importance de simplifier les décisions inutiles et de placer le travail lourd
 quand le réservoir est plein.
 
 **La plupart des échecs ne sont pas des échecs de volonté, ce sont des échecs de
-système.** C'est ce qui ouvre le module 4.
+système.** Et un système, ça se construit avec les autres avant de se construire
+seul — c'est ce qui ouvre le module 4.
 
 ---
 

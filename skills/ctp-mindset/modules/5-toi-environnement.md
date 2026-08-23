@@ -1,4 +1,4 @@
-# Module 4 — Toi ↔ ton environnement : ce qui te porte ou te tire
+# Module 5 — Toi ↔ ton environnement : ce qui te porte ou te tire
 
 **Livrable :** `mindset/<slug>/environnement.md` — audit du cercle, du lieu, des
 canaux ; règles d'environnement décidées.
@@ -8,8 +8,8 @@ canaux ; règles d'environnement décidées.
 
 ## 1. Point pédagogique
 
-> « Troisième et dernier niveau. Ta relation à ce qui t'entoure : les gens, le
-> lieu, l'argent, le temps des autres.
+> « Quatrième et dernier niveau. Après les tiens, ta relation à tout le reste :
+> les gens, le lieu, l'argent, le temps des autres.
 >
 > Pourquoi cette étape avant l'agenda ? Parce qu'un agenda posé dans un
 > environnement qui le contredit ne survit pas deux semaines. »
@@ -36,6 +36,8 @@ personnes avec qui il parle le plus de son projet, et pose pour chacune :
 **La règle sur les conseillers :** ne consulter que deux types de personnes —
 **la cible réelle** et **des entrepreneurs actifs et à jour**. La famille veut
 protéger. Les amis disent que c'est facile. Ni l'un ni l'autre ne t'informe.
+*Ça ne dit rien de leur place dans ta vie* — les tiens comptent, et c'est le
+module 4 qui s'en occupe. Ici on parle de **qui t'informe**, pas de qui t'aime.
 
 **Le collectif comme environnement.** Pour beaucoup, l'entourage naturel ne
 porte pas le projet. Le collectif remplace ce qui manque : un binôme, un groupe,
@@ -107,9 +109,9 @@ facturer ce qui est pourtant leur métier, et se mettent en difficulté tout seu
 L'intention de servir et le fait d'être payé ne s'opposent pas. (C'est le piège du
 Sauveur, vu en Toi ↔ toi-même — et ça se règle dans l'offre, à Mon projet.)
 
-**Chacun a un droit sur toi.** Dieu, ta famille, ton corps — chacun a un droit.
-L'entrepreneuriat n'est pas un permis de sacrifier les tiens. On ne construit
-jamais contre eux ; le détail se pose dans l'agenda.
+**Chacun a un droit sur toi.** Vu au module 4 (Toi ↔ les tiens) : on ne construit
+jamais contre ceux qui te portent. Ici on regarde le reste de l'entourage — le
+cercle, pas le foyer.
 
 ---
 

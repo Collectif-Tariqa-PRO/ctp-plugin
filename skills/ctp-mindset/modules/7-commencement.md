@@ -1,4 +1,4 @@
-# Module 6 — Le commencement
+# Module 7 — Le commencement
 
 Tu crois finir le pilier. En vrai, tu **commences** — le vrai travail
 d'entrepreneur démarre ici. Ce module ne se franchit pas parce que le membre a
@@ -31,7 +31,7 @@ il explique toujours pourquoi.
 - [ ] **L'engagement est daté et écrit.** Ce qu'il s'engage à faire, pour quand.
 - [ ] **Un premier acte public a eu lieu.** Le membre a annoncé son projet là où
       on peut le lire. Pas à sa famille — publiquement.
-- [ ] **L'agenda contient les blocs** décidés au module 5, et il les a **tenus
+- [ ] **L'agenda contient les blocs** décidés au module 6, et il les a **tenus
       deux semaines**. C'est ce critère qui distingue une décision d'une
       intention.
 - [ ] Les six livrables des modules 0 à 5 existent.

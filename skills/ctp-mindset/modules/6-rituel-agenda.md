@@ -1,4 +1,4 @@
-# Module 5 — Le rituel & l'agenda
+# Module 6 — Le rituel & l'agenda
 
 **Le module le plus concret du parcours.** Il ne produit pas un emploi du temps
 idéal. Il produit **l'agenda réel du membre, modifié**.

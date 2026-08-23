@@ -27,11 +27,12 @@ Sept modules, dans l'ordre. Livrables dans `mindset/<slug>/`.
 | 1 | L'ancrage | `mindset/<slug>/ancrage.md` |
 | 2 | Toi ↔ Dieu (intention) | `mindset/<slug>/intention.md` |
 | 3 | Toi ↔ toi-même (posture) | `mindset/<slug>/posture.md` |
-| 4 | Toi ↔ ton environnement | `mindset/<slug>/environnement.md` |
-| 5 | Le rituel & l'agenda | `mindset/<slug>/agenda.md` |
-| 6 | Le commencement | `mindset/<slug>/commencement.md` |
+| 4 | Toi ↔ les tiens | `mindset/<slug>/les-tiens.md` |
+| 5 | Toi ↔ ton environnement | `mindset/<slug>/environnement.md` |
+| 6 | Le rituel & l'agenda | `mindset/<slug>/agenda.md` |
+| 7 | Le commencement | `mindset/<slug>/commencement.md` |
 
-Le module 6 — **Le commencement** — est le **passage** : il n'ouvre la Partie 2
+Le module 7 — **Le commencement** — est le **passage** : il n'ouvre la Partie 2
 que si les actes sont là (projet nommé, acte public, agenda tenu deux semaines,
 validé en call).
 

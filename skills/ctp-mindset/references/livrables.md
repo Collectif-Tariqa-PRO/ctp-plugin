@@ -10,9 +10,10 @@ Tout dans `mindset/<slug>/`, où `<slug>` identifie le projet du membre.
 | 1 — L'ancrage | `ancrage.md` |
 | 2 — Toi ↔ Dieu | `intention.md` |
 | 3 — Toi ↔ toi-même | `posture.md` |
-| 4 — Toi ↔ ton environnement | `environnement.md` |
-| 5 — Le rituel & l'agenda | `agenda.md` |
-| 6 — Le commencement | `commencement.md` |
+| 4 — Toi ↔ les tiens | `les-tiens.md` |
+| 5 — Toi ↔ ton environnement | `environnement.md` |
+| 6 — Le rituel & l'agenda | `agenda.md` |
+| 7 — Le commencement | `commencement.md` |
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: ctp-mindset
-description: Parcours du 1er pilier — Mindset — du Collectif Tariqa PRO. Le tout premier bloc de la méthode : avant l'offre, avant la vente, on capte la vision complète du membre et on installe l'état d'esprit qui tient dans la durée. Coach Zaki enchaîne 7 modules (Le bilan → L'ancrage → Toi ↔ Dieu → Toi ↔ toi-même → Toi ↔ ton environnement → Le rituel & l'agenda → Le commencement), chacun produisant un livrable concret + un outil vivant. Le module agenda est le plus opérationnel : le membre connecte son agenda réel, on y pose ses blocs, et on adapte à sa situation de vie réelle (enfants, salariat, santé, charge familiale). Use when the user asks "par où je commence", "je tourne en rond depuis des mois", "je manque de discipline / de temps", "je suis démotivé", "est-ce que je suis fait pour entreprendre", "je sais pas quoi faire", "salarié ou entrepreneur", "j'ai pas le temps", "organiser mon agenda", "parcours mindset", "pilier 1", or when a member starts the CTP method from scratch.
+description: Parcours du 1er pilier — Mindset — du Collectif Tariqa PRO. Le tout premier bloc de la méthode : avant l'offre, avant la vente, on capte la vision complète du membre et on installe l'état d'esprit qui tient dans la durée. Coach Zaki enchaîne 8 modules (Le bilan → L'ancrage → Toi ↔ Dieu → Toi ↔ toi-même → Toi ↔ les tiens → Toi ↔ ton environnement → Le rituel & l'agenda → Le commencement), chacun produisant un livrable concret + un outil vivant. Le module agenda est le plus opérationnel : le membre connecte son agenda réel, on y pose ses blocs, et on adapte à sa situation de vie réelle (enfants, salariat, santé, charge familiale). Use when the user asks "par où je commence", "je tourne en rond depuis des mois", "je manque de discipline / de temps", "je suis démotivé", "est-ce que je suis fait pour entreprendre", "je sais pas quoi faire", "salarié ou entrepreneur", "j'ai pas le temps", "organiser mon agenda", "ma femme ne me soutient pas", "mon mari n'est pas d'accord", "je n'ai pas le temps avec les enfants", "parcours mindset", "pilier 1", or when a member starts the CTP method from scratch.
 metadata:
   version: 0.1.0
   category: tariqa-pro
@@ -64,7 +64,7 @@ exactes des excuses et leur démontage, pour reconnaître le motif au vol.
 
 ```
 Pilier 1/6 — Mindset
-✅ Intro  ✅ Bilan  ▶️ Ancrage  ⬜ Toi ↔ Dieu  ⬜ Toi ↔ toi-même  ⬜ Environnement  ⬜ Agenda  ⬜ Commencement
+✅ Intro  ✅ Bilan  ▶️ Ancrage  ⬜ Toi ↔ Dieu  ⬜ Toi ↔ toi-même  ⬜ Les tiens  ⬜ Environnement  ⬜ Agenda  ⬜ Commencement
 ```
 
 Le membre doit toujours savoir où il est.
@@ -98,9 +98,10 @@ tempo ».
 | 1 | **L'ancrage** — ce qui pourrait te faire décrocher | Pourquoi ancré + coût de l'inaction + carte des risques | Relecture au coup de mou |
 | 2 | **Toi ↔ Dieu** — pour quoi tu te lèves | Intention écrite + les 3 moteurs (Reda, Progrès, Contribution) | Question-test quotidienne |
 | 3 | **Toi ↔ toi-même** — qui pilote | Diagnostic de posture + carte forces/faiblesses | Le test des 3 rôles |
-| 4 | **Toi ↔ ton environnement** — ce qui te porte ou te tire | Audit du cercle + règles d'environnement | Cockpit stérile + points d'entrée |
-| 5 | **Le rituel & l'agenda** — le module le plus concret | Agenda réel reconstruit, blocs posés | Agenda vivant + revue du dimanche |
-| 6 | **Le commencement** — le passage vers Mon projet | Dossier de passage | Bascule vers Mon projet |
+| 4 | **Toi ↔ les tiens** — ceux qui vivent ton projet sans l'avoir choisi | Les tiens nommés + l'appui situé + ce que tu protèges | Une conversation, si elle a lieu d'être |
+| 5 | **Toi ↔ ton environnement** — ce qui te porte ou te tire | Audit du cercle + règles d'environnement | Cockpit stérile + points d'entrée |
+| 6 | **Le rituel & l'agenda** — le module le plus concret | Agenda réel reconstruit, blocs posés | Agenda vivant + revue du dimanche |
+| 7 | **Le commencement** — le passage vers Mon projet | Dossier de passage | Bascule vers Mon projet |
 
 Chaque module est détaillé dans `modules/<n>-*.md`. Coach Zaki ouvre **une étape
 à la fois**, dans l'ordre.
@@ -168,4 +169,4 @@ Le membre passe à Mon projet quand :
   a tenus **deux semaines** ;
 - validé **en call**.
 
-Détail et checklist : `modules/6-commencement.md` et `references/verification.md`.
+Détail et checklist : `modules/7-commencement.md` et `references/verification.md`.

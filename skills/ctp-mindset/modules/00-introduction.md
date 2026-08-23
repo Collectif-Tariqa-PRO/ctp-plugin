@@ -90,9 +90,10 @@ qu'on peut vérifier.
 | 1 | L'ancrage | ton pourquoi, et ce qui pourrait te faire lâcher |
 | 2 | Toi ↔ Dieu | ton intention et tes moteurs |
 | 3 | Toi ↔ toi-même | tes blocages, nommés |
-| 4 | Toi ↔ ton environnement | ce que tu changes autour de toi |
-| 5 | Le rituel & l'agenda | ton emploi du temps, modifié |
-| 6 | Le commencement | le passage à Mon projet |
+| 4 | Toi ↔ les tiens | ce dont tu as besoin d'eux, ce que tu protèges |
+| 5 | Toi ↔ ton environnement | ce que tu changes autour de toi |
+| 6 | Le rituel & l'agenda | ton emploi du temps, modifié |
+| 7 | Le commencement | le passage à Mon projet |
 
 Une étape à la fois, dans l'ordre. On ne saute pas.
 
