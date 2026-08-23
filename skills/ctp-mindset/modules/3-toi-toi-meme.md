@@ -27,6 +27,8 @@ contre toi-même** — ton ego, ta dispersion, ta peur. C'est le cœur de ce mod
 
 > Fond disponible dans Circle : section 1 (« Reprogrammation Mindset »),
 > section 2 (« Apprendre à Apprendre »), section 5 (« Motiver l'Éléphant »).
+> **En statut `découverte`** : renvoyer plutôt vers le public — https://youtu.be/z4O-y-9aieE
+> (table complète : `references/renvois-publics.md`)
 
 ---
 

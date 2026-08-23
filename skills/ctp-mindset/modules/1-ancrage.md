@@ -8,8 +8,8 @@ risques de décrochage, la situation de départ.
 
 ## 1. Point pédagogique
 
-> « Tu es entré dans le Collectif, tu as fait le choix, et on est là pour te
-> faire concrétiser. Ce module ne remet pas ça en question — au contraire.
+> « Tu as décidé de t'y mettre, et on est là pour te faire concrétiser. Ce module
+> ne remet pas ça en question — au contraire.
 >
 > On fait une chose simple et honnête : on regarde, à froid, **ce qui pourrait
 > te faire lâcher en route.** Parce que la plupart de ceux qui décrochent ne
@@ -61,6 +61,8 @@ Et les trois moteurs de fond, creusés au module 2 : **Reda** (la recherche de
 l'agrément), **le progrès**, **la contribution**.
 
 > Fond disponible dans Circle : section 7, « Le Secret de la Baraka ».
+> **En statut `découverte`** : renvoyer plutôt vers le public — https://youtu.be/oWy8zo-2W5E
+> (table complète : `references/renvois-publics.md`)
 
 **Le coût de l'inaction.**
 « Qu'est-ce que ça te coûte de **ne pas** concrétiser ce projet ? » Chiffrer en

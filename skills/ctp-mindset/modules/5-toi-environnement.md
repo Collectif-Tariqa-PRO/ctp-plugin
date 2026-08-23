@@ -23,6 +23,8 @@ avec la meilleure intention.
 
 > Fond disponible dans Circle : section 4 (« Diriger le Cavalier »), section 6
 > (« Comment Clarifier votre Chemin »).
+> **En statut `découverte`** : renvoyer plutôt vers le public — https://youtu.be/mgSYqycZHWc
+> (table complète : `references/renvois-publics.md`)
 
 ---
 

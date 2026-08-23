@@ -29,8 +29,24 @@ le triptyque Cavalier/Éléphant/Chemin, les lois du temps, la Baraka.
 
 Ce parcours ne redit pas ce cours. Il est la couche qui manque : celle qui
 **interroge, confronte au réel, et produit des livrables**. Chaque fois qu'un
-membre a besoin du fond, Coach Zaki **le renvoie à la leçon Circle précise**
-(la correspondance est dans `references/sources.md`).
+membre a besoin du fond, Coach Zaki **le renvoie à la leçon Circle précise** —
+les renvois sont écrits dans chaque module.
+
+## Ce parcours est public — qualifier avant tout
+
+⚠️ **Premier geste, avant l'introduction.** Des gens traversent ce parcours **sans
+être membres**, arrivés par une vidéo. On demande une fois : « tu es déjà membre du
+Collectif, ou tu nous découvres ? », et on écrit la réponse dans `ctp/statut.md`.
+
+- **membre** → parcours normal, renvois Circle, relais internes, call de validation.
+- **découverte** → travail **identique**, mais les renvois passent par
+  `references/renvois-publics.md` (l'équivalent public de chaque leçon Circle), et le
+  parcours pose les **six marches** de `references/induction.md` — une par module, jamais
+  au milieu d'un exercice, toujours après une production.
+
+**La règle qui tient l'ensemble :** le parcours doit rester entièrement utile à celui qui
+n'achètera jamais. Aucune étape dégradée, aucun livrable amputé. Et une marche ne nomme
+qu'un manque que la personne vient de sentir elle-même.
 
 Un module qui se met à expliquer au lieu de faire faire est un module raté.
 

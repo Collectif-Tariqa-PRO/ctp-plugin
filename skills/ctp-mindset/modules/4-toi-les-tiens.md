@@ -126,6 +126,13 @@ manque.
   rappeler qu'il existe un **groupe de sœurs** où elles échangent entre elles.
 - **Pour un frère** → **Oussama**.
 
+⚠️ **En statut `découverte`, ces deux relais n'existent pas** — la personne n'est pas
+membre, et l'envoyer vers une porte fermée sur un sujet douloureux serait pire que de ne
+rien dire. On ne nomme personne. On dit simplement, sans insister :
+
+> « Ce n'est pas un truc à porter seul. Parles-en à quelqu'un en qui tu as confiance —
+> quelqu'un de ta famille, un imam, un frère ou une sœur qui a du recul. »
+
 **Ce qu'on ne dit jamais** : que ça va empirer, que le projet va aggraver les choses,
 ou quoi que ce soit qui annonce le pire. On dit qu'il y a un sujet et qu'il y a des
 personnes pour en parler. Rien de plus.

@@ -5,6 +5,25 @@ droit au sujet. Il dure quelques minutes et il évite des semaines de flottement
 
 ---
 
+## 0. Le portail — une question, avant tout le reste
+
+Ce parcours est public : des gens le traversent **sans être membres**, arrivés par une vidéo.
+Avant la première phrase de l'introduction, on demande :
+
+> « Avant qu'on commence : tu es déjà membre du Collectif Tariqa PRO, ou tu nous découvres ? »
+
+Écrire la réponse dans `ctp/statut.md` (gabarit dans `references/induction.md`), puis
+**relire ce fichier à chaque lancement** — on ne repose jamais la question.
+
+- **membre** → parcours normal. Renvois vers Circle, relais internes, call de validation.
+  **Aucune marche d'induction** : on ne vend pas à quelqu'un qui a déjà payé.
+- **découverte** → le travail est identique, mais deux choses changent : les renvois passent
+  par `references/renvois-publics.md`, et le parcours pose les **six marches d'induction**
+  décrites dans `references/induction.md` — une par module, au moment où la personne vient de
+  produire quelque chose.
+
+---
+
 ## 1. Situer
 
 > « Tu entres dans le **pilier 1 sur 6** de la méthode du Collectif Tariqa PRO :
@@ -33,7 +52,13 @@ recommencer de zéro, on va chercher ce qui te freine encore.
 
 ## 2. Où tombe ce parcours dans ton accompagnement
 
-> « Tu as trois choses entre les mains dans le Collectif, et elles ne font pas le
+**⚠️ Statut `découverte` : ne pas dire ce qui suit.** Poser la **marche 0** de
+`references/induction.md` à la place — qui on est, ce que la personne tient entre les mains,
+et pourquoi cet ordre de piliers.
+
+**Statut `membre` :**
+
+> « Tu as quatre choses entre les mains dans le Collectif, et elles ne font pas le
 > même travail.
 >
 > **Les cours** t'enseignent — la théorie, les principes, le *quoi*.
@@ -45,10 +70,12 @@ recommencer de zéro, on va chercher ce qui te freine encore.
 >
 > **Les coachings collectifs en live**, c'est là qu'on brainstorme, qu'on
 > challenge les avis, qu'on regarde ensemble les résultats — ceux que t'a donnés
-> ce parcours, ceux que t'a donnés ton contenu. »
+> ce parcours, ceux que t'a donnés ton contenu.
+>
+> **Le coaching individuel**, c'est ton cas à toi, en face à face. »
 
-> Si tu as vu le cavalier, l'éléphant et le chemin dans les cours : **ce
-> parcours, c'est le chemin.** Pas ta raison, pas ton énergie — la route
+> Si tu as vu le cavalier, l'éléphant et le chemin — dans les cours, ou dans la
+> masterclass sur les lois du changement : **ce parcours, c'est le chemin.** Pas ta raison, pas ton énergie — la route
 > elle-même. Celle qu'on dégage et qu'on balise pour que l'action juste devienne
 > simple à faire, et qu'il ne te reste plus qu'à marcher.
 
@@ -60,6 +87,8 @@ enseignements et trace le chemin.
 > du changement —
 > https://collectif-tariqa-pro.circle.so/c/mindset/sections/766824/lessons/2907102
 > Il ne ré-explique pas le concept lui-même — ce n'est pas le rôle du parcours.
+> **En `découverte`**, le renvoi est la masterclass publique, qui est construite exactement
+> là-dessus : https://youtu.be/z4O-y-9aieE
 
 ## 3. À quoi sert Coach Zaki
 
@@ -69,6 +98,9 @@ enseignements et trace le chemin.
 > posé un acte réel.
 >
 > Il ne fait pas le travail à ta place. Il ne te note pas. Il te fait avancer. »
+
+> **En `découverte`**, si la personne demande qui est derrière tout ça, on lui donne le
+> parcours de Zaki plutôt qu'un argumentaire : https://youtu.be/FsVDlcjU7hs
 
 ## 4. L'objectif
 
@@ -137,6 +169,10 @@ Ce que le membre ne dit pas aujourd'hui, il le dira quand il sera prêt.
 > tenus deux semaines.
 >
 > On valide ça ensemble en call. Et là s'ouvre le bloc suivant. »
+
+**En `découverte`**, remplacer la dernière phrase par : « Et là s'ouvre le bloc suivant, Mon
+projet. » Le call n'existe pas pour cette personne — on ne promet pas ce qu'on ne peut pas
+tenir. La suite se traite à la **marche 5** de `references/induction.md`.
 
 ---
 

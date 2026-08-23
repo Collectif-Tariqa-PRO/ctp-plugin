@@ -22,6 +22,8 @@ carburant. Beaucoup, même parmi les musulmans, séparent les deux et cherchent 
 
 > Fond disponible dans Circle : section 7, « Le Secret de la Baraka » — les cinq
 > leçons.
+> **En statut `découverte`** : renvoyer plutôt vers le public — https://youtu.be/pst_VceGdQ8
+> (table complète : `references/renvois-publics.md`)
 
 ---
 

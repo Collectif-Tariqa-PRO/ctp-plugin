@@ -29,6 +29,8 @@ dedans + la revue du dimanche soir.
 > Fond disponible dans Circle : section 2 leçon 4 (« La Gestion Du Temps »),
 > section 3 leçons 1 et 2 (« Les Lois de la Gestion du Temps », « Time
 > Blocking »).
+> **En statut `découverte`** : renvoyer plutôt vers le public — https://youtu.be/RbsZMkrTgTk
+> (table complète : `references/renvois-publics.md`)
 
 ---
 

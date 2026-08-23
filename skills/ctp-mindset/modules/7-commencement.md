@@ -34,8 +34,11 @@ il explique toujours pourquoi.
 - [ ] **L'agenda contient les blocs** décidés au module 6, et il les a **tenus
       deux semaines**. C'est ce critère qui distingue une décision d'une
       intention.
-- [ ] Les six livrables des modules 0 à 5 existent.
+- [ ] Les sept livrables des modules 0 à 6 existent.
 - [ ] **Validé en call** avec le coach individuel.
+      *En statut `découverte` : cette case n'existe pas — le parcours ne se termine pas sur
+      une porte fermée. Poser la **marche 5** de `references/induction.md` : le bilan complet
+      de ce qui a été produit, puis le fait que la suite demande quelqu'un en face.*
 
 ---
 
@@ -95,7 +98,7 @@ bout de Mon projet**, et elle se joue elle aussi sur des actes. Attention :
   contenu. Ne te fie pas à ta mémoire — garde la donnée ;
 - un **pitch prêt** — construit, mais pas encore pour vendre ;
 - un premier contenu commencé ;
-- validé en call.
+- validé en call *(membre)*.
 
 C'est là que le pilier 1 se ferme et que la Vente s'ouvre. Le membre sait donc
 où est la ligne d'arrivée avant même de commencer Mon projet.
