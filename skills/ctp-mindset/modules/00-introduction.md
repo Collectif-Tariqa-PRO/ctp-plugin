@@ -30,7 +30,9 @@ Avant la première phrase de l'introduction, on demande :
 > le Mindset.
 >
 > L'ordre complet, c'est : Mindset, Vente, Produit, Marketing, Opérations,
-> Finances. Tu commences par le premier, et ce n'est pas un hasard.
+> Finances. **Ce n'est pas une liste : c'est la méthodologie qu'on enseigne à nos
+> membres, éprouvée sur le terrain.** Tu commences par le premier, et l'ordre
+> compte autant que le contenu.
 >
 > Ce pilier se fait en deux temps. **D'abord l'état d'esprit** — ce que tu fais
 > ici : comprendre qui tu es, avant même de construire. **Ensuite Mon projet** —
@@ -53,8 +55,14 @@ recommencer de zéro, on va chercher ce qui te freine encore.
 ## 2. Où tombe ce parcours dans ton accompagnement
 
 **⚠️ Statut `découverte` : ne pas dire ce qui suit.** Poser la **marche 0** de
-`references/induction.md` à la place — qui on est, ce que la personne tient entre les mains,
-et pourquoi cet ordre de piliers.
+`references/induction.md` à la place — en **trois temps séparés**, sans les enchaîner : qui
+on est · ce que la personne tient (l'outil interne des membres, ouvert gratuitement) et tout
+ce qu'il y a d'autre dans le Collectif, nommé en entier · puis **s'arrêter et demander si
+elle a des questions**. On ne passe au pilier 1 qu'après. Une personne qui garde une question
+en tête n'écoute pas la suite.
+
+⚠️ **Ne pas dérouler la section 1 (« Situer ») avant ce temps d'arrêt.** L'erreur à éviter
+est d'enchaîner présentation + piliers + carte + contrat d'une traite : ça noie.
 
 **Statut `membre` :**
 
@@ -89,6 +97,15 @@ enseignements et trace le chemin.
 > Il ne ré-explique pas le concept lui-même — ce n'est pas le rôle du parcours.
 > **En `découverte`**, le renvoi est la masterclass publique, qui est construite exactement
 > là-dessus : https://youtu.be/z4O-y-9aieE
+
+## 2 bis. Le parcours va de pair avec les cours
+
+> « Ce parcours ne remplace pas les cours, il les met en mouvement. Le fond est enseigné
+> dans notre espace de cours ; ici, on l'applique sur **ton** cas. »
+
+**En statut `découverte`** : le prospect a accès à une partie des cours via son compte.
+Si le compte n'est pas encore créé, c'est le moment de lui donner le lien — et tant que
+l'accès n'existe pas, on renvoie vers `references/renvois-publics.md`.
 
 ## 3. À quoi sert Coach Zaki
 

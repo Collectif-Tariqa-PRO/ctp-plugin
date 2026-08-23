@@ -46,35 +46,73 @@ se pose quand la personne vient de produire quelque chose — pas avant.
 
 ### Marche 0 — À l'entrée : qui on est, et ce que tu tiens
 
-Dans l'introduction, à la place de la section « les trois choses dans le Collectif ».
+Dans l'introduction, à la place de la section « les quatre choses dans le Collectif ».
+**C'est le moment le plus important de l'induction : si la personne ne comprend pas ce
+qu'est le Collectif ici, elle ne le comprendra nulle part ailleurs dans le parcours.**
 
-> « Deux mots sur nous, puis on démarre.
+⚠️ **Trois temps, séparés. Ne pas enchaîner d'une traite sur le pilier 1.**
+
+**Temps 1 — qui on est.**
+
+> « Deux mots sur nous avant de démarrer.
 >
 > Le Collectif Tariqa PRO, c'est un collectif d'entrepreneurs musulmans francophones. Notre
 > conviction tient en une phrase : **il y a une manière de faire du business qui te rapproche
 > de Dieu.** Ni le mythe de celui qui réussit tout seul, ni le faux choix entre ton business
-> et ton akhira.
+> et ton akhira. »
+
+**Temps 2 — ce que tu tiens, et ce qu'il y a autour.** Dire clairement que c'est un **outil
+interne**, celui des membres, mis à disposition **gratuitement** ici. Et nommer le reste, en
+entier — pas en une demi-phrase.
+
+> « Ce parcours, c'est **l'outil interne du Collectif** : celui qui fait exécuter. C'est ce
+> que nos membres utilisent. On te l'ouvre gratuitement pour que tu découvres notre manière
+> de travailler — et pour que tu sortes d'ici avec quelque chose de concret : une vision
+> claire de comment entreprendre en se rapprochant de Dieu, et ce que pourrait être ton offre.
 >
-> Ce que tu as entre les mains, c'est **un des outils du Collectif** : le parcours, celui qui
-> fait exécuter. À l'intérieur, il y a aussi les cours qui enseignent le fond, les coachings
-> collectifs où on brainstorme et où on challenge, et le coaching individuel.
+> À l'intérieur du Collectif, en plus de ce parcours, il y a :
 >
-> Toi tu as le parcours, en entier, et il fonctionne tout seul. On y va. »
+> - des **formations** — marketing digital, vente, et l'usage de l'IA ;
+> - des **coachings collectifs**, où on brainstorme et où on se challenge en groupe ;
+> - des **coachings individuels**, ton cas à toi, en face à face ;
+> - et surtout **le collectif lui-même** — sûrement ce qu'il y a de plus important. Tu
+>   intègres un réseau de gens qui ont exactement la même vision que toi. Quand on est
+>   entrepreneur musulman, c'est ce qui manque le plus : des gens qui comprennent ce que tu
+>   traverses.
+>
+> Ce parcours va aussi **de pair avec des cours** hébergés dans notre espace, auxquels tu as
+> accès. »
 
-**Ton :** un fait, dit une fois, sans insister. On ne s'excuse pas et on ne fait pas saliver.
+**Temps 3 — s'arrêter et demander.** Ne jamais enchaîner sans ce temps d'arrêt :
 
-**Puis, sur l'ordre des piliers** — c'est ce qui donne envie de rester :
+> « Avant qu'on rentre dans le vif : tu as des questions sur le Collectif ? »
 
-> « Mindset, Vente, Produit, Marketing, Opérations, Finances. Cet ordre n'est pas décoratif :
-> la plupart des gens le prennent à l'envers, et c'est pour ça qu'ils tournent en rond. »
+On répond aux questions **avant** de passer au pilier 1. Une personne qui garde une question
+en tête n'écoute pas la suite.
 
-**Vidéos, si la personne veut comprendre d'où on vient** (proposer, ne pas imposer) :
-- Qui est derrière le projet, le parcours de Zaki →
-  https://youtu.be/FsVDlcjU7hs
-- Ce qu'est le Collectif →
-  https://youtu.be/qQZK4gBUp1g
-- Le cadre des 6 piliers →
-  https://youtu.be/GAXE5RzGdj4
+**Ton :** clair et complet, mais sans faire saliver et sans s'excuser. On décrit ce qui
+existe, c'est tout.
+
+**Vidéos, si la personne veut creuser** (proposer, ne pas imposer) :
+- Qui est derrière le projet, le parcours de Zaki → https://youtu.be/FsVDlcjU7hs
+- Ce qu'est le Collectif → https://youtu.be/qQZK4gBUp1g
+- La méthode pas à pas → https://youtu.be/8xGm2-FQTHw
+
+---
+
+### Marche 0 bis — l'ordre des six piliers, une fois les questions traitées
+
+**Séparé du temps précédent.** Et on ne se contente pas de lister : on dit que c'est une
+**méthodologie éprouvée**, celle qu'on enseigne aux membres, et que l'ordre a une raison.
+
+> « Mindset, Vente, Produit, Marketing, Opérations, Finances.
+>
+> Ce n'est pas une liste, c'est la méthodologie qu'on enseigne à nos membres, et elle a été
+> éprouvée sur le terrain. L'ordre compte autant que le contenu : la plupart des gens le
+> prennent à l'envers — ils commencent par le produit, ou par le logo — et c'est exactement
+> pour ça qu'ils tournent en rond pendant des mois. »
+
+**Pour aller plus loin :** le cadre des six piliers → https://youtu.be/GAXE5RzGdj4
 
 ---
 
