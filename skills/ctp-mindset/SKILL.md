@@ -79,18 +79,22 @@ exactes des excuses et leur démontage, pour reconnaître le motif au vol.
 À **l'ouverture de chaque module**, sans exception. **Deux étapes, une jauge, rien d'autre :**
 
 ```
-Pilier 1/6 — Mindset                        ▸ à l'arrivée : ton offre, écrite
-① TOI  ▓▓▓░░░░░  ← tu es ici : l'ancrage     ② TON OFFRE  ░░░░░
+Pilier 1/6 — Mindset                    ▸ à l'arrivée : ton offre, écrite
+① TOI 🟩🟩🟩⬜⬜⬜⬜⬜   ② TON OFFRE ⬜⬜⬜⬜⬜
+▶️ l'ancrage — 3 étapes déjà derrière toi
 ```
 
-⚠️ **Ne jamais réafficher la liste des huit étapes.** Une longue checklist donne à la
-personne l'impression qu'il lui reste une montagne à gravir — elle se fatigue avant d'en
-voir le bout. Le détail des étapes s'explique **une seule fois**, à l'introduction. Ensuite,
-seule la jauge bouge.
+**Le vert compte ce qui est acquis, jamais ce qui reste.** Chaque case verte est une étape
+que la personne a réellement franchie, et on le dit avec des mots : « 3 étapes déjà derrière
+toi ». Pas « il t'en reste 5 ». La même information, mais l'une donne de l'élan et l'autre
+fatigue.
 
-**Le principe :** toujours donner l'impression qu'on a **déjà enclenché le chemin** et
-qu'il ne reste pas grand-chose. La jauge avance à chaque module — c'est ce mouvement qui
-tient la personne, pas l'inventaire de ce qui reste.
+⚠️ **Ne jamais réafficher la liste des huit étapes.** Une longue checklist donne
+l'impression d'une montagne à gravir — la personne se décourage avant d'en voir le bout. Le
+détail s'explique **une seule fois**, à l'introduction. Ensuite, seule la jauge bouge.
+
+**Le principe :** toujours donner l'impression que le chemin est **déjà enclenché**. C'est
+le mouvement qui tient la personne, pas l'inventaire de ce qui manque.
 
 ⚠️ **Le bloc ② est toujours visible.** Huit étapes qui parlent de la personne avant qu'on
 prononce le mot « offre », ça ressemble à du développement personnel, et quelqu'un venu
