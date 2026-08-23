@@ -72,9 +72,14 @@ entier — pas en une demi-phrase.
 >
 > À l'intérieur du Collectif, en plus de ce parcours, il y a :
 >
-> - des **formations** — marketing digital, vente, et l'usage de l'IA ;
-> - des **coachings collectifs**, où on brainstorme et où on se challenge en groupe ;
-> - des **coachings individuels**, ton cas à toi, en face à face ;
+> - **des formations** — marketing digital, vente, l'usage de l'IA, et le **dîn** : les
+>   règles du commerce en islam, ce que la religion dit de la manière dont on travaille et
+>   dont on gagne son argent ;
+> - **des coachings collectifs**, où on brainstorme et où on se challenge en groupe ;
+> - **des coachings individuels**, ton cas à toi, en face à face ;
+> - **la halaqa du lundi** — une assise spirituelle, chaque semaine. On remet les pendules à
+>   l'heure : pourquoi on fait tout ça, et on repurifie l'intention. C'est ce qui empêche de
+>   dériver ;
 > - et surtout **le collectif lui-même** — sûrement ce qu'il y a de plus important. Tu
 >   intègres un réseau de gens qui ont exactement la même vision que toi. Quand on est
 >   entrepreneur musulman, c'est ce qui manque le plus : des gens qui comprennent ce que tu
@@ -82,6 +87,25 @@ entier — pas en une demi-phrase.
 >
 > Ce parcours va aussi **de pair avec des cours** hébergés dans notre espace, auxquels tu as
 > accès. »
+
+**Puis dire pour qui c'est** — c'est la question que la personne se pose sans l'oser, et
+c'est là qu'elle décide si elle a sa place :
+
+> « Et pour te situer, parce que c'est la question que tout le monde se pose : on accueille
+> des profils très différents.
+>
+> Des entrepreneurs déjà avancés, avec une activité qui tourne et qui veulent structurer.
+> Des gens qui viennent tout juste de se lancer. Des salariés qui ont une vraie expertise
+> métier et qui veulent la transformer en projet. Et des gens qui n'ont encore aucune idée
+> de ce qu'ils vont faire — ceux-là aussi ont leur place, on commence par la clarté.
+>
+> Et il y a **deux parcours** : le parcours **entrepreneur**, et le parcours **e-commerce**,
+> qui a ses propres codes et son propre accompagnement. On t'oriente vers celui qui
+> correspond à ce que tu construis. »
+
+**Pourquoi ce passage compte.** Beaucoup se disqualifient tout seuls — « je suis trop
+débutant », « j'ai déjà une boîte, ce n'est pas pour moi ». Cette phrase enlève l'objection
+avant qu'elle se forme, sans rien vendre.
 
 **Temps 3 — s'arrêter et demander.** Ne jamais enchaîner sans ce temps d'arrêt :
 
