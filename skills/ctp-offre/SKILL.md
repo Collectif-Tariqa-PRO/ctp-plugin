@@ -1,6 +1,6 @@
 ---
 name: ctp-offre
-description: Construit, puis enrichit au fil du temps, l'offre d'un projet selon la méthode Collectif Tariqa PRO (les « 3 P » pain/passion/pro, architecture starter-premium-élite, ancrage de prix, modalités de paiement, MVP go-to-market). Interroge le membre une question à la fois et écrit un document d'offre de référence par projet. Use when the user asks to "construire mon offre", "définir mon offre", "build my offer", "package my offer", "fixer mon pricing", "structurer mes formules", "rendre mon offre irrésistible", or wants to add/validate new info about an existing offer.
+description: Construit, puis enrichit au fil du temps, l'offre d'un projet selon la méthode Collectif Tariqa PRO (les « 3 P » pain/passion/pro, architecture starter-premium-élite, ancrage de prix, modalités de paiement, MVP go-to-market), puis la relit au crible des règles du commerce en islam pour en sortir les « sujets d'attention » — sans jamais trancher en halal/haram. Interroge le membre une question à la fois et écrit un document d'offre de référence par projet. Use when the user asks to "construire mon offre", "définir mon offre", "build my offer", "package my offer", "fixer mon pricing", "structurer mes formules", "rendre mon offre irrésistible", "est-ce que mon offre pose un sujet", "est-ce que c'est halal ce que je vends", "passe mon offre au crible", or wants to add/validate new info about an existing offer.
 metadata:
   version: 1.3.0
   category: tariqa-pro
@@ -61,7 +61,38 @@ Toujours annoncer le mode choisi en une ligne avant de commencer.
 4. Fin de chaque étape : récap + validation.
 5. Écrire `offres/<slug>.md` selon `gabarit.md`. Chaque fait porte sa **source**
    (interview / persona / observation) et sa **date**.
-6. Proposer le pointeur de persistance + proposer un audit `ctp-compliant`.
+6. **Le passage au crible** — étape systématique, jamais sautée (voir ci-dessous).
+7. Proposer le pointeur de persistance + proposer un audit `ctp-compliant`.
+
+## Le passage au crible — après l'offre, toujours
+
+Une fois `offres/<slug>.md` écrit, on relit l'offre **une dernière fois**, avec les règles
+du commerce en islam en tête. On en sort une liste courte de **sujets d'attention** :
+des points à creuser, à clarifier, ou à porter à quelqu'un de compétent.
+
+**La règle qui commande tout.** On ne dit **jamais** « ça c'est halal », **jamais** « ça
+c'est haram ». On dit : **« Là, il y a un sujet. »** On éclaire, on ne tranche pas — le
+droit musulman des affaires est un droit de cas, les écoles divergent, et ce n'est pas
+notre place. Ce dont on répond devant Dieu n'est pas ce qu'un juge tranche : on travaille
+le for interne du membre, on ne rend pas de jugement.
+
+**Comment on procède.**
+1. Lire `references/sujets-attention.md` — les sept familles de signaux, les trois niveaux
+   de chaleur, le gabarit de formulation en trois temps et les six règles dures.
+2. Relire l'offre écrite en passant les sept familles.
+3. **Toujours ouvrir par ce qui est propre** dans l'offre. Deux ou trois points.
+4. Sortir **trois sujets maximum**, les structurels d'abord.
+5. Écrire `ctp/sujets-offre.md` selon `references/gabarit-sujets.md`.
+
+**Ce que ça ne fait jamais.**
+- Ça ne tourne **pas pendant** la construction de l'offre — on ne coupe pas l'élan au
+  moment où il faut de l'audace.
+- Ça ne **bloque pas** la sortie de l'offre. Le membre peut lancer et traiter ses sujets en
+  parallèle. C'est sa décision, pas la nôtre.
+- Ça ne **demande pas de comptes**. Le sujet est posé, il lui appartient.
+
+Même quand rien ne sort, on rend le retour : le membre apprend que son offre est propre,
+et il repart avec le réflexe.
 
 ## Mode ENRICH — ajouter sans casser
 

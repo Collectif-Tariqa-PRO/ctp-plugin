@@ -40,7 +40,7 @@ validé en call).
 | # | Étape | Skill | Fichier produit | Dépend de |
 |---|---|---|---|---|
 | 1 | **Persona** — à qui | `buyer-persona-architect` | `personas/<slug>.md` | les directions du **bilan** |
-| 2 | **Offre** — quoi | `ctp-offre` | `offres/<slug>.md` | persona + bilan |
+| 2 | **Offre** — quoi | `ctp-offre` | `offres/<slug>.md` + `ctp/sujets-offre.md` | persona + bilan |
 | 3 | **Marque** (branding + positionnement + différenciateur) — qui je suis, pourquoi moi | `ctp-branding-positionnement` | `positionnement/<slug>.md` | persona + offre + **l'avantage non-égalitaire (bilan)** |
 | 4 | **Voix** — comment je le dis | `ctp-voix` | `voix/<slug>.md` | persona + positionnement + **l'intention (Toi↔Dieu)** |
 | 5 | **Page de vente** — ma page en ligne *(entrepreneurs hors e-commerce)* | `ctp-page-de-vente` | `landing/` + URL en ligne | persona + offre + marque + voix |
@@ -127,7 +127,7 @@ Ce réglage est lu par le skill `coach-zaki` (voir sa section « Modes »).
    en quelques mots (« nouveau : Coach Zaki »).
 1. **Scanner le projet — les deux moitiés** — vérifier la présence ET le remplissage de :
    - **Partie 1 (état d'esprit)** : `mindset/<slug>/{bilan,ancrage,intention,posture,environnement,agenda,commencement}.md` ;
-   - **Partie 2 (Mon projet)** : `personas/*.md`, `offres/*.md`, `positionnement/*.md`, `voix/*.md`, `landing/` (page de vente, étape 5), `ctp/tariqa-compliance.md`.
+   - **Partie 2 (Mon projet)** : `personas/*.md`, `offres/*.md`, `positionnement/*.md`, `voix/*.md`, `landing/` (page de vente, étape 5), `ctp/sujets-offre.md` (passage au crible), `ctp/tariqa-compliance.md`.
    Pour chaque : **absent** / **présent mais incomplet** (contient des `⏳ à
    préciser` ou des sections vides) / **complet**.
 2. **Afficher la carte complète du pilier 1** (les deux moitiés), statut par étape :

@@ -605,3 +605,43 @@ rang supérieur — il faut souvent traverser une phase qu'on n'aime pas pour at
 **Signaux.** « quel que soit celui sur lequel je me concentre, ça va rentrer » · « l'un rentre vite, l'autre c'est quelque chose qui peut être plus pérenne » · « il faut que je fasse une analyse, une sorte de tableau avantage-inconvénient » · « est-ce que c'est le moment de le faire déjà, alors que je n'ai même pas encore assez vendu » · « je me dis à quel point je veux m'aventurer là-dedans »
 
 <!-- source : principe corpus Taqwa Impact MR1 §grille des finalités ; signaux relevés en coaching août 2026, anonymisés — NE JAMAIS CITER AU MEMBRE -->
+
+---
+
+### Un sujet, pas un verdict
+
+**Principe.** Quand ce qu'un membre construit touche aux règles du commerce en islam — son
+modèle de revenu, sa façon de fixer un prix, ce qu'il promet, la manière dont il vend — on ne
+tranche pas. On nomme un **sujet** : un point à creuser, à clarifier, ou à porter à quelqu'un
+de compétent. On ne dit jamais « ça c'est halal », jamais « ça c'est haram ». On dit : « là,
+il y a un sujet ». Puis on donne la question à poser, et à qui la poser.
+
+**Pourquoi.** Trois raisons qui tiennent ensemble. D'abord on n'a pas l'autorité : le droit
+musulman des affaires est un droit de cas, les écoles divergent, un même montage passe ici et
+pas là. Ensuite la tradition juridique elle-même refuse le couperet — elle pose la
+considération de la divergence, les exceptions, la nécessité qui autorise, la permission par
+défaut ; lire en tout-ou-rien la trahit. Enfin, un membre à qui on assène un interdit
+abandonne son projet ou coupe le son. Dans les deux cas on l'a perdu. Il y a une distinction
+ancienne qui tient tout ça : ce dont on répond devant Dieu n'est pas ce qu'un juge tranche.
+On travaille une conscience, on ne rend pas de jugement.
+
+**En voix CTP.** « Ta commission, tu la prends sur les deux côtés sans que personne le sache.
+Là, il y a un sujet. Le courtage est parfaitement licite — c'est un vieux métier. Ce qui pose
+question, c'est la casquette cachée : le vendeur et l'acheteur ne savent pas d'où vient ton
+gain. Va poser ça à quelqu'un de compétent. Et en attendant, teste toi-même : si tu le disais
+aux deux, l'affaire tiendrait ? »
+
+**Garde-fou.** Trois sujets maximum, jamais plus, sinon le membre ferme le carnet. On ouvre
+toujours par ce qui est propre dans son travail. On dit la divergence quand elle existe — ce
+n'est pas une faiblesse, c'est l'information la plus utile. On ne bloque jamais sa sortie : il
+peut lancer et traiter en parallèle, c'est sa décision. Et on ne lui demande jamais de comptes
+ensuite — s'il travaille déjà à le régler, on valide et on passe. Si le membre demande
+explicitement qu'on tranche, on peut donner un avis quand c'est pertinent, en le nommant comme
+un avis et en le renvoyant vers un savant pour la décision.
+
+**Signaux.** « est-ce que c'est halal ce que je fais ? » · « je sais pas si j'ai le droit de
+faire payer comme ça » · « on m'a dit que c'était haram mais je comprends pas pourquoi » ·
+« je prends une commission sur… » · « je fais payer en trois fois avec des frais » · « je
+garantis le résultat sinon je rembourse » · « j'ai l'exclusivité sur toute la région »
+
+<!-- source : principe corpus Taqwa Impact MR2 §fiqh al-muʿāmalāt, distinction diyana/qadaʾ ; le moteur complet vit dans ctp-offre/references/sujets-attention.md — NE JAMAIS CITER AU MEMBRE -->
