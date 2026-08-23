@@ -74,36 +74,41 @@ consulte de lui-même. Ce parcours **ne la redit pas** : il fait faire.
 continu. Il ne remplace pas la doctrine — il donne à Coach Zaki les formulations
 exactes des excuses et leur démontage, pour reconnaître le motif au vol.
 
-## Le bandeau « tu es ici » — et surtout « tu vas où »
+## Le bandeau « tu es ici » — court, et jamais une checklist
 
-À **l'ouverture de chaque module**, sans exception. Le bandeau montre **les deux blocs**,
-jamais le premier tout seul :
+À **l'ouverture de chaque module**, sans exception. **Deux étapes, une jauge, rien d'autre :**
 
 ```
-Pilier 1/6 — Mindset          ▸ tu ressors avec : ta cible, ton offre, ton positionnement, ta voix
-① TOI       ✅ Bilan  ▶️ Ancrage  ⬜ Dieu  ⬜ Toi-même  ⬜ Les tiens  ⬜ Environnement  ⬜ Agenda  ⬜ Départ
-② TON OFFRE ⬜ Cible  ⬜ Offre  ⬜ Marque  ⬜ Voix  ⬜ Page de vente
+Pilier 1/6 — Mindset                        ▸ à l'arrivée : ton offre, écrite
+① TOI  ▓▓▓░░░░░  ← tu es ici : l'ancrage     ② TON OFFRE  ░░░░░
 ```
 
-⚠️ **Pourquoi les deux blocs, toujours.** Huit étapes qui parlent de la personne avant
-qu'on prononce le mot « offre », ça ressemble à du développement personnel — et quelqu'un
-qui est venu construire son offre décroche avant d'en voir le bout. Le bandeau répond en
-permanence à la question qu'il n'ose pas poser : **c'est quand qu'on parle business ?**
+⚠️ **Ne jamais réafficher la liste des huit étapes.** Une longue checklist donne à la
+personne l'impression qu'il lui reste une montagne à gravir — elle se fatigue avant d'en
+voir le bout. Le détail des étapes s'explique **une seule fois**, à l'introduction. Ensuite,
+seule la jauge bouge.
 
-**Et à chaque fin de module, dire ce que l'étape vient de servir**, concrètement, dans le
-bloc ② :
+**Le principe :** toujours donner l'impression qu'on a **déjà enclenché le chemin** et
+qu'il ne reste pas grand-chose. La jauge avance à chaque module — c'est ce mouvement qui
+tient la personne, pas l'inventaire de ce qui reste.
 
-| Étape du bloc ① | Ce qu'elle sert plus tard |
+⚠️ **Le bloc ② est toujours visible.** Huit étapes qui parlent de la personne avant qu'on
+prononce le mot « offre », ça ressemble à du développement personnel, et quelqu'un venu
+construire son offre décroche. Le bandeau répond en permanence à la question qu'il n'ose
+pas poser : **c'est quand qu'on parle business ?**
+
+**Et à chaque fin de module, dire ce que l'étape vient de servir** — concrètement, pour
+l'exécution à venir :
+
+| Étape du bloc ① | Ce qu'elle sert |
 |---|---|
 | Le bilan | ce que tu sais faire → **la matière de ton offre** |
-| L'ancrage | ce que tu vises → **ton prix et ton exigence** |
-| Toi ↔ Dieu | ton intention → **ce que tu refuseras de vendre** |
-| Toi ↔ toi-même | tes blocages → **ce qui te fera brader ou te cacher** |
-| Toi ↔ les tiens | ton appui réel → **le rythme que ton offre peut tenir** |
-| Toi ↔ l'environnement | ton cercle → **tes premiers clients et tes recommandations** |
-| L'agenda | tes créneaux → **quand tu produis et quand tu vends** |
-
-Le membre doit toujours savoir où il est **et** que le business arrive.
+| L'ancrage | ce que tu vises → ton prix, ton exigence |
+| Toi ↔ Dieu | ton intention → ce que tu refuseras de vendre |
+| Toi ↔ toi-même | tes blocages → ce qui te ferait brader ou te cacher |
+| Toi ↔ les tiens | ton appui réel → le rythme que ton plan peut tenir |
+| Toi ↔ l'environnement | ton cercle → tes premiers clients |
+| L'agenda | tes créneaux → quand tu produis, quand tu vends |
 
 ## L'accessibilité — garde-fou
 

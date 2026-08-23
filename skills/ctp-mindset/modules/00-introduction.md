@@ -132,10 +132,16 @@ sur elle-même sans savoir où ça va, et elle décroche.
 >
 > Pour y arriver, on passe par **deux blocs**.
 >
-> **① On s'intéresse à toi.** Pas pour faire du développement personnel — pour récolter la
-> matière. Ce que tu sais faire deviendra ton offre. Ce qui te bloque, c'est ce qui te fera
-> te brader. Ton agenda, c'est ce qui décidera si tu exécutes ou pas. Rien de ce bloc n'est
-> là pour la beauté du geste : tout sert le suivant.
+> **① On s'intéresse à toi.** Et je te dis tout de suite pourquoi, parce que ça n'a rien à
+> voir avec du développement personnel.
+>
+> Le but de ce parcours, c'est de **te faire exécuter**. Pas de te faire réfléchir. Et pour
+> qu'un plan d'action tienne, il doit être bâti sur **ta réalité** — ton emploi du temps
+> réel, tes contraintes familiales, ce que tu sais faire, ce que tu ne sais pas faire.
+>
+> Sinon je t'arrive avec un plan magnifique et irréaliste, tu tiens trois semaines, et tu
+> abandonnes en pensant que c'est toi le problème. Alors qu'on t'aura juste demandé
+> l'impossible. C'est pour ça qu'on commence par toi.
 >
 > **② On s'intéresse à ton offre.** Là, c'est du business pur. »
 
@@ -155,7 +161,7 @@ qu'on peut vérifier.
 
 | # | Étape | Ce que tu en sors | Ce que ça servira au bloc ② |
 |---|---|---|---|
-| 0 | Le bilan | ce que tu ramènes, ou une direction | **la matière de ton offre** |
+| 0 | Le bilan | ton parcours et ce que tu ramènes | **la matière de ton offre** |
 | 1 | L'ancrage | ton pourquoi, ce qui pourrait te faire lâcher | ton prix, ton exigence |
 | 2 | Toi ↔ Dieu | ton intention et tes moteurs | ce que tu refuseras de vendre |
 | 3 | Toi ↔ toi-même | tes blocages, nommés | ce qui te ferait te brader |
@@ -175,6 +181,9 @@ qu'on peut vérifier.
 | 12 | Ta page de vente | ton offre en ligne *(hors e-commerce)* |
 
 Une étape à la fois, dans l'ordre. On ne saute pas — mais tu sais où tu vas.
+
+⚠️ **Cette carte se montre UNE FOIS, ici.** Ensuite, seul le bandeau court apparaît. On ne
+réaffiche jamais la liste complète : ça donne l'impression d'une montagne à gravir.
 
 ## 6. Le contrat de fonctionnement
 
