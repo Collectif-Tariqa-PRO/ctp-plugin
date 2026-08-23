@@ -1,6 +1,6 @@
 ---
 name: ctp-parcours
-description: Porte d'entrée et chef d'orchestre du pilier 1 (Mindset) de la méthode Collectif Tariqa PRO, dans ses DEUX moitiés : Partie 1 l'état d'esprit (skill ctp-mindset, 7 modules) puis Partie 2 Mon projet (persona → offre → marque [branding + positionnement] → voix → page de vente en ligne [hors e-commerce], + compliance transverse). Scanne où en est le projet sur les deux moitiés, affiche la carte complète, câble le passage entre l'état d'esprit et Mon projet, et lance la bonne étape suivante dans le bon ordre. Use when the user asks "par où commencer", "lance le parcours CTP", "où j'en suis", "étape suivante", "méthode Tariqa PRO", "start CTP", "guide moi", or doesn't know which CTP skill utiliser.
+description: Porte d'entrée et chef d'orchestre du pilier 1 (Mindset) de la méthode Collectif Tariqa PRO, dans ses DEUX moitiés : Partie 1 l'état d'esprit (skill ctp-mindset, 8 modules) puis Partie 2 Mon projet (persona → offre → marque [branding + positionnement] → voix → page de vente en ligne [hors e-commerce], + compliance transverse). Scanne où en est le projet sur les deux moitiés, affiche la carte complète, câble le passage entre l'état d'esprit et Mon projet, et lance la bonne étape suivante dans le bon ordre. Use when the user asks "par où commencer", "lance le parcours CTP", "où j'en suis", "étape suivante", "méthode Tariqa PRO", "start CTP", "guide moi", or doesn't know which CTP skill utiliser.
 metadata:
   version: 1.3.0
   category: tariqa-pro

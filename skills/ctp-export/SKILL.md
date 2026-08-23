@@ -114,7 +114,7 @@ rangé par problème, trois versions par remède (arabe / phonétique / françai
 | 5. Page de vente | <URL ou ⬜> | … |
 | ✓ Compliance | … | dernier verdict : <✅/⚠️/❌ + date> |
 
-**Avancement global : <X>/7 modules d'état d'esprit · <Y>/4 étapes Mon projet.**
+**Avancement global : <X>/8 modules d'état d'esprit · <Y>/4 étapes Mon projet.**
 
 ## Points encore à préciser (⏳)
 - [module/étape] <…>
@@ -167,7 +167,7 @@ chaque remède en 3 versions (arabe / phonétique / français) ; lien vers le HT
 
 ```
 LIVRABLE PILIER 1 (MINDSET) — <projet> — <date>
-État d'esprit : <X>/7 modules · Mon projet : <Y>/4 étapes
+État d'esprit : <X>/8 modules · Mon projet : <Y>/4 étapes
 Bilan ✅ · Ancrage ✅ · Toi↔Dieu ✅ · Toi↔toi 🟡 · Env ⬜ · Agenda ⬜ · Commencement ⬜
 Persona ⬜ · Offre ⬜ · Marque ⬜ · Voix ⬜ · Compliance ⬜
 Page de vente en ligne : <URL ou ⬜ pas encore>
