@@ -37,7 +37,49 @@ existent, les lire. Ne jamais reposer une question déjà répondue.
 
 ---
 
-## 3. Les axes
+## 3. En trois temps : large, puis détail, puis le filet
+
+⚠️ **Ne jamais entrer dans le détail à la première question.** Testé en conditions réelles :
+on se retrouve à creuser un point précis avant d'avoir la moindre vue d'ensemble, et on
+passe à côté du principal pendant plusieurs tours.
+
+### Temps A — trois questions larges, pour voir le tableau
+
+Trois questions ouvertes, une par une, **sans creuser**. On écoute, on note, on enchaîne.
+Le but n'est pas d'avoir le détail — c'est d'avoir la carte.
+
+1. **« Aujourd'hui, tu fais quoi de tes journées ? »**
+2. **« Qu'est-ce qui t'amène ici — qu'est-ce que tu veux qui change ? »**
+3. **« Où tu en es : rien encore, une idée, ou quelque chose de déjà lancé ? »**
+
+Si le membre déborde, on le laisse : c'est le moment où il donne le plus. On ne l'interrompt
+pas pour préciser un point.
+
+### Temps B — la transition, dite à voix haute
+
+**On annonce le changement de régime.** Sinon la personne a l'impression qu'on radote.
+
+> « Bon. J'ai une vue d'ensemble maintenant. On va reprendre tout ce que tu viens de me
+> dire, mais dans le détail cette fois, point par point. Certaines choses vont revenir —
+> c'est normal, c'est là qu'on creuse. »
+
+Puis on déroule les axes ci-dessous. **Coach Zaki reprend les mots exacts du membre** et
+propose, il ne repart pas d'une page blanche.
+
+### Temps C — le filet, avant de clore
+
+Dernière question du module, toujours posée, telle quelle :
+
+> « Avant qu'on attaque ton offre : il y a encore quelque chose d'important que tu n'as pas
+> dit ? **Un éléphant dans la pièce** dont on n'a pas parlé ? »
+
+C'est là que sortent les choses qui changent tout — une dette, une santé, un associé, un
+départ prévu, une contrainte qu'on n'aurait jamais devinée. On ne creuse pas ce qui sort :
+on le note et on l'intègre au reste du parcours.
+
+---
+
+## 4. Les axes — le détail du temps B
 
 Coach Zaki les explore **un par un**, et **va chercher les réponses dans le
 passé du membre** plutôt que de lui demander de les inventer. Il propose ce qu'il
