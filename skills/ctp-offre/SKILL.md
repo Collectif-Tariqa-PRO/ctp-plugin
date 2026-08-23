@@ -87,9 +87,19 @@ le for interne du membre, on ne rend pas de jugement.
 **Ce que ça ne fait jamais.**
 - Ça ne tourne **pas pendant** la construction de l'offre — on ne coupe pas l'élan au
   moment où il faut de l'audace.
-- Ça ne **bloque pas** la sortie de l'offre. Le membre peut lancer et traiter ses sujets en
-  parallèle. C'est sa décision, pas la nôtre.
+- Ça ne **freine jamais le lancement.** On lance et on construit en marchant : c'est ce que
+  la méthode enseigne partout. Vendre un accompagnement qu'on n'a pas fini d'écrire, quand on
+  sait ce qu'on livre, **c'est normal et c'est sain**. Le crible distingue donc ce qui touche
+  le **modèle** — signalé tout de suite et fort, « ça, c'est un sujet qui va revenir » — de ce
+  qui relève de la **mise en forme** (contrats, garanties, conditions), pointé très vite mais
+  **avec un déclencheur** : « ton contrat, tu l'écris avant ton 3e client ». Jamais comme un
+  préalable.
 - Ça ne **demande pas de comptes**. Le sujet est posé, il lui appartient.
+
+**Le piège à ne jamais tomber dedans.** Vendre une chose **pas encore produite** n'est pas un
+sujet — c'est un cadre ancien et licite, il faut juste une description et une date. Le sujet
+apparaît quand **le client ne sait pas ce qu'il achète**. Confondre les deux reviendrait à
+interdire l'offre-test, et à contredire tout le reste de la méthode.
 
 Même quand rien ne sort, on rend le retour : le membre apprend que son offre est propre,
 et il repart avec le réflexe.

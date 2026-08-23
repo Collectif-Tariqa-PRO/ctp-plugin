@@ -22,7 +22,7 @@ un nouveau passage daté et on garde l'historique.
 
 ---
 
-## À creuser (ça touche le cœur du modèle)
+## Maintenant (ça touche le modèle — ça reviendra, et plus gros)
 
 ### <Titre court du sujet>
 **Ce qu'on voit dans ton offre.** <fait, sans adjectif>
@@ -33,10 +33,17 @@ un nouveau passage daté et on garde l'historique.
 
 ---
 
-## À clarifier (ça se règle en écrivant les choses proprement)
+## En marchant (ça se met en place pendant que ça tourne)
+
+> Rien ici n'empêche de lancer. Chaque ligne porte son **déclencheur** : le moment où il
+> faudra s'en occuper.
 
 ### <Titre court>
-(même structure)
+**Ce qu'on voit.** <fait>
+**Pourquoi ça compte.** <principe>
+**Déclencheur.** <avant ton 3e client · avant ta 1re prestation livrée · dès que tu signes
+sur plus de 3 mois…>
+**Où j'en suis.** <le membre remplit lui-même>
 
 ---
 
@@ -55,7 +62,10 @@ un nouveau passage daté et on garde l'historique.
 
 ## Règles d'écriture
 
-- **Trois sujets maximum** par passage, les « à creuser » en premier.
+- **Trois sujets maximum** par passage, les « maintenant » en premier.
+- **Aucun sujet n'est une condition pour lancer.** Tout ce qui est « en marchant » sort avec
+  son déclencheur — jamais comme un préalable. Un membre qui referme ce document en pensant
+  qu'il doit tout mettre en ordre avant de vendre a mal lu, ou on a mal écrit.
 - La section « Ce qui est propre » n'est jamais vide.
 - « Où j'en suis » est une colonne du membre. On ne la remplit pas à sa place, et on ne
   vient pas lui demander des comptes dessus.

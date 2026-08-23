@@ -31,90 +31,111 @@ pertinent — en le nommant comme un avis, et en le renvoyant vers un savant pou
 
 ---
 
-## Quand ça se déclenche
+## La deuxième règle : le crible ne freine JAMAIS le lancement
 
-- **Systématiquement** en fin de construction d'offre, après l'étape 7 (MVP go-to-market),
-  avant l'audit `ctp-compliant`. Même si rien ne sort, le membre reçoit un retour : on lui
-  dit ce qui est propre dans son offre. Un crible qui ne parle que des problèmes est raté.
-- **À la demande** — « est-ce que mon offre pose un sujet ? ».
-- **En opportuniste**, quand une phrase du membre déclenche un signal à n'importe quel
-  moment du parcours (« je prends une commission sur… », « je fais payer en trois fois avec
-  des frais »). Là c'est Coach Zaki qui le porte, un sujet à la fois.
+C'est aussi important que la première, et c'est le piège de cet outil.
 
-**Jamais pendant la construction de l'offre.** On ne coupe pas l'élan créatif au moment
-exact où il faut de l'audace.
+**On lance et on construit en marchant.** C'est ce que le Collectif enseigne partout : l'offre
+avant le produit fini, le projet pilote, la vente qui valide. Un membre n'a pas besoin d'avoir
+tous ses contrats en ordre pour bouger le petit doigt. Vendre un accompagnement qu'on n'a pas
+fini d'écrire, quand on sait ce qu'on livre et qu'on est capable de le construire, **c'est
+normal et c'est sain**.
+
+Donc le crible ne dit jamais « arrête-toi et mets tout en ordre ». Il fait deux choses
+différentes selon la nature du sujet :
+
+- **Ce qui touche le modèle** — on le signale **tout de suite et fort** : « ça, c'est un sujet
+  qui va revenir ». Ne pas le regarder maintenant coûte plus cher plus tard, parce que ça
+  reviendra plus gros à chaque client de plus.
+- **Ce qui relève de la mise en forme** — contrats, garanties, conditions d'annulation,
+  mentions — on le **pointe très vite** (« il va falloir faire ça et ça ») mais **avec un
+  déclencheur concret** au lieu d'une injonction immédiate. On ne dit pas « écris ton
+  contrat ». On dit **« ton contrat, tu l'écris avant ton troisième client »**. Rien ne se
+  perd, rien ne bloque.
+
+**La distinction technique à ne jamais rater.** Vendre une chose qu'on n'a **pas encore
+produite** n'est pas un sujet — c'est un cadre ancien, connu et licite ; il faut juste une
+description et une date. Le sujet apparaît quand **le client ne sait pas ce qu'il achète**.
+Produit pas encore construit ≠ objet indéterminé. Confondre les deux, c'est interdire
+l'offre-test, et ce serait contredire tout le reste de la méthode.
 
 ---
 
-## Les trois niveaux de chaleur
+## Les trois niveaux — ils disent le MOMENT, pas la gravité
 
-La chaleur dit l'**urgence de traiter**, jamais la gravité religieuse.
-
-- **STRUCTUREL** — ça touche le cœur du modèle. Ça se règle en changeant quelque chose au
-  modèle, pas en réécrivant une phrase.
-- **À CLARIFIER** — ça se règle en écrivant les choses proprement. Le modèle tient, c'est
-  la formulation ou le contrat qui manque.
+- **MAINTENANT** — ça touche le modèle. On le regarde avant d'aller plus loin, parce que ça
+  reviendra, et plus gros.
+- **EN MARCHANT** — ça se met en place pendant que ça tourne. **Sort toujours avec son
+  déclencheur** : à partir de quel client, de quelle date, de quel événement.
 - **EN TÊTE** — ça dépend du contexte. On consigne, ça se reposera plus tard.
+
+Aucun de ces niveaux ne dit « c'est interdit ». Aucun ne dit « arrête ».
 
 ---
 
 ## Les sept familles de signaux
 
-### Famille 1 — L'objet : qu'est-ce que tu vends exactement ?
+### Famille 1 — L'objet : est-ce que le client sait ce qu'il achète ?
 
-| Ce que tu lis dans l'offre | Le sujet | Chaleur | La question à porter |
+| Ce que tu lis dans l'offre | Le sujet | Niveau | La question à porter / le déclencheur |
 |---|---|---|---|
-| Le livrable est flou : « accompagnement sur mesure », « on verra ensemble » | Ce qu'on échange doit être défini avant qu'on s'engage. Sinon les deux parties signent deux choses différentes | STRUCTUREL | Le client sait-il précisément ce qu'il reçoit, avant de payer ? |
-| Le produit n'existe pas encore (prévente, formation à venir) | Vendre une chose absente a son cadre — il existe et il est licite, mais il exige une description précise et une date | À CLARIFIER | Qu'as-tu écrit noir sur blanc : contenu, format, date de livraison ? |
-| Tu revends la prestation d'un tiers | Es-tu vendeur, ou mandaté ? Deux contrats différents, deux responsabilités différentes | STRUCTUREL | Qui porte la garantie si ça se passe mal ? |
+| **Tu vends avant d'avoir fini de produire, mais tu sais ce que tu livres** | **Pas un sujet.** C'est un cadre normal et licite | — | — |
+| Le client ne sait pas ce qu'il reçoit au moment où il paie (« on verra ensemble ») | Ce qu'on échange doit être défini avant qu'on s'engage. Sinon les deux parties signent deux choses différentes | MAINTENANT | Si je demandais à ton client ce qu'il a acheté, il dirait la même chose que toi ? |
+| Le produit n'existe pas encore (prévente, formation à venir) | Ce n'est pas le problème. Ce qui manque, c'est l'écrit : contenu, format, date | EN MARCHANT | **Avant le premier encaissement** : une page qui dit ce qu'il reçoit et quand |
+| Tu revends la prestation d'un tiers | Es-tu vendeur, ou mandaté ? Deux contrats différents, deux responsabilités différentes | MAINTENANT | Qui porte la garantie si ça se passe mal ? |
 | Tu vends une partie d'un tout inséparable | Un bien qu'on ne peut pas détacher ne se vend pas en morceaux | EN TÊTE | Le client peut-il utiliser ce qu'il achète sans le reste ? |
-| Abonnement à durée indéterminée, contenu variable | Ce n'est pas une vente, c'est un louage d'usage. Règles propres | À CLARIFIER | Sur quoi porte l'engagement : un volume, une durée, un résultat ? |
+| Abonnement à durée indéterminée, contenu variable | Ce n'est pas une vente, c'est un louage d'usage. Règles propres | EN MARCHANT | **Avant ton 3e abonné** : sur quoi porte l'engagement — un volume, une durée, un résultat ? |
 
 ### Famille 2 — Le prix et la contrepartie
 
-| Ce que tu lis | Le sujet | Chaleur | La question à porter |
+| Ce que tu lis | Le sujet | Niveau | La question à porter / le déclencheur |
 |---|---|---|---|
-| Le prix n'est pas fixé à la conclusion (« on ajuste après ») | La contrepartie est aussi indéterminée que l'objet | STRUCTUREL | Le prix est-il connu des deux côtés au moment où on se serre la main ? |
-| Le prix augmente avec le délai de paiement | Un montant qui grossit avec le temps, c'est le point sensible par excellence | STRUCTUREL | Est-ce un prix différent, ou le même prix majoré parce que c'est plus tard ? |
-| Pénalité de retard chiffrée | La tradition juridique y voit un intérêt qui ne dit pas son nom | À CLARIFIER | Que se passe-t-il vraiment si le client paie en retard ? |
-| Tu proposes un crédit, un paiement en 4x financé | C'est le financement, pas ton offre, qui devient le sujet | À CLARIFIER | Qui finance, et à quelles conditions ? |
+| Le prix n'est pas fixé à la conclusion (« on ajuste après ») | La contrepartie est aussi indéterminée que l'objet | MAINTENANT | Le prix est-il connu des deux côtés au moment où on se serre la main ? |
+| Le prix augmente avec le délai de paiement | Un montant qui grossit avec le temps, c'est le point sensible par excellence | MAINTENANT | Est-ce un prix différent, ou le même prix majoré parce que c'est plus tard ? |
+| Pénalité de retard chiffrée | La tradition juridique y voit un intérêt qui ne dit pas son nom | EN MARCHANT | **Quand tu écriras tes conditions de paiement** : que se passe-t-il vraiment si le client paie en retard ? |
+| Tu proposes un crédit, un paiement en 4x financé | C'est le financement, pas ton offre, qui devient le sujet | EN MARCHANT | **Avant de brancher l'outil** : qui finance, et à quelles conditions ? |
 | **Paiement fractionné sans frais** | **Pas un sujet.** Un échéancier est parfaitement licite | — | — |
 | Change de devises, crypto dans le flux | Les échanges de monnaie exigent l'immédiateté | EN TÊTE | L'échange est-il simultané ? |
 
 ### Famille 3 — Le modèle de revenu
 
-| Ce que tu lis | Le sujet | Chaleur | La question à porter |
+C'est la famille où on signale fort : ici, un sujet non regardé revient à chaque client.
+
+| Ce que tu lis | Le sujet | Niveau | La question à porter / le déclencheur |
 |---|---|---|---|
-| Commission d'apporteur d'affaires | Le courtage est licite. La transparence de la casquette ne l'est pas moins | À CLARIFIER | Les deux parties savent-elles que tu es rémunéré, et comment ? |
-| Affiliation, dropshipping | Vends-tu un bien que tu ne possèdes pas encore ? Et le gain suit celui qui porte le risque | STRUCTUREL | Qui supporte le risque : toi, le fournisseur, le client ? |
-| Exclusivité de distribution, verrouillage d'un canal | Une clause qui empêche l'autre de vendre ce qui lui appartient est un vrai débat classique | À CLARIFIER | Ton exclusivité empêche-t-elle quelqu'un d'autre de vendre ce qui lui appartient ? |
-| Stock gardé pour faire monter le prix | Bloquer une marchandise dont les gens ont besoin | STRUCTUREL | Tu attends quoi, exactement, pour vendre ? |
-| Tirage au sort, loterie, « une chance de gagner » | Le hasard comme mécanique de revenu | STRUCTUREL | Le client paie-t-il pour une chance, ou pour une chose ? |
+| Commission d'apporteur d'affaires | Le courtage est licite. La transparence de la casquette ne l'est pas moins | MAINTENANT | Les deux parties savent-elles que tu es rémunéré, et comment ? |
+| Affiliation, dropshipping | Vends-tu un bien que tu ne possèdes pas encore ? Et le gain suit celui qui porte le risque | MAINTENANT | Qui supporte le risque : toi, le fournisseur, le client ? |
+| Exclusivité de distribution, verrouillage d'un canal | Une clause qui empêche l'autre de vendre ce qui lui appartient est un vrai débat classique | EN MARCHANT | **Quand tu formaliseras l'accord** : ton exclusivité empêche-t-elle quelqu'un de vendre ce qui lui appartient ? |
+| Stock gardé pour faire monter le prix | Bloquer une marchandise dont les gens ont besoin | MAINTENANT | Tu attends quoi, exactement, pour vendre ? |
+| Tirage au sort, loterie, « une chance de gagner » | Le hasard comme mécanique de revenu | MAINTENANT | Le client paie-t-il pour une chance, ou pour une chose ? |
 | Rémunération 100 % au résultat, sans base | La contrepartie devient incertaine des deux côtés | EN TÊTE | Que reçoit le client si le résultat n'arrive pas ? |
-| Associé rémunéré sur les gains, pas exposé aux pertes | Le gain va avec la charge | STRUCTUREL | Qui prend la perte si l'année est mauvaise ? |
+| Associé rémunéré sur les gains, pas exposé aux pertes | Le gain va avec la charge | MAINTENANT | Qui prend la perte si l'année est mauvaise ? |
 
 ### Famille 4 — La promesse et la façon de vendre
 
-| Ce que tu lis | Le sujet | Chaleur | La question à porter |
+| Ce que tu lis | Le sujet | Niveau | La question à porter / le déclencheur |
 |---|---|---|---|
-| Promesse d'un résultat que tu ne contrôles pas | Moyens ou résultat : tu dois choisir, et le dire | STRUCTUREL | Sur quoi t'engages-tu vraiment ? |
-| Le négatif n'est pas dit (ce que l'offre ne fait pas, pour qui elle n'est pas) | Cacher le défaut | À CLARIFIER | Qu'est-ce qu'un client déçu dirait que tu ne lui avais pas dit ? |
-| Témoignages arrangés, autorité gonflée, promesse qui s'auto-loue | Se vanter au-delà du réel | À CLARIFIER | Tout ce que tu affiches, peux-tu le prouver ? |
-| Vente qui appuie sur la peur, la détresse ou l'ignorance | Profiter de la faiblesse de l'autre est nommé et écarté dans le droit classique | STRUCTUREL | Ton client achète-t-il parce qu'il comprend, ou parce qu'il a peur ? |
-| Rareté inventée, compte à rebours qui se remet à zéro | La mise en scène qui trompe | À CLARIFIER | Ce que tu annonces comme vrai l'est-il ? |
+| Promesse d'un résultat que tu ne contrôles pas | Moyens ou résultat : tu dois choisir, et le dire | MAINTENANT | Sur quoi t'engages-tu vraiment ? |
+| Témoignages arrangés, autorité gonflée | Ce n'est pas un défaut de mise en forme, c'est du faux | MAINTENANT | Tout ce que tu affiches, peux-tu le prouver ? |
+| Vente qui appuie sur la peur, la détresse ou l'ignorance | Profiter de la faiblesse de l'autre est nommé et écarté dans le droit classique | MAINTENANT | Ton client achète-t-il parce qu'il comprend, ou parce qu'il a peur ? |
+| Rareté inventée, compte à rebours qui se remet à zéro | La mise en scène qui trompe | MAINTENANT | Ce que tu annonces comme vrai l'est-il ? |
+| Le négatif n'est pas dit (ce que l'offre ne fait pas, pour qui elle n'est pas) | Cacher le défaut | EN MARCHANT | **Avant ta prochaine page de vente** : qu'est-ce qu'un client déçu dirait que tu ne lui avais pas dit ? |
 | Prix cassé sur l'ignorance de l'autre | La lésion | EN TÊTE | Si l'autre savait ce que tu sais, signerait-il ? |
 
 ### Famille 5 — Le contrat et la relation
 
-| Ce que tu lis | Le sujet | Chaleur | La question à porter |
+**C'est ici que le réflexe de bloquer est le plus fort — et le plus nuisible.** Presque tout
+se met en place en marchant. On pointe, on donne le déclencheur, et on laisse partir.
+
+| Ce que tu lis | Le sujet | Niveau | La question à porter / le déclencheur |
 |---|---|---|---|
-| Rien d'écrit, tout à l'oral | La parole engage, mais l'écrit protège les deux | À CLARIFIER | À quel moment exactement le client est-il engagé ? |
-| Aucune rétractation, aucune annulation prévue | Le droit classique connaît plusieurs options de retour. C'est un actif, pas une faiblesse | À CLARIFIER | Que se passe-t-il si le client change d'avis à J+2 ? |
-| Aucune garantie sur un défaut | L'option de défaut existe pour ça | À CLARIFIER | Et si ce que tu livres est défectueux ? |
-| Clause qui contredit la nature du contrat (« je te vends mais tu ne peux pas revendre ») | Reprendre d'une main ce qu'on donne de l'autre | STRUCTUREL | Ta clause annule-t-elle ce que le contrat vient de transférer ? |
-| Fin de contrat non prévue (rupture, force majeure) | On n'a pas organisé la sortie | EN TÊTE | Comment on se quitte proprement ? |
-| Cible mineure, vulnérable, sous tutelle | La capacité à s'engager | STRUCTUREL | Qui signe, et peut-il signer ? |
-| Données clients collectées largement | Ce qui ne te regarde pas ne se collecte pas | EN TÊTE | Aurais-tu ces informations si tu les demandais en face ? |
+| Rien d'écrit, tout à l'oral | La parole engage, mais l'écrit protège les deux | EN MARCHANT | **Avant ton 3e client** : une page qui dit ce que tu livres, quand, et pour combien |
+| Aucune rétractation, aucune annulation prévue | Le droit classique connaît plusieurs options de retour. C'est un actif commercial, pas une faiblesse | EN MARCHANT | **Avant ta première prestation livrée** : que se passe-t-il si le client change d'avis à J+2 ? |
+| Aucune garantie sur un défaut | L'option de défaut existe pour ça | EN MARCHANT | **Quand tu écriras tes conditions** : et si ce que tu livres est défectueux ? |
+| Fin de contrat non prévue (rupture, force majeure) | On n'a pas organisé la sortie | EN MARCHANT | **Dès que tu signes sur plus de 3 mois** : comment on se quitte proprement ? |
+| Données clients collectées largement | Ce qui ne te regarde pas ne se collecte pas | EN MARCHANT | **Dès que tu stockes ailleurs que dans ta tête** : aurais-tu ces infos si tu les demandais en face ? |
+| Clause qui contredit la nature du contrat (« je te vends mais tu ne peux pas revendre ») | Reprendre d'une main ce qu'on donne de l'autre | MAINTENANT | Ta clause annule-t-elle ce que le contrat vient de transférer ? |
+| Cible mineure, vulnérable, sous tutelle | La capacité à s'engager | MAINTENANT | Qui signe, et peut-il signer ? |
 
 ### Famille 6 — Ce que ton offre fait au client
 
@@ -131,10 +152,10 @@ le droit de tenir.
 
 ### Famille 7 — Le terrain
 
-| Ce que tu lis | Le sujet | Chaleur |
+| Ce que tu lis | Le sujet | Niveau |
 |---|---|---|
 | Client final dont l'activité pose question | À qui tu vends fait partie de ce que tu vends | EN TÊTE |
-| Secteur régulé (santé, finance, juridique, alimentaire) | Le cadre légal du pays s'ajoute au reste | À CLARIFIER |
+| Secteur régulé (santé, finance, juridique, alimentaire) | Le cadre légal du pays s'ajoute au reste | EN MARCHANT |
 
 ---
 
@@ -144,19 +165,27 @@ Jamais autrement.
 
 > **1. Ce que je vois** — un fait, tiré de son offre, sans adjectif.
 > **2. Pourquoi c'est un sujet** — le principe, en français simple.
-> **3. Ce que tu en fais** — la question à porter, à qui la porter, et la voie propre
->    quand elle existe.
+> **3. Ce que tu en fais** — la question à porter, à qui la porter, et **quand**.
 
-Exemple :
+Exemple d'un sujet **MAINTENANT** :
 
-> « Ton programme est vendu 3 mois, mais le contenu se décide au fil de l'eau avec le client.
+> « Tu prends une commission des deux côtés, et aucun des deux ne le sait.
 >
-> Là, il y a un sujet. En droit musulman des affaires, ce qu'on échange doit être défini
-> avant qu'on s'engage — sinon les deux parties signent deux choses différentes, et c'est
-> comme ça que naissent les litiges.
+> Là, il y a un sujet, et c'est un sujet de modèle — il va revenir à chaque affaire. Le
+> courtage est parfaitement licite, c'est un vieux métier. Ce qui pose question, c'est la
+> casquette cachée.
 >
-> Ça ne remet pas ton offre en cause. Ça demande une page : ce que le client reçoit, en
-> combien de séances, avec quoi à la fin. Écris-la, et le sujet tombe. »
+> Teste-le toi-même : si tu le disais aux deux, l'affaire tiendrait ? Si oui, dis-le et le
+> sujet tombe. Si non, c'est le modèle qu'il faut regarder. »
+
+Exemple d'un sujet **EN MARCHANT** :
+
+> « Tu n'as encore rien d'écrit, tout se fait à l'oral. Continue comme ça, ça ne t'empêche
+> pas d'avancer et tu n'as pas besoin d'un contrat pour ton premier client.
+>
+> Mais note-le : **avant ton troisième client**, il te faut une page qui dit ce que tu livres,
+> quand, et pour combien. Pas un contrat d'avocat — une page. C'est autant pour toi que pour
+> lui. »
 
 ---
 
@@ -164,15 +193,16 @@ Exemple :
 
 1. **Jamais halal/haram.** « Il y a un sujet », « c'est un point à creuser », « ça se
    vérifie ».
-2. **Trois sujets maximum par passage.** Les STRUCTUREL d'abord. Le reste est consigné et
+2. **Ne jamais freiner le lancement.** Un sujet de mise en forme sort avec son déclencheur,
+   jamais comme une condition préalable. Si le membre ressort du crible en se disant qu'il
+   doit tout mettre en ordre avant de vendre, on a raté l'étape.
+3. **Trois sujets maximum par passage.** Les MAINTENANT d'abord. Le reste est consigné et
    ressort plus tard. Un membre noyé sous quinze points ferme le carnet.
-3. **Toujours ouvrir par ce qui va.** Nommer deux ou trois choses propres dans l'offre
+4. **Toujours ouvrir par ce qui va.** Nommer deux ou trois choses propres dans l'offre
    avant le premier sujet.
-4. **La divergence se dit.** « Les savants ne sont pas d'accord là-dessus » n'est pas un
+5. **La divergence se dit.** « Les savants ne sont pas d'accord là-dessus » n'est pas un
    aveu de faiblesse : ça dit au membre que ce n'est pas une évidence, et que sa question
    mérite d'être posée.
-5. **On ne bloque jamais la sortie.** Le membre peut lancer et traiter ses sujets en
-   parallèle — sauf s'il décide lui-même d'attendre. C'est sa décision, pas la nôtre.
 6. **On ne demande jamais de comptes.** Pas de « et tu comptes faire quoi ? ». Le sujet est
    posé, il lui appartient. Et si le membre travaille déjà à le régler, on valide et on
    passe — on ne remet pas une couche sur quelqu'un qui agit.
@@ -192,3 +222,5 @@ Exemple :
 
 Écrire `ctp/sujets-offre.md` dans le projet du membre (gabarit :
 `references/gabarit-sujets.md`). Fichier vivant, repassé à chaque évolution de l'offre.
+Chaque sujet « en marchant » y porte **son déclencheur**, pour que rien ne se perde sans que
+rien ne bloque.

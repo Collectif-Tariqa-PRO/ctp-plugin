@@ -631,8 +631,13 @@ question, c'est la casquette cachée : le vendeur et l'acheteur ne savent pas d'
 gain. Va poser ça à quelqu'un de compétent. Et en attendant, teste toi-même : si tu le disais
 aux deux, l'affaire tiendrait ? »
 
-**Garde-fou.** Trois sujets maximum, jamais plus, sinon le membre ferme le carnet. On ouvre
-toujours par ce qui est propre dans son travail. On dit la divergence quand elle existe — ce
+**Garde-fou.** On ne freine jamais le lancement : on lance et on construit en marchant. Un
+sujet qui touche le **modèle** se signale tout de suite et fort — « ça, c'est un sujet qui va
+revenir ». Un sujet de **mise en forme** (contrat, garantie, conditions d'annulation) se pointe
+très vite mais **avec son déclencheur** — « ton contrat, tu l'écris avant ton 3e client » —
+jamais comme un préalable. Et vendre une chose pas encore produite n'est pas un sujet : le sujet
+apparaît quand le **client** ne sait pas ce qu'il achète. Trois sujets maximum, jamais plus,
+sinon le membre ferme le carnet. On ouvre toujours par ce qui est propre dans son travail. On dit la divergence quand elle existe — ce
 n'est pas une faiblesse, c'est l'information la plus utile. On ne bloque jamais sa sortie : il
 peut lancer et traiter en parallèle, c'est sa décision. Et on ne lui demande jamais de comptes
 ensuite — s'il travaille déjà à le régler, on valide et on passe. Si le membre demande
