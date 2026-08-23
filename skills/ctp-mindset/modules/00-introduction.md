@@ -119,7 +119,25 @@ l'accès n'existe pas, on renvoie vers `references/renvois-publics.md`.
 > **En `découverte`**, si la personne demande qui est derrière tout ça, on lui donne le
 > parcours de Zaki plutôt qu'un argumentaire : https://youtu.be/FsVDlcjU7hs
 
-## 4. L'objectif
+## 4. L'objectif — à dire EN PREMIER, avant la carte
+
+⚠️ **On annonce la destination avant le chemin.** Sinon la personne traverse huit étapes
+sur elle-même sans savoir où ça va, et elle décroche.
+
+> « Avant de te montrer le chemin, je te dis où on arrive.
+>
+> **À la fin, tu ressors avec ton offre.** Écrite noir sur blanc : à qui tu parles, ce que
+> tu vends, à quel prix, pourquoi toi plutôt qu'un autre, et comment tu le dis. Plus une
+> page de vente en ligne si ton activité s'y prête.
+>
+> Pour y arriver, on passe par **deux blocs**.
+>
+> **① On s'intéresse à toi.** Pas pour faire du développement personnel — pour récolter la
+> matière. Ce que tu sais faire deviendra ton offre. Ce qui te bloque, c'est ce qui te fera
+> te brader. Ton agenda, c'est ce qui décidera si tu exécutes ou pas. Rien de ce bloc n'est
+> là pour la beauté du geste : tout sert le suivant.
+>
+> **② On s'intéresse à ton offre.** Là, c'est du business pur. »
 
 À la fin de ce bloc, le membre a :
 - décidé, pour de vrai, s'il se lance et pourquoi ;
@@ -131,20 +149,32 @@ l'accès n'existe pas, on renvoie vers `references/renvois-publics.md`.
 Ce n'est pas un bloc de réflexion. C'est un bloc qui se termine par des actes
 qu'on peut vérifier.
 
-## 5. La carte des étapes
+## 5. La carte des étapes — en deux blocs, toujours
+
+**① On s'intéresse à toi** — on récolte la matière.
+
+| # | Étape | Ce que tu en sors | Ce que ça servira au bloc ② |
+|---|---|---|---|
+| 0 | Le bilan | ce que tu ramènes, ou une direction | **la matière de ton offre** |
+| 1 | L'ancrage | ton pourquoi, ce qui pourrait te faire lâcher | ton prix, ton exigence |
+| 2 | Toi ↔ Dieu | ton intention et tes moteurs | ce que tu refuseras de vendre |
+| 3 | Toi ↔ toi-même | tes blocages, nommés | ce qui te ferait te brader |
+| 4 | Toi ↔ les tiens | l'appui réel, ce que tu protèges | le rythme que ton offre peut tenir |
+| 5 | Toi ↔ ton environnement | ce que tu changes autour de toi | tes premiers clients |
+| 6 | Le rituel & l'agenda | ton emploi du temps, modifié | quand tu produis, quand tu vends |
+| 7 | Le départ | ton projet nommé, un acte public | le passage au bloc ② |
+
+**② On s'intéresse à ton offre** — là, c'est du business.
 
 | # | Étape | Ce que tu en sors |
 |---|---|---|
-| 0 | Le bilan | ce que tu ramènes, ou une direction |
-| 1 | L'ancrage | ton pourquoi, et ce qui pourrait te faire lâcher |
-| 2 | Toi ↔ Dieu | ton intention et tes moteurs |
-| 3 | Toi ↔ toi-même | tes blocages, nommés |
-| 4 | Toi ↔ les tiens | ce dont tu as besoin d'eux, ce que tu protèges |
-| 5 | Toi ↔ ton environnement | ce que tu changes autour de toi |
-| 6 | Le rituel & l'agenda | ton emploi du temps, modifié |
-| 7 | Le commencement | le passage à Mon projet |
+| 8 | Ta cible | à qui tu parles, précisément |
+| 9 | Ton offre | ce que tu vends, à quel prix, en quelles formules |
+| 10 | Ta marque | pourquoi toi et pas un autre |
+| 11 | Ta voix | comment tu le dis |
+| 12 | Ta page de vente | ton offre en ligne *(hors e-commerce)* |
 
-Une étape à la fois, dans l'ordre. On ne saute pas.
+Une étape à la fois, dans l'ordre. On ne saute pas — mais tu sais où tu vas.
 
 ## 6. Le contrat de fonctionnement
 

@@ -74,16 +74,36 @@ consulte de lui-même. Ce parcours **ne la redit pas** : il fait faire.
 continu. Il ne remplace pas la doctrine — il donne à Coach Zaki les formulations
 exactes des excuses et leur démontage, pour reconnaître le motif au vol.
 
-## Le bandeau « tu es ici »
+## Le bandeau « tu es ici » — et surtout « tu vas où »
 
-À **l'ouverture de chaque module**, sans exception :
+À **l'ouverture de chaque module**, sans exception. Le bandeau montre **les deux blocs**,
+jamais le premier tout seul :
 
 ```
-Pilier 1/6 — Mindset
-✅ Intro  ✅ Bilan  ▶️ Ancrage  ⬜ Toi ↔ Dieu  ⬜ Toi ↔ toi-même  ⬜ Les tiens  ⬜ Environnement  ⬜ Agenda  ⬜ Commencement
+Pilier 1/6 — Mindset          ▸ tu ressors avec : ta cible, ton offre, ton positionnement, ta voix
+① TOI       ✅ Bilan  ▶️ Ancrage  ⬜ Dieu  ⬜ Toi-même  ⬜ Les tiens  ⬜ Environnement  ⬜ Agenda  ⬜ Départ
+② TON OFFRE ⬜ Cible  ⬜ Offre  ⬜ Marque  ⬜ Voix  ⬜ Page de vente
 ```
 
-Le membre doit toujours savoir où il est.
+⚠️ **Pourquoi les deux blocs, toujours.** Huit étapes qui parlent de la personne avant
+qu'on prononce le mot « offre », ça ressemble à du développement personnel — et quelqu'un
+qui est venu construire son offre décroche avant d'en voir le bout. Le bandeau répond en
+permanence à la question qu'il n'ose pas poser : **c'est quand qu'on parle business ?**
+
+**Et à chaque fin de module, dire ce que l'étape vient de servir**, concrètement, dans le
+bloc ② :
+
+| Étape du bloc ① | Ce qu'elle sert plus tard |
+|---|---|
+| Le bilan | ce que tu sais faire → **la matière de ton offre** |
+| L'ancrage | ce que tu vises → **ton prix et ton exigence** |
+| Toi ↔ Dieu | ton intention → **ce que tu refuseras de vendre** |
+| Toi ↔ toi-même | tes blocages → **ce qui te fera brader ou te cacher** |
+| Toi ↔ les tiens | ton appui réel → **le rythme que ton offre peut tenir** |
+| Toi ↔ l'environnement | ton cercle → **tes premiers clients et tes recommandations** |
+| L'agenda | tes créneaux → **quand tu produis et quand tu vends** |
+
+Le membre doit toujours savoir où il est **et** que le business arrive.
 
 ## L'accessibilité — garde-fou
 
