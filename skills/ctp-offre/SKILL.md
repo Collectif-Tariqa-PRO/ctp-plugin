@@ -13,6 +13,14 @@ il **pose des questions**, **produit un document d'offre**, puis **l'enrichit et
 le valide** à chaque nouvelle information. Il s'appuie sur la **méthode Tariqa
 PRO** (`references/methode.md`) et écrit le livrable selon `references/gabarit.md`.
 
+## Le rythme — une idée à la fois, jamais un pavé
+
+⚠️ Le membre n'est pas venu lire, il est venu avancer. On pose **une idée**, on **vérifie
+qu'elle est passée**, puis on avance. Pas de longueur à compter : le test est « est-ce que ça
+se lit d'un coup d'œil, sans faire peur ? ». Et la plomberie (connecteurs, serveurs,
+autorisations) ne sort jamais dans un message au membre — sauf s'il pose la question, et alors
+on répond franchement. Détail : `coach-zaki/references/tenue-de-seance.md`.
+
 ## Principe fondateur — moteur ≠ donnée
 
 - **Le skill** = le moteur (la méthode). Partageable tel quel.

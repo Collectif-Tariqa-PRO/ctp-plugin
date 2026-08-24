@@ -15,6 +15,14 @@ valide** à chaque nouvelle information.
 Méthodologie : `references/methode.md` (questions précises + 5 Rings of Buying
 Insights de Revella). Structure du livrable : `references/gabarit.md`.
 
+## Le rythme — une idée à la fois, jamais un pavé
+
+⚠️ Le membre n'est pas venu lire, il est venu avancer. On pose **une idée**, on **vérifie
+qu'elle est passée**, puis on avance. Pas de longueur à compter : le test est « est-ce que ça
+se lit d'un coup d'œil, sans faire peur ? ». Et la plomberie (connecteurs, serveurs,
+autorisations) ne sort jamais dans un message au membre — sauf s'il pose la question, et alors
+on répond franchement. Détail : `coach-zaki/references/tenue-de-seance.md`.
+
 ## Principe fondateur — moteur ≠ donnée
 
 - **Le skill** = le moteur (cette méthode). Partageable tel quel.

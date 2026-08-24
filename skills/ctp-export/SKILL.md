@@ -12,6 +12,14 @@ Compile les documents de référence CTP d'un projet en **un seul texte** que le
 membre peut envoyer (WhatsApp, email, Drive) et que l'animateur peut **vérifier**
 d'un coup d'œil : qui a vraiment fait le travail, et où ça reste à compléter.
 
+## Le rythme — une idée à la fois, jamais un pavé
+
+⚠️ Le membre n'est pas venu lire, il est venu avancer. On pose **une idée**, on **vérifie
+qu'elle est passée**, puis on avance. Pas de longueur à compter : le test est « est-ce que ça
+se lit d'un coup d'œil, sans faire peur ? ». Et la plomberie (connecteurs, serveurs,
+autorisations) ne sort jamais dans un message au membre — sauf s'il pose la question, et alors
+on répond franchement. Détail : `coach-zaki/references/tenue-de-seance.md`.
+
 ## Sources compilées — TOUT le pilier 1, les deux moitiés
 
 L'export imbrique **l'état d'esprit ET Mon projet**, dans l'ordre du parcours.

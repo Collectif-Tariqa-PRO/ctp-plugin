@@ -18,6 +18,14 @@ l'enrichit et le valide. Trois corpus de méthode :
 Le **différenciateur n'est pas un skill à part** : c'est le cœur du volet
 positionnement (« quel est mon différenciateur ? » se traite ici).
 
+## Le rythme — une idée à la fois, jamais un pavé
+
+⚠️ Le membre n'est pas venu lire, il est venu avancer. On pose **une idée**, on **vérifie
+qu'elle est passée**, puis on avance. Pas de longueur à compter : le test est « est-ce que ça
+se lit d'un coup d'œil, sans faire peur ? ». Et la plomberie (connecteurs, serveurs,
+autorisations) ne sort jamais dans un message au membre — sauf s'il pose la question, et alors
+on répond franchement. Détail : `coach-zaki/references/tenue-de-seance.md`.
+
 ## ⛔ Principe directeur — le MVB (Minimum Valuable Brand)
 
 On s'adresse à des membres qui **démarrent**. Le piège mortel = tourner en rond des

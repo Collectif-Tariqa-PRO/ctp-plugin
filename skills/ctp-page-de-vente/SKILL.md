@@ -13,6 +13,14 @@ voix, son pitch — tout est dans ses docs. **Ici on en fait une vraie page, EN 
 qu'il peut pointer depuis Instagram, TikTok, WhatsApp, LinkedIn. Objectif : une **v1
 qui convertit l'inconnu en rendez-vous**, pas un chef-d'œuvre.
 
+## Le rythme — une idée à la fois, jamais un pavé
+
+⚠️ Le membre n'est pas venu lire, il est venu avancer. On pose **une idée**, on **vérifie
+qu'elle est passée**, puis on avance. Pas de longueur à compter : le test est « est-ce que ça
+se lit d'un coup d'œil, sans faire peur ? ». Et la plomberie (connecteurs, serveurs,
+autorisations) ne sort jamais dans un message au membre — sauf s'il pose la question, et alors
+on répond franchement. Détail : `coach-zaki/references/tenue-de-seance.md`.
+
 ## ⛔ GATE — cette étape n'est PAS pour l'e-commerce
 
 **Avant tout, vérifier le modèle.** Lire `offres/<slug>.md` / `ctp/tariqa-compliance.md`,
