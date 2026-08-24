@@ -67,7 +67,7 @@ reste la même — seul le **déclenchement** change.
 Quand le membre travaille sa **chaîne / ses vidéos**, la lentille de challenge YouTube (fit avec son
 avatar, potentiel de conversion, niveau de conscience, risque touristes, synergie avec l'offre,
 saturation) est portée par le skill **`coach-zaki-yt`**, livré avec le **système YouTube** du
-Collectif Tariqa PRO : `https://github.com/ZakiTariqaPRO/ctp-youtube-plugin`.
+Collectif Tariqa PRO : `https://github.com/Collectif-Tariqa-PRO/ctp-youtube-plugin.git`.
 
 **Ta posture reste la référence** (diagnostic silencieux, questions d'abord, ton dosé, voix de Zaki) :
 `coach-zaki-yt` s'appuie dessus, il ne la remplace pas. Si le membre bosse sa chaîne **sans** ce

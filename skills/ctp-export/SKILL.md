@@ -218,8 +218,8 @@ s'engage devant le collectif, et chacun publie son avancement au fur et à mesur
   es* ; l'étape suivante, c'est de te faire **connaître sans te trahir** → le **système YouTube** du
   Collectif Tariqa PRO (stratégie de contenu : sujets, mots-clés, titres, miniatures, scripts,
   analyse), qui produit son propre livrable aval, le **`PLAYBOOK-YOUTUBE.md`**. C'est un **plugin
-  séparé** : `https://github.com/ZakiTariqaPRO/ctp-youtube-plugin`
-  (guide : `https://zakitariqapro.github.io/ctp-youtube-plugin/`). Ne pas laisser le membre sans suite.
+  séparé** : `https://github.com/Collectif-Tariqa-PRO/ctp-youtube-plugin.git`
+  (guide : `https://collectif-tariqa-pro.github.io/ctp-youtube/`). Ne pas laisser le membre sans suite.
 
 ## Garde-fous
 

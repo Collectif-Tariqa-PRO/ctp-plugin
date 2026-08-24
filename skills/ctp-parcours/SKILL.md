@@ -80,7 +80,7 @@ gère lui-même ce filtre au lancement.
 le membre a de quoi **se faire connaître sans se trahir**. C'est là qu'intervient le **système
 YouTube du Collectif Tariqa PRO** (stratégie de contenu : sujets, mots-clés, titres, miniatures,
 scripts, analyse). ⚠️ C'est un **plugin séparé** à installer :
-`https://github.com/ZakiTariqaPRO/ctp-youtube-plugin` (guide : `https://zakitariqapro.github.io/ctp-youtube-plugin/`).
+`https://github.com/Collectif-Tariqa-PRO/ctp-youtube-plugin.git` (guide : `https://collectif-tariqa-pro.github.io/ctp-youtube/`).
 Une fois installé, le membre lance `lance ma stratégie YouTube`. **Le proposer** quand le noyau est
 ✅ — ne pas laisser le membre sans suite.
 
