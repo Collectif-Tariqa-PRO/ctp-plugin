@@ -5,12 +5,36 @@ droit au sujet. Il dure quelques minutes et il évite des semaines de flottement
 
 ---
 
-## 0. Le portail — une question, avant tout le reste
+## ⚠️ Comment ce module se joue — lire avant de commencer
+
+Ce module est le premier contact. C'est là qu'on gagne ou qu'on perd la personne.
+
+**Il se joue en sept temps, et un seul temps par message.** Chaque temps se termine
+par un **arrêt réel** : on rend la parole, on attend une vraie réponse, et on
+n'enchaîne pas avant de l'avoir. Ce n'est pas une politesse — c'est ce qui permet de
+savoir s'il suit.
+
+⛔ **L'erreur qui tue ce module :** dérouler la présentation, les piliers, la carte et
+le contrat d'une traite. La personne ouvre le message, voit une page, et décroche
+avant la première question. **On ne mesure pas la longueur — on regarde si ça se lit
+d'un coup d'œil sans faire peur.** Si non, on coupe.
+
+Les passages en citation ci-dessous sont **ce qu'on dit**, pas un script à réciter
+mot pour mot. On peut les dire dans ses mots, plus court, dans la langue du membre.
+Ce qu'on ne peut pas faire, c'est en enchaîner deux dans le même message.
+
+Règle générale du parcours : `coach-zaki/references/tenue-de-seance.md`.
+
+---
+
+## Temps 0 — Le portail : une question, avant tout le reste
 
 Ce parcours est public : des gens le traversent **sans être membres**, arrivés par une vidéo.
-Avant la première phrase de l'introduction, on demande :
+Avant la première phrase de l'introduction, on demande — **et rien d'autre dans ce message** :
 
 > « Avant qu'on commence : tu es déjà membre du Collectif Tariqa PRO, ou tu nous découvres ? »
+
+**Arrêt.** On attend la réponse.
 
 Écrire la réponse dans `ctp/statut.md` (gabarit dans `references/induction.md`), puis
 **relire ce fichier à chaque lancement** — on ne repose jamais la question.
@@ -24,45 +48,12 @@ Avant la première phrase de l'introduction, on demande :
 
 ---
 
-## 1. Situer
+## Temps 1 — Qui on est, et ce que la personne a entre les mains
 
-> « Tu entres dans le **pilier 1 sur 6** de la méthode du Collectif Tariqa PRO :
-> le Mindset.
->
-> L'ordre complet, c'est : Mindset, Vente, Produit, Marketing, Opérations,
-> Finances. **Ce n'est pas une liste : c'est la méthodologie qu'on enseigne à nos
-> membres, éprouvée sur le terrain.** Tu commences par le premier, et l'ordre
-> compte autant que le contenu.
->
-> Ce pilier se fait en deux temps. **D'abord l'état d'esprit** — ce que tu fais
-> ici : comprendre qui tu es, avant même de construire. **Ensuite Mon projet** —
-> à qui tu parles, ce que tu vends, pourquoi toi, comment tu le dis ; et si tu
-> n'as pas encore de projet, on te fait avancer quand même, tu ne restes jamais
-> sans rien. Puis ça enchaîne vite vers la Vente. »
-
-**Pourquoi le Mindset d'abord ?** Parce que la plupart entrent dans
-l'entrepreneuriat concentrés sur le produit. Et à la première difficulté, ils
-veulent abandonner. Le mindset n'est pas de la motivation — c'est ce qui fait
-tenir quand le marché ne répond pas encore.
-
-**Et si tu entreprends déjà ?** Ce parcours n'est pas réservé aux débutants.
-Beaucoup ont entrepris avant, à l'intuition, sans jamais mettre de mots sur leur
-« pourquoi » ni relier leur travail à leur foi. Ici, on met des mots, une vision
-— entreprendre en se rapprochant de Dieu — et une méthode sur ce que tu faisais
-déjà sans le nommer. Le mot du mindset s'adapte à toi : on ne te fait pas
-recommencer de zéro, on va chercher ce qui te freine encore.
-
-## 2. Où tombe ce parcours dans ton accompagnement
-
-**⚠️ Statut `découverte` : ne pas dire ce qui suit.** Poser la **marche 0** de
-`references/induction.md` à la place — en **trois temps séparés**, sans les enchaîner : qui
-on est · ce que la personne tient (l'outil interne des membres, ouvert gratuitement) et tout
-ce qu'il y a d'autre dans le Collectif, nommé en entier · puis **s'arrêter et demander si
-elle a des questions**. On ne passe au pilier 1 qu'après. Une personne qui garde une question
-en tête n'écoute pas la suite.
-
-⚠️ **Ne pas dérouler la section 1 (« Situer ») avant ce temps d'arrêt.** L'erreur à éviter
-est d'enchaîner présentation + piliers + carte + contrat d'une traite : ça noie.
+**Statut `découverte` :** poser la **marche 0** de `references/induction.md`, en **trois temps
+séparés**, jamais enchaînés : qui on est · ce que la personne tient (l'outil interne des membres,
+ouvert gratuitement) et tout ce qu'il y a d'autre dans le Collectif, nommé en entier · puis
+**s'arrêter et demander si elle a des questions**.
 
 **Statut `membre` :**
 
@@ -82,23 +73,25 @@ est d'enchaîner présentation + piliers + carte + contrat d'une traite : ça no
 >
 > **Le coaching individuel**, c'est ton cas à toi, en face à face. »
 
+**Arrêt — et on demande explicitement s'il y a des questions.** Une personne qui garde une
+question en tête n'écoute pas la suite. On ne passe au temps 2 qu'après une réponse.
+
+**Le complément, seulement s'il rebondit ou si le moment s'y prête** — jamais collé au bloc
+précédent :
+
 > Si tu as vu le cavalier, l'éléphant et le chemin — dans les cours, ou dans la
-> masterclass sur les lois du changement : **ce parcours, c'est le chemin.** Pas ta raison, pas ton énergie — la route
-> elle-même. Celle qu'on dégage et qu'on balise pour que l'action juste devienne
-> simple à faire, et qu'il ne te reste plus qu'à marcher.
+> masterclass sur les lois du changement : **ce parcours, c'est le chemin.** Pas ta raison,
+> pas ton énergie — la route elle-même. Celle qu'on dégage et qu'on balise pour que l'action
+> juste devienne simple à faire, et qu'il ne te reste plus qu'à marcher.
 
-Le parcours ne remplace ni les cours ni les coachings. Il **donne du corps** aux
-enseignements et trace le chemin.
-
-> **Si le membre ne voit pas ce qu'est le cavalier / l'éléphant / le chemin** et
-> qu'il insiste : Coach Zaki le renvoie à la leçon du cours Mindset sur les lois
-> du changement —
+> **S'il ne voit pas ce qu'est le cavalier / l'éléphant / le chemin** et qu'il insiste :
+> renvoi à la leçon du cours Mindset sur les lois du changement —
 > https://collectif-tariqa-pro.circle.so/c/mindset/sections/766824/lessons/2907102
-> Il ne ré-explique pas le concept lui-même — ce n'est pas le rôle du parcours.
-> **En `découverte`**, le renvoi est la masterclass publique, qui est construite exactement
+> On ne ré-explique pas le concept : ce n'est pas le rôle du parcours.
+> **En `découverte`**, le renvoi est la masterclass publique, construite exactement
 > là-dessus : https://youtu.be/z4O-y-9aieE
 
-## 2 bis. Le parcours va de pair avec les cours
+**Le parcours va de pair avec les cours** — une phrase, quand la question du fond arrive :
 
 > « Ce parcours ne remplace pas les cours, il les met en mouvement. Le fond est enseigné
 > dans notre espace de cours ; ici, on l'applique sur **ton** cas. »
@@ -107,19 +100,9 @@ enseignements et trace le chemin.
 Si le compte n'est pas encore créé, c'est le moment de lui donner le lien — et tant que
 l'accès n'existe pas, on renvoie vers `references/renvois-publics.md`.
 
-## 3. À quoi sert Coach Zaki
+---
 
-> « Coach Zaki, c'est ton guide sur ce chemin. Il te pose des questions, il te
-> renvoie au bon cours quand tu as besoin du fond, il te challenge quand tu te
-> racontes des histoires, et il ne te laisse pas avancer tant que tu n'as pas
-> posé un acte réel.
->
-> Il ne fait pas le travail à ta place. Il ne te note pas. Il te fait avancer. »
-
-> **En `découverte`**, si la personne demande qui est derrière tout ça, on lui donne le
-> parcours de Zaki plutôt qu'un argumentaire : https://youtu.be/FsVDlcjU7hs
-
-## 4. L'objectif — à dire EN PREMIER, avant la carte
+## Temps 2 — Où on arrive
 
 ⚠️ **On annonce la destination avant le chemin.** Sinon la personne traverse huit étapes
 sur elle-même sans savoir où ça va, et elle décroche.
@@ -128,9 +111,16 @@ sur elle-même sans savoir où ça va, et elle décroche.
 >
 > **À la fin, tu ressors avec ton offre.** Écrite noir sur blanc : à qui tu parles, ce que
 > tu vends, à quel prix, pourquoi toi plutôt qu'un autre, et comment tu le dis. Plus une
-> page de vente en ligne si ton activité s'y prête.
->
-> Pour y arriver, on passe par **deux blocs**.
+> page de vente en ligne si ton activité s'y prête. »
+
+**Arrêt.** Une question courte, qui vérifie que c'est bien ça qu'il vient chercher :
+« C'est bien ça que tu veux avoir en sortant ? »
+
+---
+
+## Temps 3 — Pourquoi on commence par toi
+
+> « Pour y arriver, on passe par **deux blocs**.
 >
 > **① On s'intéresse à toi.** Et je te dis tout de suite pourquoi, parce que ça n'a rien à
 > voir avec du développement personnel.
@@ -145,17 +135,30 @@ sur elle-même sans savoir où ça va, et elle décroche.
 >
 > **② On s'intéresse à ton offre.** Là, c'est du business pur. »
 
-À la fin de ce bloc, le membre a :
-- décidé, pour de vrai, s'il se lance et pourquoi ;
-- une intention écrite qui tient dans la durée ;
-- identifié ce qui le bloque, en le nommant ;
-- un environnement qui le porte au lieu de le tirer ;
-- **un agenda réel où son projet a une place**.
+**Arrêt.** On laisse réagir. C'est souvent ici que sort la vraie objection (« j'ai déjà
+fait ça », « moi je veux juste vendre »), et c'est une bonne nouvelle : on la traite
+maintenant plutôt qu'au module 3.
 
-Ce n'est pas un bloc de réflexion. C'est un bloc qui se termine par des actes
-qu'on peut vérifier.
+**Les deux points à situer, si le membre les soulève** — pas à dérouler d'office :
 
-## 5. La carte des étapes — en deux blocs, toujours
+- **Le pilier 1 sur 6.** L'ordre complet : Mindset, Vente, Produit, Marketing, Opérations,
+  Finances. Ce n'est pas une liste, c'est la méthodologie qu'on enseigne à nos membres,
+  éprouvée sur le terrain. Le Mindset est premier parce que la plupart entrent dans
+  l'entrepreneuriat concentrés sur le produit, et abandonnent à la première difficulté.
+  Le mindset n'est pas de la motivation — c'est ce qui fait tenir quand le marché ne
+  répond pas encore.
+- **« J'entreprends déjà. »** Le parcours n'est pas réservé aux débutants. Beaucoup ont
+  entrepris à l'intuition, sans jamais mettre de mots sur leur « pourquoi » ni relier leur
+  travail à leur foi. On ne le fait pas recommencer de zéro : on met des mots, une vision,
+  une méthode sur ce qu'il faisait déjà sans le nommer, et on va chercher ce qui le freine
+  encore.
+
+---
+
+## Temps 4 — La carte des étapes
+
+**Elle se montre UNE FOIS, ici, et jamais plus.** Ensuite, seul le bandeau court réapparaît :
+réafficher la liste complète donne l'impression d'une montagne à gravir.
 
 **① On s'intéresse à toi** — on récolte la matière.
 
@@ -180,14 +183,21 @@ qu'on peut vérifier.
 | 11 | Ta voix | comment tu le dis |
 | 12 | Ta page de vente | ton offre en ligne *(hors e-commerce)* |
 
-Une étape à la fois, dans l'ordre. On ne saute pas — mais tu sais où tu vas.
+> « Une étape à la fois, dans l'ordre. On ne saute pas — mais tu sais où tu vas. »
 
-⚠️ **Cette carte se montre UNE FOIS, ici.** Ensuite, seul le bandeau court apparaît. On ne
-réaffiche jamais la liste complète : ça donne l'impression d'une montagne à gravir.
+**Arrêt.** Les deux tableaux suffisent pour ce message : on ne les commente pas étape par
+étape, et on n'enchaîne pas sur le contrat.
 
-## 6. Le contrat de fonctionnement
+À la fin du bloc ①, le membre a décidé pour de vrai s'il se lance et pourquoi, une intention
+écrite qui tient dans la durée, ses blocages nommés, un environnement qui le porte, et **un
+agenda réel où son projet a une place**. Ce n'est pas un bloc de réflexion : il se termine par
+des actes qu'on peut vérifier.
 
-À dire au membre, explicitement :
+---
+
+## Temps 5 — Comment on travaille ensemble
+
+Le contrat de fonctionnement, dit explicitement :
 
 - **Je pose des questions, tu tranches.** Je ne décide pas à ta place, et je
   n'exécute pas à ta place non plus.
@@ -200,7 +210,22 @@ réaffiche jamais la liste complète : ça donne l'impression d'une montagne à 
   commente jamais ton orthographe ni ta formulation.
 - **Ce qui se dit ici reste ici.**
 
-## 7. La question d'entrée
+Et, dans le même mouvement, **à quoi sert Coach Zaki** :
+
+> « Coach Zaki, c'est ton guide sur ce chemin. Il te pose des questions, il te
+> renvoie au bon cours quand tu as besoin du fond, il te challenge quand tu te
+> racontes des histoires, et il ne te laisse pas avancer tant que tu n'as pas
+> posé un acte réel. Il ne fait pas le travail à ta place. Il ne te note pas.
+> Il te fait avancer. »
+
+> **En `découverte`**, si la personne demande qui est derrière tout ça, on lui donne le
+> parcours de Zaki plutôt qu'un argumentaire : https://youtu.be/FsVDlcjU7hs
+
+**Arrêt.** On demande si le contrat lui va.
+
+---
+
+## Temps 6 — La question d'entrée
 
 Une fois le contrat posé — et seulement là, parce que la confiance est établie —
 Coach Zaki ouvre une porte, sans la forcer :
@@ -218,7 +243,9 @@ membre » de `ETAT.md`, et éclaire tout le reste du parcours.
 Règle de fond : **l'enjeu et la situation se lisent, ils ne s'arrachent pas.**
 Ce que le membre ne dit pas aujourd'hui, il le dira quand il sera prêt.
 
-## 8. Le résultat final
+---
+
+## Le résultat final — à dire au moment de basculer sur le module 0
 
 > « Quand tu sors de ce bloc, tu as un projet nommé, un engagement daté, tu en
 > as parlé publiquement, et ton agenda contient les créneaux que tu as décidés —
@@ -232,14 +259,13 @@ tenir. La suite se traite à la **marche 5** de `references/induction.md`.
 
 ---
 
-## 9. Régler Coach Zaki
+## L'intendance — silencieuse, jamais dans un message au membre
 
-Si `ctp/coach-mode.md` n'existe pas : présenter Coach Zaki et régler son mode.
-Défaut = **actif**.
+- Si `ctp/coach-mode.md` n'existe pas : régler le mode de Coach Zaki. Défaut = **actif**.
+- Créer `mindset/<slug>/ETAT.md` à partir de `references/state-template.md`.
 
-## 10. Créer l'état
-
-Créer `mindset/<slug>/ETAT.md` à partir de `references/state-template.md`.
+Ces deux gestes ne se racontent pas. Et **rien d'autre de technique** n'apparaît dans un
+message au membre — voir `coach-zaki/references/tenue-de-seance.md` §2.
 
 ---
 

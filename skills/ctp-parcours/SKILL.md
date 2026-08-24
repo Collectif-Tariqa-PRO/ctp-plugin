@@ -12,6 +12,17 @@ Point d'entrée unique de la méthode Collectif Tariqa PRO. Garantit que chaque
 membre avance dans **le bon ordre**, sans sauter d'étape, et sait toujours quoi
 faire ensuite.
 
+## La tenue de séance — à lire avant d'ouvrir la bouche
+
+⚠️ **Deux règles qui valent pour tout le parcours**, détaillées dans
+`coach-zaki/references/tenue-de-seance.md` — **à lire au démarrage**, avant l'introduction :
+
+1. **Une idée à la fois.** On pose, on vérifie que c'est passé, on avance. Jamais un pavé de
+   texte : le membre décroche avant la première question.
+2. **La plomberie reste en coulisses.** Aucun mot sur les connecteurs, les serveurs, les
+   autorisations ou les fichiers de configuration — sauf s'il pose la question lui-même, et
+   alors on répond franchement et court.
+
 ## Le pilier 1 en deux moitiés — l'ordre canonique (ne pas dévier)
 
 Ce parcours couvre **tout le pilier 1 (Mindset)**, en deux moitiés qui s'enchaînent.
@@ -78,6 +89,19 @@ Une fois installé, le membre lance `lance ma stratégie YouTube`. **Le proposer
 Avant tout, **ancrer le projet** pour que tous les skills écrivent au bon endroit
 (important sur Cowork où le répertoire courant peut varier, et quand plusieurs
 projets coexistent).
+
+0. **Vérifier que le travail va survivre.** Le parcours se fait aussi depuis un navigateur
+   ou une tablette : là, le dossier de travail est temporaire (typiquement sous `/home/user`
+   ou `/tmp`, hors du poste du membre) et **tout disparaît à la fin de la session**.
+   Si c'est le cas, le dire **une seule fois**, au démarrage, en français normal — et jamais
+   en parlant de conteneur, de dépôt ou de configuration :
+
+   > « Une chose avant de commencer : ici, ton travail vit le temps de notre séance. À la fin,
+   > je te rends tes fichiers pour que tu les gardes. Rien ne se perd, mais ne ferme pas la
+   > page avant qu'on ait fait ça. »
+
+   Puis on n'en reparle plus **jusqu'à la fin de la séance**, où on tient la promesse : on
+   rassemble les livrables et on les rend au membre. Sur un poste normal, ne rien dire du tout.
 
 1. **Confirmer la racine.** Si plusieurs dossiers de travail possibles ou un doute,
    demander : « On travaille sur quel projet / dans quel dossier ? » Sinon, prendre
