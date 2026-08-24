@@ -3,6 +3,37 @@
 Le membre voit sa version via `lance le parcours CTP` (affichée en tête).
 Pour mettre à jour : voir `GUIDE-MEMBRE.md` §10.
 
+## 1.4.0
+
+- **Le rythme, écrit une fois et appliqué partout** — nouveau
+  `skills/coach-zaki/references/tenue-de-seance.md`, pointé par le parcours, par le
+  pilier Mindset, par Coach Zaki et par chacune des étapes de Mon projet. Une idée
+  par message, on vérifie qu'elle est passée, puis on avance. Pas de longueur à
+  compter : le test est « est-ce que ça se lit d'un coup d'œil, sans faire peur ? ».
+  Fini les pavés qui font décrocher avant la première question.
+- **L'introduction rejouée en sept temps**, chacun fermé par un arrêt réel où le
+  membre reprend la parole — au lieu de dix sections déroulées d'une traite.
+- **La plomberie reste en coulisses.** Le membre n'entend plus parler de
+  connecteurs, de serveurs ni d'autorisations. Trois exceptions seulement : son
+  travail risque d'être perdu, il pose la question lui-même, ou rien ne peut
+  avancer sans lui.
+- **S'il demande, on répond franchement.** « Tu te connectes comment ? », « il y a
+  une base derrière toi ? » → réponse courte et honnête, puis retour au travail.
+  Ce qui ne se dit jamais reste : d'où viennent les principes eux-mêmes.
+- **La bibliothèque de doctrine ne dépend plus de l'environnement** — trois étages :
+  le connecteur s'il est là, sinon la lecture web directe de la bibliothèque en
+  ligne, sinon le socle embarqué. On descend d'un étage sans rien annoncer.
+- **Le parcours depuis un navigateur (tablette, téléphone)** est reconnu : on
+  prévient une fois que le travail vit le temps de la séance, et on rend les
+  fichiers à la fin. Le guide d'installation documente ce chemin.
+- **Brique Création de contenu — liens réparés.** Trois skills envoyaient encore le
+  membre sur l'ancien compte perso, dont une page en 404. Bonnes adresses :
+  page `collectif-tariqa-pro.github.io/ctp-youtube/`, installation
+  `github.com/Collectif-Tariqa-PRO/ctp-youtube-plugin.git`.
+- **Correction — données du membre.** `mindset/` et `landing/` étaient absents du
+  `.gitignore` : les livrables les plus intimes du parcours (famille, foi,
+  blocages, agenda) pouvaient partir dans un dépôt. Corrigé.
+
 ## 1.3.0
 
 - **Nouvelle étape 5 — `ctp-page-de-vente`** : l'aboutissement du parcours pour les
