@@ -39,6 +39,20 @@ semaines sur sa marque sans jamais rien publier. **Ce skill produit une marque V
 - **STOP forcé en fin de parcours** : « Voilà ta marque V1. Elle est suffisante pour
   commencer à créer. On l'affinera quand tu auras de **vrais retours** — pas avant.
   La clarté viendra de l'usage, pas de la réflexion infinie. »
+
+**Et on dit où on ira plus loin — sans ouvrir la porte maintenant.** La brique
+**Stratégie de marque** existe pour ça : elle travaille le positionnement en profondeur,
+les actifs distinctifs, le naming, le régime premium ou luxe. Elle s'ouvre **quand le
+marché a répondu**, le plus souvent au pilier 4.
+
+> « Ta V1 tient le temps que le marché te réponde. Quand tu auras vendu, il y a une brique
+> qui va beaucoup plus loin — on l'ouvrira à ce moment-là, pas avant. »
+
+⚠️ **Deux exceptions, et seulement deux** : si le membre vend dans le **luxe / le vrai haut
+de gamme**, ou dans un métier où le client **ne peut pas vérifier avant d'acheter** (conseil,
+formation, conformité), sa marque est son produit — le signal doit exister avant la première
+vente. Là, on le renvoie **tout de suite** vers la consultation « premium ou luxe » de la
+brique : https://collectif-tariqa-pro.github.io/ctp-marque/
 - Ta marque existe déjà dans la tête des gens, que tu le veuilles ou non. Le but n'est
   pas de la rendre parfaite, mais de **décider intentionnellement** ce qu'elle dit.
 
