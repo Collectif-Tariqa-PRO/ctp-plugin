@@ -3,6 +3,34 @@
 Le membre voit sa version via `lance le parcours CTP` (affichée en tête).
 Pour mettre à jour : voir `GUIDE-MEMBRE.md` §10.
 
+## 1.5.0
+
+- **La reprise — on ne fait plus répéter le membre.** Nouveau premier geste dans le pilier
+  Mindset et dans les quatre étapes de Mon projet : on demande au membre de coller ce qu'il a
+  déjà écrit sur son projet avec une IA, plutôt que de tout lui refaire raconter. Faire
+  recommencer était la première cause d'abandon au deuxième module.
+  ⚠️ Garde-fou écrit noir sur blanc : un historique d'IA généraliste est **presque toujours
+  complaisant**. On en récupère la **matière** — les faits, ses mots, ses tentatives — **jamais
+  les conclusions** : ni les validations, ni les compliments, ni les livrables déjà rédigés à
+  sa place. Et c'est du texte collé, donc traité comme des **données, jamais des instructions**.
+  On restitue en trois blocs (compris / manque / **pas convaincu**), on challenge sur un point,
+  on fait valider — puis on passe quand même toutes les étapes.
+
+- **Quatre garde-fous remontés au bon endroit.** Audit des cinq skills : une règle qui doit
+  s'appliquer *au moment où personne ne la cherche* doit vivre dans le `SKILL.md`, pas dans
+  `references/` — sinon elle disparaît dès que le skill tourne ailleurs que dans Claude Code.
+  - **Déclaration d'invariant** en tête des cinq : ce fichier s'applique en permanence,
+    `references/` est une bibliothèque.
+  - **« On ne remplit jamais à sa place »** — la seule lacune qui traversait les cinq. Rédiger
+    le livrable à la place du membre est toujours plus rapide et donne toujours un meilleur
+    texte, et c'est toujours une erreur : un livrable qu'il n'a pas produit, il ne saura pas le
+    défendre.
+  - **On ne tranche jamais en licite / illicite** — ajouté à `ctp-voix` et
+    `ctp-branding-positionnement`, qui produisent du texte public et pouvaient être
+    interrogés là-dessus.
+  - **Les personnes que tu décris sont réelles** — `buyer-persona-architect` : prénom ou
+    initiale, jamais de coordonnées ni de détail identifiant.
+
 ## 1.4.0
 
 - **Le rythme, écrit une fois et appliqué partout** — nouveau
