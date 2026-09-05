@@ -1,0 +1,194 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ma carte d'audit — Collectif Tariqa PRO</title>
+<!--
+  MODÈLE — Coach Zaki copie ce fichier vers audit/<prenom>-<date>.html
+  et remplace tout ce qui est entre << >>. Les blocs commentés « RÉPÉTER »
+  se dupliquent autant de fois que nécessaire.
+
+  INTERDITS DE RENDU (cf. SKILL.md § Les interdits) :
+  aucun score, aucun pourcentage, aucune jauge chiffrée, aucun montant,
+  aucun nom de famille, aucune promesse de résultat.
+-->
+<style>
+  :root{
+    --bg:#F4EEE1; --ink:#1c1a17; --muted:#6b6459;
+    --gold:#B8893C; --line:#d8cdb6; --card:#fbf8f0;
+    --ok:#4d7c4a; --warn:#b8893c; --bad:#a2482f; --off:#c6bda9;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0}
+  body{background:var(--bg);color:var(--ink);
+    font-family:"Avenir Next","Segoe UI",system-ui,-apple-system,sans-serif;line-height:1.5;padding:32px 16px}
+  .sheet{max-width:820px;margin:0 auto}
+  .toolbar{max-width:820px;margin:0 auto 20px;text-align:right}
+  .toolbar button{background:var(--ink);color:#fff;border:0;border-radius:8px;padding:10px 18px;font-size:14px;font-weight:600;cursor:pointer;font-family:inherit}
+  header.cover{text-align:center;padding:28px 20px 24px;border:2px solid var(--gold);border-radius:16px;background:var(--card);margin-bottom:24px}
+  .brand{letter-spacing:.28em;font-size:12px;color:var(--gold);font-weight:700;text-transform:uppercase}
+  header.cover h1{font-size:30px;line-height:1.15;margin:14px 0 6px;font-weight:800;text-transform:uppercase}
+  header.cover .who{font-size:16px;color:var(--muted)}
+  .tagline{font-style:italic;color:var(--muted);font-size:14px;margin-top:8px}
+
+  h2.sec{font-size:18px;font-weight:800;margin:32px 0 10px;border-bottom:2px solid var(--gold);padding-bottom:8px;page-break-after:avoid}
+  .lead{font-size:14px;color:var(--muted);margin:0 0 14px}
+
+  /* stade */
+  .stade{display:flex;gap:6px;flex-wrap:wrap;margin:0 0 10px}
+  .stade span{flex:1 1 90px;text-align:center;font-size:12px;font-weight:700;padding:9px 6px;border:1px solid var(--line);border-radius:9px;background:var(--card);color:var(--muted)}
+  .stade span.on{background:var(--gold);border-color:var(--gold);color:#fff}
+  .stade-note{font-size:14px;margin:0 0 4px}
+
+  /* piliers */
+  table.pil{width:100%;border-collapse:collapse;background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;font-size:14px}
+  table.pil th,table.pil td{text-align:left;padding:10px 13px;border-bottom:1px solid var(--line);vertical-align:top}
+  table.pil th{background:#f0e9da;font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);font-weight:700}
+  table.pil tr:last-child td{border-bottom:0}
+  table.pil td.name{font-weight:700;white-space:nowrap;width:150px}
+  table.pil td.pv{color:var(--muted);font-style:italic}
+  .dot{display:inline-block;width:11px;height:11px;border-radius:3px;margin-right:7px;vertical-align:-1px}
+  .d-ok{background:var(--ok)} .d-warn{background:var(--warn)} .d-bad{background:var(--bad)} .d-off{background:var(--off)}
+  .st{font-size:12.5px;font-weight:700;white-space:nowrap;width:120px}
+  .st.off{color:var(--muted);font-weight:600}
+
+  /* moteur + charges */
+  .cols{display:flex;gap:14px;flex-wrap:wrap}
+  .col{flex:1 1 260px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
+  .col h3{margin:0 0 8px;font-size:13px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
+  .chip{display:inline-block;font-size:12.5px;font-weight:700;border:1px solid var(--line);border-radius:20px;padding:4px 12px;margin:0 6px 6px 0;color:var(--muted);background:#fff}
+  .chip.on{background:var(--ink);border-color:var(--ink);color:#fff}
+  .col p{margin:8px 0 0;font-size:13.5px;color:var(--muted)}
+
+  /* frein */
+  .frein{margin:26px 0 0;background:var(--card);border:2px solid var(--gold);border-radius:14px;padding:18px 20px;page-break-inside:avoid}
+  .frein .tag{display:inline-block;font-size:10.5px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:#fff;background:var(--gold);border-radius:5px;padding:3px 9px;margin-bottom:10px}
+  .frein p.big{font-size:19px;font-weight:800;margin:0 0 10px;line-height:1.35}
+  .frein p.why{margin:0;font-size:14px;color:var(--muted)}
+  .frein blockquote{margin:10px 0 0;padding-left:14px;border-left:3px solid var(--line);font-style:italic;color:var(--muted);font-size:14px}
+
+  /* chantiers */
+  ol.chantiers{padding-left:0;list-style:none;counter-reset:c;margin:0}
+  ol.chantiers li{counter-increment:c;background:var(--card);border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:12px;padding:12px 16px 12px 52px;margin:0 0 10px;position:relative;font-size:15px;page-break-inside:avoid}
+  ol.chantiers li::before{content:counter(c);position:absolute;left:16px;top:11px;width:24px;height:24px;border-radius:50%;background:var(--gold);color:#fff;font-weight:800;font-size:13px;display:flex;align-items:center;justify-content:center}
+  .pasSujet{margin:10px 0 0;font-size:13.5px;color:var(--muted);background:#efe8d8;border-radius:10px;padding:11px 14px}
+  .pasSujet b{color:var(--ink)}
+
+  /* action */
+  .action{background:var(--ink);color:#fff;border-radius:14px;padding:18px 20px;margin-top:14px;page-break-inside:avoid}
+  .action h3{margin:0 0 10px;font-size:12px;text-transform:uppercase;letter-spacing:.14em;color:#e2cfa5}
+  .action .grid{display:flex;gap:20px;flex-wrap:wrap}
+  .action .grid div{flex:1 1 150px}
+  .action .k{font-size:11px;text-transform:uppercase;letter-spacing:.1em;color:#b9ae98}
+  .action .v{font-size:15.5px;font-weight:700;margin-top:3px}
+
+  /* ressources */
+  .res{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:13px 16px;margin:0 0 10px;font-size:14.5px;page-break-inside:avoid}
+  .res a{color:var(--gold);font-weight:700;text-decoration:none}
+  .res .pass{display:block;margin-top:4px;font-size:13px;color:var(--muted)}
+
+  footer{margin-top:36px;padding-top:16px;border-top:1px solid var(--line);text-align:center;font-size:12px;color:var(--muted)}
+  @media print{ body{padding:0} .toolbar{display:none} header.cover{box-shadow:none} }
+</style>
+</head>
+<body>
+
+<div class="toolbar"><button onclick="window.print()">Imprimer / Enregistrer en PDF</button></div>
+
+<div class="sheet">
+
+  <header class="cover">
+    <div class="brand">Collectif Tariqa PRO</div>
+    <h1>Ma carte d'audit</h1>
+    <div class="who">&lt;&lt;Prénom&gt;&gt; · &lt;&lt;JJ mois AAAA&gt;&gt;</div>
+    <div class="tagline">Entreprendre. Ensemble. Vers Dieu.</div>
+  </header>
+
+  <h2 class="sec">Où j'en suis</h2>
+  <div class="stade">
+    <span>S0 · le brouillard</span>
+    <span class="on">S1 · sur le papier</span>
+    <span>S2 · premier contact</span>
+    <span>S3 · ça tourne sur moi</span>
+    <span>S4 · le plafond</span>
+  </div>
+  <p class="stade-note">&lt;&lt;Une phrase en français normal : ce que ce stade veut dire pour cette personne.&gt;&gt;</p>
+
+  <h2 class="sec">Les six piliers</h2>
+  <p class="lead">Solide · fragile · absent · <b>pas encore mon sujet</b>. Chaque état s'appuie sur une phrase que j'ai dite.</p>
+  <table class="pil">
+    <thead><tr><th>Pilier</th><th>État</th><th>Ce sur quoi je m'appuie</th></tr></thead>
+    <tbody>
+      <!-- RÉPÉTER : une ligne par pilier, toujours les six, toujours dans cet ordre -->
+      <tr><td class="name">1 · Mindset</td><td class="st"><span class="dot d-warn"></span>Fragile</td><td class="pv">« &lt;&lt;verbatim&gt;&gt; »</td></tr>
+      <tr><td class="name">2 · Vente</td><td class="st"><span class="dot d-bad"></span>Absent</td><td class="pv">« &lt;&lt;verbatim&gt;&gt; »</td></tr>
+      <tr><td class="name">3 · Produit</td><td class="st"><span class="dot d-ok"></span>Solide</td><td class="pv">« &lt;&lt;verbatim&gt;&gt; »</td></tr>
+      <tr><td class="name">4 · Marketing</td><td class="st off"><span class="dot d-off"></span>Pas encore mon sujet</td><td class="pv">on y viendra après la première vente</td></tr>
+      <tr><td class="name">5 · Opérations</td><td class="st off"><span class="dot d-off"></span>Pas encore mon sujet</td><td class="pv">—</td></tr>
+      <tr><td class="name">6 · Finances</td><td class="st off"><span class="dot d-off"></span>Pas encore mon sujet</td><td class="pv">—</td></tr>
+    </tbody>
+  </table>
+
+  <h2 class="sec">Ce qui me fait avancer, ce qui me pèse</h2>
+  <div class="cols">
+    <div class="col">
+      <h3>Le moteur bloqué</h3>
+      <span class="chip">Le cavalier · la clarté</span>
+      <span class="chip">L'éléphant · l'envie</span>
+      <span class="chip on">Le chemin · l'environnement</span>
+      <p>&lt;&lt;Une phrase : ce qui manque, concrètement.&gt;&gt;</p>
+    </div>
+    <div class="col">
+      <h3>Ce qui pèse</h3>
+      <span class="chip on">Le temps</span>
+      <span class="chip on">La solitude</span>
+      <span class="chip">L'argent</span>
+      <span class="chip">Les miens</span>
+      <p>&lt;&lt;Une phrase : ce que ça change au rythme tenable — jamais à la direction.&gt;&gt;</p>
+    </div>
+  </div>
+
+  <div class="frein">
+    <span class="tag">Le frein n°1</span>
+    <p class="big">&lt;&lt;Une phrase. Une seule.&gt;&gt;</p>
+    <p class="why">&lt;&lt;Pourquoi celui-là, en deux lignes.&gt;&gt;</p>
+    <blockquote>« &lt;&lt;le verbatim qui le prouve&gt;&gt; »</blockquote>
+  </div>
+
+  <h2 class="sec">Mes trois chantiers</h2>
+  <ol class="chantiers">
+    <li>&lt;&lt;Chantier 1 — un acte, pas un thème.&gt;&gt;</li>
+    <li>&lt;&lt;Chantier 2&gt;&gt;</li>
+    <li>&lt;&lt;Chantier 3&gt;&gt;</li>
+  </ol>
+  <p class="pasSujet"><b>Ce qui n'est pas mon sujet aujourd'hui :</b> &lt;&lt;les piliers ⬜, nommés&gt;&gt;. Je n'ai pas à m'en occuper maintenant — et ne pas m'en occuper est une décision, pas un oubli.</p>
+
+  <div class="action">
+    <h3>Ma première action — sous 48 h</h3>
+    <div class="grid">
+      <div><div class="k">Quand</div><div class="v">&lt;&lt;jour + heure&gt;&gt;</div></div>
+      <div><div class="k">Où</div><div class="v">&lt;&lt;lieu&gt;&gt;</div></div>
+      <div><div class="k">Quoi exactement</div><div class="v">&lt;&lt;l'acte, dans mes mots&gt;&gt;</div></div>
+    </div>
+  </div>
+
+  <h2 class="sec">À regarder — le passage, pas la vidéo</h2>
+  <!-- RÉPÉTER : 2 ou 3 maximum. Jamais une playlist. -->
+  <div class="res">
+    <a href="&lt;&lt;lien horodaté&gt;&gt;">&lt;&lt;Titre de la vidéo&gt;&gt;</a>
+    <span class="pass">&lt;&lt;à &lt;horodatage&gt; — ce que j'y trouve, en une ligne.&gt;&gt;</span>
+  </div>
+  <div class="res">
+    <a href="&lt;&lt;lien horodaté&gt;&gt;">&lt;&lt;Titre de la vidéo&gt;&gt;</a>
+    <span class="pass">&lt;&lt;à &lt;horodatage&gt; — ce que j'y trouve.&gt;&gt;</span>
+  </div>
+
+  <footer>
+    Collectif Tariqa PRO — <i>Entreprendre. Ensemble. Vers Dieu.</i><br>
+    Cette carte est la tienne. Elle ne vaut que si tu fais la première action.
+  </footer>
+
+</div>
+</body>
+</html>

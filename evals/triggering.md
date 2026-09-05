@@ -7,6 +7,24 @@ positif sur should-not. Itérer les `description` en cas d'écart. Zones sensibl
 `buyer-persona-architect` (persona) et `ctp-voix` (copywriting) — beaucoup de skills
 concurrents sur la machine d'un membre.
 
+## ctp-audit
+- ✅ « fais-moi un audit »
+- ✅ « diagnostique mon projet »
+- ✅ « je tourne en rond depuis des mois, je sais pas pourquoi »
+- ✅ « je sais pas ce qui me bloque »
+- ✅ « j'ai une expertise mais j'ose pas me lancer »
+- ✅ « où j'en suis vraiment ? »
+- ✅ « audit entrepreneur musulman »
+- ❌ « est-ce que mon offre est Tariqa PRO compliant ? » (conformité doctrinale → ctp-compliant)
+- ❌ « lance le parcours CTP » (construction → ctp-parcours)
+- ❌ « fais un audit de sécurité de ce code » (autre sens d'« audit »)
+- ❌ « audite mon compte publicitaire » (hors périmètre)
+
+**Zone sensible.** Trois skills se disputent le mot « audit » et l'entrée d'un membre perdu :
+`ctp-audit` (une **situation**, public, diagnostic), `ctp-compliant` (une **sortie écrite**,
+membre, conformité) et `ctp-parcours` (la **construction**, membre). Vérifier ces trois-là
+ensemble à chaque évolution de leurs `description`.
+
 ## ctp-parcours
 - ✅ « par où je commence avec le Collectif Tariqa PRO ? »
 - ✅ « lance le parcours CTP »

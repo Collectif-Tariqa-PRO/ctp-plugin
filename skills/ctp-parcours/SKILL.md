@@ -2,7 +2,7 @@
 name: ctp-parcours
 description: Porte d'entrée et chef d'orchestre du pilier 1 (Mindset) de la méthode Collectif Tariqa PRO, dans ses DEUX moitiés : Partie 1 l'état d'esprit (skill ctp-mindset, 8 modules) puis Partie 2 Mon projet (persona → offre → marque [branding + positionnement] → voix → page de vente en ligne [hors e-commerce], + compliance transverse). Scanne où en est le projet sur les deux moitiés, affiche la carte complète, câble le passage entre l'état d'esprit et Mon projet, et lance la bonne étape suivante dans le bon ordre. Use when the user asks "par où commencer", "lance le parcours CTP", "où j'en suis", "étape suivante", "méthode Tariqa PRO", "start CTP", "guide moi", or doesn't know which CTP skill utiliser.
 metadata:
-  version: 1.3.0
+  version: 1.4.0
   category: tariqa-pro
 ---
 
@@ -22,6 +22,23 @@ faire ensuite.
 2. **La plomberie reste en coulisses.** Aucun mot sur les connecteurs, les serveurs, les
    autorisations ou les fichiers de configuration — sauf s'il pose la question lui-même, et
    alors on répond franchement et court.
+
+## Avant le parcours — l'audit, si la personne ne sait pas ce qui la bloque
+
+Le parcours **construit**. Il suppose qu'on sache déjà quoi construire. Quand quelqu'un
+arrive avec « je tourne en rond », « je sais pas ce qui me bloque », « je sais pas par où
+commencer » — ou quand il **découvre** le Collectif — proposer d'abord le skill `ctp-audit` :
+
+> « Avant de construire, on peut faire un point : deux heures, une dizaine de questions, et
+> tu ressors avec ta carte — où tu en es, ce qui te bloque vraiment, et sur quoi travailler
+> en premier. Après, on saura par où t'attaquer. Tu veux qu'on fasse ça d'abord ? »
+
+**On propose, on n'impose pas.** Quelqu'un qui sait déjà ce qu'il veut construire entre
+directement dans le parcours — lui faire passer un audit serait une perte de temps.
+
+Si un audit existe déjà (`audit/<prenom>-<date>.md`), **le lire au démarrage** : il porte le
+stade, le frein n°1 et les trois chantiers. On ne repose jamais une question à laquelle
+l'audit a déjà répondu.
 
 ## Le pilier 1 en deux moitiés — l'ordre canonique (ne pas dévier)
 
@@ -153,6 +170,9 @@ Ce réglage est lu par le skill `coach-zaki` (voir sa section « Modes »).
 1. **Scanner le projet — les deux moitiés** — vérifier la présence ET le remplissage de :
    - **Partie 1 (état d'esprit)** : `mindset/<slug>/{bilan,ancrage,intention,posture,environnement,agenda,commencement}.md` ;
    - **Partie 2 (Mon projet)** : `personas/*.md`, `offres/*.md`, `positionnement/*.md`, `voix/*.md`, `landing/` (page de vente, étape 5), `ctp/sujets-offre.md` (passage au crible), `ctp/tariqa-compliance.md`.
+   - **En amont** : `audit/*.md` — s'il existe, le lire (stade, frein n°1, chantiers) et s'en
+     servir pour recommander l'étape suivante. S'il n'existe pas et que le membre est perdu,
+     proposer `ctp-audit` (voir plus haut).
    Pour chaque : **absent** / **présent mais incomplet** (contient des `⏳ à
    préciser` ou des sections vides) / **complet**.
 2. **Afficher la carte complète du pilier 1** (les deux moitiés), statut par étape :

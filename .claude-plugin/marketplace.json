@@ -9,9 +9,18 @@
     {
       "name": "collectif-tariqa-pro",
       "source": "./",
-      "description": "Parcours guidé CTP : persona, offre, positionnement (+ différenciateur), voix/copywriting, audit de cohérence Tariqa PRO, export vérifiable (avec génération de pitch SIRA), et Coach Zaki — le coach qui challenge.",
+      "description": "L'audit de l'entrepreneur musulman (diagnostic public : dix questions ouvertes → portrait, frein n°1, ordonnance, renvois YouTube horodatés) + le parcours guidé CTP : persona, offre, positionnement, voix/copywriting, audit de cohérence Tariqa PRO, export vérifiable, et Coach Zaki — le coach qui challenge.",
       "category": "methode",
-      "keywords": ["tariqa-pro", "entrepreneuriat", "marketing", "coaching", "coach-zaki", "pitch"]
+      "keywords": [
+        "tariqa-pro",
+        "entrepreneuriat",
+        "marketing",
+        "coaching",
+        "coach-zaki",
+        "pitch",
+        "audit",
+        "diagnostic"
+      ]
     }
   ]
 }

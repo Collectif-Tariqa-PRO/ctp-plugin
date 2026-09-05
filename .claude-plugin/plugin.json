@@ -1,7 +1,7 @@
 {
   "name": "collectif-tariqa-pro",
-  "description": "Méthode du Collectif Tariqa PRO pour les membres : parcours guidé (persona → offre → positionnement → voix), audit de cohérence Tariqa PRO, export vérifiable (avec pitch SIRA), et Coach Zaki — le coach qui challenge au lieu de flatter.",
-  "version": "1.4.0",
+  "description": "Méthode du Collectif Tariqa PRO : l'audit de l'entrepreneur musulman (diagnostic public, ouvert à tous), le parcours guidé pour les membres (mindset → persona → offre → positionnement → voix → page de vente), l'audit de cohérence Tariqa PRO, l'export vérifiable (avec pitch SIRA), et Coach Zaki — le coach qui challenge au lieu de flatter.",
+  "version": "1.5.0",
   "author": {
     "name": "Collectif Tariqa PRO",
     "email": "zaki@tariqa.pro"
@@ -18,6 +18,10 @@
     "compliance",
     "coaching",
     "coach-zaki",
-    "pitch"
+    "pitch",
+    "audit",
+    "diagnostic",
+    "lead-magnet",
+    "mindset"
   ]
 }

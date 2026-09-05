@@ -3,6 +3,41 @@
 Le membre voit sa version via `lance le parcours CTP` (affichée en tête).
 Pour mettre à jour : voir `GUIDE-MEMBRE.md` §10.
 
+## 1.5.0
+
+- **Nouveau skill `ctp-audit` — l'audit de l'entrepreneur musulman.** La porte d'entrée
+  **publique** du Collectif Tariqa PRO, ouverte à tous et pas seulement aux membres. Là où
+  le parcours *construit*, l'audit *diagnostique* : une dizaine de questions ouvertes en
+  deux heures, puis un portrait complet — les six piliers avec leur état et leur preuve, le
+  moteur bloqué (cavalier / éléphant / chemin), le stade du projet, ce qui pèse — et **un
+  seul** frein n°1, nommé et prouvé par une phrase de la personne.
+- **Les renvois YouTube horodatés.** Le catalogue public du Collectif, rangé par *ce que la
+  personne dit* — et pas par thème. Chaque renvoi pointe le **passage exact** quand la vidéo
+  est chapitrée (les six piliers à 8:00 de la conférence Niyya/tawakkul/rizq, le piège du TJM
+  à 4:30 du switch des experts, le « je peux le faire seul » à 42:00 de Foi & fraternité…).
+  Une vidéo sans chapitres est annoncée comme telle : **aucun horodatage ne s'invente**.
+- **La règle du frein unique.** Un audit qui rend huit problèmes n'a rien diagnostiqué. Les
+  piliers hors du stade de la personne sont marqués « pas encore ton sujet » — explicitement,
+  parce que c'est un soulagement, pas une omission.
+- **Aucun score, jamais.** Pas de note sur 100, pas de pourcentage de maturité. Quatre états
+  nommés, et chacun s'appuie sur un verbatim. Sans citation possible : « à creuser ».
+- **Les trois portes.** YouTube dès la mi-parcours, l'écosystème **une seule fois** après le
+  portrait, WhatsApp **seulement** sous conditions écrites — et jamais en réponse à une
+  douleur qu'on vient d'entendre. Le livrable est rendu entier, gratuitement, avant qu'une
+  seule porte s'ouvre : l'audit doit rester utile à celui qui n'achètera jamais.
+- **Un livrable qu'on garde** — `audit/<prenom>-<date>.md` plus une carte imprimable
+  (`carte-audit-modele.html`) et un bloc court à copier-coller, sans mention commerciale.
+- **Le portage documenté** — `references/portage.md` : comment faire vivre le même audit dans
+  Claude Code, dans un Projet claude.ai, dans un GPT personnalisé (et ses deux contraintes
+  réelles), et sur le site avec capture de lead. Avec les invariants qui ne changent jamais
+  d'une surface à l'autre, et la règle qui protège le dispositif : **la capture n'arrive
+  jamais avant que la personne ait reçu quelque chose**, et le résultat n'est jamais l'appât.
+- **`audit/` ajouté au `.gitignore`** — même raison que `mindset/` : ce sont les données les
+  plus intimes du dispositif (foi, famille, argent, blocages), elles ne partent pas dans un
+  dépôt.
+- **Le lien WhatsApp de la passerelle** vit dans `ctp-export/references/collectif.md`, source
+  unique. ⏳ Tant qu'il n'est pas renseigné, la troisième porte n'existe pas.
+
 ## 1.4.0
 
 - **Le rythme, écrit une fois et appliqué partout** — nouveau
