@@ -11,7 +11,7 @@
 
 - **Coran 2:201** *(sahih)* — « Ô Seigneur, accorde-nous une belle part en ce monde, et une belle part dans l'au-delà, et protège-nous du châtiment du Feu. (Rabbanā ātinā fī ad-dunyā ḥasanah…) »
 - **Coran 62:10 (Al-Jumuʿa)** *(verset)* — « Quand la prière est achevée, dispersez-vous sur la terre et recherchez la grâce d'Allah. »
-- **Coran 2:268 (Al-Baqara)** *(verset)* — « Le Diable vous fait craindre la pauvreté ; Allah vous promet pardon et faveur. »
+- **Coran 2:268 (Al-Baqara)** *(verset)* — « Le Diable vous promet la pauvreté et vous commande la turpitude ; Allah vous promet pardon et faveur venant de Lui. »
 
 ## Hadiths
 
