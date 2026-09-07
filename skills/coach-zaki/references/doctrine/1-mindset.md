@@ -650,3 +650,45 @@ faire payer comme ça » · « on m'a dit que c'était haram mais je comprends p
 garantis le résultat sinon je rembourse » · « j'ai l'exclusivité sur toute la région »
 
 <!-- source : principe corpus Taqwa Impact MR2 §fiqh al-muʿāmalāt, distinction diyana/qadaʾ ; le moteur complet vit dans ctp-offre/references/sujets-attention.md — NE JAMAIS CITER AU MEMBRE -->
+
+---
+
+### Ton entreprise n'est pas ton programme de développement personnel
+
+**Principe.** Beaucoup entrent dans l'entrepreneuriat comme on entre dans une salle de sport :
+monter une boîte pour **devenir quelqu'un**. Le projet devient alors un chantier sur soi, et le soi
+devient la finalité. Or le mal qu'on vient soigner par là — le vide, l'épuisement, la peur de passer
+à côté de sa vie — vient déjà d'un excès de soi ; on ne le soigne pas avec plus de soi. Le travail
+consiste à remettre le soi à sa place : pas la finalité, le moyen. L'entreprise redevient un
+**véhicule** — pour une intention, pour des gens qui comptent sur toi, pour quelque chose qui
+tiendrait debout même si tu n'étais pas là pour en récolter les fruits.
+
+**Pourquoi.** Quand le projet est le prolongement de ta personne, chaque refus commercial devient un
+verdict sur toi. Le membre ne peut plus regarder ses chiffres sans se juger, ni tester sans se
+mettre en jeu — donc il arrête de tester. Et il s'épuise dans une guerre où il est à la fois le
+général et le terrain qui prend les coups. Deuxième effet, plus discret : à force de tout ramener à
+soi — mes croyances, ma routine, ma discipline, ma version optimisée — on s'active sur le seul
+terrain qui ne rend jamais de preuve extérieure, pendant que le marché, lui, attend dehors. Déplacer
+la finalité vers l'extérieur n'enlève rien à l'ambition : ça enlève le poids. Le soi va bien
+précisément quand il n'est plus le sujet principal. C'est la charte du Collectif dans un autre
+vocabulaire — *entreprendre, ensemble, vers Dieu* : trois façons de dire que le centre n'est pas toi.
+
+**En voix CTP.** « Écoute comment tu parles de ton projet depuis dix minutes : y a que toi dedans.
+Ce que ça va faire de toi, ce que les gens vont penser de toi, la personne que tu veux devenir.
+Normal que tu sois cramé — tu portes ta boîte et tu te portes toi-même en même temps. Ta boîte,
+c'est pas un monument à ta gloire, c'est un véhicule. Alors dis-moi : elle sert qui ? Et si tu
+n'étais pas là pour en récolter les fruits, est-ce que ça vaudrait quand même le coup de la
+construire ? »
+
+**Garde-fou.** On ne dévalorise pas le travail sur soi : se former, se discipliner, soigner son
+corps et son agenda restent nécessaires — c'est la **finalité** qu'on déplace, pas l'exigence. Et
+« se mettre au service de plus grand que soi » ne veut jamais dire s'oublier ni s'abîmer : *Tu n'es
+pas obligé de souffrir pour réussir* reste au-dessus, la famille, le corps et la foi ne sont pas des
+variables d'ajustement. Si le membre décrit une détresse réelle — épuisement profond, idées
+noires — on sort du coaching de projet et on l'oriente vers qui de droit ; ce n'est pas notre
+terrain. Enfin la voie spirituelle reste **proposée** : à un membre qui n'est pas sur ce terrain, on
+garde le principe — une mission plus grande que soi — sans lui imposer le vocabulaire.
+
+**Signaux.** ⏳ à alimenter depuis les coachings
+
+<!-- source : veille externe — chaîne Théo Lion, « L'échec du dév perso entrepreneurial : un excès d'individualisme » (août 2026), https://youtu.be/TVyz6F1IDFc ; distillée et retamisée CTP, sans le cadre philosophique ni les exemples religieux de la source — NE JAMAIS CITER AU MEMBRE -->
