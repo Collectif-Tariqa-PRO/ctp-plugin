@@ -1,7 +1,8 @@
 # 🎬 Vidéo « Développement personnel » — analyse des sources + plan + script
 
 > **Statut :** matière éditoriale de travail (Zaki). Ce n'est **pas** du contenu de skill.
-> Produit le 2026-09-07, **révisé v2 le 2026-09-08** après chargement des fondations.
+> Produit le 2026-09-07, **révisé v3 le 2026-09-08** — fondations chargées + **4ᵉ source :
+> Dr Chauki Lazhar** (compte rendu complet : `source-chauki-lazhar.md`).
 > **Format :** essai parlé face-caméra · ~20 min · étage **autorité (MOFU)** ·
 > niveau de conscience visé **2 → 3**.
 
@@ -13,6 +14,7 @@
 | `ctp-youtube-plugin` — doctrine YouTube + gabarits ③④⑤ | le pipeline, le gabarit de plan, la règle du CTA unique ×3 |
 | `ctp-base-connaissances` — graphe 4699 nœuds / 7471 liens (**privé**) | le persona CTP v2, le corpus **Taqwa Impact** (psychologie, âme, modernité), et **ton back-catalogue YouTube** |
 | vidIQ — chaîne `Zaki du Collectif Tariqa Pro` | 50 vidéos long-form : ce qui marche, et ce que tu as **déjà dit** |
+| **Chaîne `@chaukilazhar`** — ~100 vidéos scannées, **5 transcripts lus** | le **niveau paradigme** : finalités, norme→vision, liberté, passions, sérénité psychologique. → `source-chauki-lazhar.md` |
 
 > ⚠️ **Confidentialité.** La base de connaissances est privée (noms de membres, montants,
 > dossiers). **Aucun chiffre, aucun nom, aucune donnée de coaching n'est reproduit ici** —
@@ -42,6 +44,13 @@
    vidéo aux seuls hommes.
 6. **La solitude est la douleur transversale n°1 de ton persona.** La fin de la vidéo était
    déjà dessus — elle est maintenant **le centre de gravité**, pas la cerise.
+7. **⭐ v3 — Chauki Lazhar change trois choses de plus** (détail : `source-chauki-lazhar.md`) :
+   - **un nouveau moment de bascule**, entièrement sourcé et plus fort que le précédent
+     (« pas de peur, pas de tristesse » — le programme inverse du dev perso) ;
+   - **ta punchline la plus originale** : *« ton développement personnel halal, c'est une banque
+     islamique »* — on a changé la forme, jamais le cap ;
+   - **une position finale qui bat les trois autres vidéos** : ni personnel, ni impersonnel —
+     **la balance**. Avec les deux hadiths qui la fondent.
 
 ---
 
@@ -187,26 +196,63 @@ ce n'est pas réservé aux prophètes.
 
 ---
 
+## A.4 · Dr Chauki Lazhar — le niveau paradigme *(la 4ᵉ source)*
+
+> Compte rendu complet + exploitation base de connaissances : **`source-chauki-lazhar.md`**.
+> Ici, seulement ce qui sert la vidéo.
+
+Chercheur en fondements du droit musulman et en **finalités (maqāṣid)**, directeur adjoint du
+CILE (Qatar), **belge d'origine tunisienne**, et — c'est décisif — **il vient d'écrire un livre
+sur le travail en islam**. Son constat sur ce livre est textuellement le tien : tous ceux qui
+écrivent sur le travail en islam **ne remettent jamais en cause la charge conceptuelle que
+l'ordre ambiant a imposée au mot « travail »**.
+
+**Ce qu'il apporte que les trois autres n'ont pas — la méthode d'évaluation d'un objet importé :**
+
+| Ce qu'il pose | Ce que ça règle |
+|---|---|
+| Jusqu'à la modernité, les changements du réel étaient **micro** — l'outil hérité (classer le détail en halal/haram/obligatoire/recommandé/déconseillé) suffisait. La modernité amène des changements **structurels** : de nouveaux modèles, différents « non seulement dans leur forme, mais dans leur fond, dans leur vision du monde, dans leurs objectifs ». | Explique **pourquoi** l'ancien réflexe ne suffit plus. |
+| **« Tout ce qui se trouve dans le réel n'est pas neutre »** — tout objet porte une vision de qui est l'humain, d'où il vient, où il va, de ce qui est bien et de ce qui est mal. | Rejoint Nouman Ali Khan (« cette thérapie est aussi une da'wa ») et Sofiane Meziani (la généalogie). **Trois sources, un seul constat.** |
+| Si on corrige la **forme** sans questionner le **cap**, alors « **on islamise la forme tout en œuvrant vers des idéaux qui ne sont pas les nôtres** ». Son exemple : **la banque islamique** — on retire le riba, on garde la fonction, la vision et les idéaux (croissance, production effrénée). | ⭐ **Ta punchline la plus originale** (cf. B.2bis). |
+| **« On a inversé les idéaux et les moyens. »** La croissance n'est pas un idéal. La santé physique n'est pas un idéal — c'est un **moyen**. | ⭐ La formulation la plus nette de ta thèse. Et **Sofiane Meziani dit exactement pareil** : « le bien-être n'est pas une fin en soi ». |
+| **La liberté** : « se libérer de tout ce qui nous empêche d'être un être humain… la pression sociale, nos penchants, l'ego. **On se soumet à Dieu pour être libre.** » | ⭐ La réponse frontale à Ehrenberg et à la liberté-comme-absence-de-contrainte. |
+| **La sérénité psychologique** : la récompense ultime au Paradis est **psychologique** — *ils n'auront pas peur, ils ne seront pas affligés* — « **ce verset revient 53 fois** ». Donc : ni peur du futur, ni tristesse du passé. Et c'est **aussi un objectif pour ici-bas** : vivre dans le présent. | ⭐⭐ **Ton nouveau moment de bascule** (cf. B.1). |
+| **Les passions ne sont pas mauvaises** — « Dieu nous a embelli l'amour des passions » ; sans elles « on ne peut pas réaliser notre fonction ». Le problème, c'est **la démesure**. Et le remède est **un acte** : la zakat, dont le Coran donne pour finalité la **purification de celui qui donne**, pas l'entraide (« ça, tout le monde le voit »). | La réponse à Spinoza — ni intellectuelle, ni introspective : **un geste**. |
+| **L'amour de soi est légitime** : « si l'humain ne s'aime pas lui-même, il ne prend plus soin de lui, il ne réalise plus sa fonction existentielle. » Le contrepoids n'est pas son abolition, c'est **l'īthār** — préférer l'autre. | ⭐⭐⭐ **Ta position finale** : ni personnel, ni impersonnel — **la balance** (cf. B.3). |
+| **Le hadith des droits**, avec son contexte : la femme d'Abū Dardā' se plaint à Salmān que son mari en fait trop. Verdict du Prophète ﷺ : « **donne à chacun son droit** ». Et les **trois compagnons** qui voulaient faire *plus* que lui (ne jamais se marier, jeûner toujours, prier toutes les nuits) : repris. | ⭐⭐⭐ **La réfutation imparable de Théo Le Lion.** |
+
+⚠️ **Sa prudence est ton meilleur garde-fou** : il rappelle qu'on ne peut pas lire la Révélation
+sans les outils — *« celui qui veut étudier Nietzsche ne peut pas le lire sans son contexte, son
+histoire, ses influences »*. **C'est la justification doctrinale exacte de ta règle « pas de
+posture d'imam »** — et tu peux la citer dans la vidéo : ta prudence devient un argument.
+
+---
+
 ## A.4 · La convergence — ce que les trois disent ensemble
 
 Les trois décrivent **le même mécanisme**, à trois profondeurs différentes :
 
 ```
-   THÉO           →  décrit la MALADIE       : un excès de soi, et un remède qui en rajoute.
-                     Il s'arrête à la sortie de secours, sans dire où elle mène.
+   THÉO LE LION    →  décrit la MALADIE     : un excès de soi, et un remède qui en rajoute.
+                      Il s'arrête à la sortie de secours, sans dire où elle mène.
 
-   SOFIANE        →  décrit la CAUSE         : une phrase coupée en deux. On a gardé
-                     « connais-toi », on a jeté « et tu connaîtras Dieu ». Le chemin
-                     est devenu la destination.
+   SOFIANE MEZIANI →  décrit la CAUSE       : une phrase coupée en deux. On a gardé
+                      « connais-toi », on a jeté « et tu connaîtras Dieu ». Le chemin
+                      est devenu la destination.
 
-   NOUMAN ALI KHAN → décrit la RACINE        : le point de départ. Cassé, ou sur la fitra.
-                     Change la racine, tu changes le fruit.
+   NOUMAN ALI KHAN →  décrit la RACINE      : le point de départ. Cassé, ou sur la fitra.
+                      Change la racine, tu changes le fruit.
+
+   CHAUKI LAZHAR   →  décrit le PARADIGME   : on a inversé les idéaux et les moyens, et
+                      on corrige la forme sans jamais toucher au cap. Il donne la
+                      MÉTHODE pour évaluer n'importe quel objet importé.
 ```
 
 **Et la pièce qu'aucun des trois ne pose — c'est la tienne :**
-> Aucun des trois ne descend dans **le business**. Théo y est mais sans Dieu. Sofiane a Dieu
-> mais reste au principe. Nouman Ali Khan a Dieu et la profondeur, mais il parle à la famille
-> et au cœur — pas à l'entrepreneur qui doit vendre lundi matin.
+> Aucun des quatre ne descend dans **le business d'un membre**. Théo Le Lion y est mais sans
+> Dieu. Sofiane Meziani a Dieu mais reste au principe. Nouman Ali Khan a Dieu et la profondeur,
+> mais il parle à la famille et au cœur. Chauki Lazhar a le cadre le plus complet — mais il
+> écrit pour la recherche, pas pour quelqu'un qui doit vendre lundi matin.
 >
 > **Le Collectif Tariqa PRO, c'est précisément ce croisement-là.** Et ce n'est pas une position
 > que tu inventes pour la vidéo : c'est déjà ta doctrine. « Le levier le plus puissant que tu
@@ -229,17 +275,30 @@ Et une chose que ni Théo Le Lion, ni Sofiane Meziani, ni Nouman Ali Khan ne peu
 principe. Nouman Ali Khan a Dieu et la profondeur, mais il parle au cœur et à la famille — pas
 à celui qui doit vendre lundi matin. **Le croisement, c'est toi.**
 
-## B.1 · Le moment de bascule ⭐
+## B.1 · Le moment de bascule ⭐ *(v3 — remplacé, et c'est mieux)*
 
-> ### « Le développement personnel ne t'a pas menti sur la méthode.
-> ### Il t'a menti sur deux choses : **d'où tu pars**, et **à qui tu t'adresses**. »
+> ### « La réussite, dans le Coran, c'est : **pas de peur pour ton avenir, pas de tristesse pour ton passé.**
+> ### Le développement personnel, c'est : **de l'angoisse pour ton avenir, et de la honte pour ton passé.**
+> ### C'est le programme exactement inverse. »
 
-Version courte, clipable en Short :
+- **l'angoisse du futur** : tu n'es pas encore devenu qui tu dois être.
+- **la honte du passé** : tes croyances limitantes, tes traumas, ton conditionnement.
 
-> ### « Tu n'as pas un problème de discipline. Tu as un problème de destinataire. »
+**Pourquoi c'est plus fort que la version précédente :** c'est **entièrement sourcé** (le verset
+*« ils n'auront pas peur et ils ne seront pas affligés »*, que Chauki Lazhar dit revenir **53
+fois**), et ça ne demande **aucun raisonnement** au spectateur — il le sent immédiatement.
+Et ça referme l'analyse d'Ehrenberg pile au bon endroit : sa « peur de l'insuffisance » **est**
+la peur du futur ; sa « journée banale comme preuve à charge » **est** la tristesse du passé.
 
-*(Écho volontaire à ta punchline maison : « tu n'as pas un problème d'information, tu as un
-problème d'exécution ». C'est reconnaissable, c'est toi.)*
+### Les deux autres phrases, à garder comme appuis
+
+> **« Tu n'as pas un problème de discipline. Tu as un problème de destinataire. »**
+> *(écho à ta punchline maison « tu n'as pas un problème d'information, tu as un problème
+> d'exécution » — reconnaissable, c'est toi. → excellent Short.)*
+
+> **« Le développement personnel ne t'a pas menti sur la méthode. Il t'a menti sur d'où tu pars
+> et sur à qui tu t'adresses. »**
+> *(la synthèse des inversions ① et ② — à placer juste après le moment de bascule.)*
 
 ## B.2 · La contre-intuition qui porte toute la vidéo
 
@@ -254,26 +313,76 @@ une arnaque**. Toi tu dis l'inverse :
 
 ---
 
+## B.2bis · ⭐⭐ La punchline la plus originale de la vidéo — la banque islamique du mindset
+
+Chauki Lazhar montre la faute type de la pensée musulmane appliquée : on prend un modèle importé,
+**on corrige la forme, on garde le cap**. Son exemple, c'est la banque islamique — on retire le
+riba, mais on ne remet jamais en cause la fonction de la banque, la vision qui l'a engendrée, ni
+les idéaux qu'elle sert. *« On islamise la forme tout en œuvrant vers des idéaux qui ne sont pas
+les nôtres. »*
+
+Applique-le au développement personnel, et regarde ce que ça donne :
+
+> ### « Ton développement personnel halal, c'est une banque islamique. »
+>
+> On a pris l'industrie de l'optimisation de soi. On a retiré ce qui gênait — la loi
+> d'attraction, les trucs new age. On a ajouté une dou'a et un hadith. **Et on a gardé le cap :
+> toi, au centre, en train de devenir ta meilleure version.** Puis on a appelé ça
+> « développement personnel halal ». **On a changé la forme. On n'a jamais touché à la
+> direction.**
+
+**Pourquoi c'est décisif :** ça déplace la question de *« est-ce que cet outil est halal ? »*
+vers *« vers quoi cette chose pointe-t-elle ? »*. Et ça donne enfin un nom à ce que fait le
+Collectif Tariqa PRO : **pas du business halal — une redéfinition de la finalité.**
+C'est ton travail de redéfinition, énoncé par un chercheur.
+
+Et la formule qui va avec, du même auteur :
+
+> **« On a inversé les idéaux et les moyens. »** La croissance n'est pas un idéal. La santé
+> physique n'est pas un idéal — c'est un moyen. Le bien-être non plus. **Le développement
+> personnel a pris un moyen et en a fait le but de ta vie. Après ça, tout le reste s'écroule
+> tout seul.**
+
+*(Sofiane Meziani dit exactement la même chose : « le bien-être n'est pas une fin en soi ».
+Deux sources indépendantes — c'est ce qui rend la vidéo documentée plutôt qu'opinée.)*
+
+---
+
 ## B.3 · ⭐ Les trois réponses que TU as déjà, et qu'aucune des trois vidéos n'a
 
 **C'est le cœur de ta valeur ajoutée.** Chacune répond précisément à un endroit où l'une des
 trois vidéos s'arrête. Toutes les trois viennent de **ton propre enseignement** — pas d'un
 emprunt.
 
-### ① Contre « sacrifie-toi totalement » (Théo Le Lion) → **le hadith des droits**
+### ① Contre « sacrifie-toi totalement » (Théo Le Lion) → **le hadith des droits** ⭐ *(v3 : doublé)*
 
-Sa conclusion, c'est : choisis quelque chose de plus grand et **subordonne-toi totalement**.
-Apprends à te sacrifier. Et toi tu as déjà fait une vidéo entière là-dessus : **le mythe du
-sacrifice total.** La parole du Prophète ﷺ est explicite : **ton Seigneur a un droit sur toi,
-ton corps a un droit sur toi, ta famille a un droit sur toi — donne à chacun son droit.**
+Sa conclusion : choisis quelque chose de plus grand et **subordonne-toi totalement**. Apprends à
+te sacrifier. Tu as déjà fait une vidéo entière là-dessus — **le mythe du sacrifice total** — et
+Chauki Lazhar t'en donne maintenant **le contexte narratif complet, plus un second hadith.**
 
-> **La subordination totale à une seule chose n'est pas un remède. C'est un déséquilibre
-> avec une bonne intention.** Et c'est même la définition exacte du burn-out entrepreneurial :
-> quelqu'un qui a tout donné à *une* chose, en croyant bien faire.
+**a) Le hadith des droits.** La femme d'Abū Dardā' se plaint auprès de Salmān al-Fārisī : son
+mari prie toute la nuit, jeûne sans arrêt, **il en fait trop**. L'affaire remonte au Prophète ﷺ,
+qui tranche : **« ton Seigneur a un droit sur toi, ton être a un droit sur toi, ta famille a un
+droit sur toi — donne à chacun son droit. »**
 
-C'est une objection **imparable, sourcée, et bienveillante** : tu ne dis pas qu'il a tort de
-vouloir sortir du soi. Tu dis que « totalement » est le mot de trop. Et tu le dis avec une
-autorité qu'il n'a pas.
+**b) Le hadith des trois compagnons.** Trois hommes veulent faire *plus* que le Prophète ﷺ :
+l'un ne se mariera jamais, l'un jeûnera tous les jours, l'un priera toutes les nuits. Il s'en
+offusque : *« je me marie, et je dors, et je ne jeûne pas tous les jours ; celui qui s'éloigne
+de ma tradition ne fait pas partie de moi. »*
+
+> 🔥 **La réfutation devient imparable :**
+> « Trois hommes ont voulu faire exactement ce qu'il te propose — se subordonner totalement.
+> **Et pour Dieu**, ce qui est le meilleur objet possible. **Ils ont été repris.**
+> Si la subordination totale n'est pas permise même pour l'adoration, elle ne l'est certainement
+> pas pour ta boîte. Le mot qui ne va pas dans sa phrase, ce n'est pas "plus grand" —
+> **c'est "totalement".** »
+
+Et le corollaire : **la subordination totale n'est pas un remède, c'est un déséquilibre avec une
+bonne intention.** C'est la définition exacte du burn-out entrepreneurial : quelqu'un qui a tout
+donné à *une* chose, en croyant bien faire.
+
+Objection **sourcée, imparable, et bienveillante** : tu ne dis pas qu'il a tort de vouloir sortir
+du soi. Tu dis que « totalement » est le mot de trop.
 
 ### ② Contre « l'insuffisance » (Ehrenberg, cité par Théo) → **le qana'a**
 
@@ -313,6 +422,31 @@ plusieurs — l'âme **dominante** (celle qui commande), l'âme **qui se blâme*
 *(⚠️ Bloc puissant mais technique. Si la vidéo est déjà dense, garde-le pour une vidéo à part —
 c'est un pillar entier. Mets-le en boucle ouverte : « il y a une quatrième chose, mais elle
 mérite sa propre vidéo ».)*
+
+---
+
+### 🏁 ⭐⭐⭐ ET LA POSITION FINALE — ni personnel, ni impersonnel : **la balance**
+
+C'est **l'apport le plus important de toute l'analyse**, et il vient de Chauki Lazhar.
+
+L'amour de soi n'est pas le problème : *« si l'humain ne s'aime pas lui-même, il ne va plus
+prendre soin de lui, il ne va plus pouvoir réaliser sa fonction existentielle. »* Et les
+aspirations non plus : *« Dieu nous a embelli l'amour des passions »* — posséder, se nourrir,
+avancer. **Sans elles, on ne réalise pas sa fonction.** Le problème n'est jamais l'aspiration :
+c'est **la démesure**, quand elle « outrepasse sa mesure ». Et le contrepoids à l'amour de soi
+n'est pas son abolition — c'est **l'īthār**, préférer l'autre.
+
+> ### Développement **personnel** = tout ramené vers soi.
+> ### Développement **impersonnel** = tout arraché à soi.
+> ### **Ce sont les deux bouts du même axe. Et les deux sont des déséquilibres.**
+>
+> La réponse n'est pas sur cet axe. Elle est dans **la balance**.
+> Tu as le droit de t'aimer — sinon tu ne prends plus soin de toi, et tu ne remplis plus ta
+> fonction. Tu as le devoir de préférer l'autre. **Donne à chacun son droit.**
+
+**C'est déjà ta doctrine, mot pour mot :** *« ce n'est pas l'un au détriment de l'autre. »*
+Sauf qu'ici elle a son fondement textuel, et elle **dépasse les quatre sources d'un coup** :
+Théo Le Lion propose l'autre extrême du même axe ; toi tu sors de l'axe.
 
 ---
 
@@ -449,6 +583,24 @@ naturellement sur ta vidéo* Collectif vs Individualisme *: c'est la passe.)*
 | **Coran 2:201** — « une belle part ici-bas, une belle part dans l'au-delà » | ✅ | Ton verset anti-« l'un au détriment de l'autre ». |
 | **Coran 62:10** — « dispersez-vous sur la terre et recherchez la grâce d'Allah » | ✅ | Ton verset business. |
 | **Bukhari 6439** — la vallée d'or | ✅ | Ta preuve que l'optimisation de soi **ne peut pas** se terminer : elle n'a pas de point d'arrêt. Très fort en Short. |
+
+### 🎓 Sources Chauki Lazhar *(v3)*
+
+| Élément | Où ça sert | À faire avant de tourner |
+|---|---|---|
+| **« Ils n'auront pas peur et ils ne seront pas affligés »** — et le fait qu'il « revient 53 fois dans le Coran » | ⭐⭐⭐ **Le moment de bascule.** | **VÉRIFIE LE COMPTE.** Superbe si exact, coûteux sinon. En cas de doute : « ce verset revient des dizaines de fois » — c'est aussi fort et c'est sûr. |
+| **Le hadith des droits** (Salmān / Abū Dardā') + **les trois compagnons** | 🥊 La réfutation de Théo Le Lion. | Retrouve les libellés exacts. Dis **de qui vient la parole**, jamais le degré. |
+| **La banque islamique — forme corrigée, cap intact** | ⭐⭐ Ta punchline la plus originale. | Attribue-la : « un chercheur en finalités, Chauki Lazhar, explique que… ». C'est **son** analyse. |
+| **« On a inversé les idéaux et les moyens »** | La formulation la plus nette de ta thèse. | Attribue. Et note la convergence avec Sofiane Meziani — dis-la, ça montre le travail. |
+| **La liberté = se libérer de la pression sociale, des penchants, de l'ego** | La réponse à Ehrenberg. | Attribue. |
+| **L'amour de soi légitime + l'īthār comme contrepoids** | 🏁 Ta position finale (la balance). | Attribue. C'est l'apport le plus important de la source. |
+| **La zakat comme remède aux passions** (finalité = purifier celui qui donne) | 🥊 La réponse à Spinoza. | ⚠️ **Probablement à sortir de cette vidéo** — c'est une vidéo à part. |
+| **Son argument sur les prérequis de lecture** (« on ne lit pas Nietzsche sans son contexte ») | Ton désamorçage « je ne suis pas savant ». | Excellent à citer : **ta prudence devient un argument**, pas une excuse. |
+| **Les maqāṣid n'ont jamais été vraiment théorisées** (Ghazālī en marge, Shāṭibī autour) | Garde-fou. | 👉 **N'utilise pas « maqāṣid » comme label de sérieux dans la vidéo.** Il appelle ça lui-même une « coquille vide ». |
+
+> ⚠️ **Tous ces verbatims viennent de sous-titres automatiques.** Ils sont fiables sur le fond,
+> approximatifs sur la lettre (les termes arabes translittérés sont déformés). **Reformule avec
+> tes mots plutôt que de citer entre guillemets**, sauf pour ce que tu as vérifié toi-même.
 
 ### 🏠 Tes sources maison — celles qui font la différence
 
@@ -662,6 +814,22 @@ est parfait. Sur ce qu'il propose après. »*
       une **réponse**. Pareil avec Spinoza : il prend sa **méthode** — comprends la cause, la
       passion se dissout — et il jette sa **destination**. Chez Spinoza, le bout du chemin, c'est
       d'attacher son âme à l'éternel. Il garde l'outil, il jette la finalité. »
+- [ ] 🥊🥊 **L'objection 5 — et elle vaut aussi pour NOUS** *(le passage le plus original de
+      ta vidéo — prends ton temps)* : « Et là je vais arrêter de taper sur lui, parce que
+      l'erreur suivante, **c'est la nôtre**. Un chercheur en finalités, Chauki Lazhar, explique
+      un truc redoutable : **rien de ce qui existe dans le réel n'est neutre.** Chaque modèle
+      porte une vision de qui est l'humain, d'où il vient, où il va. Et il donne un exemple :
+      **la banque islamique.** On a pris la banque telle qu'elle est, on a retiré le riba… et on
+      n'a **jamais** remis en cause sa fonction, ni les idéaux qu'elle sert. **On a changé la
+      forme. On a gardé le cap.**
+      Maintenant applique ça à notre sujet. **Ton développement personnel halal, c'est une
+      banque islamique.** On a pris l'industrie de l'optimisation de soi, on a retiré la loi
+      d'attraction et les trucs new age, on a ajouté une dou'a et un hadith — **et on a gardé le
+      cap : toi, au centre, en train de devenir ta meilleure version.** »
+- [ ] 🔥 **Et la phrase qui résume tout** : « Le même chercheur dit une chose que je n'arrive
+      plus à oublier : **on a inversé les idéaux et les moyens.** La croissance n'est pas un
+      idéal, c'est un moyen. La santé n'est pas un idéal, c'est un moyen. **Le bien-être non
+      plus.** Le développement personnel a pris un moyen et il en a fait le but de ta vie. »
 - [ ] 🔑 **Le mécanisme — Sofiane Meziani :** « Et là, une autre vidéo m'a donné le nom exact de
       ce qui se passe. **"Connais-toi toi-même."** Tout le monde connaît. Sauf que, dans la
       tradition, **la phrase ne s'arrêtait pas là** : "et tu connaîtras l'univers et les cieux."
@@ -678,10 +846,25 @@ est parfait. Sur ce qu'il propose après. »*
       et quoi qu'il fasse, il le restera. Freud dit : l'homme naît traumatisé, personne n'est
       normal, et tu passes ta vie à défaire ton propre trauma. **Point de départ : cassé.**
       Les deux. »
-- [ ] ⭐⭐ **LE MOMENT DE BASCULE** *(silence 2 secondes avant. Plan qui change ici.)* :
-      « Donc quand le développement personnel te dit que t'es un brouillon à mettre au propre —
-      **c'est pas du développement personnel. C'est du péché originel en version laïque.**
-      Ils ont enlevé Dieu, ils ont gardé la condamnation. »
+- [ ] **Enchaîne** : « Donc quand le développement personnel te dit que t'es un brouillon à
+      mettre au propre — **c'est pas du développement personnel. C'est du péché originel en
+      version laïque.** Ils ont enlevé Dieu, ils ont gardé la condamnation. »
+- [ ] ⭐⭐⭐ **LE MOMENT DE BASCULE** *(silence 2 secondes avant. Plan qui change ici. Texte à
+      l'écran.)* :
+      « Maintenant écoute bien, parce que c'est là que tout bascule. Dans le Coran, il y a un
+      verset sur les gens du Paradis. Il dit : **ils n'auront pas peur, et ils ne seront pas
+      affligés.** Ce verset revient des dizaines de fois. Ça veut dire quoi ? **Pas de peur de
+      ce qui vient. Pas de tristesse de ce qui est passé.** La récompense ultime, elle est
+      psychologique.
+      Et maintenant, regarde le développement personnel. Qu'est-ce qu'il te vend ?
+      **De l'angoisse pour ton avenir** — t'es pas encore devenu qui tu dois être.
+      Et **de la honte pour ton passé** — tes croyances limitantes, tes traumas, ton
+      conditionnement.
+      **C'est le programme exactement inverse.** »
+- [ ] ➕ **Referme sur Ehrenberg** *(la boucle du bloc 3.1)* : « Et tu te souviens de
+      l'insuffisance dont je te parlais au début ? La peur de passer à côté de ta vie, c'est la
+      peur du futur. La journée banale comme preuve à charge, c'est la tristesse du passé.
+      **C'était déjà nommé. Il y a quatorze siècles.** »
 - [ ] 🔥 **Ta phrase-choc à cliper en Short :**
       → **« Le développement personnel ne t'a pas menti sur la méthode. Il t'a menti sur d'où tu
       pars, et sur à qui tu t'adresses. Tu n'as pas un problème de discipline — tu as un problème
@@ -734,6 +917,19 @@ est parfait. Sur ce qu'il propose après. »*
             l'extérieur, et **ensuite** elle t'éclaire de l'intérieur vers l'extérieur. Et c'est
             une **bonne nouvelle** : parce que si elle venait de toi, tu serais à la fois le
             malade et le remède. Tout seul avec ta propre panne. »
+- [ ] 🏁 ⭐⭐⭐ **LA POSITION FINALE — sors de l'axe** *(c'est ta conclusion de fond, pas une
+      idée de plus)* : « Et maintenant je vais te dire pourquoi Théo Le Lion se trompe, alors
+      qu'il a tout bien vu. Le développement **personnel**, c'est tout ramené vers toi. Le
+      développement **impersonnel** qu'il propose, c'est tout arraché à toi. **C'est les deux
+      bouts du même bâton.** Et les deux, c'est des déséquilibres.
+      La réponse elle est pas sur ce bâton-là. Elle est dans **la balance**. **Tu as le droit de
+      t'aimer** — si tu ne t'aimes pas, tu prends plus soin de toi, et tu remplis plus ta
+      fonction. **Et tu as le devoir de préférer l'autre.** Les deux. En même temps.
+      **Donne à chacun son droit.** »
+- [ ] ➕ **Et la liberté** *(la dernière pièce)* : « Le développement personnel te promet la
+      liberté au sens moderne : plus personne au-dessus de toi. Et il te livre une servitude de
+      plus. La vraie liberté, c'est l'autre : **être libéré de la pression sociale, de tes
+      penchants et de ton ego.** Et le paradoxe, c'est qu'on y arrive **en se soumettant**. »
 - [ ] 🥊 **Traite l'objection frontalement** *(sinon la vidéo se retourne contre toi)* :
       « "Donc on n'a plus le droit de bosser sur soi ?" **Si.** Le combat contre soi-même, c'est
       du travail sur soi — et c'est le plus dur qui existe. La différence, elle est pas dans
@@ -761,8 +957,8 @@ est parfait. Sur ce qu'il propose après. »*
 ## 4. LA FIN — *(≈ 18:30 → 20:00)*
 
 À faire :
-- [ ] ⚡ **Accélère (le quicken)** — récap en 3 mots, rythme rapide, une phrase par mot :
-      **Point de départ · Destinataire · Compagnie.**
+- [ ] ⚡ **Accélère (le quicken)** — récap en 4 mots, rythme rapide, une phrase par mot :
+      **Point de départ · Destinataire · Balance · Compagnie.**
 - [ ] **La solitude — la dernière pièce** : « Nouman Ali Khan dit que la plus grande crise
       psychologique de notre époque, c'est la **solitude extrême**. Et l'entrepreneur, c'est le
       champion toutes catégories de la solitude. Le remède à la solitude, **c'est pas un mindset.
@@ -822,17 +1018,28 @@ Et c'est quand ça sonne comme **toi** qu'on te fait confiance.
 2. **Le hook** — dis les trois à voix haute. La **variante B** est la plus alignée sur le
    positionnement (« je l'ai déjà dit, aujourd'hui je le prouve »), le **principal** est le plus
    émotionnel. Le tien gagne.
-3. **Le bloc « postures de l'âme » (B.3-④)** — tu le gardes (1 min max) ou tu en fais un pillar
-   à part ? Mon avis : **à part.** La vidéo est déjà dense, et ce bloc mérite mieux qu'une minute.
-4. **Le mot du commentaire** — j'ai mis `FITRA`. Alternatives : `QANA'A`, `POUSSIÈRE`, `MIROIR`.
+3. **La vidéo est maintenant DENSE — il faut couper.** Trois blocs sont candidats au report,
+   et chacun vaut une vidéo entière. Mon avis, dans l'ordre :
+   - ✂️ **La zakat / la réponse à Spinoza** (B.3-⑥) → *« La zakat n'est pas une taxe, c'est un
+     remède »*. **À sortir en premier.**
+   - ✂️ **Les postures de l'âme** (B.3-④) → un pillar à part entière.
+   - ⚠️ **Garde absolument** : le moment de bascule (B.1), la banque islamique (B.2bis) et la
+     position finale (B.3-🏁). Ce sont les trois qui rendent la vidéo unique.
+4. **Le compte du verset (« 53 fois »)** — à vérifier toi-même avant de tourner, ou à remplacer
+   par « des dizaines de fois ». Ne prends pas le risque sur ta phrase de bascule.
+5. **Le mot du commentaire** — j'ai mis `FITRA`. Alternatives : `QANA'A`, `POUSSIÈRE`, `MIROIR`.
    `QANA'A` est peut-être plus fort : c'est le mot que personne ne connaît et que tout le monde
    voudra comprendre après la vidéo.
-5. **Le hadith des droits** — retrouve le libellé exact avant de tourner. C'est ton argument
-   central contre Théo Le Lion, il ne doit pas être approximatif.
-6. **Les chiffres de Pierre Valentin** — tu les vérifies à la source, ou tu ne les dis pas.
-7. **Le lead magnet** — la fiche « les 4 inversions + les sources ». Elle n'existe pas encore.
+6. **Les deux hadiths** (les droits · les trois compagnons) — retrouve les libellés exacts.
+   C'est ton argument central contre Théo Le Lion, il ne doit pas être approximatif.
+7. **Inviter Chauki Lazhar ?** Il est belge, francophone, et il vient d'écrire **un livre sur le
+   travail en islam**. Tes deux meilleures perfs de chaîne sont des interviews de chercheurs.
+   Format évident : *« Repenser le travail à la lumière de l'Islam »*. ⚠️ **Sors cette vidéo-ci
+   en solo d'abord** — sinon tu passes pour l'élève au lieu de celui qui avait déjà le cadre.
+8. **Les chiffres de Pierre Valentin** — tu les vérifies à la source, ou tu ne les dis pas.
+9. **Le lead magnet** — la fiche « les 4 inversions + les sources ». Elle n'existe pas encore.
    Il faut la produire **avant** de publier, sinon le CTA est mort.
-8. **La formule « racines athées/shirk »** de ta FAQ — je l'ai volontairement écartée (cf. les
+10. **La formule « racines athées/shirk »** de ta FAQ — je l'ai volontairement écartée (cf. les
    garde-fous en Partie D). Tu confirmes, ou tu veux la garder ?
 
 ---
