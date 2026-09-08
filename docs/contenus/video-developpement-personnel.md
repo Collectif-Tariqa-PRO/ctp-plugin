@@ -1,9 +1,49 @@
 # 🎬 Vidéo « Développement personnel » — analyse des sources + plan + script
 
 > **Statut :** matière éditoriale de travail (Zaki). Ce n'est **pas** du contenu de skill.
-> Produit le 2026-09-07 · pipeline CTP YouTube ③ packaging → ④ hook → ⑤ structure.
-> **Format :** essai parlé face-caméra · ~18-22 min · étage **autorité (MOFU)** ·
-> niveau de conscience visé **2 → 3** (il sent le problème, il ne connaît pas encore le cadre).
+> Produit le 2026-09-07, **révisé v2 le 2026-09-08** après chargement des fondations.
+> **Format :** essai parlé face-caméra · ~20 min · étage **autorité (MOFU)** ·
+> niveau de conscience visé **2 → 3**.
+
+## 📂 Fondations chargées (v2)
+
+| Source | Ce qui en a été tiré |
+|---|---|
+| `ctp-plugin` — doctrine Coach Zaki (pilier 1) + lexique de voix (142 séances) | la voix, les punchlines, les garde-fous |
+| `ctp-youtube-plugin` — doctrine YouTube + gabarits ③④⑤ | le pipeline, le gabarit de plan, la règle du CTA unique ×3 |
+| `ctp-base-connaissances` — graphe 4699 nœuds / 7471 liens (**privé**) | le persona CTP v2, le corpus **Taqwa Impact** (psychologie, âme, modernité), et **ton back-catalogue YouTube** |
+| vidIQ — chaîne `Zaki du Collectif Tariqa Pro` | 50 vidéos long-form : ce qui marche, et ce que tu as **déjà dit** |
+
+> ⚠️ **Confidentialité.** La base de connaissances est privée (noms de membres, montants,
+> dossiers). **Aucun chiffre, aucun nom, aucune donnée de coaching n'est reproduit ici** —
+> seules les *directions éditoriales* en ont été tirées. Ce fichier reste publiable.
+
+## 🔑 Ce que le chargement des fondations a changé (lis ça d'abord)
+
+1. **Tu as déjà fait cette critique — quatre fois.** « Critique du développement personnel »
+   (*Niyya, tawakkul, rizq*), « Critique de l'individualisme et du développement personnel »
+   (*C'est quoi le succès*), « Développement personnel à racines athées/shirk » (*FAQ business
+   halal*), « Critique du personal branding » (*Le combat le plus difficile*).
+   👉 **Donc la nouvelle vidéo n'est pas "je critique le dev perso". C'est : « je l'ai déjà dit,
+   aujourd'hui je te le DÉMONTRE, avec les sources ».** C'est exactement ce que tu m'as demandé —
+   plus documenté, plus précis. C'est aussi ce qui la rend non-redondante.
+2. **Le titre que je t'avais proposé est mort** — tu as déjà « Pourquoi la Hustle Culture
+   **t'épuise**… ». Même verbe, même forme. Nouveau titre en Partie C.
+3. **Tu as déjà la réfutation de Théo Le Lion dans ton propre corpus** — ta vidéo *Le mythe du
+   sacrifice total* et le **hadith des droits**. Il conclut « apprends à te sacrifier
+   totalement ». Tu as déjà démontré que le sacrifice total est un mythe. C'est ta meilleure
+   objection, et elle est **à toi**.
+4. **Tu n'as pas besoin d'emprunter le cadre de Nouman Ali Khan** — ton corpus Taqwa Impact
+   traite déjà Freud, Sartre, Jung, la culpabilité originelle, les postures de l'âme et la
+   psychologie prophétique. Nouman Ali Khan devient une **confirmation externe**, pas ta source.
+   C'est un changement de statut majeur : tu passes de commentateur à **enseignant**.
+5. **Presque la moitié de ton audience membre est féminine.** J'avais écrit « frère » dans la
+   conclusion. **Corrigé.** Règle : nommer la pratique religieuse tôt, ne jamais adresser la
+   vidéo aux seuls hommes.
+6. **La solitude est la douleur transversale n°1 de ton persona.** La fin de la vidéo était
+   déjà dessus — elle est maintenant **le centre de gravité**, pas la cerise.
+
+---
 
 ---
 
@@ -176,12 +216,25 @@ Les trois décrivent **le même mécanisme**, à trois profondeurs différentes 
 
 # PARTIE B — TA POSITION (l'angle CTP)
 
+## B.0 · Le vrai positionnement de cette vidéo
+
+Tu as déjà **affirmé** que le développement personnel était un piège, dans quatre vidéos.
+Ce que tu n'as jamais fait, c'est le **démontrer** : la généalogie, les sources, le mécanisme
+exact. C'est la promesse de cette vidéo, et c'est ce qui la distingue de ton back-catalogue :
+
+> **« Je te l'ai déjà dit. Aujourd'hui, je te le prouve. »**
+
+Et une chose que ni Théo Le Lion, ni Sofiane Meziani, ni Nouman Ali Khan ne peuvent faire :
+**descendre dans le business.** Théo y est, mais sans Dieu. Sofiane a Dieu, mais reste au
+principe. Nouman Ali Khan a Dieu et la profondeur, mais il parle au cœur et à la famille — pas
+à celui qui doit vendre lundi matin. **Le croisement, c'est toi.**
+
 ## B.1 · Le moment de bascule ⭐
 
 > ### « Le développement personnel ne t'a pas menti sur la méthode.
 > ### Il t'a menti sur deux choses : **d'où tu pars**, et **à qui tu t'adresses**. »
 
-Et la version courte, clipable en Short :
+Version courte, clipable en Short :
 
 > ### « Tu n'as pas un problème de discipline. Tu as un problème de destinataire. »
 
@@ -199,22 +252,88 @@ une arnaque**. Toi tu dis l'inverse :
 > **fenêtre**. Le problème, ce n'est pas qu'il te demande trop. C'est qu'il te demande trop peu,
 > et que ça te coûte tout.
 
-## B.3 · Les 4 inversions — le cœur pratique de la vidéo
+---
 
-C'est ça qui fait que ta vidéo n'est pas une dissertation. Même outils, quatre bascules :
+## B.3 · ⭐ Les trois réponses que TU as déjà, et qu'aucune des trois vidéos n'a
+
+**C'est le cœur de ta valeur ajoutée.** Chacune répond précisément à un endroit où l'une des
+trois vidéos s'arrête. Toutes les trois viennent de **ton propre enseignement** — pas d'un
+emprunt.
+
+### ① Contre « sacrifie-toi totalement » (Théo Le Lion) → **le hadith des droits**
+
+Sa conclusion, c'est : choisis quelque chose de plus grand et **subordonne-toi totalement**.
+Apprends à te sacrifier. Et toi tu as déjà fait une vidéo entière là-dessus : **le mythe du
+sacrifice total.** La parole du Prophète ﷺ est explicite : **ton Seigneur a un droit sur toi,
+ton corps a un droit sur toi, ta famille a un droit sur toi — donne à chacun son droit.**
+
+> **La subordination totale à une seule chose n'est pas un remède. C'est un déséquilibre
+> avec une bonne intention.** Et c'est même la définition exacte du burn-out entrepreneurial :
+> quelqu'un qui a tout donné à *une* chose, en croyant bien faire.
+
+C'est une objection **imparable, sourcée, et bienveillante** : tu ne dis pas qu'il a tort de
+vouloir sortir du soi. Tu dis que « totalement » est le mot de trop. Et tu le dis avec une
+autorité qu'il n'a pas.
+
+### ② Contre « l'insuffisance » (Ehrenberg, cité par Théo) → **le qana'a**
+
+Ehrenberg décrit le mal : la peur n'est plus la transgression, c'est **l'insuffisance**.
+Théo décrit le mal magnifiquement — **et il ne donne aucun nom au remède.** Toi si.
+Le **qana'a**, la suffisance : savoir que ce qu'on a suffit.
+
+> Et le contraste est parlant : la parole du Prophète ﷺ dit que si le fils d'Adam avait une
+> vallée d'or, il en voudrait une deuxième — **rien ne remplit sa bouche, sinon la terre.**
+> Ça, c'est le diagnostic de l'insuffisance, formulé il y a quatorze siècles.
+> **L'optimisation de soi n'a pas de point d'arrêt — par construction.** Le qana'a, c'est
+> le seul frein qui existe. Et il ne se trouve pas à l'intérieur de toi.
+
+### ③ Contre « les gens en mission sont plus heureux » (Théo) → **farah vs bonheur intime**
+
+Il justifie sa solution par le bonheur observé. Mais il n'a qu'un seul mot pour « bonheur ».
+Ton corpus en distingue deux : le **farah**, la joie éphémère — et le **bonheur intime**,
+la joie cachée, celle qui ne dépend pas des circonstances.
+
+> **Il mesure avec le mauvais instrument.** Une mission peut très bien produire beaucoup de
+> farah et zéro paix. C'est même le profil type de l'entrepreneur à mission : euphorique et
+> vide. Tant que le juge final, c'est ce que tu ressens, **c'est toujours toi qui juges** —
+> et le soi n'a jamais quitté le trône.
+
+### 🔎 Et une quatrième, si tu veux aller plus loin : **les postures de l'âme**
+
+Le développement personnel parle à **une seule** instance : « toi ». La tradition en distingue
+plusieurs — l'âme **dominante** (celle qui commande), l'âme **qui se blâme**, l'âme **apaisée**.
+
+> Et là, regarde : **le développement personnel te met en dialogue permanent avec l'âme qui se
+> blâme.** Il appelle ça « esprit critique », « auto-évaluation », « rendre des comptes ».
+> Et il n'a **aucune notion** de l'âme apaisée — parce que dans son cadre, l'apaisement n'est
+> pas une destination possible. Il n'y a que l'optimisation, sans fin.
+>
+> **Le développement personnel n'a pas de mot pour « ça suffit ». C'est tout le problème.**
+
+*(⚠️ Bloc puissant mais technique. Si la vidéo est déjà dense, garde-le pour une vidéo à part —
+c'est un pillar entier. Mets-le en boucle ouverte : « il y a une quatrième chose, mais elle
+mérite sa propre vidéo ».)*
+
+---
+
+## B.4 · Les 4 inversions — le cœur pratique
 
 | | Développement personnel | Ce qu'on fait au Collectif Tariqa PRO |
 |---|---|---|
-| **① Le point de départ** | Tu es un **brouillon** à mettre au propre. Tu pars cassé. | Tu es né sur la **fitra**, en bon état, avec de la poussière dessus. On ne te répare pas : **on te dépoussière.** Tu peux casser et réparer, casser et réparer encore. |
-| **② Le destinataire** | Tu t'optimises **pour toi**. | « Les actes ne valent que par leurs intentions. » **Même geste, autre destinataire.** La routine matinale devient le fajr. Le goal setting devient la niyya. La discipline devient le jihad al-nafs. |
-| **③ Le critère de réussite** | Le résultat, ou le bien-être ressenti. | **Orienté-commande, pas orienté-résultat.** « Fais les causes, le résultat est à Allah. » ⚡ **Et c'est ÇA qui tue l'insuffisance d'Ehrenberg** : si ta journée se juge sur l'acte et non sur le résultat, la journée banale **cesse d'être une preuve à charge.** |
-| **④ La direction du soin** | De l'intérieur vers l'intérieur. Tu es le malade **et** le remède. | De **l'extérieur vers l'intérieur**, puis de l'intérieur vers l'extérieur. Ta guérison ne vient pas de toi — et c'est une **bonne nouvelle**, parce que si elle venait de toi, tu serais seul avec ta propre panne. |
+| **① Le point de départ** | Tu es un **brouillon** à mettre au propre. Tu pars cassé. | Tu es né sur la **fitra**, en bon état, avec de la poussière dessus. On ne te répare pas : **on te dépoussière.** Ton corpus le nomme déjà : **culpabilité originelle** d'un côté, **innocence et bonté de l'humain** de l'autre. |
+| **② Le destinataire** | Tu t'optimises **pour toi**. | « Les actes ne valent que par leurs intentions. » **Même geste, autre destinataire.** ⚡ Et l'argument massue, que tu portes déjà : **les outils du dev perso sont dans la sunna depuis quatorze siècles.** Le miracle morning, c'est le fajr. Le jeûne intermittent, c'est le jeûne. La gratitude, c'est le shukr. **On ne t'a pas vendu une méthode nouvelle. On t'a revendu la tienne, en lui retirant le destinataire.** |
+| **③ Le critère de réussite** | Le résultat, ou le bien-être ressenti. | **Orienté-commande, pas orienté-résultat.** « Fais les causes, le résultat est à Allah. » ⚡ Et c'est ÇA qui tue l'insuffisance d'Ehrenberg : si ta journée se juge sur **l'acte** et pas sur **le résultat**, la journée banale **cesse d'être une preuve à charge**. |
+| **④ La direction du soin** | De l'intérieur vers l'intérieur. Tu es le malade **et** le remède. | De **l'extérieur vers l'intérieur**, puis de l'intérieur vers l'extérieur. Ton corpus est même plus précis : l'âme a **deux sources** — la Révélation et la Création. Le dev perso n'en a **aucune des deux** : il n'a que l'introspection. |
 
-## B.4 · L'objection qu'il FAUT traiter (sinon la vidéo se retourne contre toi)
+> 🔥 **La ligne de l'inversion ② est probablement la plus forte de toute la vidéo.**
+> Elle est concrète, vérifiable, et elle retourne complètement le rapport de force : tu ne
+> refuses pas leurs outils, **tu réclames les tiens.**
+
+## B.5 · L'objection qu'il FAUT traiter
 
 **« Alors on n'a plus le droit de travailler sur soi ? »**
 
-Si. Le jihad al-nafs, c'est du travail sur soi — et c'est même le plus dur qui existe.
+Si. Le **jihad al-nafs**, c'est du travail sur soi — et c'est le plus dur qui existe.
 La différence n'est pas dans l'effort, elle est dans la **direction** :
 
 - Le développement personnel te demande de devenir **la meilleure version de toi-même**.
@@ -222,38 +341,55 @@ La différence n'est pas dans l'effort, elle est dans la **direction** :
 - L'un te met **au centre**. L'autre te met **à ta place**.
 - Et le paradoxe, c'est que c'est le deuxième qui te **repose**.
 
-## B.5 · Le pont vers ton persona — la laïcité cérébrale
+## B.6 · Le pont vers ton persona — la laïcité cérébrale
 
-C'est ta réponse à la question que personne d'autre ne pose : *pourquoi le développement
-personnel a pris autant de place chez les entrepreneurs musulmans ?*
-
+> Pourquoi le développement personnel a pris autant de place chez les entrepreneurs musulmans ?
 > Parce qu'on a rangé la foi dans la boîte « week-end » et le business dans la boîte « semaine ».
-> Le musulman le samedi, l'entrepreneur du lundi au vendredi. Et du lundi au vendredi, il fallait
-> bien quelque chose pour tenir. **C'est le développement personnel qui a rempli la case vide.**
-> Le problème, ce n'est pas qu'il soit entré. C'est qu'on lui ait laissé la place.
+> Et du lundi au vendredi, **il fallait bien quelque chose**. C'est le développement personnel
+> qui a rempli la case vide. Le problème, ce n'est pas qu'il soit entré — **c'est qu'on lui ait
+> laissé la place.**
 
-## B.6 · La fermeture — la solitude
+Deux formulations issues de ton persona, à réutiliser telles quelles — elles sont déjà écrites
+dans la langue de ta cible :
 
-Nouman Ali Khan : la plus grande crise de notre époque, c'est la **solitude extrême**.
-Et l'entrepreneur en est le champion toutes catégories.
+- 🎯 **« Happé par la dunya »** — *l'intention était bonne, c'est le quotidien qui l'a mangée.*
+  C'est exactement le mécanisme de la laïcité cérébrale, dit sans reproche.
+- 🎯 **« Tu as troqué une servitude contre une autre. »** — le salariat que tu as quitté, et
+  l'optimisation de toi-même que tu as prise à la place. **C'est ta phrase la plus dure et la
+  plus juste de toute la vidéo.**
 
-> Le remède à la solitude, ce n'est pas un mindset. C'est une **compagnie**.
-> Celle d'Allah d'abord. Celle de tes frères ensuite.
+## B.7 · La fermeture — la solitude (le centre de gravité)
+
+La **solitude** est la douleur transversale n°1 de ton persona — devant la légitimité.
+Et Nouman Ali Khan dit exactement la même chose : *« la plus grande crise psychologique de
+notre époque, c'est la solitude extrême. »*
+
+> Le développement personnel est **structurellement** une réponse solitaire à un problème de
+> solitude. C'est toi, seul, avec ton journal, ta routine et tes objectifs.
+>
+> Le remède à la solitude, ce n'est pas un mindset. **C'est une compagnie.**
+> Celle d'Allah d'abord. Celle de tes frères et de tes sœurs ensuite.
 > **C'est exactement pour ça que ça s'appelle un Collectif.**
 
-*(Bridge naturel vers l'offre — sans vendre, sans un chiffre, sans une promesse.)*
+*(Bridge vers l'offre — sans vendre, sans un chiffre, sans une promesse. Et ça enchaîne
+naturellement sur ta vidéo* Collectif vs Individualisme *: c'est la passe.)*
 
 ---
 
 # PARTIE C — LE PACKAGING (③)
 
-## C.1 · Titres — 3 options à trancher (ne copie pas, choisis et réécris)
+## C.1 · Titres — 3 options à trancher
+
+> ⚠️ **« t'épuise » est brûlé** : tu as déjà *« Pourquoi la Hustle Culture t'épuise… »*.
+> À l'inverse, deux de tes patterns de titre sont **prouvés** sur ta chaîne : *« Repenser X à la
+> lumière de l'Islam »* et *« Comment penser en tant qu'entrepreneur musulman »* sont tes deux
+> plus gros scores en solo/concept.
 
 | | Titre | Levier | Pour / contre |
 |---|---|---|---|
-| **1** ⭐ | **« Le développement personnel t'épuise — et pas pour la raison qu'on te dit »** | reconnaissance douloureuse + gap de savoir | **Ma reco.** Contient le mot-clé de découverte, promet un renversement, tient sa promesse dès la 2e minute. Zéro clickbait creux. |
-| **2** | **« Le développement personnel ne te demande pas trop. Il te demande trop peu. »** | contre-intuition pure | Le plus fort intellectuellement, le plus faible en search. Excellent **titre de Short** ou titre B en test. |
-| **3** | **« Pourquoi j'ai arrêté le développement personnel (et par quoi je l'ai remplacé) »** | identité + curiosité | Le plus cliquable, le plus incarné — **à condition que ce soit vrai chez toi.** Sinon on ne le prend pas. |
+| **1** ⭐ | **« Repenser le développement personnel à la lumière de l'Islam »** | autorité + search | **Ma reco.** Reprend ton pattern le plus performant, contient le mot-clé de découverte, promet un cadre et pas une opinion. Zéro clickbait. Cohérent avec « je te le démontre ». |
+| **2** | **« Le développement personnel ne te demande pas trop. Il te demande trop peu. »** | contre-intuition pure | Le plus fort intellectuellement, le plus faible en search. **Excellent titre de Short** ou titre B en test A/B. |
+| **3** | **« Ce que le développement personnel t'a pris sans te le dire »** | tension + gap de savoir | Bon compromis. Plus émotionnel que le 1, plus large que le 2. À tester si le 1 sous-performe en CTR. |
 
 ## C.2 · Concept miniature
 
@@ -262,13 +398,33 @@ Et l'entrepreneur en est le champion toutes catégories.
   sur elle-même ↺ et une qui sort du cadre ↗.
 - Texte à l'écran, 3 mots max : **« PAS ASSEZ AMBITIEUX »** ou **« LE MIROIR »**.
 - ⚠️ Aucun chiffre, aucun montant, aucune flèche verte. Pas le style de la maison.
+- 👉 À passer par `ctp-yt-packaging` (audit `similar_thumbnails` de ta niche → génération →
+  score → refine). Ne fige pas le style sans l'audit.
 
 ## C.3 · Ce que la vidéo filtre volontairement
 
-- **Reste :** l'entrepreneur (ou futur entrepreneur) musulman qui a consommé du développement
-  personnel pendant des années, qui est fatigué, et qui n'arrive pas à relier sa foi et son taf.
+- **Reste :** l'entrepreneur ou l'entrepreneuse musulman·e, souvent 30-35 ou 45-50, sorti·e du
+  salariat avec une expertise déjà construite, qui a consommé du développement personnel
+  pendant des années, qui est fatigué·e, et qui n'arrive pas à relier sa foi et son travail.
 - **Part :** celui qui cherche une méthode de productivité, un « système », une recette.
   Tant mieux — il n'aurait rien acheté et il aurait plombé la rétention.
+- ⚠️ **Ton persona fuit le vocabulaire lisse.** Aucune phrase de coach. Aucun « aligné »,
+  aucun « incarner », aucun « mindset gagnant ». Tu l'as toi-même dit : *« être aligné,
+  incarner… ça ne veut rien dire. »*
+
+## C.4 · Maillage & passe — tes vidéos existantes
+
+| Moment de la vidéo | Renvoi vers |
+|---|---|
+| Bloc 3.1, quand tu parles d'épuisement | *Pourquoi la Hustle Culture t'épuise… et comment la Baraka change tout* |
+| Bloc 3.2, quand tu réfutes « sacrifie-toi totalement » | *Le mythe du sacrifice total : ce hadith te montre une autre voie* |
+| Bloc 3.3, inversion ② (destinataire) | *Niyya, tawakkul, rizq — comment penser en tant qu'entrepreneur musulman* |
+| Bloc 3.3, l'objection « travailler sur soi » | *Le combat le plus difficile de l'entrepreneur musulman* |
+| **🔗 LA PASSE (~80 %) + END CARD** | **⭐ *Collectif vs Individualisme : le vrai défi des entrepreneurs musulmans*** — c'est la suite logique exacte : cette vidéo-ci diagnostique l'individualisme, celle-là donne la sortie. |
+
+> 💡 Cette vidéo devient le **haut de funnel** qui alimente une demi-douzaine de tes vidéos
+> existantes. C'est peut-être son plus gros intérêt stratégique : **elle rend ton back-catalogue
+> lisible.** Elle explique *pourquoi* toutes les autres existent.
 
 ---
 
@@ -294,6 +450,22 @@ Et l'entrepreneur en est le champion toutes catégories.
 | **Coran 62:10** — « dispersez-vous sur la terre et recherchez la grâce d'Allah » | ✅ | Ton verset business. |
 | **Bukhari 6439** — la vallée d'or | ✅ | Ta preuve que l'optimisation de soi **ne peut pas** se terminer : elle n'a pas de point d'arrêt. Très fort en Short. |
 
+### 🏠 Tes sources maison — celles qui font la différence
+
+> Elles viennent de **ton propre enseignement** (corpus Taqwa Impact + ta chaîne). C'est ce qui
+> fait que tu n'es pas un commentateur de trois vidéos, mais quelqu'un qui **enseigne déjà ça**.
+
+| Source | Où elle sert | À faire |
+|---|---|---|
+| **Le hadith des droits** — « ton Seigneur a un droit sur toi, ton corps a un droit sur toi, ta famille a un droit sur toi ; donne à chacun son droit » | 🥊 **Ta réfutation du « sacrifie-toi totalement »** de Théo Le Lion. C'est ton argument le plus solide. | Retrouve le libellé exact et **dis de qui vient la parole** — jamais le degré. C'est le hadith de ta vidéo *Le mythe du sacrifice total*. |
+| **Le qana'a** (la suffisance) | 🥊 Le **nom du remède** à l'insuffisance d'Ehrenberg — que Théo, lui, ne nomme jamais. | Définis-le en une phrase simple. Ne le traduis pas par « se contenter de peu » : c'est un contresens qui va te faire perdre ton persona. |
+| **Farah (joie éphémère) vs bonheur intime** | 🥊 Contre le critère « les gens en mission sont plus heureux ». Il n'a qu'un mot, tu en as deux. | Une phrase chacun, pas de développement. C'est un scalpel, pas un cours. |
+| **Culpabilité originelle vs innocence/bonté de l'humain** (comparaison modernité / islam, ton corpus) | ⭐ **Le moment de bascule.** Tu n'as pas besoin de Nouman Ali Khan pour le poser : **tu l'enseignes déjà.** | Dis-le comme le tien. Nouman Ali Khan devient la **confirmation externe**, ce qui est bien plus fort. |
+| **Constitution de l'être humain** — nafs, rûh, qalb, ʿaql — vs **le ça / moi / surmoi** de Freud | ④ La direction du soin, et la profondeur du cadre. | Ne déroule pas les quatre : cite-les vite, dis que ça mérite sa vidéo. Sinon tu perds le rythme. |
+| **Les postures de l'âme** (dominante · qui se blâme · apaisée) | 🔎 Le bloc bonus B.3-④ — « le dev perso n'a pas de mot pour *ça suffit* ». | **Probablement un pillar à part.** Si tu le gardes ici, une minute maximum. |
+| **Les outils du dev perso déjà dans la sunna** (miracle morning ↔ fajr, jeûne intermittent ↔ jeûne) | ⚡ **Inversion ②.** Ton argument le plus concret et le plus retournant. | Tu l'as déjà dit dans *Le combat le plus difficile*. Ici tu le **systématises**. |
+| **Ta chaîne** — *Le mythe du sacrifice total*, *Hustle Culture*, *Niyya tawakkul rizq*, *Collectif vs Individualisme* | Maillage + passe (cf. C.4) | Vérifie les liens avant de tourner. |
+
 ### ⚠️ Trois garde-fous non négociables sur cette vidéo
 
 1. **Adab.** Tu ne démolis pas Théo Le Lion, tu ne médis pas de lui. Tu le **cites avec respect**,
@@ -303,6 +475,11 @@ Et l'entrepreneur en est le champion toutes catégories.
 2. **Pas de posture d'imam.** Tu ne tranches rien en licite/illicite. Tu dis explicitement dans
    la vidéo : « je ne suis pas savant, je ne tranche rien — je te donne la grille avec laquelle
    je travaille. » **La foi se propose, elle ne s'impose pas.**
+   ⚠️ **Point d'attention :** dans ta FAQ avec Dr Talal Lahlou, la formule employée est
+   « développement personnel à racines athées / shirk ». **Ne reprends pas ce vocabulaire ici,
+   seul, face caméra.** Tenir un propos de qualification religieuse est le rôle du savant, pas
+   le tien — et cette vidéo perdrait exactement ce qui fait sa force : elle démontre au lieu
+   d'affirmer. Si tu veux ce niveau-là, invite quelqu'un dont c'est le métier.
 3. **Zéro chiffre d'argent. Zéro promesse de résultat.** Obligation de moyens. Et jamais les mots
    *hacks, hustle, revenu passif, growth hacking.*
 
@@ -336,15 +513,15 @@ disqualification de la fausse cause (« c'est pas toi ») → **boucle ouverte**
 >
 > Et si t'es entrepreneur, cette erreur-là, elle te coûte bien plus cher que tu crois. »
 
-## Variante B — levier : tension « ça ne tient pas »
+## Variante B — levier : preuve + autorité  *(la plus alignée sur le positionnement B.0)*
 
-> « Il y a une génération entière qui est entrée dans l'entrepreneuriat par la porte du
-> développement personnel. Monter une boîte pour devenir quelqu'un de mieux.
+> « Ça fait des années que je dis sur cette chaîne que le développement personnel est un piège.
+> Et à chaque fois, il y a quelqu'un en commentaire qui me dit : "ouais, mais prouve-le."
 >
-> Et cette génération est **la plus déprimée qu'on ait jamais mesurée**.
+> D'accord. Aujourd'hui je le prouve.
 >
-> C'est pas une coïncidence. Et le pire, c'est que le remède qu'on lui vend, c'est exactement
-> la cause de la maladie. Je t'explique. »
+> On va prendre les auteurs, les dates, et le mécanisme exact. Et à la fin, tu vas comprendre
+> pourquoi tu peux tout faire correctement et te sentir quand même en retard sur ta propre vie. »
 
 > 🔁 **Dis les trois à voix haute avant de choisir.** Celui qui sonne le plus comme toi gagne,
 > même si c'est pas celui que je recommande. C'est ta bouche, pas la mienne.
@@ -353,7 +530,7 @@ disqualification de la fausse cause (« c'est pas toi ») → **boucle ouverte**
 
 # PARTIE F — 🎬 TON PLAN VIDÉO (⑤)
 
-**« Le développement personnel t'épuise — et pas pour la raison qu'on te dit »**
+**« Repenser le développement personnel à la lumière de l'Islam »**
 *(essai parlé · ~20 min · tu suis les points, tu mets TES mots · c'est une base, pas un texte à réciter)*
 
 ## 📖 Avant de lire — 6 mots à connaître
@@ -380,14 +557,16 @@ disqualification de la fausse cause (« c'est pas toi ») → **boucle ouverte**
 ## 2. L'OUVERTURE — 0:20 → 1:30  *(Résultat → Pourquoi toi → Comment)*
 
 À faire :
-- [ ] **À qui tu parles :** « Si t'es musulman, que t'as un projet ou une boîte, et que t'as
-      cette sensation de tourner à vide malgré tout ce que tu fais bien — cette vidéo est pour toi. »
+- [ ] **À qui tu parles** *(mixte — la moitié de ton audience est féminine, ne l'oublie pas)* :
+      « Si tu es musulman ou musulmane, que tu as un projet ou une boîte, et que tu as cette
+      sensation de tourner à vide malgré tout ce que tu fais bien — cette vidéo est pour toi. »
 - [ ] 🎯 **Le RÉSULTAT (la promesse) :** « À la fin, tu vas savoir exactement où le développement
       personnel t'a emmené, pourquoi ça t'épuise, et **quoi mettre à la place** — concrètement,
       pas en théorie. »
-- [ ] 🛡️ **POURQUOI TOI (preuve courte — transformation, jamais un montant) :** « Je fais ça
-      depuis des années, j'accompagne des entrepreneurs musulmans toutes les semaines, et cette
-      question-là, elle revient dans **quasiment tous** mes appels. »
+- [ ] 🛡️ **POURQUOI TOI (preuve courte — transformation, jamais un montant) :** « J'accompagne
+      des entrepreneurs et des entrepreneuses musulmans toutes les semaines. Cette question-là,
+      elle revient dans quasiment tous mes appels. Et je l'ai déjà dit plusieurs fois sur cette
+      chaîne — **mais je ne l'avais jamais démontré. Aujourd'hui, on le démontre.** »
 - [ ] 🗺️ **Le COMMENT (le plan en une phrase) :** « On va faire trois choses. Un : je te montre
       le diagnostic — et il est **excellent**, il vient pas de moi. Deux : je te montre où ce
       diagnostic **s'arrête**. Trois : je te donne la grille que j'utilise à la place. »
@@ -452,19 +631,33 @@ est parfait. Sur ce qu'il propose après. »*
       « Sa sortie, c'est le **développement impersonnel**. Choisis quelque chose qui compte plus
       que toi, et subordonne-toi totalement. Une mission. Des gens qui dépendent de toi. Apprends
       à te sacrifier. Et ça, c'est **très juste**. »
-- [ ] 🥊 **L'objection 1 — le critère manquant :** « Sauf qu'il ne dit jamais **à quoi**.
+- [ ] 🥊🥊 **L'objection 1 — le mot de trop : "totalement".** *(ton argument le plus fort —
+      prends ton temps)* : « Sa phrase, c'est : choisis quelque chose de plus grand et
+      **subordonne-toi totalement**. Et c'est là que je décroche. Parce qu'il y a une parole du
+      Prophète ﷺ que je connais bien — j'ai fait une vidéo entière dessus. Elle dit :
+      **ton Seigneur a un droit sur toi. Ton corps a un droit sur toi. Ta famille a un droit sur
+      toi. Donne à chacun son droit.** Tu vois ce que ça veut dire ? **La subordination totale
+      à une seule chose, c'est pas un remède. C'est un déséquilibre avec une bonne intention.**
+      Et c'est même la définition du burn-out : quelqu'un qui a tout donné à une seule chose,
+      en croyant bien faire. »
+- [ ] 🥊 **L'objection 2 — le critère manquant :** « Et il ne dit jamais **à quoi** te subordonner.
       Et "plus grand que moi", c'est pas un critère. **C'est une taille.** Une secte est plus
       grande que toi. Une idéologie est plus grande que toi. Une boîte qui te bouffe est plus
       grande que toi. Des hommes se sont sacrifiés entièrement pour des causes fausses — l'Histoire
       est faite quasiment que de ça. Se subordonner sans critère de **vérité**, ça guérit pas la
       tyrannie : **ça la déménage.** Tu passes de la tyrannie de toi à la tyrannie d'un projet.
       Et un projet, lui, il peut te lâcher. »
-- [ ] 🥊 **L'objection 2 — le juge n'a pas bougé :** « Et pourquoi il dit que c'est mieux ? Parce
+- [ ] 🥊 **L'objection 3 — le juge n'a pas bougé :** « Et pourquoi il dit que c'est mieux ? Parce
       que "les gens les plus heureux que je connais sont en mission". Tu vois le problème ?
       **C'est encore toi le juge.** Si la mission vaut parce qu'elle te rend plus heureux, alors
       le soi n'a jamais quitté le trône. Il est juste passé derrière le rideau. **Il commande
       en civil.** »
-- [ ] 🥊 **L'objection 3 — il touche et il recule :** « Il remarque même le retour du religieux
+- [ ] ➕ **Et enfonce, avec ton vocabulaire :** « En plus, il n'a qu'**un seul mot** pour dire
+      "bonheur". Nous on en a deux. Il y a le **farah** — la joie qui passe, l'euphorie. Et il y
+      a le **bonheur intime**, celui qui ne dépend pas des circonstances. Une mission peut te
+      donner énormément de farah et **zéro paix**. C'est même le profil type de l'entrepreneur
+      à mission : euphorique et vide. **Il mesure avec le mauvais instrument.** »
+- [ ] 🥊 **L'objection 4 — il touche et il recule :** « Il remarque même le retour du religieux
       chez les 18-35. Il le décrit très bien. Et il le traite comme un **symptôme**, pas comme
       une **réponse**. Pareil avec Spinoza : il prend sa **méthode** — comprends la cause, la
       passion se dissout — et il jette sa **destination**. Chez Spinoza, le bout du chemin, c'est
@@ -516,15 +709,27 @@ est parfait. Sur ce qu'il propose après. »*
 - [ ] **Déroule les 4 inversions** *(une par une, avec un exemple concret de ta vie ou d'un
       accompagnement — c'est ce qui rend le bloc vivant. Cf. tableau B.3)* :
       - [ ] **① Le point de départ** — brouillon ❌ / fitra ✅
-      - [ ] **② Le destinataire** — « Les actes ne valent que par leurs intentions. » **Même
-            geste, autre destinataire.** La routine matinale devient le fajr. Le goal setting
-            devient la niyya. La discipline devient le combat contre soi-même.
+      - [ ] **② Le destinataire** ⚡ *(ta ligne la plus forte — appuie)* : « Les actes ne valent
+            que par leurs intentions. **Même geste, autre destinataire.** Et maintenant regarde
+            bien. Le miracle morning — se lever avant tout le monde, dans le calme ? **C'est le
+            fajr.** Le jeûne intermittent ? **C'est le jeûne.** La gratitude journalière ?
+            **C'est le shukr.** L'accountability partner ? **C'est le compagnon de route.**
+            On ne t'a pas vendu une méthode nouvelle. **On t'a revendu la tienne, en lui
+            retirant le destinataire.** Et c'est le destinataire qui faisait tout le travail. »
       - [ ] **③ Le critère de réussite** — ⚡ *le plus important, appuie fort* : « Orienté-commande,
             pas orienté-résultat. **Fais les causes, le résultat est à Allah.** Et écoute bien
             pourquoi c'est LA réponse à ce qu'on a dit tout à l'heure : si ta journée se juge sur
             **ce que t'as fait** et pas sur **ce que t'as obtenu**, alors ta journée banale
             **arrête d'être une preuve à charge contre toi**. C'est exactement l'insuffisance
             d'Ehrenberg qui tombe. »
+      - [ ] ➕ **Et donne le mot qui manque à tout le monde :** « Il y a un mot pour ça, et
+            personne ne te le donne dans le développement personnel — parce qu'il ne peut pas.
+            C'est le **qana'a** : la suffisance. Savoir que ce que tu as suffit. Attention,
+            c'est **pas** "se contenter de peu" — c'est arrêter de courir après le manque.
+            Et si tu veux comprendre pourquoi le développement personnel ne pourra **jamais**
+            te le donner : le Prophète ﷺ a dit que si le fils d'Adam avait une vallée d'or,
+            il en voudrait une deuxième. **Rien ne remplit sa bouche, sinon la terre.**
+            L'optimisation de soi n'a pas de point d'arrêt. **Par construction.** »
       - [ ] **④ La direction du soin** — « Ta guérison ne vient pas de l'intérieur. Elle vient de
             l'extérieur, et **ensuite** elle t'éclaire de l'intérieur vers l'extérieur. Et c'est
             une **bonne nouvelle** : parce que si elle venait de toi, tu serais à la fois le
@@ -542,10 +747,14 @@ est parfait. Sur ce qu'il propose après. »*
       Le musulman le samedi, l'entrepreneur du lundi au vendredi. Et du lundi au vendredi,
       **il fallait bien quelque chose.** C'est le développement personnel qui a rempli la case.
       Le problème c'est pas qu'il soit entré — **c'est qu'on lui ait laissé la place vide.** »
-- [ ] 🔗 **LA PASSE (~80 %)** : « Et cette coupure-là, "je vis deux vies", c'est le sujet de ma
-      prochaine vidéo — parce que c'est là que tout se joue concrètement. Je te la mets à la fin. »
-- [ ] 🔗 **Maillage** : si tu as déjà une vidéo sur l'intention, la baraka ou la discipline →
-      renvoie dessus à la voix ici même.
+- [ ] 🎯 **La phrase la plus dure de la vidéo** *(dis-la lentement)* : « Tu as quitté le
+      salariat parce que tu ne voulais plus être au service de quelqu'un d'autre. Et tu t'es mis
+      au service de ta propre optimisation. **Tu as troqué une servitude contre une autre.** »
+- [ ] 🔗 **LA PASSE (~80 %)** : « Et la vraie sortie, je l'ai déjà filmée. Ça s'appelle
+      *Collectif vs Individualisme* — c'est exactement la suite de cette vidéo. Celle-ci te dit
+      d'où vient le mal ; celle-là te dit par où on sort. Je te la mets à la fin. »
+- [ ] 🔗 **Maillage à la voix** (cf. C.4) : *Le mythe du sacrifice total* (bloc 3.2),
+      *Niyya, tawakkul, rizq* (inversion ②), *Le combat le plus difficile* (l'objection).
 
 ---
 
@@ -564,11 +773,11 @@ est parfait. Sur ce qu'il propose après. »*
 - [ ] **Ta conclusion, dans ta voix** *(regard caméra, plus lent, plus bas)* :
       « Le développement personnel t'a demandé de **devenir quelqu'un**.
       Ta foi te demande de **servir Quelqu'un**.
-      C'est pas le même travail, frère. Et ça ne fatigue pas pareil. »
+      C'est pas le même travail. Et ça ne fatigue pas pareil. »
 - [ ] 👉 **TON APPEL À L'ACTION — 3/3** *(le même, une dernière fois)* : « Écris **FITRA** en
       commentaire, je t'envoie la fiche : les 4 inversions, les sources, et les questions à te
       poser. »
-- [ ] 🔗 **END CARD** sur la vidéo suivante (la passe posée en 3.3).
+- [ ] 🔗 **END CARD** sur *Collectif vs Individualisme* (la passe posée en 3.3).
 - [ ] **Coupe net.** Pas de « voilà, c'était tout pour aujourd'hui, à la prochaine ». Coupe.
 
 ---
@@ -607,16 +816,37 @@ Et c'est quand ça sonne comme **toi** qu'on te fait confiance.
 
 # PARTIE G — ce qu'il reste à décider (à toi de trancher)
 
-1. **Le titre** — je recommande le n°1. Tu valides ou tu prends le n°3 (plus incarné, mais
-   seulement si « j'ai arrêté le développement personnel » est vrai chez toi).
-2. **Le hook** — dis les trois à voix haute. Le tien gagne.
-3. **Le mot du commentaire** — j'ai mis `FITRA`. Alternatives : `POUSSIÈRE`, `MIROIR`, `FILTRE`.
-4. **La vidéo suivante (la passe)** — je propose « **La laïcité cérébrale : pourquoi t'as
-   l'impression de vivre deux vies** ». Alternative : « **Fais les causes, le résultat est à
-   Allah — ce que ça change vraiment dans ta boîte** ».
-5. **Les chiffres de Pierre Valentin** — tu les vérifies à la source, ou tu ne les dis pas.
-6. **Le lead magnet** — la fiche « les 4 inversions + sources ». Elle n'existe pas encore.
+1. **Le titre** — je recommande le n°1, *« Repenser le développement personnel à la lumière de
+   l'Islam »* : c'est ton pattern le plus performant, et il colle au positionnement « je le
+   démontre ». ⚠️ N'utilise pas « t'épuise », c'est déjà pris par ta vidéo Hustle Culture.
+2. **Le hook** — dis les trois à voix haute. La **variante B** est la plus alignée sur le
+   positionnement (« je l'ai déjà dit, aujourd'hui je le prouve »), le **principal** est le plus
+   émotionnel. Le tien gagne.
+3. **Le bloc « postures de l'âme » (B.3-④)** — tu le gardes (1 min max) ou tu en fais un pillar
+   à part ? Mon avis : **à part.** La vidéo est déjà dense, et ce bloc mérite mieux qu'une minute.
+4. **Le mot du commentaire** — j'ai mis `FITRA`. Alternatives : `QANA'A`, `POUSSIÈRE`, `MIROIR`.
+   `QANA'A` est peut-être plus fort : c'est le mot que personne ne connaît et que tout le monde
+   voudra comprendre après la vidéo.
+5. **Le hadith des droits** — retrouve le libellé exact avant de tourner. C'est ton argument
+   central contre Théo Le Lion, il ne doit pas être approximatif.
+6. **Les chiffres de Pierre Valentin** — tu les vérifies à la source, ou tu ne les dis pas.
+7. **Le lead magnet** — la fiche « les 4 inversions + les sources ». Elle n'existe pas encore.
    Il faut la produire **avant** de publier, sinon le CTA est mort.
+8. **La formule « racines athées/shirk »** de ta FAQ — je l'ai volontairement écartée (cf. les
+   garde-fous en Partie D). Tu confirmes, ou tu veux la garder ?
 
-> **Tu veux la suite ?** Je peux te sortir : le **script complet mot-à-mot** des trois blocs,
-> une **mind map** du plan, ou la **fiche lead magnet**. Dis-moi lequel.
+---
+
+## 📌 Ce qui reste ouvert de mon côté
+
+- Le persona, l'offre, le positionnement et la voix **n'existent pas en fichiers** dans les
+  dépôts que j'ai pu atteindre : le persona vit dans le graphe de `ctp-base-connaissances`
+  (source `crm/graph-src/persona-tariqa-pro.md`, **non versionnée** — elle est sur ta machine,
+  dans `~/CTP-master-graph`). J'ai travaillé sur le graphe, qui donne les libellés et les
+  liens mais **pas le texte**. Si tu me donnes accès aux sources, j'affine.
+- Le connecteur **`ctp-doctrine` n'est pas autorisé** dans cette session (OAuth impossible ici).
+  À autoriser depuis tes connecteurs claude.ai si tu veux que j'interroge la base servie.
+- **Google Drive** est branché mais la recherche est désactivée côté connecteur.
+
+> **Tu veux la suite ?** Je peux te sortir : le **script complet mot-à-mot**, une **mind map**
+> du plan, ou la **fiche lead magnet**. Dis-moi lequel.
