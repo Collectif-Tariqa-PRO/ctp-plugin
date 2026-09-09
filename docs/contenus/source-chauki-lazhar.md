@@ -1,342 +1,442 @@
-# 📚 Source — Chauki Lazhar : compte rendu d'exploitation
+# 📚 Source — Dr Chauki Lazhar : compte rendu d'exploitation complet
 
-> **Produit le 2026-09-08.** Scan de la chaîne YouTube `@chaukilazhar`
-> (`UCDPjFsFU3d8NId7uHZTIDtg`), analyse en **deux niveaux** : ① ce qui est directement
-> exploitable pour la vidéo « développement personnel », ② ce qui doit entrer dans la base
-> de connaissances du Collectif Tariqa PRO.
+> **v2 — 2026-09-09.** Scan intégral de la chaîne `@chaukilazhar` (`UCDPjFsFU3d8NId7uHZTIDtg`).
+> Analyse en **deux niveaux** : ① ce qui est exploitable pour la vidéo « développement personnel »,
+> ② ce qui doit entrer dans la base de connaissances du Collectif Tariqa PRO.
 >
 > Matière éditoriale de travail. Ce n'est pas du contenu de skill.
 
 ---
 
-## 0 · Qui il est, et pourquoi ça compte
+## 0 · Ce que j'ai réellement fait
 
-**Dr Chauki Lazhar** — **belge d'origine tunisienne**, néerlandophone de naissance, français
-appris « en regardant le Club Dorothée ». Ancien militaire de l'armée belge avant de se tourner
-vers les études islamiques. Aujourd'hui **directeur adjoint du Centre de recherche sur la
-législation islamique et l'éthique (CILE)** à l'Université Hamad Bin Khalifa, Qatar, où il vit
-depuis plus de 13 ans. Spécialiste des **uṣūl al-fiqh** (fondements) et des **maqāṣid**
-(finalités). Formé notamment par **Abdelmajid Najjar** (*Maqāṣid al-sharīʿa bi-abʿād jadīda*).
+**Inventaire complet** du catalogue long-form : **98 vidéos uniques** (listes *popular* + *recent*
+croisées et dédoublonnées). Les Shorts ont été écartés : ce sont des extraits des versions longues.
 
-**Trois raisons pour lesquelles c'est la source la plus importante des quatre.**
-
-1. **Il travaille exactement sur ton problème.** Il vient de **terminer un livre sur le travail
-   en islam**, et son constat est textuellement le tien : tous ceux qui écrivent sur le travail
-   en islam **ne remettent jamais en cause la charge conceptuelle que l'ordre ambiant a imposée
-   au mot « travail »**. C'est quoi le travail, pourquoi on travaille, quel est son sens, vers
-   quels idéaux il pointe — *« on ne se pose même pas la question »*.
-   👉 **C'est la définition académique du travail de redéfinition que fait le Collectif.**
-2. **Il est belge**, francophone, et il parle à un public de makers (il était sur le podcast
-   *Muslim Makers*). C'est ton écosystème, pas un savant lointain.
-3. **Il te donne le niveau que les trois autres n'ont pas** : le **paradigme**. Théo Le Lion
-   analyse un symptôme social. Sofiane Meziani pose un principe. Nouman Ali Khan enseigne le
-   cœur. Chauki Lazhar, lui, donne **la méthode pour évaluer un objet importé** — et le
-   développement personnel est exactement ça.
-
----
-
-## 1 · Ce que j'ai fait (méthode + ce qui reste)
-
-**Scanné :** l'intégralité du catalogue long-form indexé (≈ 100 vidéos, popular + recent).
-**Transcripts lus intégralement (5) :**
-
-| Vidéo | Durée | Pourquoi celle-là |
+| Corpus | Vidéos | Traitement |
 |---|---|---|
-| **Halal/Haram : et après ? De la norme à la vision** (`C3mIJBxnTqQ`) | 1h00 | ⭐ la clé de voûte |
-| **La liberté selon l'Islam** (`dCYrqhALSgM`) | 17 min | réponse directe à Ehrenberg |
-| **Maîtriser les passions (al-hawā)** (`8YvMellm2Oc`) | 16 min | réponse directe à Spinoza |
-| **L'Islam et la sérénité psychologique** (`0dtEBBTJrrU`) | 12 min | réponse directe au dev perso |
-| **L'Islam et l'harmonie des aspirations humaines** (`5QqkOsofdGk`) | 18 min | ⭐ la position d'équilibre |
+| **Istikhlāf — La Vision Islamique du Monde** (17 ép., 1 h–2 h 15) | 17 | **Tous tirés.** 6 lus intégralement, 11 minés par extraction ciblée (~20 h de contenu) |
+| **Finalités supérieures / maqāṣid** (émission Orix Islam) | 17 | **13 lus intégralement** |
+| **Méthodologie & modernité** | 5 | **5 lus intégralement** |
+| **Un jour, un verset** (Ramadan, 10 min) | 13 | **10 lus intégralement** |
+| **Théologie / anthropologie** | 8 | **6 lus intégralement** |
+| **Les Noms Sublimes d'Allah** | 22 | ❌ **Aucun sous-titre disponible** — non transcriptibles via vidIQ *(testé sur al-Razzāq, al-Qābiḍ al-Bāsiṭ, al-Fattāḥ, al-Qahhār)* |
+| **Fiqh social grand public** | 16 | 3 tirés pour vérification → **hors périmètre CTP, exclusion confirmée** |
 
-**Non lu, mais cartographié (§4).** La série **Istikhlāf** seule fait **17 épisodes de 1 à 2h**
-(≈ 25 heures). Les tirer un par un coûterait beaucoup pour un rendement décroissant sur *cette*
-vidéo. **Ils relèvent du niveau ② (base de connaissances)** et méritent une ingestion par lot —
-protocole en §5.
+**Total : ~45 transcripts exploités, dont ~38 lus intégralement.** Les 22 « Noms d'Allah » sont
+inaccessibles par transcription automatique — et leur contenu est de toute façon largement
+recouvert par *Istikhlāf 7*, qui traite les noms divins en profondeur.
 
----
-
-# NIVEAU ① — DIRECTEMENT EXPLOITABLE POUR LA VIDÉO
-
-Cinq apports. Chacun **répare un endroit précis** où l'une des trois autres sources s'arrête.
-
----
-
-## ①.1 ⭐⭐⭐ « On a inversé les idéaux et les moyens » — la clé de voûte
-
-> « La **croissance** n'est pas un idéal pour nous. La **santé physique** n'est pas un idéal —
-> elle n'a pas de valeur intrinsèque, **c'est un moyen**. […] Or aujourd'hui, **on a inversé les
-> idéaux et les moyens**. »
-
-C'est la formulation la plus nette de toute ta vidéo, et elle vient d'un chercheur en finalités.
-
-**Ce que ça fait :** le développement personnel a pris **le bien-être** — qui est un moyen — et
-en a fait **la finalité**. Sofiane Meziani dit la même chose (« le bien-être n'est pas une fin
-en soi »). Théo Le Lion la dit sans le savoir (il juge la mission au bonheur qu'elle produit).
-**Trois sources indépendantes, une seule conclusion.** C'est ça, être documenté.
-
-> 🔥 **Formulation pour la vidéo :** « Le développement personnel n'a pas inventé de mauvais
-> outils. Il a fait quelque chose de plus grave : **il a inversé les moyens et les fins.**
-> Il a pris le bien-être, qui est un moyen pour agir, et il en a fait le but de ta vie.
-> Après ça, tout le reste s'écroule tout seul. »
+> ⚠️ **Tous les verbatims de ce document viennent de sous-titres automatiques.** Fiables sur le
+> fond, approximatifs sur la lettre (l'arabe translittéré est déformé). **Reformule avec tes mots
+> plutôt que de citer entre guillemets**, sauf ce que tu as vérifié toi-même.
 
 ---
 
-## ①.2 ⭐⭐⭐ La banque islamique du mindset — **ta punchline la plus originale**
+## 1 · Qui il est — et pourquoi c'est la source la plus importante des quatre
 
-Son argument central, résumé :
+**Dr Chauki Lazhar** — **belge d'origine tunisienne**, néerlandophone de naissance, français appris
+« en regardant le Club Dorothée ». Ancien militaire de l'armée belge avant de se tourner vers les
+études islamiques. Aujourd'hui **professeur à l'Université du Qatar** et **directeur adjoint
+fondateur du CILE** (Centre de recherche sur la législation islamique et l'éthique, HBKU).
+Spécialiste des **uṣūl al-fiqh** et des **maqāṣid**. Formé par **Abdelmajid Najjar**.
+Son dernier livre porte sur **la vision coranique du monde**. Et **il vient d'écrire un livre sur
+le travail en islam**.
 
-- Jusqu'à la modernité, les changements du réel étaient **micro** : mêmes moyens de transport,
-  de commerce, de communication qu'à l'époque du Prophète ﷺ. L'outil hérité — classer le détail
-  en **halal / haram / obligatoire / recommandé / déconseillé** — suffisait.
-- **La modernité change ça** : les mutations sont **structurelles**. De nouveaux modèles
-  arrivent, différents « non seulement dans leur forme, mais dans leur fond, dans leur vision du
-  monde, dans leurs objectifs, dans les idéaux auxquels ils aspirent ».
-- Donc : **« tout ce qui se trouve dans le réel n'est pas neutre »** — tout objet porte une
-  vision de qui est l'humain, d'où il vient, où il va, de ce qui est bien et de ce qui est mal.
-- **Et voici la faute :** si on corrige seulement **la forme** sans questionner **le cap**,
-  alors « **on islamise la forme tout en œuvrant vers des idéaux qui ne sont pas les nôtres** ».
-- **Son exemple : la banque islamique.** On a pris la banque telle qu'elle existe, on lui a
-  retiré le riba, le gharar — et on n'a jamais remis en cause sa **fonction**, ni la vision qui
-  l'a engendrée, ni les idéaux qu'elle sert (croissance, production effrénée). *On a changé la
-  forme, on a gardé le cap.* Il dit la même chose du « développement durable islamique » : on
-  traite les **symptômes** de la crise, pas ses **causes**.
+**Trois raisons.**
 
-> 🔥🔥 **LA PUNCHLINE — probablement la meilleure de toute la vidéo :**
->
+1. **Il travaille exactement sur ton problème.** Son constat sur son livre est textuellement le
+   tien : tous ceux qui écrivent sur le travail en islam **ne remettent jamais en cause la charge
+   conceptuelle que l'ordre ambiant a imposée au mot « travail »**. C'est quoi le travail, pourquoi
+   on travaille, vers quels idéaux il pointe — *« on ne se pose même pas la question »*.
+2. **Il est belge, francophone**, il est passé sur le podcast *Muslim Makers*. C'est ton écosystème.
+3. **Il te donne le niveau que les trois autres n'ont pas : le paradigme.** Théo Le Lion analyse un
+   symptôme social. Sofiane Meziani pose un principe. Nouman Ali Khan enseigne le cœur.
+   Chauki Lazhar donne **la méthode pour évaluer un objet importé** — et le développement personnel
+   est exactement ça.
+
+---
+
+## 2 · Son système en une page
+
+*(Sans ce fil, les citations ne sont que des perles éparses. Avec, tout s'emboîte.)*
+
+```
+    ISLAM COSMIQUE
+    Tout, dans l'univers, est « musulman ». Trois sens enchaînés :
+    islām (se rendre à Dieu) → salāma (nature saine) → salām (paix avec soi et le reste)
+                    │
+    FONCTION EXISTENTIELLE (istikhlāf)
+    Dieu est al-Mudabbir, Celui qui gère. Il DÉLÈGUE à l'humain une partie de cette gestion.
+    Définition exacte : « préserver la balance que Dieu a établie dans l'âme, la société et
+    l'environnement — et RÉPARER TOUTE DÉFICIENCE qui l'affecte. »
+                    │
+    LES TROIS BALANCES              ← l'humain n'est responsable que d'UNE PARTIE de la balance
+    ① soi (le microcosme)             cosmique : celle qui lui est accessible
+    ② les relations humaines (social, politique, ÉCONOMIQUE)
+    ③ l'environnement
+                    │
+    MÉTHODE POUR LES IDENTIFIER : « regarde où ça va mal — là où ça va mal, c'est l'humain
+    qui commande » (Dieu gère le reste sans faille)
+                    │
+    LES OUTILS
+    · fitra : tu nais SAIN, pas cassé. La révélation ne t'apprend rien de neuf — elle RAPPELLE.
+    · taqwa : pas « la crainte » mais wiqāya = PROTECTION de ce qui est déjà en toi.
+    · tawakkul : fais les causes, délègue l'issue. → sérénité.
+    · shukr : le sommet. La récompense de la gratitude, c'est la gratitude.
+                    │
+    LE DIAGNOSTIC : « LE TROU DU LÉZARD »
+    Une modernité désenchantée où le transcendant est exclu de l'équation. L'humain, coupé de
+    l'infini, DIRIGE SES ASPIRATIONS INFINIES VERS DES OBJETS FINIS. D'où l'épuisement.
+```
+
+---
+
+# NIVEAU ① — POUR LA VIDÉO
+
+## ①.A — 🔥 LA TROUVAILLE CENTRALE : le mécanisme de l'épuisement
+
+> *(Istikhlāf 15, ~50 min — verbatim)*
+> « L'humanité pré-moderne, **toutes civilisations confondues**, était toujours tournée vers le
+> transcendant. Ces aspirations spirituelles absolues étaient **apaisées** — je ne dis pas
+> assouvies, parce que c'est pas possible ici — mais **on attachait l'espoir de les assouvir à un
+> monde métaphysique. Donc on n'avait pas besoin de chercher sans arrêt l'infini dans un monde
+> fini.**
+> Avec la modernité, le désenchantement : la seule chose qui existe, c'est ce que tu peux voir et
+> mesurer. L'humain a été **coupé de la transcendance**. Et de ce fait **il s'est dirigé vers le
+> fini afin d'assouvir ses désirs infinis.** »
+
+**Pourquoi c'est meilleur qu'Ehrenberg et que Byung-Chul Han :** eux **décrivent** (l'insuffisance,
+la fatigue). **Lui donne la cause.** Une aspiration infinie dirigée vers un objet fini **ne peut
+jamais se refermer** — structurellement.
+
+Et Shatibi le confirme (*La mort : le début de la vie*) : l'intérêt humain ne peut pas être réalisé
+ici-bas pour deux raisons — tout s'y obtient **avec difficulté**, et tout y est **éphémère**, alors
+que **les aspirations profondes sont absolues, sans limite**.
+
+> ### 🔥 LA PHRASE POUR LA VIDÉO
+> « Le développement personnel, c'est la version individuelle de cette erreur. Tu as une soif
+> d'absolu — de paix, de perfection, de sens. Et on t'a dit de la verser dans le seul récipient
+> qui ne peut pas la contenir : **toi**. Ça ne s'arrête jamais. **Pas parce que tu t'y prends mal.
+> Parce que le récipient est trop petit.** »
+
+Et le hadith de la vallée d'or dit exactement ça : *rien ne remplit la bouche du fils d'Adam.*
+
+---
+
+## ①.B — 🔥 « Le vrai problème, ce n'est pas d'y être. C'est de ne pas le savoir. »
+
+> *(Istikhlāf 2)* « **Le plus grand problème aujourd'hui, ce n'est pas qu'on est dans le trou du
+> lézard** » — c'est qu'on **n'en a pas conscience** et qu'on y participe. « La preuve, c'est que
+> non seulement on participe, mais **aucun horizon ne s'ouvre pour en sortir**. »
+> « **La première des choses, c'est d'être conscient qu'on y est.** »
+
+**C'est la thèse de ta vidéo, formulée par un chercheur.** Le problème n'est pas que tu fais du
+développement personnel. C'est que **tu ne sais pas que c'en est un** — que tu ne vois pas le cadre.
+Et la première étape n'est pas de changer de méthode : **c'est de voir le cadre.**
+
+👉 Ça te donne aussi **la promesse honnête de la vidéo** : *je ne vais pas te donner une méthode.
+Je vais te montrer le cadre dans lequel tu es.*
+
+---
+
+## ①.C — 🔥 Les trois formules qui tuent
+
+**1. « Du maquillage et du mascara islamiques »** *(Istikhlāf 16 — c'est LUI qui le dit)*
+> « J'ai beaucoup lu sur la psychologie islamique et **ce n'est pas basé sur une vision du monde
+> islamique**. Souvent c'est basé soit sur des visions occidentales **avec un peu de maquillage et
+> de mascara islamiques**, soit ça recycle des vues anciennes influencées par l'aristotélisme. »
+
+**2. « Des étiquettes »** *(Istikhlāf 3)*
+> « Ces études vont directement à : psychologie islamique, sociologie islamique, économie
+> islamique — **des étiquettes islamiques**. » Et : « **Comment développer une psychologie
+> islamique quand on n'a pas répondu aux questions existentielles ?** »
+
+**3. La banque islamique** *(Halal/Haram : et après ?)*
+> On a pris la banque telle qu'elle est, on a retiré le riba — et on n'a **jamais** questionné sa
+> fonction ni les idéaux qu'elle sert. « **On islamise la forme tout en œuvrant vers des idéaux qui
+> ne sont pas les nôtres.** »
+
+> ### 🔥 TA PUNCHLINE
 > ### « Ton développement personnel halal, c'est une banque islamique. »
->
-> On a pris l'industrie de l'optimisation de soi, on a retiré ce qui gênait — la loi
-> d'attraction, les trucs new age — on a ajouté une dou'a et un hadith, et **on a gardé le
-> cap : toi, au centre, en train de devenir ta meilleure version.** Puis on a appelé ça
-> « développement personnel halal ». **On a changé la forme. On n'a jamais touché à la
-> direction.**
-
-**Pourquoi c'est décisif pour toi :** ça déplace la question de *« est-ce que cet outil est
-halal ? »* vers *« vers quoi cette chose pointe-t-elle ? »*. Et ça donne un nom à ce que fait le
-Collectif Tariqa PRO : pas du **business halal** (corriger la forme), mais de la **redéfinition
-de la finalité** (changer le cap). C'est ta thèse, énoncée par un chercheur.
+> On a pris l'industrie de l'optimisation de soi, on a retiré la loi d'attraction et les trucs new
+> age, on a ajouté une dou'a et un hadith — **et on a gardé le cap : toi, au centre, en train de
+> devenir ta meilleure version.** On a changé la forme. On n'a jamais touché à la direction.
 
 ---
 
-## ①.3 ⭐⭐⭐ « On se soumet à Dieu pour être libre » — la réponse à Ehrenberg
+## ①.D — 🔥 Le moment de bascule, et sa boucle complète
 
-Ehrenberg (via Théo Le Lion) : la liberté moderne = ne pas être contraint. Et c'est ça qui
-produit le fardeau de l'insuffisance.
+**Le renversement** *(L'Islam et la sérénité psychologique)* : la récompense ultime au Paradis est
+**psychologique** — *« ils n'auront pas peur et ils ne seront pas affligés »*, verset qu'il dit
+revenir **53 fois**. Traduction : **ni peur du futur, ni tristesse du passé.** Et ce n'est pas
+seulement pour l'au-delà : **c'est un objectif pour ici-bas**, « pour pouvoir vivre dans le présent ».
 
-Chauki Lazhar donne l'autre définition :
-
-> « La vraie liberté en Islam, c'est **se libérer de tout ce qui nous empêche d'être un être
-> humain**, se libérer de tout ce qui entrave notre volonté. […] Ça peut sembler paradoxal :
-> **on se soumet à Dieu pour être libre.** Pour se libérer de ce qui peut nous entraver — la
-> **pression sociale**, la pression de nos **penchants et de nos passions**, ou **l'ego**. »
-
-Et : *« l'humain est la seule créature qui a le libre arbitre »* — les autres créatures obéissent
-sans choisir. La liberté est donc **constitutive de l'humanité de l'humain**, pas un supplément.
-
-> 🔥 **Ça branche directement sur ta phrase de persona** — *« tu as troqué une servitude contre
-> une autre »* — et lui donne enfin sa doctrine :
->
-> « Le développement personnel te promet la liberté au sens moderne : **plus personne au-dessus
-> de toi**. Et il te livre une nouvelle servitude — celle de ta propre optimisation, qui ne
-> s'arrête jamais et qui ne pardonne rien. La liberté dont je te parle, c'est l'autre : **être
-> libéré de la pression sociale, de tes penchants et de ton ego.** Et le paradoxe, c'est qu'on
-> y arrive **en se soumettant** — pas en se libérant de tout. »
-
----
-
-## ①.4 ⭐⭐⭐ La sérénité psychologique — **le renversement le plus fort de la vidéo**
-
-> « La récompense ultime au paradis, c'est une **récompense psychologique**. Le Coran dit des
-> gens du Paradis : *ils n'auront pas peur, et ils ne seront pas affligés*. **Ce verset revient
-> 53 fois dans le Coran.** Ça veut dire : **pas de peur de ce qui vient, pas de tristesse de ce
-> qui est passé.** Et aujourd'hui on sait que les troubles psychologiques relèvent exactement de
-> ça : la tristesse de ce qui s'est passé, ou la peur de ce qui va se passer. »
-
-Et il précise : ce n'est **pas seulement** pour l'au-delà — c'est **un objectif pour ici-bas**,
-« pour pouvoir **vivre dans le présent** et accomplir dans le présent ce pour quoi on a été créé ».
-
-> 🔥🔥 **Mets ça en face du développement personnel et regarde ce qui se passe :**
->
-> ### « La réussite, dans le Coran, c'est : pas de peur pour ton avenir, pas de tristesse pour ton passé.
-> ### Le développement personnel, c'est : de l'angoisse pour ton avenir, et de la honte pour ton passé.
+> ### « La réussite, dans le Coran : pas de peur pour ton avenir, pas de tristesse pour ton passé.
+> ### Le développement personnel : de l'angoisse pour ton avenir, de la honte pour ton passé.
 > ### C'est le programme exactement inverse. »
->
-> — l'angoisse du futur : *tu n'es pas encore devenu qui tu dois être.*
-> — la honte du passé : *tes croyances limitantes, tes traumas, ton conditionnement.*
->
-> **C'est ta phrase de bascule alternative.** Elle est plus forte que celle que j'avais posée,
-> parce qu'elle est **entièrement sourcée** et qu'elle ne demande aucun raisonnement au
-> spectateur : il la sent immédiatement.
 
-Bonus du même épisode, **taillé pour un entrepreneur** : Allah enseigne à Adam « tous les noms »
-= le potentiel intellectuel, **découvrir l'inconnu à partir du connu** — c'est ce qui distingue
-l'humain des anges, et c'est ce qui justifie qu'il porte la fonction sur terre.
-👉 *Entreprendre, c'est littéralement ça : découvrir l'inconnu à partir du connu.*
+**Et voilà ce qui change tout — la boucle se referme deux fois :**
 
----
+- **Le remède n'est pas de s'optimiser : c'est de DONNER.** Le même verset (Coran 2:274) est
+  attaché à l'aumône : *« ceux qui dépensent leur bien… n'auront rien à craindre et ne seront point
+  affligés »*. Et il l'explicite lui-même : la peur = le futur, la tristesse = le passé.
+- **Le mécanisme quotidien, c'est le tawakkul** *(Un jour un verset)* :
+  > « J'ai étudié pour l'examen. **Si je réussis, c'est Dieu qui me l'a permis — issue favorable.
+  > Si j'échoue, c'est Sa décision — issue favorable aussi**, parce que de mon côté j'ai fait ce
+  > que j'avais à faire. **Donc je suis serein.** » Et : « psychologiquement, **c'est très
+  > libérateur, très apaisant** ».
 
-## ①.5 ⭐⭐⭐ Ni personnel, ni impersonnel : **la balance** — ta position finale
-
-C'est l'apport qui **remplace** ma proposition initiale, et qui te met au-dessus des trois
-vidéos d'un coup.
-
-**a) Le hadith des droits, avec son contexte complet.** La femme d'Abū Dardā' se plaint auprès
-de Salmān al-Fārisī : son mari prie toute la nuit, jeûne sans arrêt, il en fait trop. Rapporté
-au Prophète ﷺ, qui tranche : **« ton Seigneur a un droit sur toi, ton être a un droit sur toi,
-ta famille a un droit sur toi — donne à chacun son droit. »**
-
-**b) Et le hadith des trois compagnons** qui voulaient faire *plus* que le Prophète ﷺ : l'un ne
-se marierait jamais, l'un jeûnerait tous les jours, l'un prierait toutes les nuits. Il s'en est
-offusqué : *« je me marie, et je dors, et je ne jeûne pas tous les jours ; celui qui s'éloigne
-de ma tradition ne fait pas partie de moi. »*
-
-> 🔥🔥🔥 **La réfutation de Théo Le Lion est maintenant imparable :**
->
-> « Il te dit : choisis quelque chose de plus grand que toi et **subordonne-toi totalement**.
-> Alors écoute bien. Trois hommes ont voulu faire exactement ça — **et pour Dieu**, ce qui est
-> le meilleur objet possible. Ils ont été repris. **Si la subordination totale n'est pas permise
-> même pour l'adoration, elle ne l'est certainement pas pour ta boîte.**
-> Le mot qui ne va pas dans sa phrase, ce n'est pas « plus grand ». **C'est « totalement ». »**
-
-**c) Et surtout — la position d'équilibre, qui n'est ni celle du dev perso ni celle de Théo :**
-
-> « L'amour propre qu'on a de soi, **c'est naturel aussi**. Si l'humain ne s'aime pas lui-même,
-> il ne va plus prendre soin de lui, il ne va plus pouvoir réaliser sa fonction existentielle.
-> […] Mais pour que ça ne devienne pas de l'égoïsme, il y a **l'īthār** — préférer l'autre
-> avant soi. »
-
-Et : *« Dieu nous a embelli l'amour des passions »* — l'aspiration à posséder, à se nourrir, à
-se reproduire est **voulue**, et « sans ça on ne peut pas avancer dans la vie, on ne peut pas
-réaliser notre fonction ». Le problème n'est jamais l'aspiration : c'est **la démesure**, quand
-elle « outrepasse sa mesure ».
-
-> 🔥 **TA POSITION FINALE — et elle bat les trois vidéos :**
->
-> ### Développement **personnel** = tout ramené vers soi.
-> ### Développement **impersonnel** = tout arraché à soi.
-> ### **Ce sont les deux bouts du même axe. Et les deux sont des déséquilibres.**
->
-> La réponse n'est pas sur cet axe. Elle est dans **la balance**. Tu as le droit de t'aimer —
-> sinon tu ne prends plus soin de toi et tu ne remplis plus ta fonction. Tu as le devoir de
-> préférer l'autre. **Donne à chacun son droit.**
->
-> C'est déjà ta doctrine, mot pour mot : **« ce n'est pas l'un au détriment de l'autre. »**
+👉 **Diagnostic → promesse inverse → remède concret (donner) → mécanisme quotidien (tawakkul).**
+L'argument est complet du début à la fin. C'est rare.
 
 ---
 
-## ①.6 🥊 Bonus : la réponse à Spinoza (si tu veux aller au bout)
+## ①.E — 🔥 L'ordre de la révélation : la justification du parcours CTP
 
-Théo Le Lion emprunte à Spinoza : *une passion cesse d'être une passion dès qu'on en comprend la
-cause*. C'est **intellectuel**. Le développement personnel, lui, propose l'**introspection**.
-Chauki Lazhar donne une troisième voie, et c'est un **acte** :
+> *(Istikhlāf 1)* L'approche coranique posait **d'abord** la vision du monde. Les questions
+> sociales, familiales, **économiques** — le ribā, les transactions, le mariage, le divorce —
+> **tout cela n'est venu qu'à Médine.** À La Mecque : treize ans sur qui est Dieu, qui est l'humain,
+> d'où il vient, où il va.
 
-> Pourquoi le Coran dit-il que la finalité de la zakat, c'est **la purification** — et non
-> l'entraide sociale ? « Parce que la dimension sociale, **tout le monde la voit**. Le Coran met
-> en évidence quelque chose de plus subtil : **celui qui donne se purifie lui-même** et repousse
-> ses passions. »
+> **« Si Dieu a mis treize ans à poser qui tu es avant de te dire comment commercer, pourquoi
+> voudrais-tu, toi, commencer par la technique ? »**
 
-> 🔥 « Spinoza dit : comprends la cause, la passion se dissout. Le développement personnel dit :
-> observe-toi, corrige tes croyances. Nous, on dit autre chose. **On dit : donne.** Et le
-> premier bénéficiaire de ce que tu donnes, **ce n'est pas le pauvre — c'est toi.** C'est le
-> geste qui te détache, pas la compréhension. **La zakat est la plus vieille technologie
-> anti-individualisme qui existe.** »
+C'est **la justification la plus forte possible du parcours CTP** (mindset avant tout le reste) —
+et l'argument imparable contre le réflexe « est-ce que c'est halal ? » comme point de départ.
+Commencer par là, **c'est inverser l'ordre de la révélation elle-même.**
 
-Pour un entrepreneur — quelqu'un dont l'activité même est l'accumulation — c'est dévastateur.
+---
 
-⚠️ **Attention à la densité.** ①.6 est superbe mais c'est la 6ᵉ idée d'une vidéo qui en a déjà
-cinq. **Mon avis : garde-la pour une vidéo à part** (« la zakat n'est pas une taxe, c'est un
-remède »), et laisse-la ici en boucle ouverte de 15 secondes.
+## ①.F — 🔥 La réponse à Théo Le Lion, en trois coups
+
+**1. Le mot de trop, c'est « totalement ».** *(L'harmonie des aspirations humaines)*
+Le **hadith des droits** avec son contexte complet : la femme d'Abū Dardā' se plaint à Salmān que
+son mari en fait trop (prière toute la nuit, jeûne continu). Verdict : *« ton Seigneur a un droit
+sur toi, ton être a un droit sur toi, ta famille a un droit sur toi — **donne à chacun son droit** »*.
+Et le **second hadith** : trois compagnons veulent faire *plus* que le Prophète ﷺ. Il s'en offusque.
+
+> « Trois hommes ont voulu se subordonner totalement. **Et pour Dieu**, le meilleur objet possible.
+> **Ils ont été repris.** Si ce n'est pas permis pour l'adoration, ce n'est pas permis pour ta
+> boîte. Le mot qui ne va pas dans sa phrase, ce n'est pas "plus grand" — **c'est "totalement".** »
+
+**2. Le « quelque chose de plus grand » a enfin un contenu ET un critère.**
+Sa définition formelle de l'istikhlāf : *« préserver la balance que Dieu a établie dans l'âme, la
+société et l'environnement — et **réparer toute déficience qui l'affecte** »*.
+👉 **« Restaurer une déficience » = la définition de l'entrepreneuriat utile.** Un entrepreneur qui
+résout un vrai problème répare une déficience de la balance sociale. Théo dit « une mission » sans
+pouvoir dire laquelle ; là, c'est nommé, borné, et vérifiable.
+
+**3. Sortir de l'axe.** Dev perso = tout vers soi. Dev impersonnel = tout arraché à soi. **Les deux
+bouts du même bâton.** Or l'amour de soi est **légitime** — « si l'humain ne s'aime pas lui-même,
+il ne prend plus soin de lui, il ne réalise plus sa fonction existentielle ». Le contrepoids n'est
+pas son abolition : c'est **l'īthār**, préférer l'autre. **Donne à chacun son droit.**
+
+---
+
+## ①.G — Les munitions de second rang (toutes utilisables)
+
+| Idée | Formulation | Où ça sert |
+|---|---|---|
+| **« On a inversé les idéaux et les moyens »** | La croissance n'est pas un idéal. La santé physique non plus — c'est un moyen. **Le bien-être non plus.** | La thèse en une phrase. *(Sofiane Meziani dit exactement pareil → deux sources indépendantes.)* |
+| **Il n'y a pas de troisième possibilité** | « Dire *je ne me soumets ni à Dieu ni à rien d'autre, je suis libre* : **ça n'existe pas.** » Ou Dieu, ou le ṭāghūt — « l'ego, l'argent, les passions ». | **Tu ne choisis pas entre servir et ne pas servir. Tu choisis QUI tu sers.** |
+| **La liberté** | « Se libérer de ce qui nous empêche d'être humain : **la pression sociale, nos penchants, l'ego**. On se soumet à Dieu **pour être libre**. » | Réponse frontale à Ehrenberg + à « tu as troqué une servitude contre une autre ». |
+| **La révélation RAPPELLE** | *dhikr* = le rappel. Le *maʿrūf* = « ce qui est connu », le *munkar* = « ce qui est rejeté » — par la fitra. « Je n'ai été envoyé que pour **parachever** la bonne morale. » | **« La révélation ne te dit pas quoi devenir. Elle te rappelle qui tu es. »** L'inverse exact du dev perso. |
+| **Le modèle n'est pas toi** | Abū Bakr veut couper les vivres à Misṭaḥ qui a calomnié sa fille — « c'est humain, ce n'est **pas haram** ». Allah lui dit non. « Si tu veux atteindre **un niveau d'humanité supérieur**, pardonne. » | **La réponse finale à « deviens la meilleure version de toi-même » : le modèle est Dieu, pas une version idéalisée de toi.** |
+| **Le déséquilibre est l'état par défaut** | Les balances **spirituelle et sociale** sont habituellement déréglées et demandent **une intervention perpétuelle** ; seule la balance environnementale est stable par défaut. | **L'équilibre n'est pas un état qu'on atteint, c'est un entretien.** Déculpabilise sans rien excuser. |
+| **Le perfectionnisme n'est pas le programme** | « Ce que Dieu demande, **ce n'est pas que tu sois parfait, que tu sois un ange — c'est que tu chemines.** » + *si vous ne péchiez plus, Allah vous remplacerait par un peuple qui pèche et se repent*. | Réponse frontale au perfectionnisme. **L'erreur est prévue au programme.** |
+| **La gratitude n'est pas une technique** | « Le verset dit *si vous êtes reconnaissants, J'augmenterai* — **mais Il ne précise pas de quoi**. **La plus grande récompense, c'est la gratitude elle-même.** » | Retourne un outil que tout le monde croit connaître (le *gratitude journal*). |
+| **Tu n'as pas accès à toi tout seul** | « **Dieu s'interpose entre l'homme et son cœur** » — c'est Lui qui te donne accès à ton for intérieur. | Le dev perso postule exactement l'inverse. |
+| **La parabole des deux arbres** | Deux personnes, mêmes épreuves : l'une flanche, l'autre est renforcée. L'un est **enraciné**, l'autre **déraciné, à la merci des saisons**. « Si le bonheur dépend de l'environnement, on est à sa merci. » | **L'image visuelle de la vidéo, et elle est coranique.** Le dev perso travaille les branches ; on parle des racines. |
+| **La monture** | « Celui qui frappe sa monture — **ni il n'arrivera à destination, ni sa monture ne restera intacte.** » | L'anti-hustle, formulé positivement. |
+| **Ravalé au rang de l'animal** | La thèse qu'il réfute : « comme l'animal a été créé pour manger et boire, l'humain a été créé pour édifier la terre — **comme n'importe quel animal** ». | **Faire du développement matériel la finalité, c'est ravaler l'humain au rang animal.** Très fort. |
+
+---
+
+## ①.H — 🏗️ L'architecture de vidéo que je recommande maintenant
+
+La v3 avait cinq blocs. Avec ce matériel, la vidéo devient **plus simple et plus forte** :
+
+```
+1. ACCROCHE       Le hook actuel tient.
+
+2. LE DIAGNOSTIC EST JUSTE (et il n'est pas de moi)
+   Ehrenberg, Han, Théo Le Lion. L'insuffisance, la fatigue d'être soi.
+   → boucle ouverte : « retiens ce mot : brouillon »
+
+3. ⭐ LE MÉCANISME (le cœur — c'est neuf, et personne ne le dit)
+   Une soif d'absolu versée dans un récipient fini. Le récipient, c'est toi.
+   « Ça ne s'arrête jamais. Pas parce que tu t'y prends mal — parce que
+     le récipient est trop petit. »
+   + le péché originel en version laïque (referme « brouillon »)
+
+4. ⭐⭐ LE MOMENT DE BASCULE
+   « Pas de peur pour ton avenir, pas de tristesse pour ton passé. »
+   Le programme exactement inverse.
+   + « ton dev perso halal, c'est une banque islamique »
+
+5. ⭐ CE QU'ON FAIT À LA PLACE
+   · le point de départ : la fitra (tu n'es pas cassé, tu es poussiéreux)
+   · le destinataire : les outils sont déjà dans la sunna
+   · le remède au futur/passé : DONNER — et le tawakkul au quotidien
+   · la position finale : ni personnel ni impersonnel — donne à chacun son droit
+
+6. FIN — LA SOLITUDE
+   « Allah a distribué Ses bienfaits de manière proportionnée AFIN QUE LES GENS
+     S'ENTRAIDENT — sinon ça aurait créé de l'individualisme, on n'aurait plus
+     besoin les uns des autres. »
+   → L'interdépendance n'est pas un accident : c'est le design.
+   → C'est pour ça que ça s'appelle un Collectif.
+```
+
+> ✂️ **À sortir de la vidéo** (chacune vaut un sujet à part) : la zakat comme technologie
+> anti-individualisme · les postures de l'âme · l'ordre de la révélation (Mecque/Médine) ·
+> le taqwa redéfini. **Tu as là quatre vidéos, pas quatre digressions.**
 
 ---
 
 # NIVEAU ② — POUR LA BASE DE CONNAISSANCES
 
-## 2.1 · Cartographie de la chaîne, par corpus exploitable
+## ②.1 — 🔴 Ce qui peut refonder `ctp-compliant`
 
-| Corpus | Volume | Ce que ça apporte au Collectif | Priorité |
-|---|---|---|---|
-| **Istikhlāf — La Vision Islamique du Monde** (17 ép., 1-2h) | ≈ 25 h | **La fonction existentielle de l'humain** : le fil rouge qui donne un cap au travail. Les 4 balances (cosmique, spirituelle, sociale, environnementale), la sagesse de la création de l'humain, l'humain à l'image d'Allah, l'islamisation des savoirs, le réformisme contemporain. **C'est le socle doctrinal du pilier 1.** | 🔴 **1** |
-| **Les finalités supérieures (maqāṣid)** — préservation de la religion, de la raison, de la santé, de la dignité, de la téléologie de la vie, de l'humanité de l'humain, harmonie des aspirations | ≈ 12 ép. × 15 min | **Une grille d'évaluation prête à l'emploi.** À croiser avec `ctp-compliant` : aujourd'hui l'audit CTP teste des valeurs ; là tu aurais un **cadre de finalités**. | 🔴 **1** |
-| **Norme → vision / modernité** (`C3mIJBxnTqQ`, `TyF3ml3Ct3M`, `Guu6AoHC1yE`, `1V7blC_u2iA`, `OftjTUEbOXo`) | ≈ 5 h | La **méthode** pour évaluer tout objet importé (outil, modèle, framework marketing…). Directement branché sur `ctp-compliant` et sur la doctrine. | 🔴 **1** |
-| **Un jour, un verset** (13 ép. × 10 min) : intention · confiance en Allah · patience · gratitude · humilité · silence · pardon · jalousie · **fluctuation de l'âme** · temps · aumône | ≈ 2 h | **Le plus rentable au ratio effort/valeur.** Format court, un concept par épisode, exactement les entrées du pilier Mindset. **Commence par là.** | 🟠 **2** |
-| **Psychologie & âme** (`0dtEBBTJrrU`, `IaZ5sW_1rts`, `8YvMellm2Oc`, `xCyQq-1pdOE`) | ≈ 1 h | Complète le corpus Taqwa Impact sur nafs / rûh / qalb / ʿaql. | 🟠 **2** |
-| **Les Noms Sublimes d'Allah** (≈ 25 ép. × 7 min) | ≈ 3 h | Plusieurs ont une résonance business directe : **al-Razzāq** (le Pourvoyeur), **al-Qābiḍ al-Bāsiṭ** (Celui qui retient et déploie), **al-Fattāḥ** (l'Ouvreur), **al-Karīm**, **al-Muqaddim al-Mu'akhkhir**. Matière à contenu court et à ancrage spirituel du rizq. | 🟡 **3** |
-| **Fiqh grand public** (femmes, mariage, héritage, adoption, contraception…) | ≈ 25 ép. | **Hors périmètre CTP.** Ne pas ingérer : ça n'aide pas un entrepreneur et ça t'entraîne sur un terrain qui n'est pas le tien. | ⬜ **exclure** |
+C'est l'apport le plus structurant, et il ne concerne pas la vidéo.
 
-## 2.2 · Les trois fiches de doctrine à créer
+**a) Le critère d'identification des finalités.** Sa contribution propre : **la fonction
+existentielle est le paramètre**. Une finalité est *supérieure* si elle est **indispensable à la
+réalisation de la fonction existentielle**. Sinon, non.
 
-À faire passer par ton chemin habituel — extraction → distillation → tamis CTP → **ta
-validation** → publication. Aucune n'existe encore dans le pilier 1 :
+**b) Sa nouvelle catégorisation** — 4 finalités majeures × 2, déduites de ce critère :
 
-| Fiche proposée | Principe | Signaux membre attendus |
+| Finalité majeure | Sous-finalités |
+|---|---|
+| **① La valeur de la vie humaine** | la religion · l'humanité de l'humain (fitra) |
+| **② L'être humain** | préservation physique et morale · la raison |
+| **③ La société** | la progéniture · la structure sociale |
+| **④ Le milieu matériel** | les biens · l'environnement |
+
+**c) La question d'audit, en une ligne :**
+> « **Est-ce que ma vie, ma consommation, l'organisation de mon économie — est-ce que c'est dirigé
+> vers ce sommet ?** »
+
+**d) Le test de l'emprunt** — la vraie question à poser à tout outil, framework ou modèle importé :
+> Deux savants ont étudié la philosophie grecque. L'un « est **rentré dans le ventre des
+> philosophes**, il a voulu en sortir, il n'a pas réussi » — parce qu'il l'a abordée **en cherchant
+> la vérité**, sans cadre. Ghazālī s'y est engagé **avec un cadre déjà solide** : il a pris,
+> débarrassé du cadre d'origine, réintégré dans le sien.
+> « **L'idée n'est pas de tout rejeter. On ne peut qu'emprunter. La question, c'est comment.** »
+>
+> Et **Malek Bennabi** : les **idées mortes** (du patrimoine, sans validité aujourd'hui) et les
+> **idées mortelles** (d'une autre vision du monde, qui dénaturent la nôtre).
+
+👉 **Aujourd'hui `ctp-compliant` teste des valeurs et des mots interdits. Avec ça, il pourrait
+tester une DIRECTION.** C'est un saut de niveau.
+
+## ②.2 — Les fiches de doctrine à créer
+
+| Fiche | Principe | Signaux membre |
 |---|---|---|
-| **« On a inversé les idéaux et les moyens »** | Un moyen promu en finalité (le chiffre, la visibilité, le bien-être) désoriente toute l'activité. Remettre chaque chose à son rang. | « je sais plus pourquoi je fais ça » · « j'ai atteint mon objectif et j'ai rien ressenti » · « je cours après des chiffres » |
-| **« Changer la forme ne change pas le cap »** | Rendre un modèle conforme ne le rend pas juste : il faut interroger la vision qui l'a produit et les idéaux vers lesquels il pointe. | « j'ai enlevé ce qui était haram, c'est bon non ? » · « c'est une version halal de… » · « je copie le modèle mais en éthique » |
-| **« Donne à chacun son droit »** | Contre le sacrifice total, dans un sens **comme dans l'autre** : ni tout pour la boîte, ni tout pour soi. La fonction, c'est la balance. | « je donne tout à mon projet » · « ma famille attendra » · « je dors 4h » · « j'ai plus de vie » |
+| **« On a inversé les idéaux et les moyens »** | Un moyen promu en finalité (le chiffre, la visibilité, le bien-être) désoriente toute l'activité. | « je sais plus pourquoi je fais ça » · « j'ai atteint mon objectif et j'ai rien ressenti » |
+| **« Changer la forme ne change pas le cap »** | Rendre un modèle conforme ne le rend pas juste. Il faut interroger la vision qui l'a produit. | « j'ai enlevé ce qui était haram, c'est bon non ? » · « c'est une version halal de… » |
+| **« Donne à chacun son droit »** | Contre le sacrifice total **dans les deux sens**. La fonction, c'est la balance. ⚠️ **À fusionner avec la fiche existante *« Tu n'es pas obligé de souffrir pour réussir »***, à qui elle apporte son fondement textuel. | « je donne tout à mon projet » · « ma famille attendra » · « j'ai plus de vie » |
+| **« L'équilibre est un entretien, pas un état »** | Les balances spirituelle et sociale sont **par défaut** déréglées et demandent une intervention perpétuelle. Ton déséquilibre n'est pas une anomalie. | « je retombe toujours dans les mêmes travers » · « je croyais avoir réglé ça » |
+| **« Le levier naturel est cassé — donc ça devient une obligation »** | Ce que la nature assurait spontanément (le mouvement, le lien social, le rythme) ne l'est plus. Ce qui était spontané **devient un acte à poser**. | « j'ai pas le temps de bouger » · « je vois plus personne » · « je bosse la nuit » |
+| **« Ta subsistance est aussi singulière que ta voix »** | Le rizq est décrété et **propre à chacun** — le verset dit « vrai **de la même manière que vous parlez** ». Le ḥasad remet en cause la sagesse de la distribution. | « lui il y arrive et pas moi » · « je regarde ce que font les autres » · « je suis en retard » |
+| **« La distribution inégale crée l'interdépendance »** | Allah a réparti Ses bienfaits **afin que les gens s'entraident** — « sinon ça aurait créé de l'individualisme ». | « je préfère me débrouiller seul » · « demander de l'aide c'est avouer que j'y arrive pas » |
 
-> ⚠️ **Une fiche existe déjà et se recoupe** : *« Tu n'es pas obligé de souffrir pour réussir »*.
-> La nouvelle fiche « Donne à chacun son droit » lui apporte **son fondement textuel** — à
-> fusionner plutôt qu'à empiler.
+## ②.3 — Deux outils de coaching prêts à l'emploi
 
-## 2.3 · Protocole d'ingestion (le graphify, comme pour le reste)
+**a) L'échelle face à l'épreuve** (revient trois fois dans le corpus) :
+> *sakhaṭ* (blâmer Dieu) < *ṣabr* (endurer) < *riḍā* (être apaisé) < **shukr** (voir la sagesse et
+> remercier).
 
-La chaîne représente **~50 h de contenu**. À traiter par lot, pas à la main :
+**b) La grille d'autodiagnostic de l'orgueil** (liste littérale) :
+> sentiment de supériorité · faire ses pratiques **pour plaire aux autres** · chercher la
+> reconnaissance · **ne pas accepter la critique** · **ne pas reconnaître ses erreurs** · rechercher
+> les privilèges et les places d'honneur · rechercher les éloges.
 
-1. **Lister** les ~100 `videoId` via vidIQ (`channel_videos`, long + short, popular + recent).
-2. **Filtrer** selon la table 2.1 — on ingère les priorités 🔴 et 🟠 (**≈ 45 vidéos**), on exclut
-   explicitement le corpus fiqh grand public.
-3. **Tirer les transcripts par lot** (`vidiq_video_transcript`) → écrire un `.txt` par vidéo dans
-   `chauki/transcripts/`, **une seule fois**, jamais re-tirer. *(Compter ≈ 5 crédits par appel.)*
-4. **Nettoyer** : les transcripts sont des sous-titres automatiques — l'arabe translittéré est
-   déformé (`karb` → « carb », `ghumma` → « rum », `Firʿawn` → « Fyun/faoun »). **Une passe de
-   normalisation des termes est obligatoire avant ingestion**, sinon le graphe se remplit de
-   nœuds fantômes.
-5. **Ingérer** dans `~/CTP-master-graph` comme **un neuvième corpus** (`chauki`), au même titre
-   que `taqwa`, et régénérer via `exporter_equipe.py --equipe`.
-6. **Les ponts se créeront tout seuls** avec `taqwa` (psychologie, âme, modernité, laïcité) et
-   avec `doctrine` — c'est exactement ce que ta base sait faire.
+**c) Et un indicateur mesurable de l'équilibre spirituel**, en réponse directe à la question
+« quel critère de réussite ? » :
+> **« Lorsque tu as de l'argent et que tu donnes facilement. »**
 
-> 💡 **Le gain n'est pas le volume, c'est le pont.** Ton corpus Taqwa Impact et le sien traitent
-> les mêmes objets par deux entrées différentes (formation vs recherche). Les liens entre les
-> deux, c'est ça qui va faire ressortir ce que tu ne pensais pas à chercher.
+## ②.4 — Ce qui vaut aussi le détour
+
+- **Taqwa n'est pas « la crainte »** : c'est *wiqāya*, **la protection** — « préserve ton aspiration
+  naturelle vers ton Seigneur ». Et **le bouclier a des fissures** : la tristesse, la colère,
+  **la fatigue**, l'amour de l'argent. « Shaytan ne peut entrer que par là. »
+  → **Fondement doctrinal direct de l'anti-hustle et du « doux sur la personne ».**
+  → Et : « **aller à la salle de sport peut être taqwa** » — taqwa n'est pas la liste halal/haram,
+  c'est **tout ce qui préserve ta fitra**.
+- **Tazkiya = purification ET croissance** : « lorsqu'on purifie l'âme, **la croissance vient
+  systématiquement** ». L'ordre est celui du parcours CTP : purifier d'abord.
+- **Ṣabr du succès** : « ce n'est pas seulement endurer le difficile — **c'est tenir bon face à
+  l'agréable** ». Angle rarement traité, taillé pour le membre au moment où ça marche.
+- **Le silence et les polémiques** : tant que le Prophète ﷺ ne répondait pas aux insultes, **les
+  anges répondaient** ; dès qu'Abū Bakr a répliqué, **le diable est venu** — et il s'est levé.
+  → Utilisable tel quel pour la gestion des commentaires.
+- **L'homme du Paradis** : rien de spécial dans ses actes — sauf qu'avant de dormir **il effaçait de
+  son cœur toute animosité envers quiconque**. Et : pardonner **n'oblige pas** à restaurer la relation.
+- **Le désespoir est pire que la faute**, parce qu'il détruit la projection — et **le sens de la vie
+  est une composante de l'humanité**, pas un luxe.
+- **Rupture savoir/pouvoir** : les savants ont été écartés des affaires publiques, se sont repliés
+  sur le privé et le spirituel — **et c'est à ce moment-là que la méthodologie s'est codifiée**,
+  déjà amputée de l'économique. → l'explication historique du trou qu'on essaie de combler.
+
+## ②.5 — Protocole d'ingestion (graphify)
+
+1. **Périmètre** : ~60 vidéos (Istikhlāf + maqāṣid + méthodologie + Un jour un verset + théologie).
+   **Exclure** le fiqh social. **Écarter** les Noms d'Allah (pas de sous-titres).
+2. **Tirer les transcripts par lot** → un `.txt` par vidéo, **une seule fois**, jamais re-tirer.
+   *(≈5 crédits l'appel. Les 45 déjà tirés sont sur disque.)*
+3. ⚠️ **Passe de normalisation obligatoire avant ingestion.** Les sous-titres massacrent l'arabe :
+   *khilāfa* → « hilafa / ilf / f », *fiṭra* → « fêtra / fit », *Ibn ʿĀshūr* → « Ashour / our »,
+   *ghumma* → « rum », *karb* → « carb ». **Sans cette passe, le graphe se remplit de nœuds
+   fantômes.** Prévoir un dictionnaire de remplacement.
+4. **Ingérer comme un neuvième corpus** (`chauki`), au même titre que `taqwa`, puis régénérer via
+   `exporter_equipe.py --equipe`.
+5. **Le gain n'est pas le volume, c'est le pont.** Ton corpus Taqwa Impact et le sien traitent les
+   mêmes objets (l'âme, Freud, la modernité, la laïcité) par deux entrées différentes — formation
+   vs recherche. **Ce sont les liens entre les deux qui feront ressortir ce que tu ne pensais pas
+   à chercher.**
 
 ---
 
-# 3 · Les garde-fous sur cette source
+# 3 · Garde-fous
 
-1. **Il est chercheur, tu ne l'es pas — et c'est une force, pas une gêne.** Ton rôle : traduire
-   son cadre pour un entrepreneur qui doit vendre lundi. Ne joue jamais au chercheur en
-   maqāṣid : cite-le nommément et renvoie vers lui.
-2. **Sa propre prudence est ton meilleur garde-fou.** Il rappelle qu'on ne peut pas lire la
-   Révélation sans les outils — *« celui qui veut étudier Nietzsche ne peut pas le lire sans
-   comprendre son contexte, son histoire, ses influences »*. **C'est la justification doctrinale
-   exacte de ta règle « pas de posture d'imam ».** Tu peux même la citer dans la vidéo : ça
-   transforme ta prudence en argument.
-3. **Il dit lui-même que les maqāṣid n'ont jamais été vraiment théorisées** — ni chez Ghazālī
-   (en marge), ni chez Shāṭibī (qui théorise *autour*, pas *les* finalités). Il parle d'un
-   « **label vide** » quand on les invoque sans travail de fond. 👉 **Ne fais pas ça non plus.**
-   N'utilise pas « maqāṣid » comme sceau de sérieux dans une vidéo YouTube.
-4. **Certains de ses sujets sont clivants** (esclavage, statut des femmes, fiqh). **Aucun
-   n'entre dans le périmètre du Collectif Tariqa PRO.** Ne cite que le registre
-   paradigme / finalités / travail / psychologie.
-5. **Transcripts automatiques = vérification obligatoire.** Tout ce qui est cité dans ce document
-   vient de sous-titres générés. **Avant de citer une référence à l'écran, vérifie-la.** Le
-   « 53 fois dans le Coran » notamment : superbe s'il est exact, coûteux s'il ne l'est pas.
+1. **Il est chercheur, tu ne l'es pas — et c'est une force.** Ton rôle : traduire son cadre pour
+   quelqu'un qui doit vendre lundi. Cite-le nommément, renvoie vers lui.
+2. **Sa propre prudence est ton meilleur argument.** « On ne lit pas Nietzsche sans son contexte,
+   son histoire, ses influences » — a fortiori la Révélation. **C'est la justification doctrinale
+   de ta règle « pas de posture d'imam ».** Cite-la : ta prudence devient un argument, pas une excuse.
+3. 🔴 **N'utilise JAMAIS « maqāṣid » comme sceau de sérieux.** Il est catégorique :
+   « **les maqāṣid ne t'aideront pas du tout — tout ce qu'elles te donnent, c'est un slogan** », et
+   ailleurs : « une **coquille vide** ». Elles n'ont jamais été vraiment théorisées (Ghazālī en
+   marge, Shāṭibī théorise *autour*).
+4. ⚠️ **Trois vocabulaires à ne pas reprendre seul face caméra** : le **shirk** (même « petit
+   shirk », même « plus subtil que les pas d'une fourmi »), le **jihad** (il apparaît dans le hadith
+   du délaissement, Istikhlāf 2), et tout ce qui **qualifie religieusement** une pratique ou une
+   personne. Ce registre est celui du savant. Si tu le veux, **il passe par un invité.**
+5. **Ses sujets clivants** (esclavage, statut des femmes, fiqh social) **sont hors périmètre CTP.**
+   Ne cite que paradigme / finalités / travail / psychologie.
+6. **Vérifie avant de citer à l'écran** — en particulier le « **53 fois** ». Superbe si exact,
+   coûteux sinon. Repli sûr : « ce verset revient des dizaines de fois ».
 
 ---
 
 # 4 · Recommandation stratégique
 
-> ### Invite-le.
+> ### Invite-le. Mais après ta vidéo solo.
 
-Tu as déjà tes deux meilleures performances de chaîne avec des chercheurs (Dr Talal Lahlou,
-Dr Fethallah Otmani). Chauki Lazhar coche tout : **belge**, francophone, **il vient d'écrire un
-livre sur le travail en islam**, il est déjà passé sur un podcast de makers, et son constat sur
-le mot « travail » est **exactement** le travail de redéfinition du Collectif.
+Tes deux meilleures performances de chaîne sont des entretiens avec des chercheurs (Dr Talal
+Lahlou, Dr Fethallah Otmani). Chauki Lazhar coche tout : **belge**, francophone, **il vient d'écrire
+un livre sur le travail en islam**, il est déjà passé chez des makers, et son constat sur le mot
+« travail » **est mot pour mot ton travail de redéfinition**.
 
-**Le format qui s'impose** : *« Repenser le travail à la lumière de l'Islam »* — ton pattern de
-titre le plus performant, sur le sujet dont il vient d'écrire le livre.
+**Format évident** : *« Repenser le travail à la lumière de l'Islam »* — ton pattern de titre le plus
+performant, sur le sujet de son livre.
 
-**Et l'ordre à respecter** : sors **d'abord** ta vidéo « développement personnel » en solo. Elle
-te pose comme celui qui a **déjà** ce cadre. L'interview vient **après**, comme approfondissement
-— pas comme découverte. L'inverse te ferait passer pour l'élève.
+**Et l'ordre compte** : sors **d'abord** ta vidéo solo. Elle te pose comme celui qui **a déjà** ce
+cadre. L'entretien vient **après**, comme approfondissement. L'inverse te ferait passer pour l'élève.
+
+**Une deuxième vidéo évidente, ensuite** : *« Le trou du lézard »* — sa métaphore de la modernité
+désenchantée. C'est un concept, il est visuel, il n'appartient à personne d'autre en français, et
+il explique d'un coup pourquoi rien de ce qu'on nous vend ne marche.
