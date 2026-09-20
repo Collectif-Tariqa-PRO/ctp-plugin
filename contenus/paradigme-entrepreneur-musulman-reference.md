@@ -4,7 +4,11 @@
 
 > **Statut.** Document de fond. Il n'est pas taillé pour une durée : c'est le socle dont on
 > tire ensuite le webinaire, les conférences, les vidéos et le PDF des participants.
-> **v1 — 20 septembre 2026.**
+> **v1.1 — 20 septembre 2026.** Version lisible et à jour, mieux sourcée :
+> https://claude.ai/artifact/2EKGY9zj1eCoaTDr2C3S5r
+>
+> Le support de slides de janvier 2025 a été écarté comme source sur décision de Zaki :
+> c'était une lecture personnelle antérieure au travail sur corpus.
 >
 > **D'où vient la matière.** Le corpus Taqwa Impact (Management prophétique, Médine Académie,
 > modules MR1 à MR4) · les cours d'économie islamique du Dr Mohamed Talal Lahlou et la session
@@ -41,27 +45,7 @@ D'où la propriété qui le rend dangereux, et qu'il faut énoncer tôt :
 Un paradigme ne se discute pas, il s'exécute. C'est pour ça qu'on peut le combattre en paroles
 et le servir en actes — tous les jours, sans jamais s'en apercevoir.
 
-## 2. La séquence des fausses oppositions
-
-C'est le dispositif pédagogique le plus fort qu'on ait, et il est déjà dans le support de 2025.
-On déroule, une ligne après l'autre :
-
-```
-        CAPITALISME          vs   SOCIALISME
-        DROITE               vs   GAUCHE
-        DÉMOCRATE            vs   RÉPUBLICAIN
-        CROYANTS             vs   ATHÉES
-        L'INDIVIDUALISME
-        LE DÉVELOPPEMENT PERSONNEL
-```
-
-On te propose des camps. On te demande de choisir. Et **toutes ces oppositions reposent sur le
-même socle** : l'humain seul, la mesure, le visible, le progrès matériel comme horizon. Tu
-crois débattre. En réalité, tu as déjà accepté les termes du débat.
-
-> **Le paradigme n'est pas un des camps. C'est le terrain sur lequel les camps s'affrontent.**
-
-## 3. Trois démonstrations — et elles ne sont pas de nous
+## 2. Trois démonstrations — et elles ne sont pas de nous
 
 C'est ce qui fait passer la thèse du statut d'opinion à celui de constat. **Trois chercheurs,
 indépendamment, disent la même chose.**
@@ -87,7 +71,7 @@ Même diagnostic, par un économiste, en français.
 > **Et tu as gardé le cap : le chiffre au centre, toi en train de scaler.**
 > Tu as changé la forme. Tu n'as jamais touché à la direction.
 
-## 4. Pourquoi l'ancien réflexe ne suffit plus
+## 3. Pourquoi l'ancien réflexe ne suffit plus
 
 Ce n'est pas que nos anciens se trompaient. C'est que l'objet a changé de nature.
 
@@ -228,14 +212,6 @@ Ce n'est pas du renoncement. C'est un changement de rang.
   intentionné »* — Sahih al-Bukhari n°1.
 - *« Quand la prière est achevée, dispersez-vous sur la terre et recherchez la grâce d'Allah »*
   — Coran 62:10. **Le marché est légitime.** On ne conteste pas sa place, on conteste son rang.
-- **Hadith qudsi** : *« Ô fils d'Adam, Je t'ai créé pour M'adorer, alors ne t'épuise pas dans ce
-  bas-monde. Je t'ai prédestiné ta part de subsistance, alors ne te fatigue pas dans la recherche
-  de ce qui t'est déjà accordé. Si tu es satisfait de ce que Je t'ai accordé, ton cœur et ton
-  corps seront en paix. Et si tu ne l'es pas, Je t'imposerai ce monde, tu y courras comme une
-  bête sauvage dans la forêt, sans obtenir plus que ce que Je t'ai déjà destiné. »*
-  ⚠️ *déjà dans notre support de 2025 ; attribution à confirmer.* **C'est le texte le plus
-  complet de tout le document : il donne la finalité, le rizq, la qana'a et l'épuisement en une
-  fois.**
 - *Chauki Lazhar :* **« on a inversé les idéaux et les moyens »** — la croissance n'est pas un
   idéal, la santé non plus, le bien-être non plus. **Sofiane Meziani dit exactement la même
   chose** : « le bien-être n'est pas une fin en soi ». Deux sources indépendantes.
