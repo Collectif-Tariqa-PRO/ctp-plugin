@@ -1,0 +1,106 @@
+{
+  "v": 4,
+  "createdOnFiles": {
+    "v": 1,
+    "at": "2026-09-21T10:00:00Z"
+  },
+  "title": "Héritage & Modernité — Le paradigme de l'entrepreneur musulman",
+  "order": [
+    "cover",
+    "pourquoi",
+    "deja",
+    "prophetes",
+    "paradigme",
+    "filtre",
+    "pont",
+    "plan",
+    "a1",
+    "a1-scene",
+    "a1-contrast",
+    "a1-sources",
+    "a1-lundi",
+    "a2",
+    "a2-scene",
+    "a2-contrast",
+    "a2-sources",
+    "a2-lundi",
+    "a3",
+    "a3-scene",
+    "a3-contrast",
+    "a3-sources",
+    "a3-lundi",
+    "a4",
+    "a4-scene",
+    "a4-contrast",
+    "a4-meca",
+    "a4-alt",
+    "a4-lundi",
+    "a5",
+    "a5-scene",
+    "a5-contrast",
+    "a5-regles",
+    "a5-ibnawf",
+    "a5-lundi",
+    "a6",
+    "a6-scene",
+    "a6-contrast",
+    "a6-consent",
+    "a6-mots",
+    "a6-effet",
+    "a6-fondements",
+    "a6-leviers",
+    "a6-cas",
+    "a6-lundi",
+    "outils",
+    "jumeau",
+    "emporter",
+    "ouvert",
+    "fin"
+  ],
+  "cover": "cover",
+  "sections": {
+    "ouverture": {
+      "description": "Pourquoi ce sujet, où il touche déjà chacun, et ce qu'est un paradigme",
+      "start": "cover"
+    },
+    "axe1": {
+      "description": "La finalité : c'est quoi le but du jeu",
+      "start": "a1"
+    },
+    "axe2": {
+      "description": "La mesure : ce que tu comptes et quand tu as gagné",
+      "start": "a2"
+    },
+    "axe3": {
+      "description": "Le profit et le risque : la marge ou la transaction, qui perd quoi",
+      "start": "a3"
+    },
+    "axe4": {
+      "description": "La croissance et la dette : grandir par décision ou par obligation",
+      "start": "a4"
+    },
+    "axe5": {
+      "description": "La concurrence : somme nulle ou part assignée",
+      "start": "a5"
+    },
+    "axe6": {
+      "description": "Le client et l'effet : le consentement ne suffit pas, et ce que ton dispositif installe",
+      "start": "a6"
+    },
+    "cloture": {
+      "description": "Comment emprunter les outils modernes, ce qu'on emporte, ce qui reste ouvert",
+      "start": "outils"
+    }
+  },
+  "faces": {
+    "eb-garamond": {
+      "family": "EB Garamond",
+      "href": "https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..600&display=swap"
+    },
+    "ibm-plex-sans": {
+      "family": "IBM Plex Sans",
+      "href": "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,300..600;1,400&display=swap"
+    }
+  },
+  "designSystems": []
+}
