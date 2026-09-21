@@ -1,0 +1,1919 @@
+<title>Syllabus du paradigme</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,300;0,400;0,500;0,600;1,400&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+:root{--paper:#FBFAF7;--sunk:#F1F0EA;--ink:#191D24;--ink2:#40474F;--muted:#6E7681;
+  --rule:#E2E0D7;--rule2:#CAC7BA;--ochre:#8A6A28;--clay:#98392A;--sage:#42654F;--card:#FFF;}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --paper:#12151A;--sunk:#191D23;--ink:#EAE8E0;--ink2:#C2C6CC;--muted:#8F969F;
+  --rule:#272C33;--rule2:#3A4048;--ochre:#CBA65C;--clay:#D98A73;--sage:#88B398;--card:#1A1E24;}}
+:root[data-theme="dark"]{--paper:#12151A;--sunk:#191D23;--ink:#EAE8E0;--ink2:#C2C6CC;
+  --muted:#8F969F;--rule:#272C33;--rule2:#3A4048;--ochre:#CBA65C;--clay:#D98A73;
+  --sage:#88B398;--card:#1A1E24;}
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font-family:Spectral,Georgia,serif;
+  font-size:17.5px;line-height:1.72;margin:0}
+.wrap{max-width:820px;margin:0 auto;padding-inline:22px;padding-block:0 90px}
+.lab{font-family:"IBM Plex Sans",system-ui,sans-serif;text-transform:uppercase;
+  letter-spacing:.14em;font-size:11px;font-weight:600;color:var(--muted)}
+h1,h2,h3,h4{text-wrap:balance;line-height:1.22;margin:0}
+p{margin:16px 0}a{color:var(--ochre)}
+header.mast{border-bottom:3px double var(--ink);padding-block:44px 22px}
+header.mast h1{font-size:clamp(32px,6.5vw,50px);font-weight:600;letter-spacing:-.02em}
+header.mast .sub{font-size:clamp(17px,2.5vw,21px);font-style:italic;color:var(--ink2);margin-top:12px}
+.meta{display:flex;flex-wrap:wrap;gap:6px 24px;margin-top:24px;
+  font-family:"IBM Plex Sans",sans-serif;font-size:12px;color:var(--muted)}
+.meta b{color:var(--ink2);font-weight:600}
+.toc{background:var(--sunk);padding:20px 24px;margin:30px 0}
+.toc ol{margin:10px 0 0;padding-left:20px;font-family:"IBM Plex Sans",sans-serif;font-size:14.5px}
+.toc li{margin:5px 0}
+section{padding-block:44px;border-bottom:1px solid var(--rule)}
+h2.sec{font-size:clamp(25px,4.2vw,35px);font-weight:600;letter-spacing:-.015em;margin-top:6px}
+h3{font-size:20.5px;font-weight:600;margin-top:38px}
+h4{font-size:17px;font-weight:600;margin-top:26px;font-family:"IBM Plex Sans",sans-serif}
+blockquote{margin:24px 0;padding:0 0 0 22px;border-left:2px solid var(--ochre);font-style:italic}
+blockquote p{margin:10px 0}
+blockquote cite{font-family:"IBM Plex Sans",sans-serif;font-style:normal;font-size:12.5px;
+  color:var(--muted);display:block;margin-top:8px}
+.key{font-size:clamp(19px,2.7vw,23px);font-weight:600;line-height:1.38;
+  border-top:2px solid var(--ink);border-bottom:2px solid var(--ink);padding:20px 0;margin:30px 0}
+ul,ol{padding-left:22px}li{margin:9px 0}
+.drop::first-letter{float:left;font-size:3.4em;line-height:.82;padding:6px 10px 0 0;
+  font-weight:600;color:var(--ochre)}
+.srcgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px;margin:24px 0}
+.src{border-top:2px solid var(--rule2);padding-top:11px}
+.src h4{margin:0 0 5px;font-size:15.5px}
+.src p{margin:0;font-size:14.5px;line-height:1.55;color:var(--ink2)}
+.src .role{font-family:"IBM Plex Sans",sans-serif;font-size:11px;text-transform:uppercase;
+  letter-spacing:.1em;color:var(--ochre);font-weight:600;display:block;margin-bottom:3px}
+.warn{border:1px solid var(--clay);padding:15px 19px;margin:24px 0}
+.warn .lab{display:block;color:var(--clay);margin-bottom:5px}
+.warn p{margin:8px 0;font-size:16px}
+.note{background:var(--sunk);border-left:3px solid var(--ochre);padding:16px 20px;margin:26px 0}
+.note p{margin:8px 0;font-size:16px}
+.note .lab{display:block;margin-bottom:4px;color:var(--ochre)}
+/* mouvements et axes */
+.mvt{margin-top:52px;border-top:3px solid var(--ink);padding-top:10px}
+.mvt .hd{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap}
+.mvt h3{margin:0;font-family:"IBM Plex Sans",sans-serif;font-size:14px;font-weight:600;
+  text-transform:uppercase;letter-spacing:.14em}
+.mvt .hd span{font-size:15px;color:var(--muted);font-style:italic}
+.axe{padding-block:34px;border-bottom:1px solid var(--rule)}
+.axe .hd{display:flex;align-items:baseline;gap:14px}
+.axe .n{font-family:"IBM Plex Mono",monospace;font-size:15px;font-weight:500;color:var(--ochre);flex:none}
+.axe h3{margin:0;font-size:clamp(22px,3.2vw,28px);font-weight:600;letter-spacing:-.01em;
+  font-family:Spectral,serif;text-transform:none;letter-spacing:-.01em}
+.axe .q{font-style:italic;color:var(--ink2);font-size:17px;margin:8px 0 0}
+.duo{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin:22px 0}
+.duo>div{padding:15px 17px;border:1px solid var(--rule2);background:var(--card)}
+.duo .lab{display:block;margin-bottom:7px}
+.duo p{margin:0;font-size:15.5px;line-height:1.56}
+.duo .a .lab{color:var(--clay)}.duo .b .lab{color:var(--sage)}
+.obj{border-left:3px solid var(--rule2);padding:2px 0 2px 18px;margin:22px 0}
+.obj .lab{display:block;margin-bottom:4px}
+.obj p{margin:8px 0;font-size:16px}
+.chg{border:1px solid var(--ochre);padding:14px 18px;margin:24px 0}
+.chg .lab{display:block;color:var(--ochre);margin-bottom:5px}
+.chg p{margin:0;font-size:16px}
+.tv{font-family:"IBM Plex Sans",sans-serif;font-size:10px;letter-spacing:.08em;
+  text-transform:uppercase;color:var(--clay);border:1px solid var(--clay);padding:1px 5px;
+  border-radius:2px;white-space:nowrap;vertical-align:1px;margin-left:3px;font-weight:600}
+footer{padding-block:36px;color:var(--muted);font-family:"IBM Plex Sans",sans-serif;font-size:12.5px}
+@media (max-width:640px){body{font-size:16.5px}.drop::first-letter{font-size:2.8em}
+  .duo{grid-template-columns:1fr}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+@media print{
+  :root{--paper:#fff;--sunk:#F4F3EE;--card:#fff;--ink:#14171C;--ink2:#3A4049;--muted:#666;
+    --rule:#DDD;--rule2:#BBB;--ochre:#7A5E20;--clay:#8B3325;--sage:#3A5B47}
+  body{font-size:10.5pt;line-height:1.55}
+  .wrap{max-width:none;padding-inline:0;padding-block:0}
+  section{padding-block:18pt;break-inside:auto}
+  h2.sec,h3,h4{break-after:avoid}
+  .axe,.duo,.key,blockquote,.obj,.chg,.warn,.note,.src{break-inside:avoid}
+  .axe{padding-block:16pt}
+  .mvt{margin-top:22pt}
+  header.mast{padding-block:0 14pt}
+  header.mast h1{font-size:26pt}
+  .toc{break-after:page}
+  .srcgrid{grid-template-columns:1fr 1fr}
+  a{color:var(--ink);text-decoration:none}
+  .drop::first-letter{font-size:2.6em}
+}
+@page{size:A4;margin:19mm 17mm 20mm 17mm}
+</style>
+
+<div class="wrap">
+
+<header class="mast">
+  <div class="lab">Collectif Tariqa PRO · syllabus</div>
+  <h1>Le paradigme de l'entrepreneur musulman</h1>
+  <p class="sub">Pourquoi il ne suffit pas de retirer le haram — et ce qu'il faut faire à la
+  place.</p>
+  <div class="meta">
+    <div><b>Version</b> 0.4 — 21 septembre 2026</div>
+    <div><b>État</b> texte complet, références en cours de validation</div>
+    <div><b>Destination</b> relecture par les auteurs cités, puis publication</div>
+  </div>
+  <div class="toc">
+    <div class="lab">Sommaire</div>
+    <ol>
+      <li>Introduction — pourquoi cette question se pose, et pourquoi maintenant</li>
+      <li>Qu'est-ce qu'un paradigme</li>
+      <li>Le paradigme qu'on nous propose</li>
+      <li>Ce que notre héritage dit du commerce</li>
+      <li>Les onze axes</li>
+      <li>Les outils modernes</li>
+      <li>Ce qui reste ouvert</li>
+    </ol>
+  </div>
+</header>
+
+<section>
+  <div class="lab">Introduction</div>
+  <h2 class="sec">Pourquoi cette question se pose, et pourquoi maintenant</h2>
+
+  <h3>1. Un réveil</h3>
+  <p class="drop">Quelque chose s'est produit ces dix dernières années dans les communautés
+  musulmanes d'Europe francophone. Une génération entière s'est tournée vers l'entrepreneuriat.
+  Par nécessité pour certains — le salariat ferme des portes, et les ferme plus vite à certains
+  noms qu'à d'autres. Par aspiration pour d'autres : l'envie de construire, de ne dépendre de
+  personne, de laisser quelque chose derrière soi. Et par une intuition religieuse, souvent mal
+  formulée mais juste — que le commerce a dans notre tradition une dignité que la société
+  ambiante ne lui reconnaît plus.</p>
+
+  <p>Cette génération s'est mise en mouvement, et elle a cherché à apprendre. C'est là que
+  commence le problème qui occupe ce document.</p>
+
+  <h3>2. Le patrimoine existe. Il est simplement inaccessible.</h3>
+  <p>Disons-le d'emblée, parce que c'est la nuance qui change tout : <strong>il est faux de dire
+  que notre tradition n'a rien à dire sur le commerce.</strong> Elle en a dit énormément, et elle
+  n'a jamais cessé. Le droit des transactions — le <em>fiqh al-muʿāmalāt</em> — est un des
+  domaines les plus travaillés du droit musulman. Des bibliothèques entières traitent de la
+  vente, de la dette, de l'association, du prix juste, du mandat, de la garantie, de ce qu'on
+  doit à celui qui travaille pour nous. Des chercheurs contemporains, vivants, publiants,
+  continuent ce travail avec rigueur.</p>
+
+  <p>Le problème n'est pas l'absence. Le problème est l'<strong>accès</strong>.</p>
+
+  <p>Cette littérature s'adresse à d'autres chercheurs. Elle suppose un vocabulaire, une
+  méthode, une familiarité avec des débats longs. Elle est écrite dans des registres — l'article
+  académique, le traité, la conférence de deux heures — qui ne rencontrent jamais quelqu'un qui
+  doit facturer un client vendredi. Entre la thèse de doctorat sur les marchés financiers
+  islamiques et l'entrepreneur qui se demande s'il peut proposer un paiement en trois fois, il
+  n'y a pas de désaccord. Il y a un fossé.</p>
+
+  <p>Et un fossé, ça ne se comble pas en répétant plus fort que le patrimoine existe. Ça se
+  comble en construisant quelque chose par-dessus.</p>
+
+  <div class="key">Le travail du Collectif Tariqa PRO est ce pont : faire descendre une
+  réflexion qui existe déjà chez les savants jusqu'à ceux qui sont dans l'opérationnel, sans la
+  trahir en la simplifiant.</div>
+
+  <p>C'est une position inconfortable, et il faut l'assumer comme telle. Nous ne sommes pas des
+  savants, et ce document ne fait aucune découverte. Nous ne sommes pas non plus de simples
+  vulgarisateurs, parce que traduire pour un praticien oblige à trancher des choses qu'un
+  théoricien peut laisser ouvertes. Nous sommes entre les deux, et c'est précisément la place
+  qui manque.</p>
+
+  <h3>3. Ce qu'on a trouvé à la place</h3>
+  <p>Pendant que ce pont n'existait pas, quelqu'un d'autre occupait le terrain — et il
+  l'occupait bien.</p>
+
+  <p>Le marché francophone de la formation à l'entrepreneuriat est, pour l'essentiel, une
+  traduction. Les méthodes, le vocabulaire, les codes visuels, les promesses : tout vient des
+  États-Unis, et plus précisément de ce segment que le métier appelle lui-même le
+  <em>make money online</em>. Un écosystème avec ses figures, ses formats, son esthétique — la
+  voiture, la vue, le tableau de bord des revenus — et surtout sa manière très particulière de
+  définir ce qu'est une vie réussie.</p>
+
+  <p>On peut en dire deux choses, et il faut les dire dans cet ordre. La première, c'est que cet
+  écosystème a produit des techniques qui fonctionnent. Il serait absurde et malhonnête de le
+  nier, et ce document ne le nie pas — il consacre même une partie entière à ce qu'il faut y
+  prendre. La seconde, c'est que ces techniques ne circulent jamais seules. Elles arrivent avec
+  une vision du monde : une idée de ce qu'est l'être humain, de ce qui a de la valeur, de ce qui
+  compte comme une réussite, de ce qu'on doit aux autres. Cette vision-là n'est jamais présentée
+  comme telle. Elle n'est pas dans le programme — elle est dans la manière dont le programme est
+  construit.</p>
+
+  <p>Et elle ne s'arrête pas aux frontières religieuses. Une part des figures les plus suivies de
+  ce marché sont musulmanes. Cela ne change pas grand-chose au problème, et il faut pouvoir le
+  dire sans agressivité : on peut prier, jeûner, refuser le riba, et reproduire intégralement
+  l'imaginaire économique qu'on croit tenir à distance. Ce n'est pas de l'hypocrisie. C'est autre
+  chose, de plus difficile à voir — et donc de plus difficile à corriger.</p>
+
+  <h3>4. Où ça te touche déjà, sans que tu l'aies décidé</h3>
+  <p>Tout ce qui précède peut sembler théorique. Prenons donc trois convictions très ordinaires,
+  que presque tout le monde partage dans le milieu entrepreneurial — et regardons d'où elles
+  viennent.</p>
+
+  <p><strong>Première conviction : la valeur d'une personne se mesure à sa notoriété.</strong>
+  Personne ne le formulerait ainsi, et pourtant tout le monde agit comme si c'était vrai. On
+  évalue un formateur au nombre de ses abonnés. On juge une entreprise à sa visibilité. On se
+  compare, le soir, à des gens dont on ne connaît qu'un compteur. Et lorsqu'on ne perce pas, la
+  première explication qui vient n'est pas « mon offre est mauvaise » mais « je ne suis pas assez
+  connu ».</p>
+
+  <p><strong>Deuxième conviction : l'impact se mesure en chiffres.</strong> Ce qui ne se compte
+  pas n'existe pas comme preuve. Un accompagnement qui a changé la trajectoire de trois familles
+  ne pèse rien, dans une conversation entre entrepreneurs, face à une capture d'écran de tableau
+  de bord.</p>
+
+  <p><strong>Troisième conviction, qui est la synthèse des deux : « montre-moi ce que tu as
+  fait comme chiffre d'affaires, et je saurai si tu es un bon homme d'affaires. »</strong> C'est
+  devenu la pièce d'identité du milieu. On la présente avant de parler.</p>
+
+  <p>Ces trois convictions ne sont pas des techniques. Ce sont des réponses à la question
+  « qu'est-ce qui donne de la valeur à une vie ». Et ce sont des réponses que personne n'a
+  choisies : on les a absorbées.</p>
+
+  <p>Or notre propre tradition en propose une autre, et elle est radicale. Parmi les prophètes
+  envoyés aux hommes — c'est-à-dire parmi les êtres humains dont la mission était la plus haute
+  qui soit — certains n'ont été suivis que par une poignée de personnes. Certains par deux ou
+  trois. Certains, rapporte-t-on, par personne.</p>
+
+  <div class="key">Un prophète sans un seul disciple n'est pas un mauvais prophète. Il a accompli
+  sa mission. Le résultat n'était pas son département.</div>
+
+  <p>Prends une minute sur cette phrase, parce qu'elle démolit quelque chose. Si la valeur d'une
+  mission se mesurait à son audience, ce serait faux de l'affirmer. Il faut donc que la valeur se
+  mesure ailleurs — dans la fidélité à ce qu'on devait faire, et non dans ce que ça a produit
+  d'observable.</p>
+
+  <p>Applique cela à ta semaine, et tu verras que ce n'est pas une consolation mais un outil.
+  Si le compteur ne dit pas la valeur, alors la publication qui n'a pas marché ne dit rien de
+  toi. Le lancement raté ne dit rien de toi. Et le concurrent qui a dix fois ton audience n'a pas
+  dix fois ta valeur — il a dix fois ton audience.</p>
+
+  <h4>Et ce n'est pas qu'une affaire de chiffres</h4>
+  <p>Le même mécanisme opère partout, dans des objets qu'on croit purement techniques.</p>
+  <ul>
+    <li><strong>Le capitalisme</strong> ne dit pas seulement comment allouer des ressources : il
+    dit ce qui, dans une société, a le droit de compter. Ce qui n'a pas de prix n'a pas de
+    place.</li>
+    <li><strong>Le socialisme</strong>, son adversaire déclaré, partage avec lui l'essentiel —
+    la même conviction que le problème humain est d'abord un problème de répartition matérielle.
+    Ils se disputent la méthode, pas la finalité.</li>
+    <li><strong>Le développement personnel</strong> ne te propose pas des exercices : il te
+    propose une anthropologie. Tu es un projet inachevé, ta responsabilité est de te
+    perfectionner, et le sens se trouve à l'intérieur de toi.</li>
+    <li><strong>Le personal branding</strong> ne t'apprend pas à communiquer : il t'apprend à te
+    traiter comme un produit. Le vocabulaire le dit sans détour — se positionner, se différencier,
+    optimiser sa conversion. Appliqués à une personne, ces mots ne sont pas neutres.</li>
+  </ul>
+  <p>Aucun de ces quatre objets ne s'annonce comme une vision du monde. Tous en sont une. Et
+  c'est bien pour cela qu'ils fonctionnent si bien : on n'argumente pas contre ce qu'on ne voit
+  pas.</p>
+
+  <h3>5. Le symptôme et la cause</h3>
+  <p>Le réflexe qu'on a tous appris, c'est le filtre. On regarde une pratique, on demande si elle
+  est licite, et selon la réponse on la garde ou on la jette. Ce réflexe est nécessaire, et rien
+  ici ne vise à l'affaiblir. Mais il a une limite, et elle est structurelle :
+  <strong>il opère sur les actes, un par un, et jamais sur le cadre qui les produit.</strong></p>
+
+  <p>Or quand on importe un modèle entier, ce n'est pas un acte qu'on importe. C'est une logique,
+  et une logique génère des actes indéfiniment. On peut en filtrer un, puis dix, puis cent : la
+  logique, elle, continue de produire. On traite des symptômes à mesure qu'ils apparaissent, et
+  on ne touche jamais à ce qui les fabrique.</p>
+
+  <p>C'est exactement le constat que font, chacun depuis sa discipline, les chercheurs sur
+  lesquels ce texte s'appuie. Le Dr Chauki Lazhar, spécialiste des fondements du droit, observe
+  que jusqu'à la modernité les changements du réel étaient <em>micro</em> — un objet nouveau, un
+  contrat nouveau — et que l'outil hérité, qui classe le détail, suffisait à les traiter. La
+  modernité amène des changements <em>structurels</em> : des modèles entiers, différents « non
+  seulement dans leur forme, mais dans leur fond, dans leur vision du monde, dans leurs
+  objectifs ».</p>
+
+  <p>Le Dr Mohamed Talal Lahlou, économiste, le dit depuis l'autre bout. La discipline économique
+  telle qu'on l'enseigne est « coupée de son ancrage philosophique ». Elle repose sur des axiomes
+  — l'utilité comme objectif ultime, la rareté comme condition naturelle — qui sont des positions
+  philosophiques, pas des observations. Et on les transmet sans jamais les nommer. « On est dans
+  une vision matérialiste dans la discipline économique, mais qu'on ignore. »</p>
+
+  <div class="key">Tant qu'on ne questionne pas la vision du monde qui a produit un modèle, on
+  passe sa vie à corriger ses effets.</div>
+
+  <h3>6. Ce que ce document essaie d'être</h3>
+  <p>Nous accompagnons des entrepreneurs musulmans, chaque semaine, et nous voyons ce problème se
+  reproduire avec une régularité qui a fini par nous obliger à le traiter à la racine.</p>
+
+  <p>Nous voyons des gens honnêtes, sérieux, scrupuleux sur le licite, épuisés par un modèle
+  qu'ils n'ont pas choisi. Nous voyons des offres irréprochables sur le papier et destructrices
+  dans leurs effets. Nous voyons surtout une fatigue particulière : celle de courir après une
+  définition de la réussite qui n'est pas la sienne, et de ne pas comprendre pourquoi la ligne
+  d'arrivée recule à mesure qu'on avance.</p>
+
+  <p>Il faut dire aussi contre quoi ce document est écrit, sur la forme. Nous vivons un moment
+  où tout se raccourcit. Le slogan a remplacé l'argument, la punchline a remplacé la
+  démonstration, et « aller à l'essentiel » est devenu une manière élégante de dire qu'on ne
+  prendra pas le temps. Sur un sujet comme celui-ci, ce raccourcissement est fatal : il produit
+  exactement ce qu'il prétend combattre, c'est-à-dire des formules qu'on adopte sans les avoir
+  éprouvées.</p>
+
+  <p>Nous faisons donc le pari inverse. De la nuance, des sources nommées, des objections
+  traitées plutôt que contournées, et la lenteur nécessaire pour qu'un raisonnement tienne. Non
+  par goût de la complication — le lecteur visé n'a pas de temps à perdre — mais parce qu'une
+  conviction qu'on n'a pas construite ne résiste pas au premier arbitrage difficile.</p>
+
+  <p>L'exigence est donc double, et c'est là toute la difficulté de l'exercice : <strong>aussi
+  rigoureux qu'un texte de recherche, aussi utilisable qu'un mode d'emploi.</strong> À la fin de
+  chaque partie, le lecteur doit pouvoir dire ce qu'il change lundi matin.</p>
+
+  <h3>7. Sur quoi ce texte s'appuie</h3>
+  <p>Ce document ne prétend pas à l'originalité. Il compile, ordonne, confronte et traduit pour
+  des praticiens un travail fait par d'autres, plus compétents que nous. Voici qui, et pour
+  quoi.</p>
+
+  <div class="srcgrid">
+    <div class="src"><span class="role">Fondements du droit</span>
+      <h4>Dr Chauki Lazhar</h4>
+      <p>Université du Qatar, directeur adjoint fondateur du CILE. <em>Usul al-fiqh</em> et
+      finalités. Il apporte la méthode d'évaluation d'un objet importé, et la critique de
+      l'islamisation de la forme.</p></div>
+    <div class="src"><span class="role">Économie</span>
+      <h4>Dr Mohamed Talal Lahlou</h4>
+      <p>Docteur en sciences économiques, auditeur en finance islamique. Il apporte la généalogie
+      des axiomes, le couple dette-croissance, et le syndrome de la réplication.</p></div>
+    <div class="src"><span class="role">Éthique et intention</span>
+      <h4>Dr Fethallah Otmani</h4>
+      <p>Il apporte le rapport à l'argent comme moyen, la circulation, et la question de la
+      visibilité et de l'intention à l'épreuve de l'islam.</p></div>
+    <div class="src"><span class="role">Anthropologie coranique</span>
+      <h4>Nouman Ali Khan</h4>
+      <p>Il apporte le point de départ : l'être humain naît sain, non cassé. Et la lecture des
+      émotions dans le Coran, contre l'anthropologie du traumatisme originel.</p></div>
+    <div class="src"><span class="role">Spiritualité et travail</span>
+      <h4>Oussama Al Shurafa</h4>
+      <p>Il apporte l'obligation de moyens, le rapport du cœur à l'argent, et la réussite comme
+      accomplissement de l'ordre plutôt que comme obtention du résultat.</p></div>
+    <div class="src"><span class="role">Critique du développement personnel</span>
+      <h4>Sofiane Meziani</h4>
+      <p>Académie l'Olivier. Il apporte la généalogie du développement personnel comme produit de
+      la modernité, et la règle du filtre : on peut prendre les outils, tant que c'est la foi
+      qui filtre — et pas l'inverse.</p></div>
+    <div class="src"><span class="role">Formation</span>
+      <h4>Corpus Taqwa Impact</h4>
+      <p>Programme de formation de Médine Académie, en quatre volets : la vision et le cap, le
+      droit des transactions, le marketing et l'image, la psychologie. C'est de lui que viennent
+      les trois leviers de perdition et le principe du vecteur.</p></div>
+    <div class="src"><span class="role">Classiques</span>
+      <h4>La tradition</h4>
+      <p>Al-Shatibi sur les ruses légales et les finalités. Ibn al-Qayyim sur le fondement des
+      transactions. Ibn Khaldoun sur le risque. Al-Ghazali sur l'emprunt. Malek Bennabi sur les
+      idées mortes et mortelles.</p></div>
+    <div class="src"><span class="role">Terrain</span>
+      <h4>Le terrain</h4>
+      <p>Plus de cent quarante séances d'accompagnement d'entrepreneurs. Elles ne fournissent
+      aucune doctrine — elles fournissent les cas réels, les objections, et la mesure de ce qui
+      tient à l'épreuve.</p></div>
+  </div>
+
+  <h3>8. Ce que ce texte n'est pas</h3>
+  <p>Il n'est pas une fatwa, et il ne tranche rien en licite ou illicite. Nous n'en avons ni la
+  compétence ni l'autorité. Partout où une question de droit se pose, elle est signalée comme
+  telle et renvoyée à qui de droit. Les références portent leur attribution — le Coran, le
+  Prophète ﷺ, un compagnon, la sira — et jamais leur degré d'authenticité, qui n'est pas notre
+  métier.</p>
+  <p>Il n'est pas non plus un procès. Ni du marché, ni de l'Occident, ni des entrepreneurs qui
+  réussissent avec des méthodes que nous critiquons. On lit une vision du monde ; on ne juge pas
+  des personnes.</p>
+  <p>Enfin il ne prétend pas clore le sujet. La dernière partie est un inventaire honnête de ce
+  qui reste ouvert, et il est long.</p>
+
+  <div class="warn">
+    <span class="lab">Avertissement de méthode</span>
+    <p>Une partie des propos cités provient de sous-titres automatiques de conférences publiques.
+    Ils sont fiables sur le fond et approximatifs sur la lettre. Ils sont donc reformulés plutôt
+    que cités mot à mot, sauf vérification directe.</p>
+    <p>Une précision de prudence, enfin. Certains montages contractuels dont on parle couramment
+    — dans la finance, dans le commerce en ligne — font l'objet de positions divergentes entre
+    écoles et entre savants contemporains. Ce document ne tranche aucune de ces divergences et
+    ne qualifie aucun montage précis. Lorsqu'un exemple est cité, c'est pour le mécanisme de
+    pensée qu'il illustre, jamais pour en délivrer le statut.</p>
+    <p>Par ailleurs, chaque référence religieuse dont la formulation ou l'attribution n'a pas
+    encore été confirmée par notre référent porte la mention <span class="tv">à valider</span>.
+    Elle ne signifie pas que la référence est douteuse : elle signifie que nous ne l'avons pas
+    encore fait vérifier, et qu'elle ne doit pas être citée publiquement en l'état. Les lecteurs
+    à qui ce document est soumis sont invités à s'y arrêter en priorité.</p>
+  </div>
+</section>
+
+<section>
+  <div class="lab">Partie I</div>
+  <h2 class="sec">Qu'est-ce qu'un paradigme</h2>
+  <p>Cette partie ne cherche pas à donner une définition qu'on retiendrait. Elle cherche à
+  donner un outil : à la fin, le lecteur doit être capable de repérer un paradigme à l'œuvre
+  dans un objet qu'on lui présente comme neutre. C'est une compétence, pas une connaissance.</p>
+
+  <h3>1. Le mot, et ce qu'il désignait au départ</h3>
+  <p>Le mot vient des sciences. En 1962, l'historien Thomas Kuhn publie un livre sur la manière
+  dont les sciences changent, et il fait une observation contre-intuitive : une science ne
+  progresse pas seulement en accumulant des réponses. Elle fonctionne à l'intérieur d'un cadre —
+  qu'il appelle paradigme — qui détermine <em>quelles questions sont recevables</em>, quels
+  faits méritent d'être observés, et ce qui compte comme une explication satisfaisante.</p>
+
+  <p>Le point décisif est là. Un paradigme n'est pas un ensemble de croyances qu'on pourrait
+  aligner et discuter une par une. C'est ce qui décide, en amont, de ce dont il est légitime de
+  discuter. Tant qu'on est dedans, ses postulats n'apparaissent pas comme des postulats : ils
+  apparaissent comme la réalité.</p>
+
+  <p>Transposé à notre sujet, cela donne une définition de travail simple :</p>
+
+  <div class="key">Un paradigme, c'est la grille de lecture par laquelle on perçoit et on
+  interprète le monde. Ce n'est pas ce que tu penses — c'est ce avec quoi tu penses.</div>
+
+  <p>L'image la plus juste reste celle des lunettes teintées. Tu en mets une paire jaune ; au
+  bout de trois minutes, tu ne dis plus « tout est jaune », tu dis « le monde <em>est</em>
+  jaune ». Tu ne vois pas tes lunettes, tu vois à travers. Et si quelqu'un te dit que tu portes
+  des lunettes, ta première réaction sera de répondre que non — parce que la preuve du contraire,
+  tu la cherches avec les lunettes sur le nez.</p>
+
+  <h3>2. Quatre propriétés, et pourquoi elles rendent la chose difficile</h3>
+  <p>Si un paradigme était une opinion, il suffirait d'en débattre. S'il était une règle, il
+  suffirait de l'abroger. Il n'est ni l'un ni l'autre, et quatre propriétés expliquent pourquoi
+  on ne s'en débarrasse pas en le contredisant.</p>
+
+  <h4>Il est antérieur au raisonnement</h4>
+  <p>Quand tu arbitres entre deux options, tu crois raisonner. En réalité, l'essentiel du travail
+  a déjà été fait : quelque chose a décidé, avant toi, quelles options méritaient d'être
+  envisagées. Les trois projets auxquels tu n'as même pas pensé n'ont pas été rejetés — ils
+  n'ont jamais été candidats. C'est là que le paradigme opère, et c'est pour ça qu'il est
+  invisible : il travaille en amont du moment où tu te regardes penser.</p>
+
+  <h4>Il est invisible à celui qui l'a, et visible chez les autres</h4>
+  <p>Un paradigme est toujours plus facile à repérer chez quelqu'un d'une autre époque ou d'une
+  autre culture. Nous voyons très bien les évidences des sociétés anciennes ; nous ne voyons pas
+  les nôtres. Cette asymétrie n'est pas un défaut personnel, c'est la définition même de la
+  chose. D'où une conséquence de méthode pour ce document : on ne peut pas voir son propre
+  paradigme par introspection. Il faut un contraste — un autre cadre, tenu par des gens sérieux,
+  qui réponde autrement aux mêmes questions.</p>
+
+  <h4>Il s'exécute sans adhésion</h4>
+  <p>C'est la propriété la plus troublante, et celle qui concerne le plus directement notre
+  lecteur. <strong>Tu n'as pas besoin de croire à un paradigme pour l'appliquer.</strong> Tu peux
+  le critiquer publiquement le matin et l'exécuter intégralement l'après-midi, sans mentir, sans
+  te contredire consciemment. Parce qu'il ne siège pas dans tes opinions — il siège dans tes
+  réflexes, tes critères de tri, ce que tu ressens comme une bonne nouvelle.</p>
+
+  <h4>Il se justifie lui-même</h4>
+  <p>Un paradigme ne fournit pas seulement des réponses : il fournit aussi les critères
+  d'évaluation des réponses. Demande à un système dont le but est la croissance si la croissance
+  est un bon but, il te répondra en mesurant la croissance. C'est parfaitement circulaire, et de
+  l'intérieur c'est parfaitement convaincant. On ne sort d'un paradigme que par un critère
+  extérieur à lui.</p>
+
+  <h3>3. Ce qu'un paradigme contient toujours</h3>
+  <p>Ici il faut être précis, parce que c'est ce qui rend l'analyse reproductible. Tout cadre de
+  pensée sur l'activité humaine — y compris un modèle économique, y compris une méthode de vente
+  — répond à quatre questions. Il y répond toujours. La seule variable est de savoir s'il le
+  fait ouvertement.</p>
+
+  <ol>
+    <li><b>Une anthropologie.</b> Qu'est-ce qu'un être humain ? Est-il d'abord un calculateur
+    qui maximise son intérêt, un être de désirs à satisfaire, une créature responsable devant
+    plus grand qu'elle ? Toute méthode de vente présuppose une réponse.</li>
+    <li><b>Une finalité.</b> Vers quoi tout cela va-t-il ? Quel est l'état final souhaitable ?
+    Un système qui ne nomme pas sa finalité en a une quand même — c'est simplement celle que ses
+    mécanismes optimisent en silence.</li>
+    <li><b>Une théorie de la valeur.</b> Qu'est-ce qui compte, et comment le sait-on ? Le prix
+    dit-il la valeur, ou en est-il seulement un signe parmi d'autres ?</li>
+    <li><b>Une eschatologie.</b> Le mot fait savant ; la question est terre à terre : qu'est-ce
+    qui reste à la fin, et devant qui ? Là où on situe la ligne d'arrivée décide de tout le
+    reste — de ce qu'on est prêt à sacrifier, de ce qu'on appelle un risque, de ce qu'on appelle
+    une urgence.</li>
+  </ol>
+
+  <p>Prends n'importe quelle formation au business que tu as suivie, et pose-lui ces quatre
+  questions. Elle y a répondu. Elle ne te l'a jamais dit.</p>
+
+  <h3>4. Comment on en hérite un sans l'avoir choisi</h3>
+  <p>On n'adhère pas à un paradigme, on l'attrape. Par trois canaux principaux, dont aucun ne
+  ressemble à un endoctrinement.</p>
+
+  <p><strong>Par l'enseignement.</strong> Une discipline transmet ses résultats et tait ses
+  fondations. Le Dr Talal Lahlou en témoigne à la première personne, et c'est un témoignage de
+  l'intérieur : il a étudié l'économie « depuis la seconde jusqu'au doctorat », et il constate
+  que la discipline est « coupée de son ancrage philosophique ». On enseigne les modèles, pas les
+  axiomes qui les fondent. Non par dissimulation, mais parce qu'un enseignant transmet ce qu'on
+  lui a transmis.</p>
+
+  <p><strong>Par le vocabulaire.</strong> Les mots viennent avec leurs présupposés. On parle de
+  « capital humain », et l'humain est devenu une ressource. On parle de « cible », et la personne
+  en face est devenue un objectif. On parle de « conversion », et on a emprunté au religieux un
+  mot pour dire qu'on a obtenu un paiement. Aucun de ces mots n'est innocent, et aucun n'est
+  ressenti comme violent — c'est bien le problème.</p>
+
+  <p><strong>Par les objets.</strong> Un outil porte les intentions de celui qui l'a construit.
+  Un tableau de bord n'affiche pas ce qui compte : il affiche ce que ses concepteurs ont jugé
+  mesurable, et ce qui est affiché devient, par la force de l'habitude, ce qui compte. Un
+  algorithme ne récompense pas la qualité : il récompense ce qu'il sait détecter. À force de
+  s'en servir, on finit par vouloir ce qu'ils savent mesurer.</p>
+
+  <h3>5. Cas d'école : l'économie présentée comme une science neutre</h3>
+  <p>L'exemple le plus utile, parce que c'est celui qui structure la vie professionnelle de notre
+  lecteur, est la discipline économique elle-même.</p>
+
+  <p>Elle se présente comme descriptive : elle observerait des comportements, établirait des
+  régularités, produirait des modèles. En réalité elle repose sur des axiomes philosophiques
+  parfaitement identifiables, et qui ont des auteurs.</p>
+
+  <blockquote>
+    <p>« L'un des axiomes majeurs de la discipline économique, c'est l'utilité, et
+    l'utilitarisme, qu'on a hérité de John Stuart Mill, lui-même élève de Jeremy Bentham. Le seul
+    objectif de l'économie, au niveau individuel, micro et macro, c'est la maximisation de
+    l'utilité. »</p>
+    <cite>Dr Mohamed Talal Lahlou</cite>
+  </blockquote>
+
+  <p>Arrêtons-nous sur Bentham, parce que le détail vaut le détour. Pour rendre sa théorie
+  opérationnelle, il énumère les critères qui font qu'un plaisir vaut mieux qu'un autre. Parmi
+  eux : qu'il soit <strong>multipliable</strong>, <strong>peu coûteux</strong>,
+  <strong>duplicable</strong>, <strong>immédiat</strong>.</p>
+
+  <p>Relis cette liste. C'est, mot pour mot, la définition contemporaine d'un bon modèle
+  d'affaires : scalable, à faible coût marginal, réplicable, à gratification rapide. Ce que nous
+  prenons pour des critères d'efficacité économique sont en réalité les critères d'une doctrine
+  morale du XVIII<sup>e</sup> siècle sur ce qui rend une vie bonne. Personne ne nous l'a dit,
+  parce que personne ne le savait.</p>
+
+  <p>Le second axiome est encore plus profond, et nous y reviendrons longuement : la
+  <strong>rareté</strong>. Les besoins humains seraient illimités, les ressources limitées — donc
+  l'arbitrage, donc la compétition, donc l'économie comme science de l'allocation sous
+  contrainte. Tout le reste en découle. Or ce n'est pas une observation. C'est une position sur
+  la nature du monde, et elle est discutable.</p>
+
+  <h3>6. Pourquoi un filtre ne suffit pas à s'en défaire</h3>
+  <p>Arrivés ici, on comprend pourquoi le réflexe licite/illicite, tout nécessaire qu'il soit, ne
+  peut pas faire ce travail.</p>
+
+  <p>Un filtre examine des objets. Un paradigme est ce qui produit les objets. Filtrer, c'est
+  intervenir en aval, à la sortie de la chaîne, une pièce à la fois. Tant que la chaîne tourne,
+  il faudra filtrer indéfiniment — et chaque nouvelle technique, chaque nouvel outil, chaque
+  nouvelle plateforme posera la question à nouveau, sans qu'on ait jamais avancé.</p>
+
+  <p>Le Dr Chauki Lazhar donne à cela une formulation historique qui évite tout procès en
+  passéisme. Jusqu'à la modernité, dit-il en substance, les changements du réel étaient
+  <em>micro</em> : un objet nouveau, un contrat nouveau, un cas nouveau. L'outil hérité — qui
+  classe le détail en obligatoire, recommandé, permis, déconseillé, interdit — était parfaitement
+  calibré pour ça. La modernité amène des changements <em>structurels</em> : non plus des objets
+  isolés, mais des systèmes entiers, qui diffèrent « non seulement dans leur forme, mais dans
+  leur fond, dans leur vision du monde, dans leurs objectifs ».</p>
+
+  <div class="key">On ne classe pas un paradigme comme on classe un détail.</div>
+
+  <p>D'où le principe qui gouverne tout le reste de ce document, et qu'il formule ainsi :
+  <strong>« tout ce qui se trouve dans le réel n'est pas neutre. »</strong> Chaque outil, chaque
+  modèle, chaque métrique porte une idée de qui est l'humain, de ce qui compte, de ce qui est
+  bien. Celui qui l'adopte sans l'examiner n'adopte pas un outil : il adopte une réponse.</p>
+
+  <div class="chg">
+    <span class="lab">Ce que tu emportes de cette partie</span>
+    <p>Quatre questions à poser à n'importe quel outil, méthode ou modèle qu'on te propose :
+    qu'est-ce qu'il suppose de l'être humain, vers quoi il pointe, comment il décide de ce qui a
+    de la valeur, et où il place la ligne d'arrivée. S'il ne répond pas, c'est qu'il a répondu
+    sans te le dire.</p>
+  </div>
+</section>
+
+<section>
+  <div class="lab">Partie II</div>
+  <h2 class="sec">Le paradigme qu'on nous propose</h2>
+  <p>Cette partie est la plus inconfortable du document, et elle doit l'être. Son but n'est pas
+  de caricaturer un adversaire, mais de décrire honnêtement un cadre — jusqu'au moment où le
+  lecteur s'y reconnaît. Si personne ne se reconnaît, c'est raté.</p>
+
+  <h3>1. Une généalogie courte</h3>
+  <p>On ne comprend pas le paradigme dominant si on le prend pour une méchanceté. C'est le
+  résultat d'un déplacement historique long, et il s'est fait pour de bonnes raisons autant que
+  pour de mauvaises.</p>
+
+  <p>Pendant l'essentiel de l'histoire humaine, l'activité économique était une branche de la
+  morale. Aristote traite du commerce dans l'<em>Éthique</em>. Les scolastiques discutent du
+  juste prix comme d'une question de justice. Nos propres juristes n'ont jamais séparé le
+  <em>fiqh al-muʿāmalāt</em> du reste du droit. La question « est-ce rentable ? » était une
+  sous-question de « est-ce juste ? ».</p>
+
+  <p>La modernité inverse le rapport. L'économie se constitue en science autonome, avec ses lois
+  propres, indépendantes des jugements moraux — ce qui est d'ailleurs une conquête réelle, parce
+  que cela permet de décrire des mécanismes qu'on ne voyait pas. Mais l'autonomie devient
+  progressivement une souveraineté. La morale, de cadre qu'elle était, devient une contrainte
+  externe : quelque chose qui vient <em>limiter</em> l'activité économique depuis l'extérieur,
+  et non plus qui la <em>définit</em> depuis l'intérieur. C'est ce basculement qui produit
+  l'expression « éthique des affaires » — une expression qui aurait été incompréhensible avant,
+  puisqu'elle suppose que les affaires puissent exister sans.</p>
+
+  <p>Trois courants viennent remplir le vide laissé. L'<strong>utilitarisme</strong> fournit un
+  critère universel et calculable : est bon ce qui maximise la satisfaction. L'<strong>
+  individualisme</strong> fournit le sujet : l'individu souverain, dont les préférences ne se
+  discutent pas. Et la <strong>sécularisation</strong> fournit l'horizon : puisqu'il n'y a plus
+  de transcendance, l'accomplissement doit se trouver ici, maintenant, dans le mesurable. Le
+  Dr Chauki Lazhar tire de ce dernier point un diagnostic qui vaut pour tout ce document :
+  l'humain, coupé de l'infini, dirige des aspirations infinies vers des objets finis. Une soif
+  d'absolu versée dans un récipient qui ne peut pas la contenir.</p>
+
+  <h3>2. Ses axiomes, un par un</h3>
+  <p>Voici les cinq postulats sur lesquels repose la manière dominante de penser le business.
+  Chacun est présenté comme une évidence. Chacun est démontable.</p>
+
+  <h4>Axiome 1 — La rareté</h4>
+  <p>Premier principe de tout manuel d'économie : les besoins sont illimités, les ressources sont
+  limitées. De là découle logiquement tout le reste — l'arbitrage, l'allocation, la compétition
+  comme état naturel des acteurs.</p>
+  <p>Le Dr Talal Lahlou conteste l'axiome lui-même, et sa réfutation tient en deux temps. Le
+  premier est doctrinal : dans la vision coranique, toute chose a été créée <em>à sa juste
+  mesure</em>. Ni abondance illimitée, ni pénurie structurelle — une mesure. Le second est
+  empirique, et il est imparable : nous produisons aujourd'hui de quoi nourrir douze milliards
+  de personnes, nous sommes huit milliards, et un milliard ne mange pas à sa faim.</p>
+  <div class="key">Ce n'est pas un problème de rareté. C'est un problème d'optimisation.</div>
+  <p>Mesurons ce que ce simple déplacement détruit. Si la rareté est une donnée de la nature,
+  alors la compétition est un fait, la dureté est réaliste, et ce que je prends est ce qu'un
+  autre n'a pas. Si la rareté est un problème de répartition, tout change : la compétition
+  devient un choix d'organisation parmi d'autres, et la dureté redevient ce qu'elle est — une
+  décision dont on répond.</p>
+
+  <h4>Axiome 2 — La maximisation</h4>
+  <p>L'acteur économique est supposé maximiser. Son intérêt, son utilité, son profit. C'est
+  présenté comme une description du comportement humain ; c'est en réalité une norme, et elle
+  s'auto-réalise : on construit des systèmes d'incitation qui récompensent la maximisation, puis
+  on observe que les gens maximisent, et on en conclut que c'est leur nature.</p>
+  <p>Le mot mérite qu'on s'y arrête. Maximiser, c'est prendre le plus possible d'une chose sans
+  qu'aucune borne interne ne dise quand s'arrêter. La seule limite est externe — la loi, la
+  concurrence, la capacité du client à payer. Un système qui n'a que des limites externes finira
+  toujours par les tester.</p>
+
+  <h4>Axiome 3 — Le consentement suffit</h4>
+  <p>Si deux adultes informés sont d'accord, la transaction est légitime. C'est le cœur moral du
+  libéralisme économique, et c'est ce qui rend tant de choses discutables défendables : personne
+  n'a été forcé.</p>
+  <p>Cet axiome fait l'objet d'un axe entier plus loin, car il est le plus profondément enfoui et
+  le plus lourd de conséquences. Retenons ici sa formulation la plus nette, qui vient de nos
+  propres sources : <em>il n'est pas suffisant que deux personnes soient d'accord sur un contrat
+  pour que ce contrat soit licite.</em></p>
+
+  <h4>Axiome 4 — La croissance est nécessaire</h4>
+  <p>Non pas souhaitable : nécessaire. Une entreprise qui ne croît pas est en danger, une
+  économie qui ne croît pas est en crise. On le présente comme une loi de la nature des
+  organisations.</p>
+  <p>Ce n'en est pas une. C'est une conséquence arithmétique d'un choix de système, et le
+  Dr Talal Lahlou en donne la démonstration : un pays dont la dette atteint cent pour cent du
+  produit intérieur brut, avec un taux d'intérêt de deux pour cent, doit croître d'au moins deux
+  pour cent simplement pour payer ses intérêts. En dessous, il réemprunte pour rembourser —
+  c'est-à-dire qu'il entre dans un mécanisme de cavalerie. « C'est pour ça que la croissance est
+  au centre de tous les programmes politiques. »</p>
+  <p>La croissance n'est pas une ambition du système. C'est sa condition de survie, parce qu'il
+  fonctionne à l'intérêt. Nous verrons plus loin ce que cela implique pour une entreprise
+  individuelle.</p>
+
+  <h4>Axiome 5 — L'outil est neutre</h4>
+  <p>Le dernier, et le plus invisible : une technique n'aurait pas de valeur en soi, tout
+  dépendrait de l'usage. C'est l'argument qui permet d'adopter n'importe quoi sans examen.</p>
+  <p>Il est faux, et la partie précédente explique pourquoi : tout objet porte les intentions de
+  ceux qui l'ont conçu, et les incorpore dans ses réglages par défaut. Une plateforme qui
+  récompense la durée de visionnage produira du contenu conçu pour retenir, quelles que soient
+  les intentions de celui qui publie. Le réglage par défaut n'est pas neutre — et la plupart des
+  gens ne changent jamais les réglages par défaut.</p>
+
+  <h3>3. Ce que ces axiomes produisent dans une journée ordinaire</h3>
+  <p>Ces cinq principes ne restent pas dans les manuels. Voici ce qu'ils donnent, concrètement,
+  chez un entrepreneur qui ne les a jamais lus.</p>
+  <ul>
+    <li>Il ouvre son téléphone et regarde un chiffre avant de faire quoi que ce soit d'autre.
+    C'est l'axiome de la mesure, hérité de la maximisation : ce qui ne se compte pas n'existe
+    pas comme information.</li>
+    <li>Un concurrent s'installe et il ressent une contraction physique. C'est l'axiome de la
+    rareté, installé au niveau du corps.</li>
+    <li>On lui propose une pratique agressive mais légale et il ne trouve rien à y objecter.
+    C'est l'axiome du consentement.</li>
+    <li>Son activité est rentable, stable, suffisante — et il se sent en échec. C'est l'axiome de
+    la croissance.</li>
+    <li>Il adopte un outil parce que tout le monde l'utilise, sans se demander ce que l'outil
+    l'oblige à devenir. C'est l'axiome de la neutralité.</li>
+  </ul>
+  <p>Aucun de ces cinq moments n'est vécu comme une position philosophique. Tous le sont.</p>
+
+  <h3>4. Sa version francophone : un courant dominant, pas un point de départ</h3>
+  <p>Il faut se garder ici d'un raccourci facile, qui consisterait à dire que tout nous vient
+  d'outre-Atlantique et qu'il n'y avait rien avant. C'est faux, et le penser empêche de voir
+  correctement ce qui se joue.</p>
+  <p>La France, et plus largement l'Europe francophone, a une culture entrepreneuriale ancienne
+  et parfaitement constituée. Elle a ses traits propres : un rapport très juridique à l'activité,
+  où le contrat et le statut priment ; une organisation par corps de métier, avec ses codes
+  d'appartenance et ses hiérarchies ; une méfiance historique envers l'argent visible, très
+  différente du rapport américain à la réussite affichée ; et surtout une conception laïque de
+  l'espace professionnel, où les convictions relèvent du privé et n'ont pas à paraître au
+  travail. Ce dernier trait compte plus qu'on ne le croit pour notre sujet — il a produit chez
+  beaucoup une habitude de séparation qui précède largement toute influence américaine.</p>
+  <p>Ce qui s'est passé ces quinze dernières années n'est donc pas l'arrivée d'un contenu dans
+  un vide. C'est l'installation d'un <strong>courant dominant</strong> : la traduction, souvent
+  approximative, du marché américain du <em>make money online</em>. Pas la littérature de
+  management, pas le monde des start-up — un segment précis, celui de la formation en ligne à
+  l'enrichissement rapide, avec ses codes et ses figures.</p>
+  <p>Ce segment a des qualités réelles, et les nier décrédibiliserait tout le reste. Il a
+  démocratisé des compétences autrefois réservées à ceux qui avaient fait les bonnes écoles. Il a
+  produit des méthodes pédagogiques efficaces, souvent meilleures que l'enseignement classique.
+  Et il a donné à beaucoup de gens quelque chose que personne ne leur donnait : l'autorisation de
+  se lancer. Ce n'est pas rien, et une bonne partie de nos membres lui doit son premier client.</p>
+  <p>Ce qu'il transporte, en revanche, il ne le formule jamais — les cinq axiomes au complet,
+  plus une esthétique qui en est la traduction visuelle. Et il les transporte d'autant mieux
+  qu'ils ne sont pas énoncés : on ne discute pas ce qu'on ne lit pas.</p>
+  <p>Devenu dominant, il a aussi produit un effet de recouvrement. Non seulement il a occupé le
+  terrain vide de la transmission religieuse sur le commerce, mais il a peu à peu redéfini ce
+  qu'entreprendre veut dire, y compris pour ceux qui ne suivent aucune de ces formations. C'est
+  la caractéristique d'un courant dominant : il fixe le vocabulaire de tout le monde, même de
+  ceux qui le critiquent.</p>
+  <p>Quant à la foi de celui qui transmet, elle ne filtre pas grand-chose. Un formateur musulman
+  qui a retiré de son offre tout ce qui est manifestement interdit peut transmettre l'intégralité
+  du cadre. Ce n'est pas de l'hypocrisie : c'est le fonctionnement normal d'un paradigme, qui
+  s'exécute sans adhésion. Le dire sans agressivité fait partie du travail — il ne s'agit de
+  disqualifier personne, mais de rendre visible un mécanisme qui nous concerne tous, à commencer
+  par nous.</p>
+
+  <h3>5. Le syndrome de la réplication</h3>
+  <p>Nous arrivons au cœur de cette partie. Que se passe-t-il quand on tente de rendre conforme
+  un modèle sans en questionner la finalité ? Le Dr Talal Lahlou lui donne un nom, et le décrit
+  comme une maladie chronique : <strong>le syndrome de la réplication</strong>. On reproduit la
+  finalité d'un système qu'on rejette, en habillant les mécanismes de formes licites.</p>
+
+  <h4>La règle qui gouverne cela, et elle est ancienne</h4>
+  <p>Al-Shatibi, dans <em>al-Muwafaqat</em>, pose le principe <span class="tv">à valider</span> :
+  il n'est pas permis de recourir à des ruses légales — les <em>hiyal</em> — pour contourner un
+  interdit, lorsque le montage aboutit à la même finalité que l'acte interdit.</p>
+  <p>Et le droit en tire une maxime générale : <em>al-wasā'il lahā aḥkām al-maqāṣid</em>
+  <span class="tv">à valider</span> — les moyens prennent le statut des fins auxquelles ils
+  mènent. Ce qui est interdit comme finalité l'est aussi comme moyen.</p>
+  <p>Mesurons ce que cela implique, parce que c'est le pivot de tout ce document. Le raisonnement
+  juridique lui-même, dans notre tradition, <strong>refuse de s'arrêter à la conformité
+  formelle</strong>. Ce n'est pas une exigence morale qu'on ajouterait au droit par scrupule :
+  c'est une règle du droit. Celui qui s'arrête à la forme n'est pas plus rigoureux que les
+  autres — il est moins fidèle à la méthode.</p>
+  <p>Ces principes ont été formulés pour des montages contractuels. Ce qui nous intéresse ici,
+  c'est leur portée générale : <em>une conformité de surface qui reconduit la finalité visée ne
+  vaut rien</em>. Ce raisonnement, une fois compris, s'applique bien au-delà du contrat.</p>
+
+  <h4>Le cas emblématique : le développement personnel</h4>
+  <p>S'il fallait ne retenir qu'un exemple, ce serait celui-là. Non parce qu'il serait le plus
+  grave, mais parce qu'il est le plus répandu, le mieux accepté, et celui où le mécanisme est le
+  plus facile à observer une fois qu'on le cherche.</p>
+
+  <p>Le développement personnel occupe aujourd'hui une place considérable dans la vie des
+  entrepreneurs musulmans. Il structure les routines, le vocabulaire, la manière de se parler à
+  soi-même, et une bonne part de ce qu'on appelle le « mindset ». Il est massivement présent dans
+  les formations, y compris dans celles qui se présentent comme conformes.</p>
+
+  <p><strong>Ce qu'on en a retiré.</strong> Dans sa version destinée aux musulmans, on a fait le
+  travail de nettoyage attendu, et il a été fait sérieusement. Exit la loi d'attraction, qui
+  posait un problème évident. Exit le vocabulaire ésotérique — les énergies, l'alignement
+  vibratoire, le soi supérieur. Exit les pratiques dont l'origine cultuelle est explicite. On a
+  ajouté une invocation en ouverture, un hadith en conclusion, parfois un rappel sur l'intention.
+  Le produit obtenu ne contient plus rien de manifestement interdit, et ceux qui l'ont fait
+  l'ont fait de bonne foi.</p>
+
+  <p><strong>Ce qui n'a pas bougé.</strong> Et c'est là que le mécanisme se voit. La structure
+  entière reste organisée autour d'un seul centre : toi. Ton potentiel, tes blocages, ta
+  discipline, ta meilleure version. Tous les chemins partent de toi et y reviennent. La méthode
+  postule que la ressource est en toi, que le problème est en toi, et que la solution est en toi.</p>
+
+  <div class="key">Dieu n'y est pas absent parce qu'on l'aurait chassé. Il n'y est pas parce que
+  l'architecture n'a pas prévu de place pour Lui.</div>
+
+  <p>Ajouter une invocation ne change pas cette architecture. Elle l'habille. Le geste reste le
+  même, l'orientation reste la même, et le destinataire de l'effort reste le même — soi. C'est
+  exactement la structure que nous venons de décrire : la forme a été rendue conforme, la
+  finalité est intacte.</p>
+
+  <p>Le Dr Chauki Lazhar emploie, à propos de la psychologie islamique contemporaine, une
+  formule qui vaut ici mot pour mot : beaucoup de ce qui s'écrit sous ce nom repose sur des
+  visions occidentales « avec un peu de maquillage et de mascara islamiques ». Et il pose la
+  question qui devrait précéder toutes les autres : comment développer une psychologie islamique
+  quand on n'a pas d'abord répondu aux questions existentielles ?</p>
+
+  <p>Sofiane Meziani éclaire la généalogie, et son exemple est frappant. Au fronton du temple de
+  Delphes, la formule que tout le monde connaît : « connais-toi toi-même ». Sa lecture
+  <span class="tv">à valider</span> est que la phrase ne s'arrêtait pas là — elle se poursuivait
+  vers la connaissance de ce qui dépasse l'homme. La modernité n'a gardé que la première moitié.
+  <strong>Le « toi-même », qui était un chemin, est devenu une destination.</strong></p>
+  <p>Et il pose la ligne de partage la plus utile de tout ce débat :</p>
+  <blockquote>
+    <p>« Ce que je critique, ce ne sont pas nécessairement les outils proposés, qui peuvent être
+    intéressants et utiles. C'est la tentative constante de trouver un remède en laissant Dieu
+    hors de l'équation. »</p>
+    <cite>Sofiane Meziani. Et sa règle : on peut faire les deux, tant que la foi joue le rôle de
+    filtre — et pas l'inverse.</cite>
+  </blockquote>
+
+  <p><strong>Le point de départ, qui change tout.</strong> Nouman Ali Khan met en évidence une
+  divergence plus profonde encore, et qui passe totalement inaperçue. La psychologie moderne
+  hérite d'une anthropologie où l'être humain part <em>cassé</em> — le traumatisme originel y
+  occupe la place que le péché originel occupait avant. Tout le monde est abîmé, personne n'est
+  normal, et l'existence consiste à réparer ce que l'on est.</p>
+  <p>Le cadre coranique pose l'inverse : on naît sur la <em>fitra</em>, en bon état. Les dégâts
+  viennent après, ils sont réels, et ils se réparent. La différence n'est pas une nuance de
+  vocabulaire — elle décide de tout le programme. Si tu pars cassé, ta vie est une réparation
+  sans fin. Si tu pars sain, elle est un dépoussiérage.</p>
+  <p>Et il ajoute une observation qui devrait retenir tout entrepreneur qui produit du
+  contenu : cette psychologie n'est pas seulement une thérapie, <strong>c'est aussi un
+  message</strong> — diffusé par les séries, la musique, les réseaux, les salles de classe. On
+  ne la choisit pas ; on la reçoit.</p>
+
+  <p><strong>Et l'ironie, pour finir.</strong> Une grande partie de ce que le développement
+  personnel vend comme des découvertes existe depuis quatorze siècles, sous d'autres noms et avec
+  un autre destinataire. La routine matinale, c'est le fajr. Le jeûne intermittent, c'est le
+  jeûne. Le journal de gratitude, c'est le <em>shukr</em>. L'introspection quotidienne, c'est la
+  <em>muhasaba</em>. La méditation, c'est le <em>tafakkur</em>.</p>
+  <div class="key">On ne t'a pas vendu une méthode nouvelle. On t'a revendu la tienne, en lui
+  retirant son destinataire.</div>
+
+  <div class="obj"><span class="lab">L'objection, et il faut la traiter</span>
+  <p>« Alors on n'a plus le droit de travailler sur soi ? » — Bien sûr que si. Le
+  <em>jihad al-nafs</em>, le combat contre soi-même, est du travail sur soi, et c'est le plus
+  exigeant qui soit. La différence n'est pas dans l'effort, elle est dans la direction. Le
+  développement personnel te demande de devenir la meilleure version de toi-même. Ta foi te
+  demande de te soumettre à plus haut que toi. L'un te met au centre, l'autre te met à ta place —
+  et c'est le second qui repose.</p></div>
+
+  <h4>Les deux autres répliques</h4>
+  <p>Une fois le mécanisme vu sur cet exemple, on le reconnaît ailleurs.</p>
+  <p><strong>La banque islamique.</strong> C'est l'exemple que prend le Dr Chauki Lazhar, et il
+  faut prendre le temps d'expliquer pourquoi il est éclairant — sans quoi le rapprochement serait
+  injuste envers des institutions qui font un travail réel.</p>
+  <p>Une banque, dans une économie moderne, remplit une fonction précise : elle crée de la
+  monnaie par le crédit, elle concentre l'épargne, et elle oriente l'investissement selon des
+  critères de rendement. C'est cette fonction-là qui produit les effets que nous avons décrits —
+  l'endettement comme condition d'accès, et la croissance comme obligation. Le prélèvement
+  d'intérêt n'est pas la fonction : c'en est le mécanisme de rémunération.</p>
+  <p>On a retiré le mécanisme, réécrit les contrats, et laissé la fonction intacte. D'où la
+  formule : « on islamise la forme tout en œuvrant vers des idéaux qui ne sont pas les
+  nôtres. »</p>
+  <p>Précisons, parce que la nuance compte : il ne s'agit pas de dire que ces institutions sont
+  illicites. Ce jugement ne nous appartient pas, et des savants compétents en débattent — ce qui
+  est d'ailleurs le cas pour la plupart des montages dont on parle. Il s'agit de constater que
+  l'opération a porté sur la forme sans poser la question de la fonction. C'est le mécanisme qui
+  nous intéresse, pas le verdict.</p>
+  <p><strong>Le marketing à visage conforme.</strong> Troisième réplique, et la plus proche du
+  quotidien de nos lecteurs. On retire le mensonge caractérisé, on ajoute de la pudeur dans les
+  visuels, on évite les promesses chiffrées les plus grossières. Mais la mécanique de fond —
+  créer un manque, le rendre urgent, refermer avant réflexion — reste en place, parce que c'est
+  elle qui convertit. La partie V y revient en détail.</p>
+
+  <div class="key">Dans les trois cas, on a changé la forme. On n'a jamais touché à la
+  direction.</div>
+
+  <p>Reste à retourner la question vers nous, parce que c'est l'objet même de ce document. Et
+  elle se pose simplement, sans formule.</p>
+  <p>Tu as retiré le riba. Tu as retiré le produit douteux. Tu as ajouté une intention, et elle
+  est sincère. Maintenant regarde ce qui n'a pas bougé : ton tableau de bord, ta définition de
+  la réussite, ta réaction quand un concurrent s'installe, ta manière de conclure une vente
+  difficile. Si tout cela est resté exactement ce qu'il était dans le modèle que tu croyais avoir
+  quitté, alors la question mérite d'être posée.</p>
+
+  <div class="key">Est-ce que j'ai réformé mon activité, ou est-ce que j'ai mis en conformité un
+  modèle dont je n'ai jamais examiné la finalité ?</div>
+
+  <p>Et cette question n'a rien d'accusatoire. Elle est la seule question honnête que puisse se
+  poser quelqu'un qui a compris ce qu'est un paradigme : on ne se demande pas <em>si</em> on en
+  a attrapé un, on se demande lequel, et où il opère.</p>
+
+  <div class="chg">
+    <span class="lab">Ce que tu emportes de cette partie</span>
+    <p>Un test de réplication, en une question : si je retire de mon modèle tout ce qui est
+    manifestement interdit, est-ce qu'il vise encore exactement le même but qu'avant ? Si oui,
+    je n'ai pas réformé — j'ai habillé.</p>
+  </div>
+</section>
+
+<section>
+  <div class="lab">Partie III</div>
+  <h2 class="sec">Ce que notre héritage dit du commerce</h2>
+  <p>Après avoir décrit un cadre, il faut en proposer un autre — sinon on n'a produit qu'une
+  critique, et une critique sans alternative laisse les gens plus démunis qu'avant. Cette partie
+  pose le cap dont découleront les onze axes.</p>
+
+  <h3>1. L'entrepreneuriat, un chemin parmi d'autres — et celui-ci est le tien</h3>
+  <p>Il y a beaucoup de portes. Le savoir en est une, et elle est immense. Soigner en est une.
+  Élever des enfants droits en est une. Bâtir, réparer, nourrir, enseigner, juger avec équité —
+  autant de voies vers le même but, et rien n'autorise à les classer entre elles.</p>
+  <p>Celle-ci est ouverte, et c'est celle que tu as prise. Toute la question est donc de savoir
+  comment on l'emprunte bien. Et le texte qui la décrit est d'une générosité qu'on mesure
+  rarement :</p>
+  <blockquote>
+    <p>« Le commerçant honnête et digne de confiance sera avec les prophètes, les véridiques et
+    les martyrs. »</p>
+    <cite>rapporté par at-Tirmidhi</cite>
+  </blockquote>
+  <p>Deux choses s'y trouvent, et chacune compte.</p>
+  <p>La première : <strong>la porte est bien là</strong>. Le commerce n'est pas un domaine
+  profane qu'il faudrait tolérer, ni une nécessité matérielle qu'on rachèterait par des actes de
+  dévotion accomplis ailleurs. C'est une voie qui peut mener aussi haut que les plus hautes. Pour
+  beaucoup d'entrepreneurs musulmans qui vivent leur activité comme un compromis permanent, cette
+  phrase seule suffirait à changer leur rapport au travail.</p>
+  <p>La seconde, et c'est là que le texte devient exigeant : <strong>il pose des conditions</strong>,
+  et ce ne sont pas des conditions de conformité. Honnête, digne de confiance. Ce ne sont pas des
+  cases à cocher dans un contrat — ce sont des qualités de comportement, éprouvées dans la durée,
+  qui ne se démontrent que dans les moments où mentir serait rentable.</p>
+
+  <h3>2. Donc la question change de forme</h3>
+  <p>De ce déplacement découle tout le reste, et il faut le formuler précisément parce que la
+  plupart des travaux sur le business en islam posent la question à l'envers.</p>
+  <p>La question habituelle est : <em>comment faire entrer mon business dans le halal ?</em>
+  Elle part du modèle, qui est donné, et cherche les ajustements nécessaires pour qu'il passe. Sa
+  méthode naturelle est le montage : on déplace un contrat, on renomme une ligne, on scinde une
+  opération. C'est de la tuyauterie — et nous venons de voir, avec le syndrome de la réplication,
+  où mène la tuyauterie.</p>
+  <p>La question juste est l'inverse. Nous avons choisi cette voie. Nous avons l'ambition de
+  commercer, de gagner notre vie par l'échange, et cette ambition est légitime. Alors :</p>
+  <div class="key">Comment marche-t-on correctement sur ce chemin-là ?</div>
+  <p>La différence n'est pas rhétorique, elle est méthodologique. Dans le premier cas on part du
+  modèle et on cherche à le faire passer. Dans le second on part du chemin, de ce qu'il exige, et
+  on construit le modèle qui va avec. Les deux méthodes ne produisent pas les mêmes entreprises —
+  et elles ne produisent surtout pas le même entrepreneur.</p>
+
+  <h3>3. L'ordre : la vision du monde avant la règle</h3>
+  <p>Pourquoi commencer par le paradigme plutôt que par les règles ? On pourrait répondre que
+  c'est plus efficace pédagogiquement. La vraie réponse est plus forte, et elle vient du
+  Dr Chauki Lazhar.</p>
+  <p>Regardons l'ordre de la révélation elle-même. Treize années à La Mecque, consacrées presque
+  exclusivement à une seule chose : qui est Dieu, qui est l'être humain, d'où il vient, où il va,
+  de quoi il répondra. Pas de législation économique, pas de droit des contrats, presque pas de
+  règles pratiques. La vision du monde, d'abord, pendant treize ans.</p>
+  <p>Les questions économiques — l'interdiction de l'intérêt, le droit des transactions, les
+  règles de l'héritage, les contrats — n'arrivent qu'à Médine, lorsque la vision est posée et
+  qu'une communauté existe pour la porter.</p>
+  <div class="key">Si Dieu a mis treize ans à poser qui tu es avant de te dire comment commercer,
+  pourquoi voudrais-tu, toi, commencer par la technique ?</div>
+  <p>Commencer par « est-ce que c'est licite ? » n'est donc pas seulement inefficace. C'est
+  inverser l'ordre de la révélation. La règle est faite pour être reçue par quelqu'un qui sait
+  déjà pourquoi il est là — autrement elle devient ce qu'elle est devenue pour beaucoup : une
+  contrainte extérieure qu'on subit, qu'on contourne, et dont on négocie les marges.</p>
+
+  <h3>4. La fonction : à quoi sert un être humain qui entreprend</h3>
+  <p>Si la finalité n'est pas le score, il faut être capable de dire ce qu'elle est — et de le
+  dire de manière opératoire, pas édifiante. C'est ici que la recherche contemporaine apporte sa
+  contribution la plus précieuse.</p>
+  <p>Le Dr Chauki Lazhar travaille la notion d'<em>istikhlaf</em> — le fait que Dieu, qui est
+  Celui qui gère, délègue à l'être humain une part de cette gestion. Il en donne une définition
+  qui a le mérite rare d'être vérifiable :</p>
+  <blockquote>
+    <p>Préserver la balance que Dieu a établie dans l'âme, dans la société et dans
+    l'environnement — et réparer toute déficience qui l'affecte.</p>
+  </blockquote>
+  <p>Trois balances, donc, et l'être humain n'est responsable que de la part qui lui est
+  accessible. Celle de son âme. Celle des relations humaines, ce qui inclut l'économique. Celle
+  du milieu matériel.</p>
+  <p>Et il propose une méthode pour repérer où l'on est attendu, qui est d'une simplicité
+  désarmante : <strong>regarde où ça va mal</strong>. Là où ça va mal, c'est l'humain qui
+  commande — le reste, Dieu le gère sans défaut.</p>
+  <p>Traduisons pour un entrepreneur, car c'est là que le concept devient un outil.
+  <strong>« Réparer une déficience » est une définition de l'entrepreneuriat utile.</strong> Une
+  entreprise qui résout un vrai problème répare un dérèglement de la balance sociale. Une
+  entreprise qui crée un besoin là où il n'y en avait pas, qui installe une dépendance, qui
+  fatigue l'attention de ses clients, ne répare rien — elle ajoute au dérèglement. Et cela se
+  constate, indépendamment de toute conformité formelle.</p>
+  <p>On voit la différence avec « avoir une mission », formule que tout le monde emploie et qui
+  n'engage à rien. Ici, c'est nommé, borné, et opposable.</p>
+
+  <div class="warn">
+    <span class="lab">Un mot qu'il faut manier avec précaution</span>
+    <p>Le terme <em>maqasid</em> — les finalités — est aujourd'hui employé comme un sceau de
+    sérieux : on le pose sur un raisonnement pour le rendre respectable. Le Dr Chauki Lazhar est
+    catégorique sur ce point, et sa mise en garde nous concerne directement : employées ainsi,
+    « les maqasid ne t'aideront pas du tout — tout ce qu'elles te donnent, c'est un slogan ».
+    Ailleurs : « une coquille vide ».</p>
+    <p>Nous gardons donc l'outil et nous abandonnons l'étiquette. Le critère qu'il propose à la
+    place en est un vrai, parce qu'il permet de trancher : <strong>une finalité est supérieure si
+    elle est indispensable à la réalisation de la fonction existentielle de l'être humain.</strong>
+    Le reste est secondaire, et doit s'incliner.</p>
+  </div>
+
+  <h3>5. Ce que la tradition dit déjà de notre problème</h3>
+  <p>Voici le point qui devrait rassurer le lecteur inquiet d'entendre un discours neuf : rien de
+  ce que nous avançons n'est neuf. La tradition juridique a rencontré ce problème il y a des
+  siècles, l'a nommé, et lui a donné des outils. Nous ne faisons que les remettre en service.</p>
+
+  <p><strong>Le légal n'est pas l'éthique.</strong> La formule est du Dr Talal Lahlou et elle est
+  d'une économie remarquable. Une opération peut être juridiquement recevable et moralement
+  mauvaise. Ce n'est pas une contradiction du droit : c'est la reconnaissance que le droit statue
+  sur ce qui est opposable, et que la conscience répond de ce qui est juste.</p>
+
+  <p><strong>Les ruses légales.</strong> Al-Shatibi <span class="tv">à valider</span> : il n'est pas permis de recourir à des
+  montages pour contourner un interdit lorsque le résultat obtenu est celui-là même que
+  l'interdiction visait à empêcher. Le droit refuse d'être joué par sa propre lettre.</p>
+
+  <p><strong>La fermeture des moyens.</strong> Le principe de <em>sadd adh-dhara'i'</em> : un
+  acte licite en lui-même peut devenir problématique par ce à quoi il conduit régulièrement.
+  C'est littéralement le principe qui autorise à dire « halal, et pourtant ». Il n'est pas une
+  faveur faite à la morale — c'est un chapitre des fondements du droit.</p>
+
+  <p><strong>Les moyens prennent le statut des fins.</strong> <em>Al-wasā'il lahā aḥkām
+  al-maqāṣid</em><span class="tv">à valider</span>. Si une finalité est interdite, les moyens qui y mènent le sont aussi. C'est
+  la règle qui rend caduque toute défense par la conformité du mécanisme.</p>
+
+  <p><strong>Et la justice comme critère dernier.</strong> Ibn al-Qayyim, dans
+  <em>Iʿlām al-Muwaqqiʿīn</em> <span class="tv">à valider</span> : la Loi est fondée sur la sagesse et la réalisation de la
+  justice ; toute règle qui produit de l'injustice, même sous un nom religieux, n'en fait pas
+  partie. Difficile d'être plus clair sur le fait que la finalité prime sur l'habillage.</p>
+
+  <p>Quatre outils, tous anciens, tous disponibles, et tous convergents. Le problème que ce
+  document traite n'a pas été découvert par nous : il a seulement cessé d'être enseigné à ceux
+  qui en avaient l'usage.</p>
+
+  <h3>6. Le statut du marché : ni sacralisé, ni condamné</h3>
+  <p>Une dernière mise au point, et elle est indispensable, parce que tout ce qui précède peut
+  être mal entendu.</p>
+  <p>Critiquer les axiomes de l'économie dominante n'est pas condamner le marché. Ce serait une
+  erreur de lecture, et une erreur tout court.</p>
+  <p>Lorsqu'on demanda au Prophète ﷺ de fixer les prix, il refusa. Le point mérite d'être
+  médité : dans une situation de tension sur les prix, l'autorité n'a pas décrété. La propriété
+  privée est protégée, l'échange est légitime, le profit est licite, et la recherche de la
+  subsistance est ordonnée — « quand la prière est achevée, dispersez-vous sur la terre et
+  recherchez la grâce d'Allah ».</p>
+  <p>Le Dr Talal Lahlou lui-même, qui critique sévèrement le système, l'accorde sans détour : les
+  marchés, les règles, la concurrence et la nature humaine forment un équilibre, et l'on biaise
+  cet équilibre quand on intervient sans nécessité.</p>
+  <p>Où est alors la ligne ? Elle n'est pas sur la concurrence, ni sur le profit, ni sur la
+  richesse. Elle est ailleurs, et elle est nette : <em>l'ihtikar</em> — l'accaparement des biens
+  de première nécessité pour faire monter le prix — est interdit. Non pas parce que c'est du
+  commerce, mais parce que c'est de la nuisance.</p>
+  <div class="key">L'islam n'est pas anti-marché. Il est anti-nuisance.</div>
+  <p>Cette distinction traverse tout le reste du document. Nous ne demanderons jamais à un
+  entrepreneur de gagner moins, de croître moins ou de renoncer à la compétition. Nous lui
+  demanderons de regarder ce que son activité produit — et c'est une exigence bien plus lourde.</p>
+
+  <div class="chg">
+    <span class="lab">Ce que tu emportes de cette partie</span>
+    <p>Une question de méthode qui remplace toutes les autres : je ne cherche pas à faire entrer
+    mon modèle dans le halal, je cherche à savoir ce que le chemin exige et à construire le
+    modèle qui va avec. Et un critère quand ça coince : est-ce que ceci répare une déficience, ou
+    est-ce que ça en ajoute une ?</p>
+  </div>
+</section>
+
+<section>
+  <div class="lab">Partie IV</div>
+  <h2 class="sec">Les onze axes</h2>
+  <p>Voici la partie applicative. Onze endroits précis où les deux paradigmes divergent, et où la
+  divergence se voit dans une décision concrète — pas dans une opinion.</p>
+  <p>Ce ne sont pas onze sujets indépendants. Il y en a <strong>un qui commande</strong>, et dix
+  qui en découlent, groupés en quatre mouvements qui vont du dedans vers le dehors : le cap, puis
+  ce que le cap déplace en toi, puis ton rapport à l'argent, puis ton rapport aux autres, et
+  enfin ta place parmi eux. Lus dans cet ordre, ils forment un raisonnement. Lus séparément, ils
+  ne sont qu'une liste.</p>
+
+  <div class="mvt"><div class="hd"><h3>Le cap</h3><span>ce qui commande tout le reste</span></div></div>
+
+  <div class="axe">
+    <div class="hd"><span class="n">AXE 0</span></div>
+    <h3>La finalité</h3>
+    <p class="q">C'est quoi le but du jeu ?</p>
+
+    <p>Une question simple pour commencer, et il faut y répondre honnêtement, pas joliment :
+    quel est le premier chiffre que tu regardes le matin ? Ce chiffre est ton tableau de score.
+    Tu ne l'as pas choisi — personne ne t'a jamais demandé ton avis. Tu l'as attrapé.</p>
+
+    <div class="duo">
+      <div class="a"><span class="lab">Le paradigme dominant</span>
+      <p>Le but est le score. Tout le reste — l'éthique, la santé, la famille, le sommeil —
+      devient une contrainte à optimiser autour de lui. On ne les nie pas : on les gère.</p></div>
+      <div class="b"><span class="lab">Notre paradigme</span>
+      <p>Le but est la satisfaction de Dieu. Le commerce est un des chemins qui y mènent, et
+      l'argent un moyen puissant d'y avancer. Ce n'est pas un renoncement, c'est un changement de
+      rang.</p></div>
+    </div>
+
+    <p>Le Dr Talal Lahlou propose une démonstration que je n'ai vue nulle part ailleurs, et qui
+    passe par le nom même du système.</p>
+    <blockquote>
+      <p>« On l'appelle capitalisme. On ne l'appelle pas <em>travaillisme</em> — parce
+      qu'inconsciemment, ce qui a le plus de valeur, c'est le matériel, ce n'est pas l'humain. Si
+      c'était l'humain qui avait le plus de valeur, on l'aurait appelé le travaillisme, ou
+      l'humanisme. Mais on l'appelle capitalisme. »</p>
+    </blockquote>
+    <p>Un système dit ce qu'il met au centre par le mot qu'il choisit pour se nommer. Et ce qu'il
+    oppose à cela porte aussi un nom chez lui : une <strong>économie de la fitra</strong>, où
+    c'est l'humain qui est au centre, et non le capital.</p>
+
+    <p>Il faut alors nommer ce qui est en jeu, et c'est plus grave qu'une question d'efficacité.
+    Faire du développement matériel la finalité de l'existence humaine, c'est adopter une thèse
+    précise sur ce qu'est l'homme : qu'il a été créé pour édifier la terre <em>comme n'importe
+    quel animal</em> a été créé pour manger et boire. C'est cette thèse que le Dr Chauki Lazhar
+    réfute, et c'est elle qui se cache derrière un tableau de bord dont toutes les lignes sont
+    des nombres.</p>
+
+    <p>Reste une objection que le lecteur formera de lui-même : ne peut-on pas simplement ne
+    servir personne, et décider par soi-même ? La réponse est non, et elle est brutale :</p>
+    <blockquote>
+      <p>« Dire <em>je ne me soumets ni à Dieu ni à rien d'autre, je suis libre</em> — ça n'existe
+      pas. »</p>
+      <cite>Dr Chauki Lazhar. Ou Dieu, ou le <em>taghut</em> : l'ego, l'argent, les passions.</cite>
+    </blockquote>
+    <div class="key">Tu ne choisis pas entre servir et ne pas servir. Tu choisis qui tu sers.</div>
+
+    <p>L'histoire qui rend tout cela tangible est celle d'Abd ar-Rahman ibn Awf. Il arrive à
+    Médine après l'exil, il n'a plus rien. Sa'd ibn ar-Rabi', un Médinois, lui propose de partager
+    sa fortune en deux parts égales. Il refuse, et sa réponse tient en une phrase : « que Dieu te
+    bénisse dans ta famille et tes biens — indiquez-moi seulement le marché ». Il y va, achète du
+    beurre clarifié et du fromage sec, et reconstruit.</p>
+    <p>Un homme qui joue au Monopoly ne refuse pas la moitié de la banque. Ce refus ne s'explique
+    que par une définition de la richesse où ce qu'on détient n'est pas ce qu'on est.</p>
+
+    <div class="obj"><span class="lab">L'objection</span>
+    <p>« Donc il ne faut pas viser l'argent. » — Si. La piété n'est pas la pauvreté, et ce
+    document ne demandera à personne de gagner moins. Ibn Awf est mort immensément riche, et ce
+    n'était pas un accident de parcours. Ce qui change n'est pas le montant : c'est le rang qu'il
+    occupe dans la hiérarchie de ce qui compte, et ce qu'on en fait.</p></div>
+
+    <div class="chg"><span class="lab">Ce que ça change lundi</span>
+    <p>Écris en une phrase : « je fais ce business pour ______ ». Puis ouvre ton agenda de la
+    semaine écoulée. Est-ce qu'il confirme la phrase, ou est-ce qu'il la contredit ?</p></div>
+  </div>
+
+  <div class="mvt"><div class="hd"><h3>Toi</h3><span>ce que le cap déplace à l'intérieur</span></div></div>
+
+  <div class="axe">
+    <div class="hd"><span class="n">AXE 1</span></div>
+    <h3>La réussite</h3>
+    <p class="q">Quand est-ce que tu as gagné ?</p>
+
+    <p>Tu vends ta voiture. Elle a un défaut que l'acheteur ne verra pas tout de suite. Tu
+    hésites. Cette hésitation de trois secondes contient tout un paradigme.</p>
+
+    <div class="duo">
+      <div class="a"><span class="lab">Orienté résultat</span>
+      <p>Tu as gagné quand le virement est arrivé. Le chemin est un coût qu'on minimise. Chaque
+      vente incertaine devient une angoisse, et un mois creux devient une remise en cause de ta
+      valeur personnelle.</p></div>
+      <div class="b"><span class="lab">Orienté commandement</span>
+      <p>Tu dis le défaut en premier. L'acheteur s'en va ? Tu n'as pas raté ta vente : tu as
+      réussi ton commandement. Fais les causes — le résultat appartient à Dieu.</p></div>
+    </div>
+
+    <p>Formulé ainsi, cela ressemble à une consolation pour les perdants. C'est exactement
+    l'inverse, et l'effet pratique est considérable : quand ta réussite dépend de ton acte et non
+    du résultat, <strong>le résultat cesse d'être ton département</strong>. Tu peux traverser un
+    trimestre difficile sans que ton identité soit en jeu. Tu peux refuser un client sans avoir
+    l'impression d'échouer. C'est, très concrètement, ce qui permet de tenir.</p>
+
+    <p>Le texte le plus dur sur ce sujet n'est pas une exhortation, c'est un avertissement. Le
+    hadith des trois premiers jugés au Jour de la Résurrection met en scène un martyr, un savant
+    qui a enseigné, et un homme riche qui a beaucoup donné. Trois résultats visibles
+    spectaculaires. Les trois sont rejetés, et pour la même raison : ils l'ont fait pour qu'on le
+    dise, et on l'a dit.</p>
+    <div class="key">Le résultat visible ne dit rien de la réussite. Aucun texte ne le dit plus
+    durement.</div>
+    <p>Et le pendant positif existe : « celui qui nous trompe ne fait pas partie des nôtres ».
+    La réussite, ici, se joue sur un critère que personne ne peut vérifier de l'extérieur — ce
+    qui est précisément ce qui la rend sérieuse.</p>
+
+    <div class="obj"><span class="lab">L'objection</span>
+    <p>« Donc on peut être médiocre du moment qu'on est honnête. » — Non, et il faut couper cela
+    immédiatement, parce que c'est la dérive naturelle de cet axe. Être orienté commandement veut
+    dire exécuter <em>mieux</em>, pas moins : l'excellence, l'<em>ihsan</em>, fait partie de
+    l'ordre reçu. Ce n'est pas un permis de bâcler, c'est une exigence de plus.</p></div>
+
+    <div class="chg"><span class="lab">Ce que ça change lundi</span>
+    <p>Chaque semaine, note une décision où tu as tenu alors que ça t'a coûté. C'est ta réussite
+    de la semaine. Note-la au même endroit que tes chiffres, pas ailleurs.</p></div>
+  </div>
+
+  <div class="axe">
+    <div class="hd"><span class="n">AXE 2</span></div>
+    <h3>La mesure</h3>
+    <p class="q">Qu'est-ce que tu comptes ?</p>
+
+    <p>Ouvre ton tableau de bord et compte les lignes. Combien sont des nombres ? Si la réponse
+    est « toutes », tu tiens là l'objet le plus idéologique de ton entreprise — et le plus
+    invisible, parce qu'il a l'air d'un simple outil de suivi.</p>
+
+    <p>L'enseignement du management prophétique, dispensé par Médine Académie, nomme le mécanisme
+    avec précision :
+    <strong>quantification et primauté du nombre</strong>, et son corollaire immédiat,
+    <strong>marginalisation de l'intuition et de l'intelligence du cœur</strong>. Le même enseignement
+    ajoute ce qu'il appelle le diktat de la quantité, et des algorithmes qui trahissent les
+    valeurs — puisqu'ils récompensent ce qu'ils savent mesurer, et rien d'autre.</p>
+
+    <p>Le mécanisme est simple et implacable. Ce que tu mesures devient ce que tu optimises. Et
+    ce qui n'est pas mesurable ne disparaît pas parce qu'on l'a jugé sans valeur — il disparaît
+    parce qu'il n'a pas de case.</p>
+    <div class="key">Ton tableau de bord est un paradigme déguisé en outil de suivi.</div>
+
+    <p>Le Dr Talal Lahlou donne à cela une image qui règle la question :</p>
+    <blockquote>
+      <p>« Le matériel ne donne pas de valeur. Le bois, le fer, les diamants ne vous disent pas ce
+      qui est bien et ce qui est mal. Ce sont des substances chimiques qui ne parlent pas. Or on a
+      besoin de morale dans le monde économique. »</p>
+    </blockquote>
+    <p>Et il montre où mène la généralisation du procédé : lorsque l'art, la littérature et la
+    philosophie deviennent des produits, on leur invente un box-office, un classement, un chiffre
+    de revenus — et le classement finit par les définir. Ce qui vaut pour un film vaut pour ton
+    activité : le jour où tu lui as donné un score, tu as commencé à la piloter par le score.</p>
+
+    <p>Que mettre à la place ? Pas le renoncement à mesurer, qui serait absurde. Le management prophétique
+    propose des indicateurs éthiques et une communication à double sens — on écoute, on ne compte
+    pas seulement. Ibn Khaldoun, dans la session qui lui est consacrée, pose des critères de
+    succès non matériels. Et le Dr Chauki Lazhar, à qui l'on demandait quel critère permet de
+    juger de son propre équilibre, donne une réponse d'une précision remarquable :</p>
+    <blockquote><p>« Lorsque tu as de l'argent et que tu donnes facilement. »</p></blockquote>
+    <p>Un indicateur d'état spirituel qui se vérifie dans un relevé bancaire. On en cherche
+    rarement d'aussi concret, et il a le mérite de ne pas pouvoir être simulé longtemps.</p>
+
+    <p>Reste l'ancrage textuel, et il est frappant. La sourate <em>at-Takathur</em> <span class="tv">à valider</span> s'ouvre
+    sur ceci : la course au « plus » vous a distraits, jusqu'à ce que vous visitiez les tombes.
+    Le mot même désigne l'accumulation comparative — non pas le fait d'avoir, mais le fait d'en
+    vouloir davantage que. C'est le verset de cet axe, et il qualifie la métrique de
+    <em>distraction</em>.</p>
+
+    <div class="chg"><span class="lab">Ce que ça change lundi</span>
+    <p>Ajoute une ligne non chiffrable à ton tableau de bord, et place-la en premier. Par
+    exemple : à qui ai-je été utile cette semaine sans contrepartie ? Le simple fait de devoir la
+    remplir déplace l'attention.</p></div>
+  </div>
+
+  <div class="mvt"><div class="hd"><h3>L'argent</h3><span>trois axes que personne ne relie jamais</span></div></div>
+
+  <div class="axe">
+    <div class="hd"><span class="n">AXE 3</span></div>
+    <h3>Le profit</h3>
+    <p class="q">La marge, ou la transaction ?</p>
+
+    <p>Tu négocies, et tu sens qu'il reste encore un peu à prendre. L'autre cédera. Tu peux
+    serrer. La question n'est pas de savoir si tu en as le droit — tu l'as. La question est de
+    savoir ce que tu décides.</p>
+
+    <div class="duo">
+      <div class="a"><span class="lab">Logique de marge</span>
+      <p>Extraire le maximum de chaque transaction. Le dernier euro laissé sur la table est une
+      perte. La négociation est un rapport de force dont on sort gagnant ou perdant.</p></div>
+      <div class="b"><span class="lab">Logique de circulation</span>
+      <p>La bénédiction est dans l'échange, pas dans la marge. Ce qui tourne est béni. Et on
+      laisse volontairement quelque chose — non par faiblesse, par principe.</p></div>
+    </div>
+
+    <p>Le hadith qui fonde cela est d'une précision qu'on remarque rarement : que Dieu fasse
+    miséricorde à l'homme indulgent <em>quand il vend, quand il achète, et quand il réclame son
+    dû</em>. Trois moments. Le troisième est le plus exigeant : l'indulgence est demandée y
+    compris lorsqu'on est le créancier, c'est-à-dire lorsqu'on est dans son bon droit.</p>
+
+    <p>Et l'on trouve, dans un autre récit, où se loge exactement la bénédiction. Le Prophète ﷺ
+    confie un dinar à Urwa al-Bariqi pour acheter un mouton. Il en achète deux, en revend un pour
+    un dinar, et revient avec un mouton et le dinar. L'invocation qui suit ne porte pas sur le
+    montant obtenu : « ô Dieu, bénis son commerce ». C'est l'opération qui est bénie — l'acte
+    d'échanger, pas le solde.</p>
+    <p>Le Dr Talal Lahlou dit la même chose en deux formules : <strong>l'argent comme lien
+    social</strong>, et <strong>la baraka dans la transaction honnête et transparente</strong>.
+    Et Ibn Awf, encore, en donne l'illustration : il ne recommence pas par un gros coup, il
+    recommence par du beurre et du fromage. Petites marges, beaucoup de rotations. Il fait
+    tourner.</p>
+
+    <div class="obj"><span class="lab">L'objection, et elle est obligatoire</span>
+    <p>« Donc il faut vendre moins cher. » — Non, et c'est le contresens le plus coûteux qu'on
+    puisse faire sur cet axe. Se sous-vendre trahit la valeur qu'on apporte, appauvrit
+    l'entrepreneur, et finit par priver ses clients d'un service qui n'existera plus. La formule
+    juste est étroite : <strong>on laisse volontairement, on ne se fait pas prendre.</strong> La
+    première est une vertu, la seconde une négligence.</p></div>
+
+    <div class="chg"><span class="lab">Ce que ça change lundi</span>
+    <p>Sur un devis cette semaine, affiche la structure : voilà ce que ça me coûte, voilà ma
+    marge, voilà le prix. Le prix devient un contrat de confiance au lieu d'un rapport de force.
+    Sur un marché où tout le monde cache, c'est un différenciateur — à condition de connaître son
+    coût réel, ce qui est loin d'être acquis.</p></div>
+  </div>
+
+  <div class="axe">
+    <div class="hd"><span class="n">AXE 4</span></div>
+    <h3>Le risque</h3>
+    <p class="q">Tu le portes, ou tu le transfères ?</p>
+
+    <p>Ton associé veut trente pour cent des bénéfices. Tu lui demandes s'il prend trente pour
+    cent des pertes. Le silence qui suit est la matière de cet axe.</p>
+
+    <div class="duo">
+      <div class="a"><span class="lab">Transférer</span>
+      <p>Le risque se déplace : vers le client, le fournisseur, le salarié, l'emprunteur.
+      L'idéal, c'est le rendement garanti d'avance — encaisser sans jamais pouvoir perdre.</p></div>
+      <div class="b"><span class="lab">Porter</span>
+      <p>Un revenu est légitime quand il a une contrepartie : un travail déjà fourni, ou un
+      risque réellement porté. Le gain va avec le risque.</p></div>
+    </div>
+
+    <p>Il faut immédiatement corriger un malentendu très répandu, parce qu'il paralyse beaucoup
+    de gens sincères. La ligne ne passe pas entre le revenu qui exige ta présence et celui qui
+    tombe sans toi. Un bien loué que tu entretiens et que tu peux perdre, une part de société
+    dont tu assumes aussi les pertes, un produit construit une fois et qui continue de se vendre
+    — tous ont une contrepartie, et rien ne s'y oppose. <strong>La ligne passe entre le gain qui
+    a une cause et celui qui n'en a pas.</strong></p>
+
+    <p>Ibn Khaldoun nomme le problème exactement : une <em>rémunération sans risque</em>. Le
+    Coran, lui, distingue les deux façons de faire de l'argent dans une phrase que tout le monde
+    connaît et que peu lisent pour ce qu'elle dit <span class="tv">à valider</span> : Dieu a rendu licite le commerce et
+    illicite l'intérêt. Deux voies, une seule porte le risque.</p>
+
+    <p>De là découle une conséquence opératoire immédiate, et beaucoup d'associations en
+    souffrent sans l'avoir formulée : celui qui prend une part du profit prend une part de la
+    perte. Sinon ce n'est pas un associé — c'est un créancier déguisé, et le montage est bancal
+    avant même d'être injuste. Les formes classiques de partage — <em>mudaraba</em>,
+    <em>musharaka</em>, et leurs transpositions contemporaines — ne sont pas des curiosités
+    historiques : ce sont les structures qui rendent l'association honnête.</p>
+
+    <div class="chg"><span class="lab">Ce que ça change lundi</span>
+    <p>Relis ton pacte d'associés, ou écris-le si tu n'en as pas. Une seule question, et elle
+    suffit à révéler tous les déséquilibres : qui perd quoi, si ça tourne mal ?</p></div>
+  </div>
+
+  <div class="axe">
+    <div class="hd"><span class="n">AXE 5</span></div>
+    <h3>La croissance et la dette</h3>
+    <p class="q">Tu grandis parce que tu veux, ou parce que tu dois ?</p>
+
+    <p>« Il faut scaler. » C'est une phrase qu'on entend comme une évidence. Posons la question
+    naïve : pourquoi, au juste ?</p>
+
+    <p>C'est ici que ce document fait, à mon sens, son apport le plus important — parce qu'il
+    <strong>transforme un interdit en explication</strong>. Le Dr Talal Lahlou relie deux
+    éléments qu'on traite toujours séparément : le mythe de la croissance perpétuelle, et
+    l'impératif de croissance lié à la dette. Ce ne sont pas deux sujets. C'est un seul
+    mécanisme.</p>
+
+    <blockquote>
+      <p>« Tant qu'on ne comprendra pas que le système basé sur la dette et les intérêts implique
+      une croissance nécessaire, inéluctable — et donc une surproduction, une saturation, une
+      pollution, plus d'inégalité, et donc un impérialisme, parce que les marchés sont limités… »</p>
+      <p>Et la démonstration, chiffrée : un pays dont la dette atteint cent pour cent du produit
+      intérieur brut, avec un intérêt de deux pour cent, doit croître d'au moins deux pour cent
+      pour simplement payer ses intérêts. En dessous, il réemprunte pour rembourser — « on est
+      dans un cycle Ponzi, c'est la fin assurée ». Et de conclure : « c'est pour ça que la
+      croissance est au centre de tous les programmes politiques ».</p>
+    </blockquote>
+
+    <div class="key">L'interdiction de l'intérêt n'est pas seulement une règle à respecter. C'est
+    le retrait du moteur qui rend la croissance obligatoire.</div>
+
+    <p>Une fois qu'on a vu cela, on ne regarde plus sa propre entreprise de la même manière.
+    Celui qui s'est endetté pour croître doit croître pour rembourser, et devra croître encore.
+    Il n'a pas choisi l'expansion : il l'a contractée. Et il découvrira, un jour de fatigue,
+    qu'il ne peut plus s'arrêter.</p>
+
+    <p>L'enseignement du management prophétique en tire une phrase qu'on n'attend pas dans un
+    cours de business plan, et qui devrait être affichée dans tous : <strong>grandir n'est pas un gage de
+    réussite</strong>. Grandir est un choix. Il existe un mode croisière — rentable, autofinancé,
+    sans dette, un rythme qu'on tient encore dans deux ans — qui n'est pas un lot de consolation.
+    Et il existe un mode croissance, qui coûte, et qui se décide en connaissance de cause.</p>
+
+    <p>L'alternative technique existe, et le Dr Talal Lahlou remet la question à l'endroit d'une
+    manière qui débloque beaucoup de situations : on demande toujours quelle est l'alternative au
+    crédit. Il n'y en a pas, dit-il, parce que la question est mal posée. Il y a une alternative
+    au <em>besoin</em> que le crédit finance. Spécifie le besoin — financer un stock, une
+    machine, un recrutement — et les solutions apparaissent : prévente, participation, structure
+    dédiée par projet.</p>
+
+    <p>Reste le versant intérieur, et notre tradition l'avait diagnostiqué bien avant les
+    économistes. « Si le fils d'Adam possédait une vallée d'or, il en voudrait une seconde ; et
+    s'il en possédait deux, il en voudrait une troisième. Rien ne remplira la bouche du fils
+    d'Adam si ce n'est la terre. » Ce n'est pas une critique de l'ambition — c'est la description
+    clinique d'un appétit qui ne se referme jamais par satisfaction.</p>
+    <p>Et le Prophète ﷺ demandait explicitement refuge contre « le poids de la dette et
+    l'oppression des hommes ». On demande refuge contre ce que le système pose comme moteur.</p>
+
+    <p>Enfin, la limite est posée là où on ne l'attend pas — du côté de l'adoration. « Ton
+    Seigneur a un droit sur toi, ton être a un droit sur toi, ta famille a un droit sur toi :
+    donne à chacun son droit. » Et lorsque trois compagnons voulurent faire <em>plus</em> que le
+    Prophète ﷺ — prier toute la nuit, jeûner sans cesse, renoncer au mariage — ils furent repris.</p>
+    <div class="key">Si le sacrifice total n'est pas permis pour l'adoration, il ne l'est pas pour
+    ton entreprise. Le mot qui ne va pas dans « sacrifie-toi totalement », ce n'est pas
+    « sacrifie ». C'est « totalement ».</div>
+
+    <div class="obj"><span class="lab">L'objection</span>
+    <p>« C'est une excuse pour manquer d'ambition. » — Non. Soutenable ne veut pas dire
+    confortable, et rien ici n'autorise la paresse. Mais un modèle qui n'existe que parce que son
+    fondateur ne dort pas n'est pas un modèle : c'est une dette contractée sur sa propre santé.
+    Et il ne passe pas à l'échelle non plus.</p></div>
+
+    <div class="chg"><span class="lab">Ce que ça change lundi</span>
+    <p>Une seule question, posée honnêtement : ce rythme-là, est-ce que je le tiens encore dans
+    deux ans ? Si la réponse est non, ce n'est pas un problème de discipline. C'est un problème
+    de modèle.</p></div>
+  </div>
+
+  <div class="mvt"><div class="hd"><h3>Les autres</h3><span>de l'échange à ses conséquences</span></div></div>
+
+  <div class="axe">
+    <div class="hd"><span class="n">AXE 6</span></div>
+    <h3>La concurrence</h3>
+    <p class="q">Écraser, ou l'abondance ?</p>
+
+    <p>Un concurrent s'installe à deux cents mètres. Ton ventre se serre. Cette réaction est
+    antérieure à toute réflexion — et c'est précisément ce qui en fait le symptôme d'un
+    paradigme, et non d'une opinion.</p>
+
+    <p>Elle a une cause, et nous l'avons déjà nommée : l'axiome de rareté. Si les ressources sont
+    structurellement insuffisantes, alors la part qu'il prend est celle que tu n'as pas, et la
+    contraction de ton ventre est une réponse rationnelle à une donnée du monde.</p>
+    <p>Sauf que ce n'est pas une donnée du monde. C'est un postulat, et le Dr Talal Lahlou le
+    démonte des deux côtés — par le texte et par les chiffres. Toute chose a été créée à sa juste
+    mesure ; et nous produisons de quoi nourrir douze milliards de personnes pour huit milliards
+    d'habitants, dont un milliard a faim. Le problème n'est pas la quantité disponible, c'est sa
+    circulation.</p>
+
+    <div class="duo">
+      <div class="a"><span class="lab">Somme nulle</span>
+      <p>Une part prise est une part enlevée. D'où : casser les prix, étouffer, verrouiller,
+      racheter. L'école du requin, qui a ses manuels et ses héros.</p></div>
+      <div class="b"><span class="lab">Part assignée</span>
+      <p>Le <em>rizq</em> est déjà réparti, et la part de l'autre n'est pas dans ta poche. Le
+      Dr Talal Lahlou y voit d'ailleurs une mauvaise compréhension du risque autant qu'une erreur
+      spirituelle.</p></div>
+    </div>
+
+    <p>Le verset qui éclaire le mieux cet axe ne parle pas de commerce. Il parle de peur :
+    « le Diable vous promet la pauvreté et vous commande la turpitude ; Allah vous promet pardon
+    et faveur venant de Lui. » Lisons l'ordre des termes, il est clinique. <strong>D'abord la
+    peur de manquer. Ensuite, l'acte bas.</strong> La séquence est nommée, et c'est exactement
+    celle qui conduit un commerçant honnête à faire, un jour de tension, quelque chose qu'il
+    n'aurait jamais fait.</p>
+
+    <p>Et cet axe n'est pas qu'une affaire de disposition intérieure : il est outillé par des
+    règles techniques, précises, que presque personne ne connaît<span class="tv">à valider</span>. Il est interdit de vendre
+    par-dessus la vente de son frère — d'intervenir au moment où une transaction est sur le point
+    de se conclure. Il est interdit de pratiquer le <em>najsh</em> : faire monter une enchère
+    sans intention d'acheter. Il est interdit d'intercepter les caravanes avant leur arrivée au
+    marché, pour ne pas profiter de ce que le vendeur ne sait pas encore des prix.</p>
+    <p>Traduisons en 2026 : le concurrent imaginaire invoqué en négociation, la fausse file
+    d'attente, le « il ne me reste qu'une place » qui n'existe pas, l'achat opportuniste à
+    quelqu'un qui ignore la valeur de ce qu'il détient. Ce sont des pratiques de croissance
+    courantes. Elles sont nommées et proscrites depuis quatorze siècles.</p>
+
+    <p>Reste la ligne rouge, et elle n'est pas là où on l'attend. Ce n'est pas la concurrence qui
+    est visée, c'est l'<em>ihtikar</em> : accaparer des biens de première nécessité pour faire
+    monter leur prix. Le critère n'est pas la compétition, c'est la nuisance.</p>
+
+    <p>Quant à ce que l'abondance permet concrètement, Ibn Awf en donne la mesure. On rapporte de
+    Talha ibn Abd Allah ibn Awf <span class="tv">à valider</span> que les habitants de Médine vivaient tous de lui : un tiers
+    lui empruntait son argent, un tiers avait ses dettes réglées par lui, un tiers recevait son
+    aumône. Un tiers des commerçants d'une ville tournaient sur son capital. Dans un monde à
+    somme nulle, c'est littéralement inconcevable.</p>
+
+    <div class="warn"><span class="lab">Le garde-fou</span>
+    <p>Rien de tout cela n'est un procès du marché. Le Prophète ﷺ a refusé de fixer les prix
+    quand on le lui a demandé ; la propriété est protégée ; le profit est licite. Le Dr Talal
+    Lahlou lui-même accorde que les marchés, les règles et la concurrence forment un équilibre
+    qu'on biaise en intervenant sans nécessité. <strong>L'islam n'est pas anti-marché. Il est
+    anti-nuisance.</strong></p></div>
+
+    <div class="chg"><span class="lab">Ce que ça change lundi</span>
+    <p>Recommande publiquement un concurrent, sur un cas précis où il est meilleur que toi. Ce
+    n'est pas un exercice de générosité : c'est un diagnostic. Ce que tu ressens en le faisant
+    t'apprendra où tu en es.</p></div>
+  </div>
+
+  <div class="axe">
+    <div class="hd"><span class="n">AXE 7</span></div>
+    <h3>Le consentement</h3>
+    <p class="q">Est-ce que « il était d'accord » suffit ?</p>
+
+    <p>Voici l'axe le plus profondément enfoui du document, et sans doute le plus subversif pour
+    un esprit formé à l'école dominante — parce qu'il touche au fondement moral de tout
+    l'édifice libéral.</p>
+
+    <p>Dans ce cadre, la légitimité d'une transaction repose entièrement sur l'accord des
+    parties. Deux adultes informés, personne n'a été contraint : l'échange est juste par
+    construction. C'est ce raisonnement qui permet de défendre à peu près n'importe quoi — le
+    prix excessif, le produit inutile, le contrat déséquilibré, le crédit à la consommation
+    proposé à quelqu'un qui n'aurait pas dû l'accepter. « Il était libre de refuser. »</p>
+
+    <p>Notre tradition dit autre chose, et le Dr Talal Lahlou le formule en une phrase qui mérite
+    d'être relue deux fois :</p>
+    <blockquote>
+      <p>« Il n'est pas suffisant que deux personnes soient d'accord sur un contrat pour que ce
+      contrat soit licite : le contrat doit porter sur un objet licite. »</p>
+    </blockquote>
+    <p>Le consentement est <strong>nécessaire</strong> — un échange sans accord est une
+    spoliation. Mais il n'est pas <strong>suffisant</strong>. Il y a des conditions qui ne
+    dépendent pas de la volonté des parties, et qu'aucun accord ne peut créer.</p>
+
+    <div class="duo">
+      <div class="a"><span class="lab">Le consentement fonde</span>
+      <p>La volonté des parties est la source de la légitimité. Si personne ne se plaint, il n'y
+      a pas de problème. Le rôle du droit se réduit à vérifier qu'il n'y a eu ni contrainte ni
+      dissimulation.</p></div>
+      <div class="b"><span class="lab">Le consentement conditionne</span>
+      <p>La volonté est requise, mais l'échange doit aussi porter sur un objet valide, être
+      exempt d'aléa majeur, et ne pas produire d'injustice. Certaines choses ne deviennent pas
+      justes parce qu'on les a acceptées.</p></div>
+    </div>
+
+    <p>Cette position n'est pas un archaïsme moral : elle est cohérente avec ce que nous savons
+    de la décision humaine. On consent sous pression, par fatigue, par ignorance, par honte de
+    dire non, dans un moment d'émotion. Un cadre qui fait du consentement le seul critère confie
+    toute la charge de la justice à la partie la plus faible, au moment où elle est la plus
+    faible. Le droit musulman, lui, protège aussi contre soi-même : c'est le sens du
+    <em>ghubn</em>, la lésion — un déséquilibre excessif dans l'échange reste problématique même
+    consenti.</p>
+
+    <p>Les conséquences pratiques sont immédiates, et elles sont inconfortables. Que ton client
+    ait signé ne clôt pas la question. Qu'il ait accepté le prix ne prouve pas qu'il était juste.
+    Qu'il ait dit oui à la fin d'un appel de vente de quatre-vingt-dix minutes ne dit rien de sa
+    liberté au moment où il l'a dit. <strong>Le contrat te protège juridiquement ; il ne te
+    dédouane pas.</strong></p>
+
+    <div class="obj"><span class="lab">L'objection</span>
+    <p>« Alors qui décide à la place des gens ? » — Personne, et surtout pas nous. Il ne s'agit
+    pas d'instaurer une tutelle sur des adultes. Il s'agit de reconnaître que le vendeur porte
+    une part de la responsabilité de l'échange, et qu'il ne peut pas la transférer entièrement à
+    l'acheteur en lui faisant signer quelque chose. C'est une exigence sur soi, pas un pouvoir
+    sur l'autre.</p></div>
+
+    <div class="chg"><span class="lab">Ce que ça change lundi</span>
+    <p>Prends ta dernière vente et pose-toi la question autrement : si ce client pouvait revenir
+    en arrière avec tout ce qu'il sait maintenant, est-ce qu'il rachèterait ? Si tu hésites,
+    quelque chose dans l'échange reposait sur son accord plus que sur sa justesse.</p></div>
+  </div>
+
+  <div class="axe">
+    <div class="hd"><span class="n">AXE 8</span></div>
+    <h3>Le client</h3>
+    <p class="q">Une cible, ou quelqu'un dont tu réponds ?</p>
+
+    <p>Ton client vient de vivre un déclic. Il est ému, il t'appelle pour te le dire. C'est,
+    statistiquement, le meilleur moment pour lui vendre le niveau supérieur. Tous les manuels le
+    disent, et ils ont raison sur les chiffres. Tu le fais ?</p>
+
+    <div class="duo">
+      <div class="a"><span class="lab">La cible</span>
+      <p>Le panier moyen, la valeur vie client, le taux de rétention. Le vocabulaire est explicite
+      et personne ne s'en offusque : on parle de tunnel, d'accroche, de capture.</p></div>
+      <div class="b"><span class="lab">Celui dont tu réponds</span>
+      <p>Le management prophétique est catégorique sur ce point : il pose le refus du
+      rapport de dépendance et d'asservissement du client. Et la vente s'y définit autrement — aider quelqu'un à prendre une décision utile
+      <em>pour lui</em>.</p></div>
+    </div>
+
+    <div class="key">Un accompagnement réussi rend autonome. Si ton modèle ne tient que parce que
+    ton client ne s'en sort jamais, ce n'est pas un modèle.</div>
+
+    <p>Le critère que donne la tradition est d'une simplicité qui désarme les argumentaires :
+    aime pour ton frère ce que tu aimes pour toi-même. Appliqué ici, il devient une question
+    très concrète — est-ce que tu voudrais qu'on te vende ceci, à ce moment-là, dans cet état ?
+    Si la réponse est non, le fait que ce soit rentable ne change rien.</p>
+
+    <p>Et le droit des transactions offre un vocabulaire précis pour nommer ce qu'on refuse, ce
+    qui évite les débats vagues sur l'éthique. Le <em>gharar</em> : l'aléa, la zone d'ombre, ce
+    que le client ne peut pas évaluer. Le <em>tadlis</em> : dissimuler le défaut. Le
+    <em>ghubn</em> : la lésion, le déséquilibre excessif. Trois mots, trois interdits, et
+    l'essentiel des pratiques discutables du marché tombe sous l'un des trois.</p>
+    <p>Symétriquement, il offre aussi un droit que presque personne n'utilise :
+    l'<em>iqala</em> — défaire une vente à l'amiable, à la demande de celui qui regrette. Et
+    l'accepter est tenu pour une vertu. Un entrepreneur qui inscrirait cela dans ses conditions
+    ferait mieux que se protéger : il signalerait qu'il n'a pas besoin de retenir ses clients
+    pour vivre.</p>
+
+    <div class="chg"><span class="lab">Ce que ça change lundi</span>
+    <p>Ajoute une porte de sortie explicite à ton offre, et dis-la à voix haute dans ton prochain
+    appel de vente. L'expérience de tous ceux qui l'ont fait est la même : elle vend davantage
+    qu'elle ne coûte.</p></div>
+  </div>
+
+  <div class="axe">
+    <div class="hd"><span class="n">AXE 9</span></div>
+    <h3>L'effet</h3>
+    <p class="q">Pas ce que tu vends. Ce que tu produis chez les gens.</p>
+
+    <p>Prenons un cas réel, et il n'a rien d'extrême. Un frère anime un direct tous les soirs. Il
+    parle d'islam, de baraka, de sens — le contenu est irréprochable. L'audience est meilleure
+    en fin de soirée, alors il pousse : minuit, une heure, deux heures du matin.</p>
+    <div class="key">Son contenu parle de baraka. Son dispositif enseigne à rater le fajr.</div>
+    <p>Il n'a rien fait d'interdit. Son intention est bonne. Et il installe, chez des milliers de
+    personnes, une habitude qui les abîme. Aucun filtre licite/illicite ne détecte cela, parce
+    qu'il n'y a rien à détecter dans l'acte — le problème est dans ce que l'acte produit.</p>
+
+    <p>Le management prophétique donne la formule qui nomme le mécanisme, et elle tient en cinq
+    mots : <strong>le vecteur de communication fait partie du message</strong>. Ton créneau est
+    ton message. Ton format est ton message. Ton modèle de prix est ton message. Le contenu dit
+    une chose, le dispositif en enseigne une autre — et c'est le dispositif qui gagne, parce
+    qu'il agit tous les jours, sans qu'on le remarque.</p>
+
+    <p>C'est l'axe qu'on croirait le plus fragile, celui qu'on hésite à défendre faute de
+    pouvoir l'appuyer. C'est en réalité le mieux armé du document : ce n'est pas une intuition
+    morale, c'est un chapitre entier des fondements du droit.</p>
+    <ul>
+      <li><strong>Pas de préjudice, ni de préjudice en retour</strong> <span class="tv">à valider</span> — <em>lā ḍarar wa lā
+      ḍirār</em>. L'une des maximes qui structurent tout le droit des transactions. Le
+      Dr Talal Lahlou la cite d'ailleurs parmi les piliers de l'économie islamique, ce qui la
+      confirme par une voie indépendante.</li>
+      <li><strong>La fermeture des moyens</strong> — <em>sadd adh-dhara'i'</em>. Un acte licite
+      devient problématique par ce à quoi il conduit régulièrement.</li>
+      <li><strong>Le berger</strong> <span class="tv">à valider</span> — « chacun de vous est un berger, et chacun est
+      responsable de son troupeau ». La <em>ri'āya</em> se comprend comme l'assistance jointe à
+      l'observation : on veille sur, et on regarde. Tu ne réponds pas seulement de ce que
+      tu vends ; tu réponds de ceux que tu conduis.</li>
+      <li><strong>Celui qui indique</strong> <span class="tv">à valider</span> — celui qui indique un bien en a la récompense ;
+      celui qui appelle à un égarement en porte la charge, et autant que ceux qui le suivent.
+      C'est l'ancrage le plus direct : ta responsabilité inclut le comportement que tu déclenches
+      chez autrui.</li>
+      <li>Et la maxime déjà vue, qui ferme le raisonnement : <em>les moyens prennent le statut
+      des fins</em>.</li>
+    </ul>
+    <p>Ajoutons-y la définition de la fonction humaine vue plus haut — préserver la balance et
+    réparer ce qui la dérègle. Une activité qui dérègle, quelle que soit sa conformité, manque sa
+    fonction. Et la formule du Dr Talal Lahlou suffit à résumer : <strong>le légal n'est pas
+    forcément éthique</strong>.</p>
+
+    <h4>Le test, en trois questions</h4>
+    <p>Le management prophétique propose ce qu'il appelle les trois leviers de perdition. C'est,
+    à mon sens, l'outil le plus utile de tout ce document, parce qu'il est court, qu'il se
+    retient, et qu'il ne demande aucune compétence religieuse pour être employé.</p>
+    <div class="key">Est-ce que ce que je fais crée, chez la personne en face : de la
+    <em>dépendance</em>, de l'<em>aveuglement</em>, ou de l'<em>excès</em> ?</div>
+    <p>Passons-y quelques cas ordinaires. Le direct jusqu'à deux heures du matin : tu entraînes
+    ton audience à rater la prière. Le contenu conçu pour retenir l'attention : tu vends de la
+    formation et tu fabriques des gens qui défilent. L'accompagnement dont on ne sort jamais :
+    dépendance, par construction. Le paiement en quatre fois : tu as placé ton client dans une
+    dette qu'il n'aurait pas contractée. La fausse urgence : tu as entraîné ton audience à ne
+    plus te croire. Le prix cassé pour prendre le marché : trois concurrents qui nourrissaient
+    des familles. Le contenu qui fait peur pour convertir : tu as ajouté de l'anxiété à un monde
+    qui n'en manquait pas.</p>
+
+    <div class="obj"><span class="lab">L'objection</span>
+    <p>« On ne peut pas être responsable de tout ce que les gens font. » — Exact, et ce n'est pas
+    ce qui est demandé. Il ne s'agit pas des usages imprévisibles, mais de ce que ton dispositif
+    rend <em>probable</em>, systématiquement, par construction. C'est la différence entre un
+    accident et un design.</p></div>
+
+    <div class="chg"><span class="lab">Ce que ça change lundi</span>
+    <p>Écris les trois comportements que ton activité installe chez tes clients. Pas ce que tu
+    leur vends : ce qu'ils font différemment à cause de toi. Puis passe chacun aux trois leviers.
+    C'est l'exercice le plus inconfortable de ce document, et le plus rentable.</p></div>
+  </div>
+
+  <div class="mvt"><div class="hd"><h3>Nous</h3><span>et la sortie</span></div></div>
+
+  <div class="axe">
+    <div class="hd"><span class="n">AXE 10</span></div>
+    <h3>Le collectif</h3>
+    <p class="q">Le self-made man, ou l'interdépendance ?</p>
+
+    <p>Deux questions pour ouvrir, et elles font souvent mal. Depuis combien de temps décides-tu
+    seul ? Qui t'a contredit pour la dernière fois ?</p>
+
+    <p>Le Dr Talal Lahlou est dur sur ce point, et il a les mots pour l'être : <strong>le
+    capitalisme atomise la société</strong>. Il en décrit le mécanisme — tous les liens sociaux
+    progressivement dissous pour que le seul lien restant soit celui avec l'institution ; le
+    passage des relations familiales aux relations contractuelles, qui a « disloqué toutes les
+    composantes ». Et il va plus loin encore sur le coaching du self-made man, où il voit une
+    forme de panthéisme : tu te fabriques toi-même, donc tu es ta propre cause.</p>
+
+    <div class="duo">
+      <div class="a"><span class="lab">Le self-made man</span>
+      <p>Le mérite individuel comme explication complète de la réussite. La réciproque, rarement
+      dite mais toujours impliquée : ceux qui n'ont pas réussi ne l'ont pas assez voulu.</p></div>
+      <div class="b"><span class="lab">L'interdépendance</span>
+      <p>Le Prophète ﷺ avait un associé. Il avait des compagnons. Et malgré la révélation, il
+      pratiquait la <em>choura</em> — il demandait l'avis des autres.</p></div>
+    </div>
+
+    <p>Le fondement textuel est plus fort qu'une exhortation à la solidarité, et il faut le lire
+    exactement <span class="tv">à valider</span> : Dieu a réparti Ses bienfaits à des degrés <em>inégaux</em>, afin que les uns
+    prennent les autres à leur service. Ce n'est ni « proportionné » ni « entraidez-vous ». C'est
+    plus radical : l'inégalité des dotations est décrite comme <strong>intentionnelle</strong>, et
+    sa fonction est de rendre les gens nécessaires les uns aux autres.</p>
+    <div class="key">L'interdépendance n'est pas un accident du système. C'est le design.</div>
+    <p>Et l'on comprend alors pourquoi le self-made man n'est pas seulement une erreur factuelle
+    — c'est une négation de la fonction même de l'inégalité des talents.</p>
+
+    <p>Reste le constat qui nous concerne directement, et il est sévère : nous avons des
+    compétences dans tous les domaines, et des réussites individuelles remarquables. Nous n'avons
+    pas encore de puissance collective. Ce n'est pas un problème de talent — c'est un problème
+    d'habitude, et les habitudes se prennent.</p>
+
+    <div class="chg"><span class="lab">Ce que ça change lundi</span>
+    <p>Une personne. Un rendez-vous fixé dans l'agenda. Quelqu'un qui a explicitement le droit de
+    te dire non. Le remède à la solitude n'est pas un état d'esprit — c'est une compagnie.</p></div>
+  </div>
+</section>
+
+<section>
+  <div class="lab">Partie V</div>
+  <h2 class="sec">Les outils modernes</h2>
+  <p>Tout ce qui précède serait inutile, et même nuisible, si cela devait conduire à rejeter les
+  techniques contemporaines. Ce n'est pas la conclusion. Cette partie donne la méthode pour les
+  prendre — et pour les régler avant de s'en servir.</p>
+
+  <h3>1. La méthode : comment on emprunte</h3>
+  <p>La question de l'emprunt à une autre civilisation n'est pas nouvelle, et elle a été tranchée
+  avec beaucoup plus de finesse qu'aujourd'hui. Le Dr Chauki Lazhar rapporte un contraste
+  éclairant entre deux savants ayant tous deux étudié la philosophie grecque.</p>
+  <p>Le premier y est entré sans cadre, en cherchant la vérité — et, selon l'expression, il « est
+  rentré dans le ventre des philosophes, il a voulu en sortir, il n'a pas réussi ». Al-Ghazali y
+  est entré avec un cadre déjà constitué : il a pris ce qui était utile, l'a détaché de sa
+  structure d'origine, et l'a réintégré dans la sienne. Même matière, deux issues opposées.</p>
+  <blockquote>
+    <p>« L'idée n'est pas de tout rejeter. On ne peut qu'emprunter. La question, c'est
+    comment. »</p>
+    <cite>Dr Chauki Lazhar</cite>
+  </blockquote>
+  <p>Malek Bennabi complète en nommant les deux dangers symétriques. Les <strong>idées
+  mortes</strong> : issues de notre propre patrimoine, mais sans validité dans le contexte
+  présent — on les garde par fidélité, elles ne fonctionnent plus. Et les <strong>idées
+  mortelles</strong> : venues d'une autre vision du monde, efficaces, séduisantes, et qui
+  dénaturent la nôtre de l'intérieur. Le conservatisme et l'imitation échouent pour des raisons
+  opposées.</p>
+  <p>La méthode qui en découle tient en deux passes, et elle s'applique à n'importe quel outil.
+  D'abord : <strong>de quel cadre vient-il ?</strong> Quelle idée de l'humain, de la valeur, de
+  la réussite porte-t-il dans ses réglages par défaut ? Ensuite : <strong>le test des trois
+  leviers</strong> — dépendance, aveuglement, excès.</p>
+
+  <h3>2. La vente</h3>
+  <p>Commençons par lever un malentendu qui paralyse beaucoup d'entrepreneurs scrupuleux : la
+  ligne de partage ne passe pas entre la pression et la douceur. Elle passe entre la vérité et
+  la tromperie.</p>
+  <p>Croire que « la valeur suffit, la pression jamais » est une posture confortable et fausse.
+  Si tu es convaincu que ton offre aide réellement la personne en face, ne rien faire pour
+  l'aider à franchir le pas, c'est la trahir par timidité. Convaincre fait partie du métier, et
+  c'est même un devoir quand les conditions sont réunies.</p>
+  <p>Deux questions suffisent à les vérifier, et il faut se les poser avant chaque mécanique :
+  <strong>est-ce que c'est vrai ?</strong> et <strong>est-ce que ça sert vraiment cette
+  personne-là ?</strong> Deux oui : tu peux pousser fort. Un seul non : on jette.</p>
+  <p>Et l'observation pratique qui rend la chose vivable — <strong>presque chaque mécanique
+  manipulatoire a un jumeau honnête</strong>, qui fonctionne aussi bien et souvent mieux dans la
+  durée. L'urgence réelle plutôt que le compte à rebours truqué. L'ancrage de valeur sincère
+  plutôt que le faux prix barré. La garantie qu'on peut tenir plutôt que le chantage à la rareté.
+  Ce qu'on jette, ce n'est pas l'efficacité : c'est le mensonge.</p>
+  <p>La liste de ce qu'on abandonne est courte et nette : la fausse rareté, le faux prix barré,
+  le concurrent inventé, la fausse file d'attente, la vente additionnelle placée au pic
+  émotionnel, la médisance du concurrent.</p>
+  <p>Et l'ancrage <span class="tv">à valider</span> dit exactement où se loge la bénédiction : le vendeur et l'acheteur
+  conservent le choix tant qu'ils ne se sont pas séparés ; s'ils sont véridiques et
+  transparents, leur transaction est bénie ; s'ils mentent et dissimulent, la bénédiction en est
+  effacée. La baraka est conditionnée à la <em>manière</em> de vendre, pas au montant vendu.</p>
+
+  <h3>3. Le marketing et la visibilité</h3>
+  <p>Le Dr Talal Lahlou nomme le problème sans détour : le <strong>marketing de l'émotion et des
+  passions</strong>. Le management prophétique ajoute la <strong>manipulation du désir
+  de consommation</strong>. Et il oppose à cela ce qu'il appelle un marketing qui apporte de la
+  valeur — ce qui suppose d'avoir quelque chose à apporter.</p>
+  <p>Quatre points méritent d'être traités séparément, parce qu'ils ne relèvent pas du même
+  mécanisme.</p>
+  <p><strong>Le personal branding.</strong> L'enseignement est frontal : la légitimité vient de
+  l'expertise, pas de la capacité à convaincre. Et il pointe le diktat de la quantité, avec des
+  algorithmes qui récompensent ce qu'ils savent mesurer et trahissent donc ce qu'ils ne savent
+  pas voir. S'y ajoute un effet mécanique rarement relevé : le personal
+  branding déplace l'individualisme, puisqu'il concentre la valeur sur une
+  personne plutôt que sur une œuvre.</p>
+  <p><strong>L'image.</strong> C'est le point qui surprend le plus, et c'est pour cela qu'il est
+  précieux. Le management prophétique travaille le principe du voile comme principe de communication : <em>ne
+  pas tout montrer pour se faire connaître</em>. Il oppose l'être au paraître, et cite l'art
+  islamique comme modèle — un art qui pousse à l'arrêt et à la lenteur, là où le marketing
+  contemporain pousse au défilement. Il y a là une esthétique cohérente avec un paradigme, et
+  elle reste à construire.</p>
+  <p><strong>La promesse.</strong> Une promesse peut être parfaitement vraie et pourtant
+  nuisible, lorsqu'elle vend à un débutant une méthode conçue pour un stade très supérieur. La
+  frontière n'est donc pas « est-ce vrai ? » mais « est-ce adapté au palier de cette
+  personne ? ». S'y ajoutent deux interdits nommés : le <em>tadlis</em> — cacher le négatif — et
+  le fait de s'auto-louer à l'excès.</p>
+  <p><strong>Le vecteur.</strong> C'est l'axe de l'effet appliqué au marketing : le format que
+  tu choisis enseigne quelque chose, indépendamment du contenu que tu y mets.</p>
+
+  <h3>4. L'intelligence artificielle</h3>
+  <p>Le principe général vaut ici plus qu'ailleurs : un outil donne de la vitesse, pas une
+  direction. Et un outil sans direction t'emmène simplement plus vite là où tu ne voulais pas
+  aller.</p>
+  <p>Trois effets méritent d'être nommés, et aucun n'est une question de licéité.</p>
+  <p><strong>Elle produit du générique.</strong> Or ce qui est générique devient gratuit. La
+  conséquence est contre-intuitive et plutôt bonne : la valeur se déplace vers ce que la machine
+  ne sait pas faire — ton point de vue, ton jugement, ton expérience située. L'IA augmente la
+  valeur de ce qu'elle ne peut pas produire.</p>
+  <p><strong>Elle déplace le jugement.</strong> Le risque n'est pas qu'elle écrive à ta place —
+  c'est qu'elle décide à ta place, et que tu ne saches plus pourquoi tu fais ce que tu fais.
+  C'est exactement le levier de l'aveuglement.</p>
+  <p><strong>Elle fabrique de la preuve.</strong> Témoignages, visages, cas d'usage, captures.
+  La frontière avec le <em>tadlis</em> est à un clic, et elle ne sera pas gardée par la
+  technique.</p>
+  <p>Reste l'usage où elle est imbattable, et c'est celui que nous pratiquons : la
+  <strong>clarté</strong>. Non pas produire à ta place, mais t'obliger à formuler — ce qui est
+  précisément le travail que la plupart des entrepreneurs évitent.</p>
+
+  <h3>5. Le modèle d'affaires</h3>
+  <p>Une phrase du management prophétique vaut tout ce chapitre, et elle devrait figurer dans tous les cours de
+  business plan :</p>
+  <div class="key">L'incohérence de vie vient du business model initial.</div>
+  <p>On ne répare pas par la discipline un modèle mal posé. Si ton modèle exige que tu sois
+  disponible la nuit, aucune routine matinale ne te sauvera. Si ta rentabilité suppose que tes
+  clients ne progressent pas, aucune bonne intention n'y changera rien. C'est au moment de la
+  conception que les arbitrages se jouent, et presque personne ne les traite à ce moment-là.</p>
+  <p>Quatre décisions structurent l'essentiel.</p>
+  <ul>
+    <li><strong>Le code de valeur précède le contrat.</strong> Les valeurs d'abord, la structure
+    ensuite — et jamais l'inverse, sous peine de passer sa vie à mettre des rustines.</li>
+    <li><strong>Le financement.</strong> Par la dette, ou par la prévente et la participation ?
+    L'axe 5 a montré que ce choix détermine si tu grandiras par décision ou par obligation.</li>
+    <li><strong>La rémunération.</strong> Tu vends tes heures, une mission, un résultat, ou une
+    part ? Chaque marche déplace le risque et l'incitation. Et tant que tu vends tes heures, plus
+    tu deviens bon, moins tu gagnes.</li>
+    <li><strong>Le <em>waqf</em>.</strong> Un capital immobilisé au profit durable d'une
+    collectivité. Presque personne n'y pense comme à un outil d'entrepreneur — c'en est un, et
+    c'est probablement l'instrument le plus sous-exploité de tout notre patrimoine économique.</li>
+  </ul>
+
+  <h3>6. Ce que le test ne règle pas</h3>
+  <p>Par honnêteté, il faut le dire : les trois leviers ne tranchent pas tout.</p>
+  <p>Ils ne disent rien des cas où l'effet est diffus et collectif plutôt qu'individuel — une
+  pratique inoffensive chez un acteur et destructrice si tout le marché l'adopte. Ils ne disent
+  rien des situations où le refus d'une pratique te met hors marché, et où ton retrait profite
+  simplement à moins scrupuleux que toi. Ils ne disent rien, enfin, des arbitrages entre deux
+  maux, qui sont le quotidien de tout dirigeant.</p>
+  <p>Ce sont des questions ouvertes, elles sont sérieuses, et elles relèvent de la partie
+  suivante.</p>
+</section>
+
+<section>
+  <div class="lab">Partie VI</div>
+  <h2 class="sec">Ce qui reste ouvert</h2>
+  <p>Un texte qui conclut sur une certitude est un argumentaire. Un texte qui conclut sur un
+  inventaire est un document de travail. Voici ce que nous ne savons pas, et sur quoi nous
+  cherchons.</p>
+
+  <h4>Sur le droit des transactions appliqué au numérique</h4>
+  <p>Le statut des modèles par abonnement, où l'objet du contrat se renouvelle indéfiniment. La
+  qualification des places de marché, où l'intermédiaire ne possède rien et engage pourtant sa
+  responsabilité. Le traitement des services dont la valeur dépend entièrement de l'usage qu'en
+  fait l'acheteur. Ce sont des questions de <em>fiqh</em>, elles sont travaillées, et elles
+  n'ont pas encore rejoint les praticiens.</p>
+
+  <h4>Sur le prix</h4>
+  <p>La question du prix juste est peut-être la plus difficile de toutes. Le Prophète ﷺ a refusé
+  de fixer les prix, ce qui interdit toute tentation de barème. Mais le <em>ghubn</em> — la
+  lésion — existe, donc tout prix consenti n'est pas légitime. Entre les deux, il y a un espace
+  que nous ne savons pas encore baliser pour un entrepreneur qui fixe son tarif un mardi matin.</p>
+
+  <h4>Sur l'intelligence artificielle</h4>
+  <p>La question de l'auteur, celle de la responsabilité d'une production que personne n'a
+  entièrement écrite, celle de la transparence due au client. Rien n'est stabilisé, et les
+  positions avancées aujourd'hui seront probablement révisées.</p>
+
+  <h4>Sur la frontière entre persuasion et mensonge</h4>
+  <p>Nous avons donné deux questions — est-ce vrai, est-ce que ça sert. Elles fonctionnent dans
+  la plupart des cas. Elles ne disent pas quoi faire lorsque c'est vrai, que ça sert, et que la
+  manière de le dire exploite tout de même une faiblesse connue de l'interlocuteur.</p>
+
+  <h4>Sur le financement d'une entreprise de taille moyenne</h4>
+  <p>Les alternatives à la dette existent et fonctionnent à petite échelle. Passé un certain
+  seuil, l'offre disponible est mince, et le discours sur la finance participative reste souvent
+  théorique. C'est un chantier collectif, pas individuel.</p>
+
+  <h4>Et la question que nous n'avons pas tranchée</h4>
+  <p>Que faire lorsqu'un marché entier repose sur une pratique qu'on refuse ? Se retirer, c'est
+  laisser le terrain. Rester, c'est participer. Réformer depuis l'intérieur suppose une taille
+  qu'on n'a pas encore. Nous n'avons pas de réponse satisfaisante, et nous nous méfions de ceux
+  qui en ont une immédiatement.</p>
+
+  <div class="key">Ce document ne clôt pas le sujet. Il donne la grille pour poser les bonnes
+  questions — et la liste de celles qui restent.</div>
+</section>
+
+<section>
+  <div class="lab">Pour finir</div>
+  <h2 class="sec">Trois choses à emporter</h2>
+  <ol>
+    <li><strong>Un paradigme, c'est ce avec quoi tu penses.</strong> Tu en as un. La seule
+    question utile n'est pas de savoir si tu en as attrapé un, mais lequel, et où il opère.</li>
+    <li><strong>Le halal, c'est le comment ; le paradigme, c'est le vers quoi.</strong> On peut
+    avoir un comment impeccable et un vers quoi qui ne nous appartient pas. Et la question juste
+    n'est pas « comment faire entrer mon business dans le halal », mais « comment marche-t-on
+    correctement sur ce chemin-là ».</li>
+    <li><strong>Dépendance, aveuglement, excès.</strong> Trois questions, sur ton activité et sur
+    chacun de tes outils. Elles ne règlent pas tout, et elles suffisent à commencer.</li>
+  </ol>
+</section>
+
+<section>
+  <div class="lab">Annexe</div>
+  <h2 class="sec">État des sources</h2>
+  <h3>Vérifiées</h3>
+  <p>Bukhari n°1, n°52, n°2059, n°2076, n°3642, n°6369, n°6439, n°6464 · Muslim n°102, n°1905 ·
+  Coran 2:201, 2:268, 62:10 · Tirmidhi n°2517 et n°1209.</p>
+
+  <h3>En attente de validation</h3>
+  <p>Les références marquées d'un triangle dans le texte : <em>lā ḍarar wa lā ḍirār</em> ·
+  le hadith du berger · celui qui indique une guidée ou un égarement · les trois interdictions
+  de concurrence (vendre sur la vente de son frère, <em>najsh</em>, interception des caravanes) ·
+  le hadith du vendeur et de l'acheteur · al-Shatibi sur les <em>hiyal</em> · la maxime
+  <em>al-wasā'il lahā aḥkām al-maqāṣid</em> · Ibn al-Qayyim sur le fondement des transactions ·
+  la lecture de Sofiane Meziani sur la formule de Delphes · Coran 2:275, 43:32, 54:49, 102:1 ·
+  le récit d'Ibn Awf rapporté par
+  Talha ibn Abd Allah ibn Awf.</p>
+
+  <h3>Règles de citation</h3>
+  <ul>
+    <li>L'attribution est obligatoire — Coran, le Prophète ﷺ, un compagnon, la sira. Les
+    confondre est l'erreur qui décrédibilise le plus vite.</li>
+    <li>Le degré d'authenticité ne se mentionne jamais : ce n'est pas notre métier, et le
+    mentionner donnerait à penser que nous l'avons établi.</li>
+    <li>On cite pour élever, jamais pour clore un débat. Sur le fond du droit, on renvoie à un
+    savant.</li>
+    <li>Les propos issus de sous-titres automatiques sont reformulés plutôt que cités mot à mot,
+    sauf réécoute directe du passage.</li>
+    <li>Le mot <em>maqasid</em> n'est jamais employé comme sceau de sérieux.</li>
+  </ul>
+</section>
+
+<footer>
+  Collectif Tariqa PRO · syllabus, version 0.2 · 20 septembre 2026<br>
+  Entreprendre. Ensemble. Vers Dieu.
+</footer>
+
+</div>
