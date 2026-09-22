@@ -203,6 +203,28 @@ def s_vs(d, notes):
     para(tfv, d.get("sep", "VS"), ARCH, 70, WHITE, bold=True, italic=True, first=True)
     return s
 
+def s_whatsapp(notes):
+    s = newslide("bg.png", notes)
+    s.shapes.add_picture("/tmp/claude-0/-home-user-ctp-plugin/5bde7487-de28-5f85-acc6-6f6c831c1436/scratchpad/qr/qr-whatsapp-panneau-blanc.png",
+                         px(M), px(230), px(620), px(620))
+    x = M + 620 + 76
+    w = W - M - x
+    _, tf = tb(s, x, 210, w, 150, align=PP_ALIGN.LEFT, anchor=MSO_ANCHOR.BOTTOM)
+    para(tf, "REJOIGNEZ LE GROUPE", ARCH, 58, WHITE, bold=True, italic=True, align=PP_ALIGN.LEFT, lh=1.1, first=True)
+    para(tf, "WHATSAPP DU LIVE", ARCH, 58, WHITE, bold=True, italic=True, align=PP_ALIGN.LEFT, lh=1.1)
+    rect(s, x, 392, 180, 4, GOLD)
+    _, tf2 = tb(s, x, 440, w, 420, align=PP_ALIGN.LEFT, anchor=MSO_ANCHOR.TOP)
+    para(tf2, "C'est là qu'on va :", POP, 32, GOLD, align=PP_ALIGN.LEFT, space=18, first=True)
+    for it in ("🎁 partager des cadeaux exclusifs",
+               "📚 envoyer les ressources mentionnées",
+               "🎯 vous aider à passer à l'action après le webinaire",
+               "🤝 garder le lien avec le Collectif"):
+        para(tf2, it, POP, 33, WHITE, align=PP_ALIGN.LEFT, lh=1.45, space=12)
+    para(tf2, "Le webinaire se termine… mais l'accompagnement continue là-bas.",
+         POP, 29, DIM, align=PP_ALIGN.LEFT, lh=1.45, space=0)
+    return s
+
+
 # ---------------------------------------------------------------- VS data
 VS = {
  31: dict(lt="Le filtre", li=["Il regarde un acte, un seul","Licite ? on garde. Illicite ? on jette",
@@ -256,6 +278,10 @@ for m in re.finditer(r"SLIDE (\d+) — \[([A-ZÉ]+)\]\n(.*?)(?=\nSLIDE \d+ — \
     lines = [l.rstrip() for l in body.strip("\n").split("\n") if l.strip()]
     if typ == "REPRISE":
         note = (note + "  ·  " if note else "") + "Slide déjà existante dans tes decks — tu peux reprendre la tienne."
+    if n in (5, 184):
+        s_whatsapp(note or "Scanner le QR à l'écran.")
+        count += 1
+        continue
     if n == 1:
         s_cover("Slide d'attente et d'ouverture. " + note)
     elif typ == "PARTIE":      s_partie(lines, note)
