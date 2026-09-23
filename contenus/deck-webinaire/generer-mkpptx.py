@@ -226,21 +226,24 @@ def s_whatsapp(notes):
 
 
 # ---------------------------------------------------------------- VS data
+def vskey(lines):
+    return re.split(r"\s{3,}", lines[0].strip())[0].strip().lower()
+
 VS = {
- 31: dict(lt="Le filtre", li=["Il regarde un acte, un seul","Licite ? on garde. Illicite ? on jette",
+ "le filtre": dict(lt="Le filtre", li=["Il regarde un acte, un seul","Licite ? on garde. Illicite ? on jette",
         "Nécessaire — rien ici ne vise à l'affaiblir","Mais il ne touche jamais au cadre"],
       rt="Le paradigme", ri=["Il produit les actes","Une logique génère des actes indéfiniment",
         "On en filtre un, puis dix, puis cent","La logique, elle, continue"], sep="VS"),
- 66: dict(lt="Orienté résultat", li=["Tu as gagné quand le virement est arrivé",
+ "orienté résultat": dict(lt="Orienté résultat", li=["Tu as gagné quand le virement est arrivé",
         "Le chemin est un coût qu'on minimise","Chaque vente incertaine devient une angoisse",
         "Un mois creux remet en cause ta valeur"],
       rt="Orienté commandement", ri=["Tu dis le défaut en premier","L'acheteur part ? Tu n'as pas raté ta vente —",
         "tu as réussi ton commandement","Fais les causes. Le résultat appartient à Dieu."], sep="VS"),
- 78: dict(lt="Logique de marge", li=["Extraire le maximum de chaque transaction",
+ "logique de marge": dict(lt="Logique de marge", li=["Extraire le maximum de chaque transaction",
         "Le dernier euro laissé sur la table est une perte","Un rapport de force dont on sort gagnant ou perdant"],
       rt="Logique de circulation", ri=["La bénédiction est dans l'échange, pas dans la marge",
         "Ce qui tourne est béni","On laisse volontairement — non par faiblesse, par principe"], sep="VS"),
- 124: dict(lt="Interdit depuis 14 siècles", li=["Vendre par-dessus la vente de son frère",
+ "ce qui est interdit depuis 14 siècles": dict(lt="Interdit depuis 14 siècles", li=["Vendre par-dessus la vente de son frère",
         "Le najsh : faire monter une enchère sans vouloir acheter",
         "Intercepter les caravanes avant le marché",
         "Profiter de ce que le vendeur ignore des prix"],
@@ -248,22 +251,52 @@ VS = {
         "Le concurrent imaginaire invoqué en négociation",
         "L'achat opportuniste à qui ignore la valeur de son bien",
         "La fausse file d'attente, « il ne reste qu'une place »"], sep="→"),
- 136: dict(lt="La cible", li=["Panier moyen, valeur vie client, taux de rétention",
+ "la cible": dict(lt="La cible", li=["Panier moyen, valeur vie client, taux de rétention",
         "Le vocabulaire est explicite : tunnel, accroche, capture",
         "Reed Hastings : « notre concurrent, c'est le sommeil »"],
       rt="Celui dont tu réponds", ri=["Refus du rapport de dépendance",
         "La vente = aider quelqu'un à décider utile pour lui",
         "Un accompagnement réussi rend autonome"], sep="VS"),
- 164: dict(lt="Le premier", li=["Entré dans la philosophie grecque sans cadre",
+ "le premier": dict(lt="Le premier", li=["Entré dans la philosophie grecque sans cadre",
         "« Il est rentré dans le ventre des philosophes,","il a voulu en sortir, il n'a pas réussi »"],
       rt="Al-Ghazâlî", ri=["Entré avec un cadre déjà constitué","Il a pris ce qui était utile",
         "Il l'a détaché de sa structure d'origine","Il l'a réintégré dans la sienne"], sep="VS"),
- 169: dict(lt="Ce qu'on jette", li=["Le compte à rebours truqué","Le faux prix barré","Le chantage à la rareté",
+ "ce qu'on jette": dict(lt="Ce qu'on jette", li=["Le compte à rebours truqué","Le faux prix barré","Le chantage à la rareté",
         "Le concurrent inventé","L'upsell au pic émotionnel"],
       rt="Ce qui le remplace", ri=["L'urgence réelle, dite comme elle est","L'ancrage de valeur sincère",
         "La garantie qu'on peut tenir","Ta preuve réelle, même plus petite",
         "Le même message, trois jours plus tard"], sep="VS"),
+ "où on va chercher": dict(lt="Où on va chercher", li=["Elon Musk","Alex Hormozi","Un podcast américain",
+        "Des méthodes qui ont dix ans"],
+      rt="Ce qu'on a chez nous", ri=["ʿAbd ar-Rahmān ibn ʿAwf","ʿUthmān ibn ʿAffān",
+        "Quatorze siècles de fiqh al-muʿāmalāt","Une bibliothèque qu'on n'a pas ouverte"], sep="→"),
+ "ce qu'on a enlevé": dict(lt="Ce qu'on a enlevé", li=["La loi d'attraction","Le vocabulaire ésotérique",
+        "La visualisation créatrice","On a ajouté bismillah en ouverture"],
+      rt="Ce qui n'a pas bougé", ri=["Tout est organisé autour d'un seul centre : toi",
+        "Tu es un projet inachevé","Ta responsabilité est de te perfectionner",
+        "Le sens se trouve à l'intérieur de toi"], sep="→"),
+ "l'expertise métier": dict(lt="L'expertise métier", li=["Elle est propre à ton métier",
+        "Le couscous, le béton, le code","C'est souvent ce que tu maîtrises le mieux",
+        "Elle ne suffit jamais à elle seule"],
+      rt="Les compétences transversales", ri=["Elles servent quel que soit le métier",
+        "Vendre, se faire connaître, décider","C'est presque toujours ce qui bloque",
+        "Elles ne dépendent d'aucun secteur"], sep="→"),
+ "éteindre son cerveau": dict(lt="Éteindre son cerveau", li=["Tu demandes quoi penser",
+        "Tu ne sais plus pourquoi tu fais ce que tu fais",
+        "Ton jugement se déplace dans la machine","C'est le levier de l'aveuglement"],
+      rt="Augmenter sa portée", ri=["Tu sais ce que tu veux dire",
+        "Elle te fait aller dix fois plus vite pour le dire",
+        "Ton jugement reste chez toi","C'est le levier de l'impact"], sep="→"),
 }
+
+def photo_of(lines):
+    t = lines[0].upper()
+    if "JAMAIS CHANGÉ" in t: return "cardone"
+    if "IL ÉTAIT D'ACCORD" in t: return "meeting"
+    return "bg"
+
+def is_whatsapp(lines):
+    return "whatsapp" in lines[0].lower()
 
 # ---------------------------------------------------------------- build
 import html as _h
@@ -278,7 +311,7 @@ for m in re.finditer(r"SLIDE (\d+) — \[([A-ZÉ]+)\]\n(.*?)(?=\nSLIDE \d+ — \
     lines = [l.rstrip() for l in body.strip("\n").split("\n") if l.strip()]
     if typ == "REPRISE":
         note = (note + "  ·  " if note else "") + "Slide déjà existante dans tes decks — tu peux reprendre la tienne."
-    if n in (5, 184):
+    if is_whatsapp(lines):
         s_whatsapp(note or "Scanner le QR à l'écran.")
         count += 1
         continue
@@ -289,7 +322,7 @@ for m in re.finditer(r"SLIDE (\d+) — \[([A-ZÉ]+)\]\n(.*?)(?=\nSLIDE \d+ — \
     elif typ == "PUNCHLINE":   s_punch(lines, note)
     elif typ == "CITATION":    s_citation(lines, note)
     elif typ == "LUNDI":       s_lundi(lines, note)
-    elif typ == "VS":          s_vs(VS[n], note)
+    elif typ == "VS":          s_vs(VS[vskey(lines)], note)
     elif typ in ("LISTE", "REPRISE"):
         (s_liste if len(lines) > 1 else s_titre)(lines, note)
     else:                      s_punch(lines, note)

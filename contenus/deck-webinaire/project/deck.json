@@ -191,7 +191,64 @@
     "s183",
     "s184",
     "s185",
-    "s186"
+    "s186",
+    "s187",
+    "s188",
+    "s189",
+    "s190",
+    "s191",
+    "s192",
+    "s193",
+    "s194",
+    "s195",
+    "s196",
+    "s197",
+    "s198",
+    "s199",
+    "s200",
+    "s201",
+    "s202",
+    "s203",
+    "s204",
+    "s205",
+    "s206",
+    "s207",
+    "s208",
+    "s209",
+    "s210",
+    "s211",
+    "s212",
+    "s213",
+    "s214",
+    "s215",
+    "s216",
+    "s217",
+    "s218",
+    "s219",
+    "s220",
+    "s221",
+    "s222",
+    "s223",
+    "s224",
+    "s225",
+    "s226",
+    "s227",
+    "s228",
+    "s229",
+    "s230",
+    "s231",
+    "s232",
+    "s233",
+    "s234",
+    "s235",
+    "s236",
+    "s237",
+    "s238",
+    "s239",
+    "s240",
+    "s241",
+    "s242",
+    "s243"
   ],
   "cover": "s001",
   "sections": {
@@ -205,31 +262,31 @@
     },
     "axe-1-la-finalit-18-min": {
       "description": "AXE 1 — LA FINALITÉ (18 min)",
-      "start": "s038"
+      "start": "s058"
     },
     "axe-2-la-mesure-18-min": {
       "description": "AXE 2 — LA MESURE (18 min)",
-      "start": "s056"
+      "start": "s084"
     },
     "axe-3-le-profit-et-le-risque-18-min": {
       "description": "AXE 3 — LE PROFIT ET LE RISQUE (18 min)",
-      "start": "s072"
+      "start": "s100"
     },
     "axe-4-la-croissance-et-la-dette-18-min": {
       "description": "AXE 4 — LA CROISSANCE ET LA DETTE (18 min)",
-      "start": "s090"
+      "start": "s118"
     },
     "axe-5-la-concurrence-18-min": {
       "description": "AXE 5 — LA CONCURRENCE (18 min)",
-      "start": "s110"
+      "start": "s138"
     },
     "axe-6-le-client-et-l-effet-18-min": {
       "description": "AXE 6 — LE CLIENT ET L'EFFET (18 min)",
-      "start": "s129"
+      "start": "s157"
     },
     "cl-ture-20-min": {
       "description": "CLÔTURE (20 min)",
-      "start": "s160"
+      "start": "s188"
     }
   },
   "faces": {
