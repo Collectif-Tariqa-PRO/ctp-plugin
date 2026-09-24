@@ -32,21 +32,29 @@ MISE EN PAGE — marges de 100 px sur les quatre bords. Titre de la slide en hau
 Archivo 900 italique capitales 40 px blanc, souligné d'un filet or de 150 x 4 px.
 Composition symétrique et aérée, jamais plus de deux niveaux de profondeur.
 
+FIL DE PROGRESSION — chaque carte porte, juste sous le titre, un bandeau horizontal de
+quatre pastilles reliées par un trait or continu, dans cet ordre immuable :
+PARADIGME · COMPÉTENCES · MÉTHODE · COLLECTIF
+· Pastille déjà acquise : contour or 2 px, fond transparent, texte blanc.
+· Pastille de la carte en cours : remplie or #E3A94F, texte noir, légèrement plus grande.
+· Pastille pas encore atteinte : contour gris #4A4A4A, texte gris #6E6E6E.
+Le bandeau fait toute la largeur utile, hauteur 56 px, et se trouve exactement au même
+endroit sur les cinq cartes. C'est lui qui rend la construction visible sans un mot.
+
 INTERDITS — pas d'icônes génériques, pas d'ombres portées, pas d'effets de lueur,
 pas de pictogrammes d'entreprise, pas de personnages, pas d'emoji dans les noeuds.
 Le contenu est du texte et des traits. Rien d'autre."""
 
 SLIDES = [
  dict(
-  n="01", titre="Les six axes",
+  n="01", titre="Le cap", brique="PARADIGME", fil=1,
   ou="À la fin de la partie 2, juste avant le résumé « Qu'est-ce que je change chez moi ».",
-  but="Donner d'un seul regard les six endroits où le paradigme se voit. C'est la slide que "
-      "les gens photographient. Elle doit être lisible en trois secondes et tenir sur un écran "
-      "de téléphone.",
-  forme="Hub central, trois branches à gauche, trois à droite. Le hub au centre exact. "
-        "Les six noeuds alignés sur deux colonnes verticales, à égale distance du hub. "
-        "Six traits droits partant des bords gauche et droit du hub.",
-  hub=("LES SIX AXES", "où le paradigme se voit dans ton agenda"),
+  but="Poser la première brique. Les six endroits où le paradigme se voit dans une semaine "
+      "de travail. C'est la carte que les gens photographient.",
+  forme="Bandeau de progression en haut, première pastille allumée. En dessous : hub central, "
+        "trois branches à gauche, trois à droite, à égale distance. Six traits droits partant "
+        "des bords gauche et droit du hub.",
+  hub=("LE PARADIGME", "six endroits où il se voit dans ton agenda"),
   branches=[
    ("1 · LA FINALITÉ", "C'est quoi le but du jeu ?"),
    ("2 · LA MESURE", "Qu'est-ce que tu comptes le lundi matin ?"),
@@ -55,22 +63,27 @@ SLIDES = [
    ("5 · LA CONCURRENCE", "Écraser, ou l'abondance ?"),
    ("6 · LE CLIENT ET L'EFFET", "« Il était d'accord » suffit-il ?"),
   ],
-  note="Ordre imposé, de haut en bas : 1, 2, 3 à gauche puis 4, 5, 6 à droite. "
-       "Le numéro en or, le nom de l'axe en noir, la question en gris sous le nom, en plus petit.",
+  pied="Tu as le cap. Ça ne suffit pas encore.",
+  note="Ordre imposé de haut en bas : 1, 2, 3 à gauche puis 4, 5, 6 à droite. Le numéro en or, "
+       "le nom de l'axe en noir, la question en gris sous le nom, en plus petit. "
+       "La phrase de pied de carte est en bas à droite, Poppins italique blanc 28 px.",
  ),
  dict(
-  n="02", titre="Les compétences transversales",
+  n="02", titre="Ce que tu as, ce qu'on ajoute", brique="COMPÉTENCES", fil=2,
   ou="En ouverture de la partie 3, juste après « Ce qui te manque n'est pas ce que tu crois ».",
-  but="Montrer que l'expertise métier est une impasse courte et que tout le chemin est de "
-      "l'autre côté. Le déséquilibre entre les deux branches EST le message.",
-  forme="Hub à gauche, à mi-hauteur. Deux branches vers la droite. La branche haute est "
-        "courte et se termine tout de suite : c'est l'impasse. La branche basse s'ouvre en "
-        "quatre feuilles alignées verticalement sur la droite. Le contraste de longueur "
-        "entre les deux branches doit sauter aux yeux.",
-  hub=("CE QUI TE MANQUE", None),
+  but="Deuxième brique. Montrer que l'expertise métier est un acquis réel — pas une erreur — "
+      "et que ce qui manque se pose PAR-DESSUS. La carte doit se lire comme un empilement, "
+      "pas comme une opposition.",
+  forme="Bandeau de progression, deuxième pastille allumée, la première en contour or. "
+        "En dessous, une construction en trois étages de bas en haut, comme un mur : "
+        "étage du bas = LE PARADIGME, large, en contour or, texte blanc, marqué « acquis ». "
+        "Étage du milieu = TON EXPERTISE MÉTIER, même largeur, contour blanc, marqué "
+        "« tu l'as déjà ». Étage du haut = quatre pavés côte à côte, remplis or, texte noir : "
+        "les quatre compétences. Aucun trait de liaison : les étages se touchent, c'est un mur.",
+  hub=("LES COMPÉTENCES TRANSVERSALES", "elles servent quel que soit ton métier"),
   branches=[
-   ("L'EXPERTISE MÉTIER", "Tu l'as déjà. Elle ne suffit jamais à elle seule."),
-   ("LES COMPÉTENCES TRANSVERSALES", "Elles servent quel que soit le métier"),
+   ("ÉTAGE 1 — LE PARADIGME", "acquis · le cap est posé"),
+   ("ÉTAGE 2 — TON EXPERTISE MÉTIER", "tu l'as déjà · le couscous, le béton, le code"),
   ],
   feuilles=[
    ("MARKETING DIGITAL", "être trouvé"),
@@ -78,20 +91,21 @@ SLIDES = [
    ("LE DÎN", "connaître les règles du jeu"),
    ("L'IA", "augmenter ta portée"),
   ],
-  note="La branche « expertise métier » est traitée en gris #CFCFCF, contour gris, pour "
-       "signaler qu'elle n'est pas le sujet. Les quatre feuilles sont en contour or, texte "
-       "blanc, et portent leur numéro de 1 à 4.",
+  pied="Le cap, ton métier, et les quatre compétences qui manquent.",
+  note="IMPORTANT : l'expertise métier n'est PAS présentée comme une impasse ni comme une "
+       "erreur. C'est un étage porteur, dessiné aussi large que les autres. Le message est "
+       "additif : on ne remplace rien, on empile. Les quatre pavés du haut sont les seuls "
+       "remplis en or, parce que ce sont eux la brique du jour.",
  ),
  dict(
-  n="03", titre="Les six piliers",
+  n="03", titre="L'ordre de travail", brique="MÉTHODE", fil=3,
   ou="Dans la partie 4, en ouverture de la méthodologie.",
-  but="Poser la méthode comme une progression ordonnée et non comme un catalogue. "
-      "Le pilier 1 doit visiblement porter les cinq autres.",
-  forme="Hub en haut au centre. En dessous, les six piliers en deux rangées de trois. "
-        "Le pilier 1 se distingue : il est le seul à porter trois feuilles sous lui. "
-        "Un trait descend du hub vers chaque pilier ; les traits du pilier 1 continuent "
-        "vers ses trois feuilles.",
-  hub=("MÉTHODOLOGIE TARIQA PRO", "six piliers, dans cet ordre"),
+  but="Troisième brique. Poser la méthode comme une progression ordonnée et non comme un "
+      "catalogue. Le pilier 1 doit visiblement porter les cinq autres.",
+  forme="Bandeau de progression, troisième pastille allumée, les deux premières en contour or. "
+        "Hub en haut au centre. En dessous, les six piliers en deux rangées de trois. "
+        "Le pilier 1 est le seul à porter trois feuilles sous lui.",
+  hub=("LA MÉTHODE", "six piliers, dans cet ordre"),
   branches=[
    ("ÉTAPE 1 · MINDSET", "le cap avant la technique"),
    ("ÉTAPE 2 · SALES", "savoir vendre ce qu'on fait"),
@@ -105,56 +119,20 @@ SLIDES = [
    ("LE RAPPORT À SOI", "al-mas'ûliyya · al-ihsân · al-ibtilâ' · jihâd an-nafs"),
    ("LE RAPPORT AUX AUTRES", "husn al-khuluq · al-waqt · al-mâl · al-jamâ'a"),
   ],
-  note="Les trois feuilles ne pendent QUE sous le pilier 1. C'est ce qui montre que le "
-       "mindset est le socle et non une étape parmi six.",
+  pied="Le cap, les compétences, et l'ordre dans lequel on les travaille.",
+  note="Les trois feuilles ne pendent QUE sous le pilier 1. C'est ce qui montre que le mindset "
+       "est le socle et non une étape parmi six. Faire un rappel discret, en gris, sous le hub : "
+       "« le pilier 1, c'est le paradigme de la partie 2 » — le lien entre les deux briques.",
  ),
  dict(
-  n="04", titre="Tout le webinaire sur une page",
-  ou="Juste avant « Ce que tu emportes », en clôture.",
-  but="La carte mère. Elle doit permettre à quelqu'un qui arrive à la fin de reconstituer "
-      "les deux heures. C'est la slide la plus dense du deck et c'est assumé.",
-  forme="Hub au centre exact. Quatre branches vers les quatre coins, à 45 degrés. "
-        "Chaque coin est un bloc rectangulaire portant un titre et ses éléments en liste "
-        "courte. Les quatre blocs ont exactement la même taille et la même distance au hub. "
-        "Symétrie parfaite : c'est ce qui rend une carte dense lisible.",
-  hub=("ENTREPRENDRE EN MUSULMAN", None),
-  quadrants=[
-   ("EN HAUT À GAUCHE — LE PARADIGME",
-    ["Invisible · global · hérité · résistant",
-     "Le filtre licite/illicite regarde les actes",
-     "Le paradigme, lui, les produit",
-     "Halal = ai-je le droit. Pas = que dois-je faire."]),
-   ("EN HAUT À DROITE — LES SIX AXES",
-    ["1. La finalité · 2. La mesure",
-     "3. Le profit et le risque",
-     "4. La croissance et la dette",
-     "5. La concurrence · 6. Le client et l'effet"]),
-   ("EN BAS À GAUCHE — LES TROIS LEVIERS",
-    ["Est-ce que ça crée de la DÉPENDANCE ?",
-     "Est-ce que ça crée de l'AVEUGLEMENT ?",
-     "Est-ce que ça crée de l'EXCÈS ?",
-     "Le test qui s'applique à n'importe quel outil"]),
-   ("EN BAS À DROITE — LA MÉTHODE",
-    ["Quatre compétences transversales",
-     "marketing digital · vente · dîn · IA",
-     "Six piliers, dans l'ordre",
-     "mindset · sales · product · marketing · ops · finance"]),
-  ],
-  note="Les quatre titres de bloc sont en or, les lignes en blanc. Aucun trait entre les "
-       "blocs eux-mêmes : seulement les quatre traits qui partent du hub. Toute liaison "
-       "supplémentaire rendrait la carte illisible.",
- ),
- dict(
-  n="05", titre="L'écosystème du Collectif",
+  n="04", titre="Avec qui", brique="COLLECTIF", fil=4,
   ou="Dans la partie 4, après les six piliers, avant « Book un call ».",
-  but="Montrer que le Collectif n'est pas une formation de plus mais un ensemble de "
-      "dispositifs qui se tiennent. La vision est au-dessus, pas à côté : c'est elle qui "
-      "commande le reste.",
-  forme="Hub au centre. Un noeud LA VISION placé seul au-dessus du hub, relié par un trait "
-        "plus épais (4 px) que les autres, pour marquer qu'il est d'un autre ordre. "
-        "Les cinq dispositifs répartis en éventail sous le hub, à égale distance, "
-        "reliés par des traits de 2,5 px.",
-  hub=("LE COLLECTIF TARIQA PRO", None),
+  but="Quatrième et dernière brique. Montrer que rien de ce qui précède ne se tient seul. "
+      "La vision est au-dessus, pas à côté : c'est elle qui commande les dispositifs.",
+  forme="Bandeau de progression, quatrième pastille allumée, les trois premières en contour or. "
+        "Hub au centre. Un noeud LA VISION seul au-dessus du hub, relié par un trait plus épais "
+        "(4 px). Les cinq dispositifs en éventail sous le hub, à égale distance, traits 2,5 px.",
+  hub=("LE COLLECTIF", "personne ne fait ça seul"),
   branches=[
    ("LA VISION", "une richesse qualitative, marquée par la bénédiction divine"),
    ("HALAQA", "1x par semaine — sens, spiritualité, alignement"),
@@ -163,9 +141,48 @@ SLIDES = [
    ("FORMATION", "dîn · marketing digital · sales · soft skills · leadership"),
    ("MASTERCLASS", "les temps forts, ouverts"),
   ],
-  note="LA VISION est le seul noeud au-dessus du hub, et le seul relié par un trait épais. "
-       "Les cinq autres sont strictement au même niveau entre eux : aucune hiérarchie "
-       "entre les dispositifs.",
+  pied="Dieu a réparti les dotations à des degrés inégaux — pour qu'on ait besoin les uns des autres.",
+  note="LA VISION est le seul noeud au-dessus du hub et le seul relié par un trait épais. "
+       "Les cinq dispositifs sont strictement au même niveau entre eux : aucune hiérarchie. "
+       "La phrase de pied fait écho au verset az-Zukhruf 43:32 vu dans la partie 2.",
+ ),
+ dict(
+  n="05", titre="La carte complète", brique="TOUT", fil=5,
+  ou="Juste avant « Ce que tu emportes », en clôture.",
+  but="La somme. Les quatre briques réunies sur une page. Elle doit permettre à quelqu'un qui "
+      "arrive à la fin de reconstituer les deux heures. C'est la carte la plus dense du deck, "
+      "et c'est assumé.",
+  forme="Bandeau de progression avec les QUATRE pastilles allumées en or. Hub au centre exact. "
+        "Quatre branches vers les quatre coins, à 45 degrés. Chaque coin est un bloc "
+        "rectangulaire de taille identique, à distance identique du hub. Symétrie parfaite : "
+        "c'est ce qui rend une carte dense lisible.",
+  hub=("ENTREPRENDRE EN MUSULMAN", None),
+  quadrants=[
+   ("EN HAUT À GAUCHE — LE PARADIGME",
+    ["Invisible · global · hérité · résistant",
+     "Le filtre regarde les actes. Le paradigme les produit.",
+     "Les six axes : finalité, mesure, profit et risque,",
+     "croissance et dette, concurrence, client et effet"]),
+   ("EN HAUT À DROITE — LES COMPÉTENCES",
+    ["Ton expertise métier, tu l'as déjà",
+     "On ajoute par-dessus :",
+     "marketing digital · vente · dîn · IA",
+     "chacune réorientée par le cap"]),
+   ("EN BAS À GAUCHE — LA MÉTHODE",
+    ["Six piliers, dans cet ordre",
+     "mindset · sales · product",
+     "marketing · operations · finance",
+     "Et le test : dépendance, aveuglement, excès"]),
+   ("EN BAS À DROITE — LE COLLECTIF",
+    ["Halaqa · coaching collectif",
+     "coaching individuel · formation · masterclass",
+     "Sous une vision : une richesse qualitative,",
+     "marquée par la bénédiction divine"]),
+  ],
+  pied="Le cap. Ton métier. Les compétences. La méthode. Et les autres.",
+  note="Les quatre titres de bloc sont en or, les lignes en blanc. AUCUN trait entre les blocs "
+       "eux-mêmes : seulement les quatre traits qui partent du hub. Toute liaison supplémentaire "
+       "rendrait la carte illisible.",
  ),
 ]
 
@@ -211,9 +228,10 @@ out = ['<title>Briefs mind maps</title>',
  '<style>%s\n.hero .tex{background-image:url(data:image/png;base64,%s)}</style>' % (CSS, BG),
  '<div class="hero"><div class="tex"></div><div class="in"><div class="wrap">',
  '<p class="eyebrow">Héritage &amp; Modernité · briefs de production</p>',
- '<h1>Cinq mind maps,<br>brief par brief</h1>',
- '<p class="lede">Un descriptif de style commun à coller une fois, puis un descriptif détaillé '
- 'par carte. Chaque bloc encadré se copie tel quel dans l\'outil de génération.</p>',
+ '<h1>Cinq cartes,<br>une brique à la fois</h1>',
+ '<p class="lede">Les cinq cartes ne sont pas cinq résumés : c\'est une seule construction qui '
+ 's\'élève. Chaque carte reprend ce qui précède et pose une brique de plus. Un descriptif de '
+ 'style commun à coller une fois, puis un descriptif détaillé par carte.</p>',
  '</div></div></div><div class="wrap">']
 
 out.append('<section><p class="num">00</p><h2>Le style commun</h2><div class="rule"></div>')
@@ -224,6 +242,8 @@ out.append('</section>')
 
 for s in SLIDES:
     out.append('<section><p class="num">%s</p><h2>%s</h2><div class="rule"></div>' % (s["n"], T(s["titre"])))
+    out.append('<h3>Brique</h3><p>%s &nbsp;·&nbsp; pastille %s sur 4 allumée</p>'
+               % (T(s["brique"]), s["fil"] if s["fil"] <= 4 else "les quatre"))
     out.append('<h3>Où elle va</h3><p>%s</p>' % T(s["ou"]))
     out.append('<h3>Ce qu\'elle doit faire</h3><p>%s</p>' % T(s["but"]))
     out.append('<h3>Structure</h3><p>%s</p>' % T(s["forme"]))
@@ -236,12 +256,15 @@ for s in SLIDES:
         out.append('<tr><td>↳ %s</td><td>%s</td></tr>' % (T(a), T(b)))
     for titre, items in s.get("quadrants", []):
         out.append('<tr><td>%s</td><td>%s</td></tr>' % (T(titre), T(" · ".join(items))))
+    out.append('<tr><td>PHRASE DE PIED DE CARTE</td><td>%s</td></tr>' % T(s["pied"]))
     out.append('</table>')
     out.append('<div class="note">%s</div>' % T(s["note"]))
 
     # prompt prêt à coller
     lines = ["Crée une mind map au format 16:9, 1920 x 1080 px.", "",
              "TITRE DE LA SLIDE (en haut à gauche) : " + s["titre"].upper(), "",
+             "FIL DE PROGRESSION : pastille « %s » allumée en or, les précédentes en contour or, "
+             "les suivantes en gris." % s["brique"], "",
              "INTENTION : " + s["but"], "",
              "STRUCTURE : " + s["forme"], "", "CONTENU :",
              "· Noeud central : " + h[0] + (" — " + h[1] if h[1] else "")]
@@ -253,7 +276,8 @@ for s in SLIDES:
         lines.append("· Bloc " + titre)
         for it in items:
             lines.append("    - " + it)
-    lines += ["", "CONTRAINTE PARTICULIÈRE : " + s["note"], "",
+    lines += ["", "PHRASE DE PIED DE CARTE (en bas à droite, italique blanc) : " + s["pied"],
+              "", "CONTRAINTE PARTICULIÈRE : " + s["note"], "",
               "Applique le style commun donné plus haut, sans aucune variation."]
     out.append('<h3>Prompt prêt à coller</h3>')
     out.append(pre("\n".join(lines)))
