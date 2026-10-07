@@ -3,6 +3,19 @@
 Le membre voit sa version via `lance le parcours CTP` (affichée en tête).
 Pour mettre à jour : voir `GUIDE-MEMBRE.md` §10.
 
+## 1.6.0
+
+- **Le Débug rejoint la boîte à outils** — nouveau skill `ctp-debug`. C'est le diagnostic
+  public du Collectif : une séance unique, onze questions ouvertes, puis un portrait rendu d'un
+  coup — où tu en es sur les six piliers, ce qui te bloque vraiment, et les vidéos qui te
+  concernent. Jusqu'ici il n'existait que sur une seule machine, donc la page
+  `hub.tariqa.pro/le-debug/utiliser` envoyait vers une installation qui échouait.
+  Il s'installe avec le reste (`/plugin install collectif-tariqa-pro@ctp`), sans commande à part.
+  ⚠️ C'est un outil de **bilan**, pas d'exécution : il se fait **une seule fois** et ne remplace
+  aucune étape du parcours. Il embarque sa propre copie de Coach Zaki, identique à celle du
+  plugin, plus `mode-public.md` (aucun renvoi Circle : la personne en face n'est pas forcément
+  membre).
+
 ## 1.5.0
 
 - **La reprise — on ne fait plus répéter le membre.** Nouveau premier geste dans le pilier

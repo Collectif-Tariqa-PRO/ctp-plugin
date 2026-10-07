@@ -21,6 +21,7 @@ Collectif.
 | **ctp-taste** | 🧩 Moteur de design anti-slop (inclus), utilisé par la page de vente. |
 | **ctp-compliant** | ✓ Audit : « est-ce Tariqa PRO compliant ? » |
 | **ctp-export** | 📤 Compile ton travail en un livrable vérifiable. |
+| **ctp-debug** | 🔎 Le Débug : un diagnostic en une séance (onze questions, puis ton portrait sur les six piliers). Un bilan, à faire une seule fois — pas une étape du parcours. |
 
 Chaque skill **t'interroge** une question à la fois, écrit un **document de
 référence** dans ton projet, et **s'enrichit** au fil du temps (il n'écrase jamais
