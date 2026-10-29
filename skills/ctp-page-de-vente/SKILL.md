@@ -1,6 +1,6 @@
 ---
 name: ctp-page-de-vente
-description: Étape finale du parcours Collectif Tariqa PRO (entrepreneurs hors e-commerce) — transforme tout le travail du parcours (persona, offre, marque/positionnement, voix, pitch) en une LANDING PAGE v1 mise EN LIGNE, pointable depuis les réseaux sociaux. Capte un CTA qualifié (calendrier / formulaire), les vraies images du membre (anti AI-slop), garde du grain à moudre pour le call de closing, et déploie la page sur Vercel. Use when the user asks "créer ma landing page", "ma page de vente", "mettre ma page en ligne", "déployer mon site", "ma page d'accueil", "une page pour mes réseaux", or wants to publish a one-page site from their CTP work.
+description: Étape finale du parcours Collectif Tariqa PRO (entrepreneurs hors e-commerce) — transforme tout le travail du parcours (persona, offre, marque/positionnement, voix, pitch) en une LANDING PAGE v1 mise EN LIGNE, pointable depuis les réseaux sociaux. Capte un CTA qualifié (calendrier / formulaire), les vraies images du membre (anti AI-slop), garde du grain à moudre pour le call de closing, et déploie la page sur Netlify (repli Cloudflare Pages). Use when the user asks "créer ma landing page", "ma page de vente", "mettre ma page en ligne", "déployer mon site", "ma page d'accueil", "une page pour mes réseaux", or wants to publish a one-page site from their CTP work.
 metadata:
   version: 1.3.0
   category: tariqa-pro
@@ -40,7 +40,8 @@ entrepreneur), ou tu fais du e-commerce (vente de produits physiques en boutique
 - **Skill de design `ctp-taste`** : inclus dans le plugin (aucune install). C'est lui qui
   garantit le rendu **anti AI-slop**. On l'utilise pour la direction visuelle.
 - **Prérequis côté membre (NON fournis par le plugin)** — les annoncer dès le départ :
-  1. Un **compte d'hébergement Vercel** (gratuit) → pour la mise en ligne. Guide : `references/deploiement.md`.
+  1. Un **compte d'hébergement Netlify** (gratuit, usage commercial autorisé) → pour la mise en ligne.
+     Repli gratuit : Cloudflare Pages. Guide : `references/deploiement.md`.
   2. Un **outil de CTA** : calendrier (Calendly / cal.com) et/ou formulaire (**Tally**, gratuit). Guide : `references/cta.md`.
   3. Ses **vraies images** (logo, portrait, photos de réalisations). **Jamais d'images AI génériques** (= slop).
 
@@ -75,9 +76,12 @@ ligne, pointable. On affine avec les vrais retours (visiteurs, calls). On avance
    « Collectif Tariqa PRO ».
 7. **Écrire les fichiers** dans `landing/` du projet : `index.html`, `style.css`,
    `images/`. Page **statique, autonome** (pas de framework, pas de build).
-8. **Mettre en ligne** (suivre `references/deploiement.md`) : déployer sur **Vercel**.
-   Si la CLI Vercel est dispo, Claude pilote (`vercel`/`vercel deploy`) ; sinon, guider le
-   membre pas-à-pas (compte → connexion → déploiement). Récupérer l'**URL en ligne**.
+8. **Mettre en ligne** (suivre `references/deploiement.md`) : déployer sur **Netlify**.
+   Si la CLI Netlify est dispo, Claude pilote (brouillon `netlify deploy --dir .`, puis
+   `netlify deploy --dir . --prod`) ; sinon, guider le membre sur Netlify Drop (glisser-déposer
+   le dossier `landing/`). Repli : Cloudflare Pages. Récupérer l'**URL en ligne** (`*.netlify.app`).
+   On n'utilise plus l'offre gratuite de Vercel : ses conditions la réservent à un usage
+   non commercial, et une page de vente est un usage commercial.
 9. **Livrer** : donner l'URL, inviter à la pointer depuis ses réseaux (bio Insta/TikTok,
    LinkedIn, WhatsApp). Optionnel : proposer de publier l'annonce dans le Collectif.
 

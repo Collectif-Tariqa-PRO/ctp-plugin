@@ -3,6 +3,37 @@
 Le membre voit sa version via `lance le parcours CTP` (affichée en tête).
 Pour mettre à jour : voir `GUIDE-MEMBRE.md` §10.
 
+## 1.6.1
+
+- **Ta page de vente part maintenant sur Netlify, plus sur Vercel.** On s'est trompé, et on
+  préfère te le dire clairement. L'offre gratuite de Vercel est réservée à un usage personnel
+  et non commercial. Ses conditions citent noir sur blanc le fait de présenter un produit ou
+  un service à vendre. Ta page de vente, c'est exactement ça. L'offre gratuite de Netlify,
+  elle, n'interdit pas l'usage commercial. `ctp-page-de-vente` déploie donc sur Netlify
+  (avec la CLI, ou par glisser-déposer sur Netlify Drop), avec Cloudflare Pages en repli
+  gratuit.
+  ⚠️ Netlify gratuit fonctionne avec un quota mensuel de crédits. Chaque mise en ligne en
+  production en consomme une part. Si le quota est épuisé, ta page est mise en pause jusqu'au
+  mois suivant. Donc on compresse les images et on regroupe ses corrections avant de remettre
+  en ligne.
+
+### Ta page est déjà en ligne sur Vercel ? Migre en 10 minutes
+
+1. **Crée ton compte** gratuit sur netlify.com (connexion Google, GitHub ou email).
+2. **Remets ta page en ligne sur Netlify.** Le plus simple : ouvre `app.netlify.com/drop` et
+   glisse-dépose ton dossier `landing/`. Tu peux aussi dire à Claude « mets ma landing en
+   ligne sur Netlify » : il suit le nouveau guide. Ton dossier `landing/` ne change pas.
+3. **Vérifie la nouvelle adresse** `*.netlify.app` sur ordinateur et sur mobile, et clique
+   sur ton bouton de rendez-vous pour t'assurer qu'il mène au bon endroit.
+4. **Remplace l'ancien lien partout** : bios Instagram et TikTok, LinkedIn, WhatsApp,
+   signature email, et tout QR code que tu aurais imprimé ou partagé.
+5. **Tu as un nom de domaine perso branché sur Vercel ?** Retire-le du projet Vercel,
+   ajoute-le dans ton projet Netlify (réglages du domaine), puis modifie les réglages DNS
+   chez ton registraire comme Netlify te l'indique. Compte un peu plus que 10 minutes
+   pour que le changement se propage.
+6. **Une fois les nouveaux liens en place, supprime ton projet Vercel.** Comme ça, il ne
+   reste plus de page de vente sur une offre qui ne l'autorise pas.
+
 ## 1.6.0
 
 - **Le Débug rejoint la boîte à outils** — nouveau skill `ctp-debug`. C'est le diagnostic

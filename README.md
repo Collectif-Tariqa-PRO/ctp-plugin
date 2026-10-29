@@ -17,7 +17,7 @@ Collectif.
 | **ctp-branding-positionnement** | 3. Ta marque : branding (identité, associations, histoire) + positionnement + différenciateur. MVB : suffisant pour démarrer. |
 | **ctp-brandkit** | 🎨 Génère tes planches visuelles + concepts logo à partir de ton kit de marque (inclus, aucune install séparée). |
 | **ctp-voix** | 4. Ta voix de marque + rédaction (copywriting). |
-| **ctp-page-de-vente** | 5. Ta landing page v1 **mise en ligne** (entrepreneurs hors e-commerce) : CTA qualifié, tes vraies images, déploiement Vercel. |
+| **ctp-page-de-vente** | 5. Ta landing page v1 **mise en ligne** (entrepreneurs hors e-commerce) : CTA qualifié, tes vraies images, déploiement Netlify (gratuit, usage commercial autorisé). |
 | **ctp-taste** | 🧩 Moteur de design anti-slop (inclus), utilisé par la page de vente. |
 | **ctp-compliant** | ✓ Audit : « est-ce Tariqa PRO compliant ? » |
 | **ctp-export** | 📤 Compile ton travail en un livrable vérifiable. |

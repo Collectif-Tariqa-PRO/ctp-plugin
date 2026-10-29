@@ -118,7 +118,7 @@ Tu peux faire une étape par jour, tranquillement. Pas de course.
 
 > 🌐 **L'étape 5 (page de vente)** est l'aboutissement : ta page part **en ligne**. Elle
 > est faite pour ceux qui vendent un **service / une expertise** (pas pour l'e-commerce).
-> Prévois un compte gratuit **Vercel** (mise en ligne) et un outil de rendez-vous/formulaire
+> Prévois un compte gratuit **Netlify** (mise en ligne) et un outil de rendez-vous/formulaire
 > (Calendly, Tally), plus tes **vraies photos**. Claude te guide pas à pas.
 
 > ✨ Astuce : à n'importe quel moment, retape `lance le parcours CTP` pour voir
